@@ -33,3 +33,4 @@ The girl in the red cape shared with me that by being in a certain way we attrac
 **In moments like these it seems insane not to redistribute the energy available to me in this very moment to vibrate in the highest frequency I can reach, attracting more magic into my life, so I can send ripples amplified by waves pouring out of open hearts of beings around me into all directions, inner, outer and beyond.**
 
 ![Touch of the Universe](/assets/touch-of-universe.jpg){:class="img-responsive"}
+*I took a scan of this beautiful streetart in Lisbon. If you happen to know the artist, please let me know.*
