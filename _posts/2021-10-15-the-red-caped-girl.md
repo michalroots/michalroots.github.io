@@ -2,7 +2,7 @@
 layout: post
 title: The Red Caped Girl
 description: The magic happens when I tune into myself. 
-image: assets/white.jpg
+image: assets/touch-of-universe.jpg
 tags: [letters]
 ---
 
