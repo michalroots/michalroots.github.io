@@ -28,4 +28,21 @@ I needed:
 
 ## Uploading Code to Github
 
-TBC
+That was easy, because I did this before, and Github has a <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages" target="_blank">good manual on how to do it.
+
+- I created a new repository called `<username>.github.io`
+- I cloned the empty repository from Github to my computer using <a href="https://desktop.github.com/" target="_blank">Github Desktop</a> 
+- I copied the contents of the website I have been editing on my computer to the github folder and pushed changes to Github.
+
+The website is now live at heymichal.github.io, but there are still a few things to do.
+	
+## Editing with Obsidian
+	
+Open the local folder with my github page as a vault in obsidian. That was super easy. I'm now editing this post in Obsidian, then commit changes and merge via Github desktop.
+	
+## Netlify
+	
+The next step is to fix tags not working at all on the site. I suppose it's because of some incompatibility between the template I started with and Github pages. I know that the template was using Netlify, so I guess I'll do the same and see what happens...
+	
+
+

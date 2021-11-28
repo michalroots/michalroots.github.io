@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "5f8879462775b6c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "25bcd94d3f5bd2e6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2021-11-27-obsidian-to-github.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a6355979029b44f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a757ba8c3893eee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a30b06ece20437c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "05a5cc5ade2307bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "18bf11b93a4daf84",
+    "type": "split",
+    "children": [
+      {
+        "id": "c41292a4332efe1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5eef51130db134b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2021-11-27-obsidian-to-github.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "25bcd94d3f5bd2e6",
+  "lastOpenFiles": [
+    "_posts/2021-11-27-obsidian-to-github.md",
+    "_pages/about.md"
+  ]
+}
