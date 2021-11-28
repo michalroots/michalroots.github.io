@@ -1,0 +1,113 @@
+[
+  
+    {
+
+      "title"    : "Publish from Obsidian to Github",
+      "url"      : "/obsidian-to-github",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2021-11-27 00:00:00 -0100",
+      "description" : "Creating a Jekyll website in Obsidian for frictionless publishing on Github"
+
+    } ,
+  
+    {
+
+      "title"    : "Gift",
+      "url"      : "/gift",
+      "category" : "",
+      "tags"     : "letters",
+      "date"     : "2021-11-27 00:00:00 -0100",
+      "description" : "Gifts always gravitate towards where they are needed most."
+
+    } ,
+  
+    {
+
+      "title"    : "21 Questions",
+      "url"      : "/21-questions",
+      "category" : "",
+      "tags"     : "games",
+      "date"     : "2021-11-27 00:00:00 -0100",
+      "description" : "21 Questions to replace FAQ on my website"
+
+    } ,
+  
+    {
+
+      "title"    : "Homemade Oat Milk",
+      "url"      : "/oat-milk",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-05-06 00:00:00 +0000",
+      "description" : "Delicious Oat Milk"
+
+    } ,
+  
+    {
+
+      "title"    : "Cayenne Brownie",
+      "url"      : "/cayenne-brownie",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-02-27 00:00:00 -0100",
+      "description" : "Delicious chocolate brownie with a spice."
+
+    } ,
+  
+    {
+
+      "title"    : "Fruit Ice Cream Cake",
+      "url"      : "/fruit-ice-cream-cake",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-02-20 00:00:00 -0100",
+      "description" : "Summery, fruity cake with a salty base."
+
+    } ,
+  
+    {
+
+      "title"    : "Mr Randy Cake",
+      "url"      : "/mr-randy-cake",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-02-14 00:00:00 -0100",
+      "description" : "Super easy cake using whatever random goodies you have."
+
+    } ,
+  
+    {
+
+      "title"    : "Coconut Cream Pie",
+      "url"      : "/coconut-cream-pie",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-02-10 00:00:00 -0100",
+      "description" : "Coconut extravaganza with a salty base. Yum."
+
+    } ,
+  
+    {
+
+      "title"    : "Green and Red Coffee Delight",
+      "url"      : "/green-and-red-coffee-delight",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-01-23 00:00:00 -0100",
+      "description" : "Combining kiwi, goji and coffee."
+
+    } ,
+  
+    {
+
+      "title"    : "Salty Chocolate Bar",
+      "url"      : "/salty-chocolate-bar",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2021-01-18 00:00:00 -0100",
+      "description" : "Luscious, rich and salty chocolate bar."
+
+    } 
+  
+]

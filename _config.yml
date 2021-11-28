@@ -1,0 +1,62 @@
+site: Michal Korzonek
+url: https://michalkorzonek.com
+title: Michał Korzonek
+description: Shine. Shine. Shine.
+twitter:
+  username: michalkorzonek
+  card: summary
+  creator: Michal Korzonek
+author:
+  twitter: michalkorzonek
+  name: Michal Korzonek
+  avatar:
+  email: #youremail
+  url: #yoururl
+permalink: pretty
+
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Michał Korzonek</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-11-28T00:09:05-01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Michal Korzonek</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Publish from Obsidian to Github</title>
+   <link href="http://localhost:4000/obsidian-to-github"/>
+   <updated>2021-11-27T00:00:00-01:00</updated>
+   <id>http://localhost:4000/obsidian-to-github</id>
+   <content type="html">&lt;p&gt;Objective:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create and edit a Jekyll website in Obsidian. Publish to Github without friction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(Disclaimer: I don’t know how to code)&lt;/p&gt;
+
+&lt;h2 id=&quot;installing-jekyll-on-macos-mojave&quot;&gt;Installing Jekyll on MacOS Mojave&lt;/h2&gt;
+&lt;p&gt;It was a pain in the ass, but it worked eventually.&lt;/p&gt;
+
+&lt;p&gt;I needed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macpaw.com/how-to/use-terminal-on-mac &quot; target=&quot;_blank&quot;&gt;Basic knowledge of Mac Terminal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read through the official &lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot; target=&quot;_blank&quot;&gt;installation guide from Jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;And another &lt;a href=&quot;https://www.awesomeinc.org/tutorials/jekyll-basics/&quot; target=&quot;_blank&quot;&gt;simpler guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Finally, spent a long time troubleshooting errors I couldn’t understand. Here’s &lt;a href=&quot;https://www.chadduffey.com/2021/03/Jekyll-Poop.html&quot; target=&quot;_blank&quot;&gt;the most succint solution&lt;/a&gt; that worked for me. Note: I had to run &lt;code&gt;bundle update&lt;/code&gt; &lt;em&gt;before&lt;/em&gt; and &lt;em&gt;after&lt;/em&gt; other commands. No idea why, but it works now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;to-preview-the-website-locally&quot;&gt;To preview the website locally:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;launch terminal and navigate to the folder with the site using  &lt;code&gt;cd ~/PATHTOFOLDER&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;serve jekyll with &lt;code&gt;Bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;open &lt;a href=&quot;http://localhost:4000&quot; target=&quot;_blank&quot;&gt;http://localhost:4000&lt;/a&gt; in your browser&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;uploading-code-to-github&quot;&gt;Uploading Code to Github&lt;/h2&gt;
+
+&lt;p&gt;TBC&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gift</title>
+   <link href="http://localhost:4000/gift"/>
+   <updated>2021-11-27T00:00:00-01:00</updated>
+   <id>http://localhost:4000/gift</id>
+   <content type="html">&lt;p&gt;27 November 2021 🌗&lt;/p&gt;
+&lt;h2 id=&quot;dear-santa&quot;&gt;Dear Santa,&lt;/h2&gt;
+
+&lt;p&gt;I am in a privilledged position of my monthly expenses being more or less covered by my online business, at least for now. After four years of entrepreneurial learning curve I finally managed to pay myself €600 for a few months in a row, which feels encouraging. It wasn’t always like that.&lt;/p&gt;
+
+&lt;p&gt;In the same time, it doesn’t really leave much space for investing in what my heart calls me to invest in: regenerating the land and taking part in experiences helping me to grow in that direction.&lt;/p&gt;
+
+&lt;p&gt;That’s why I’m writing this letter to ask you for a Gift.&lt;/p&gt;
+
+&lt;p&gt;As a minimalist on a constant journey to have less items and more space, I learned that offering a gift is a beautiful but challenging art. For example, for a long time my family kept giving me stuff, which while being given from the heart and therefore appreciated, was, generally speaking, useless for me and only created unnecessary clutter.&lt;/p&gt;
+
+&lt;p&gt;What I learned through this process is:&lt;/p&gt;
+
+&lt;p&gt;a) experiences generally make much better gifts for me.&lt;/p&gt;
+
+&lt;p&gt;b) it is my responsability to communicate clearly which gifts are the most aligned with what my heart points me towards right now, instead of expecting another person to know that intuitively.&lt;/p&gt;
+
+&lt;p&gt;This letter is an externalisation of these two lessons in a form of a public wishlist, supported by a firm belief that there is plenty of abundance of different sorts all around, and that within the Gift Economy (which we are indeed all a part of) the gifts gravitate towards the place where they are needed most.&lt;/p&gt;
+
+&lt;p&gt;I’m not saying that the items on my list are &lt;em&gt;universally speaking&lt;/em&gt; the biggest voids in the universe waiting to be filled. &lt;strong&gt;I already have all that I need.&lt;/strong&gt; However, it is possible that you are in a position to fill these voids for me, and thus make a real positive impact in my life, and, through ripple effect, the lives of others.&lt;/p&gt;
+
+&lt;p&gt;Whether that’s the case or not, I’m grateful for your presence, and I wish you wonderful Winter Holidays, whichever and whenever you choose to celebrate.&lt;/p&gt;
+
+&lt;p&gt;With Love and Gratitude,&lt;br /&gt;
+Michał.&lt;/p&gt;
+
+&lt;p&gt;ps. The List:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Permaculture Design Course&lt;/strong&gt;, residential in Portugal (ideally Azores) or online&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kernel.community/en/&quot; target=&quot;_blank&quot;&gt; Kernel Online Course&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Contact Improvisation / Exctatic Dance residential gathering in Portugal&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A sailboat&lt;/strong&gt;, to cross from Europe to Brazil in Nov/Dec 2022, as well as host experiences at sea, and finally ditch flying&lt;/li&gt;
+  &lt;li&gt;A functioning typewriter, to write letters&lt;/li&gt;
+  &lt;li&gt;A good quality, compact, and sturdy mechanical keyboard with bluetooth, to write digital letters&lt;/li&gt;
+  &lt;li&gt;A hardcover book about astrology with strong focus on charts and visuals. I want to study different types of maps and astrology is a map.&lt;/li&gt;
+  &lt;li&gt;A hardcover edition of &lt;em&gt;Tao Te Ching&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Solar panels&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>21 Questions</title>
+   <link href="http://localhost:4000/21-questions"/>
+   <updated>2021-11-27T00:00:00-01:00</updated>
+   <id>http://localhost:4000/21-questions</id>
+   <content type="html">&lt;p&gt;This is a simple game: Ask me a question.&lt;/p&gt;
+
+&lt;p&gt;I’ll pick 21 and publish them here with answers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Learning from the story of the Royal Research Ship &lt;em&gt;Boaty McBoatface&lt;/em&gt;, I reserve the right to not answer/publish your question.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Homemade Oat Milk</title>
+   <link href="http://localhost:4000/oat-milk"/>
+   <updated>2021-05-06T00:00:00+00:00</updated>
+   <id>http://localhost:4000/oat-milk</id>
+   <content type="html">&lt;p&gt;vegan, gluten-free, sugar-free&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you love vegan milks, why not make your own?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: Drink&lt;br /&gt;
+Tools: Blender, Sieve or filtering sock, funnel&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
+1c of oats, water, pinch of salt (optionally)&lt;/p&gt;
+
+&lt;h2 id=&quot;prep&quot;&gt;Prep&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Soak oats in 2 cups of water for 10m.&lt;/li&gt;
+  &lt;li&gt;Add 3 more cups of water and blend well.&lt;/li&gt;
+  &lt;li&gt;Filter through sieve or filtering sock.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Keep in a fridge for up to 5 days.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Cayenne Brownie</title>
+   <link href="http://localhost:4000/cayenne-brownie"/>
+   <updated>2021-02-27T00:00:00-01:00</updated>
+   <id>http://localhost:4000/cayenne-brownie</id>
+   <content type="html">&lt;p&gt;vegan, easy, gluten-free&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This is one of the simplests and most delicious cakes ever. Spicy, salty, lusciously chocolatish, and it takes 30m to make. What not to like?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: whole&lt;br /&gt;
+Tools: blender, oven, kettle/pan for boiling water, mixing bowl&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
+2c dates, hot water, 1/2c peanut butter, 1/3c cocoa, 1/2c chopped almonds, 2tbsp melted coconut oil, salt, cayenne pepper.&lt;/p&gt;
+
+&lt;h2 id=&quot;prep&quot;&gt;Prep&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preheat oven to 180°C&lt;/li&gt;
+  &lt;li&gt;Soak dates in hot water for 10m, then remove the water to separate dish. Squeeze the dates well, to remove excess water.&lt;/li&gt;
+  &lt;li&gt;Mix dates well. Then add 1/4c of daty-water and blend.&lt;/li&gt;
+  &lt;li&gt;Add coconut oil, peanut butter, cocoa, almonds, salt and cayenne pepper and blend well together. Food processor would be great, but you can do it with a blender and by hands.&lt;/li&gt;
+  &lt;li&gt;Bake at 180°C for 15m then cool for at least 20m before cutting.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Fruit Ice Cream Cake</title>
+   <link href="http://localhost:4000/fruit-ice-cream-cake"/>
+   <updated>2021-02-20T00:00:00-01:00</updated>
+   <id>http://localhost:4000/fruit-ice-cream-cake</id>
+   <content type="html">&lt;p&gt;vegan, no-bake, sugar-free, gluten-free&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Summery, fruity cake with a salty base.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: base + filling&lt;br /&gt;
+Tools: blender, freezer, mixing bowl&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
+Filling: 400ml thick coconut milk, 1-2c fruits of your choice (fresh or frozen), 2 bananas, optional 1/2c agave sirup
+Base: 1/2 cup cut almonds, 1/2 cup oats, 1 cup dates, salt&lt;/p&gt;
+
+&lt;h2 id=&quot;base&quot;&gt;Base&lt;/h2&gt;
+&lt;p&gt;Soak dates in hot water for 3 min. Cut in small pieces.
+Pulse almonds, oats and salt into flour-like texture. It doesn’t need to be smooth.
+Mix the “flour” with dates into dough. Place in the serving dish or cake pan.&lt;/p&gt;
+
+&lt;h2 id=&quot;filling&quot;&gt;Filling&lt;/h2&gt;
+&lt;p&gt;Cut fruits in small pieces (if needed). Place over the base.
+If using agave, mix it with coconut milk.
+Pour over the fruits.&lt;/p&gt;
+
+&lt;p&gt;Freeze for 3 hours. Place into the frige for 1-2 hours before serving.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mr Randy Cake</title>
+   <link href="http://localhost:4000/mr-randy-cake"/>
+   <updated>2021-02-14T00:00:00-01:00</updated>
+   <id>http://localhost:4000/mr-randy-cake</id>
+   <content type="html">&lt;p&gt;vegan, sugar-free, easy&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Super easy cake using whatever random goodies you have.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: whole &lt;br /&gt;
+Tools: oven &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
+1c flour, 3 bananas, 1tsp baking powder, 1tsp baking soda &lt;br /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;anything that you have around, for example: raisins, appricots, dates, figs, cocoa powder, coconut flakes, pears, apples, kiwis, oranges… Anything goes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prep&quot;&gt;Prep&lt;/h2&gt;
+&lt;p&gt;Mix everything in a bowl. Bake at 180°C for 30m.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Coconut Cream Pie</title>
+   <link href="http://localhost:4000/coconut-cream-pie"/>
+   <updated>2021-02-10T00:00:00-01:00</updated>
+   <id>http://localhost:4000/coconut-cream-pie</id>
+   <content type="html">&lt;p&gt;Vegan, sugar-free, gluten-free&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Delicious and rich coconut taste boosted with salty base.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: Base + Filling &lt;br /&gt;
+Tools: Oven, stove, pan, mixing bowl &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
+Base: 2c oats, 2c shreaded almonds, 1c melted coconut oil, salt
+Filling: 400ml light coconut milk, 1c coconut shreads, 1/4c-1/2c rice flour, salt, if you want it more sweet add 2tbsp agave sirup.&lt;/p&gt;
+
+&lt;h2 id=&quot;base&quot;&gt;Base&lt;/h2&gt;
+&lt;p&gt;Mix oats, almonds, coconut oil and salt (I like it salty). Bake for 15m at 180°C.&lt;/p&gt;
+
+&lt;h2 id=&quot;filling&quot;&gt;Filling&lt;/h2&gt;
+&lt;p&gt;Heat and mix coconut milk, rice flour, salt, coconut shreads, agave. Keep on low fire for 5m and keep mixing. Pour over the base, leave to cool. Place in the fridge for 2 hours.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Green and Red Coffee Delight</title>
+   <link href="http://localhost:4000/green-and-red-coffee-delight"/>
+   <updated>2021-01-23T00:00:00-01:00</updated>
+   <id>http://localhost:4000/green-and-red-coffee-delight</id>
+   <content type="html">&lt;p&gt;vegan, sugar-free&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Combining kiwi, goji berries and coffee, into a sweet frozen dessert with a delightful hint of acidity.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: Layers &lt;br /&gt;
+Tools: Blender, Freezer &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
+Rice cakes (1 pack), coffee (2 cups), almond extract (1 tsp), bananas (3), agave sirup (1 tbsp), fat coconut milk (400ml), kiwis (4), goji berries (1/4 cup)&lt;/p&gt;
+
+&lt;h2 id=&quot;base-layer&quot;&gt;Base Layer&lt;/h2&gt;
+&lt;p&gt;Soak rice cakes in coffee mixed with almond extract, and place in serving dish.&lt;/p&gt;
+
+&lt;h2 id=&quot;banana-layer&quot;&gt;Banana Layer&lt;/h2&gt;
+&lt;p&gt;Cut bananas into thin slices, and place over the base layer. Top up with agave.&lt;/p&gt;
+
+&lt;h2 id=&quot;kiwi-coconut-layer&quot;&gt;Kiwi Coconut Layer&lt;/h2&gt;
+&lt;p&gt;Blend coconut milk with kiwis. Pour over the banana layer.&lt;/p&gt;
+
+&lt;h2 id=&quot;goji&quot;&gt;Goji&lt;/h2&gt;
+&lt;p&gt;Place gojis on top, to make the dessert look gorgeous and place in the freezer for 2 hours.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Salty Chocolate Bar</title>
+   <link href="http://localhost:4000/salty-chocolate-bar"/>
+   <updated>2021-01-18T00:00:00-01:00</updated>
+   <id>http://localhost:4000/salty-chocolate-bar</id>
+   <content type="html">&lt;p&gt;easy, vegan, sugar-free, gluten-free&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The richness of cocoa accented with salt creates a deep, luscious taste that will satisfy any chocolate lover.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Type: Base + Filling + (optional) Topping &lt;br /&gt;
+Tools: Oven, Freezer &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt; oat flour (1 cup), coconut oil (1/2 cup), dates (1/2 cup), banana (1), salt, fat coconut milk (300g), cooking chocolate 85% cocoa (200g), agave sirup (1/4 cup), chia seeds (1/2 cup).&lt;/p&gt;
+
+&lt;h2 id=&quot;base&quot;&gt;Base:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 cup oat flour&lt;/li&gt;
+  &lt;li&gt;1/2 cup melted coconut oil&lt;/li&gt;
+  &lt;li&gt;1/2 cup crushed dates&lt;/li&gt;
+  &lt;li&gt;1 banana&lt;/li&gt;
+  &lt;li&gt;salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mix well and bake for 10-20 min on 180oC.&lt;/p&gt;
+
+&lt;h2 id=&quot;filling&quot;&gt;Filling:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;300g fat coconut milk&lt;/li&gt;
+  &lt;li&gt;200g cooking chocolate 85% cocoa&lt;/li&gt;
+  &lt;li&gt;1/4 cup agave sirup&lt;/li&gt;
+  &lt;li&gt;1/2 cup chia seeds&lt;/li&gt;
+  &lt;li&gt;salt&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Melt chocolate and mix well with other ingridients. Pour over the base, add topping if desired. Leave to cool.  Place in freezer for 2 hours.&lt;/p&gt;
+
+&lt;h2 id=&quot;topping&quot;&gt;Topping:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1 apple thinly sliced&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
