@@ -56,4 +56,18 @@ I now have a funky netlify url: `https://sleepy-mahavira-46dee4.netlify.app/` wh
 	
 I also tested the speed of publishing and it works instantly. I edit in Obsidian, push with Github Desktop and it's live.
 	
+The only trouble is that images don't seem to be showing at all in previews on social media (I'm using <a href="https://socialsharepreview.com/" target="_blank">this tool</a> and <a href="https://cards-dev.twitter.com/validator" target="_blank">twitter card validator</a> to test). I checked the <a href="https://milanaryal.com.np/integrating-social-meta-tags-into-jekyll/" target="_blank">YAML frontmatter</a> and it all seems fine to my eye:
+	
+layout: post
+title: The Red Caped Girl
+description: The magic happens when I tune into myself. 
+image: /assets/touch-of-universe.jpg
+tags: [letters]
+
+and yet, I keep getting this error: 
+	
+`og:image can't be found at the defined URL`
+	
+I'll troubleshoot it later.
+	
 ## Setting up custom domain

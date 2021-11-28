@@ -19,7 +19,7 @@ The process might be messy and it's a **continuous work in progress**.
 First things first.
 
 ## Tech Stack
-I'm wrtiing this post in <a href="https://obsidian.md/" target="_blank">**Obsidian**</a>, which is the core app in my digital ecosystem.
+I'm writing this post in <a href="https://obsidian.md/" target="_blank">**Obsidian**</a>, which is the core app in my digital ecosystem.
 
 **My current learning goal is to setup this website so I can edit it directly in Obsidian and publish with as little friction as possible.** Here's [my progress](/obsidian-to-github).
 

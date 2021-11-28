@@ -20,7 +20,7 @@ The life, a curious mistress, teaches me that I both can and can't have what I w
 
 To elaborate:
 
-In one moment I connect to the infinite cosmic reality, the "Big We", as my friend calls it, and manifest any reality I choose, provided I'm specific enough to verbalize it and put it out there into the Universe, ideally out loud while facing one of the raw elements in the time when celestial bodies align. But to be fair, any space can become sacred if only treated with appropriate reverence.
+In one moment I connect to the infinite cosmic reality, the "Big We", as my friend calls it, and manifest any reality I choose, provided I'm specific enough to verbalize it and put it out there into the Universe, ideally out loud while facing one of the raw elements in the time when specific celestial bodies align. But to be fair, any space can become sacred if only treated with appropriate reverence.
 
 The flow is a blessed state to be in for sure, and yet, it tends to end abrubtly without notice, leaving me confused, disconnected, and lonely. Still waiting for the magical girl to appear, caress my back without warning, look deeply at me, and deliberately kiss my neck slowly to see what happens.
 
