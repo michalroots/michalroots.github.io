@@ -2,7 +2,7 @@
 layout: post
 title: The Red Caped Girl
 description: The magic happens when I tune into myself. 
-image: /assets/touch-of-universe.jpg
+image: /assets/white.jpg
 tags: [letters]
 ---
 
@@ -31,6 +31,3 @@ Whether it is or not, it doesn't matter.
 The girl in the red cape shared with me that by being in a certain way we attract other people vibrating in a similar frequency. I guess all beings do. Like it or not, we're all made of empty space, and particles which vibrate in a symphony naturally gravitating towards harmonious co-existence.
 
 **In moments like these it seems insane not to redistribute the energy available to me in this very moment to vibrate in the highest frequency I can reach, attracting more magic into my life, so I can send ripples amplified by waves pouring out of open hearts of beings around me into all directions, inner, outer and beyond.**
-
-![Touch of the Universe](/assets/touch-of-universe.jpg){:class="img-responsive"}
-*I took a scan of this beautiful streetart in Lisbon. If you happen to know the artist, please let me know.*

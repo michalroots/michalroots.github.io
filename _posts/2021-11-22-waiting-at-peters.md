@@ -6,10 +6,10 @@ image:
 tags: [letters]
 ---
 
-Peter's Cafe, Port of Horta
+Peter's Cafe, Port of Horta<br>
 22 November 2021
 
-I'm sitting in the iconic sailing bar in the island of Faiall before taking a ferry across to Pico. I filled my body with a way-too-sweet-but-still-delicious chocolate cake and begun writing this letter. It wasn't clear to me to whom it is directed to, so let's say that it is for you – to receive in this very moment. Thank you for holding the space for me. I appreciate it.
+I'm sitting in the iconic sailing bar in the island of Faial before taking a ferry across to Pico. I filled my body with a way-too-sweet-but-still-delicious chocolate cake and begun writing this letter. It wasn't clear to me to whom it is directed to, so let's say that it is for you – to receive in this very moment. Thank you for holding the space for me. I appreciate it.
 
 I just came back from the Mainland yesterday, but the backpack containing all my gear didn't. 
 
@@ -31,7 +31,7 @@ I have two hours until the ferry. It's time to engage in a few errands and then 
 
 No Fear. Dream Big. Manifest. Shine.
 
-With Love and Light,
+With Love and Light,<br>
 Michał
 
 
