@@ -54,4 +54,6 @@ Super easy and works like a charm.
 	
 I now have a funky netlify url: `https://sleepy-mahavira-46dee4.netlify.app/` which I can change into a custom domain with SSL, which is the obvious next step.
 	
-
+I also tested the speed of publishing and it works instantly. I edit in Obsidian, push with Github Desktop and it's live.
+	
+## Setting up custom domain
