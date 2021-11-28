@@ -40,9 +40,18 @@ The website is now live at heymichal.github.io, but there are still a few things
 	
 Open the local folder with my github page as a vault in obsidian. That was super easy. I'm now editing this post in Obsidian, then commit changes and merge via Github desktop.
 	
-## Netlify
-	
-The next step is to fix tags not working at all on the site. I suppose it's because of some incompatibility between the template I started with and Github pages. I know that the template was using Netlify, so I guess I'll do the same and see what happens...
-	
+Note that it takes some time for the changes to appear on the live site.
 
+## Setting up Netlify
+	
+The next step is to fix tags not working at all on the site. I suppose it's because of some incompatibility between the template I started with and Github pages. I know that the template was using <a href="https://netlify.app" target="_blank">Netlify</a> to deploy the site, so I guess I'll do the same.
+
+Super easy and works like a charm.
+	
+- I added a new site from git
+- pointed to my repository with the site on git
+- deployed
+	
+I now have a funky netlify url: `https://sleepy-mahavira-46dee4.netlify.app/` which I can change into a custom domain with SSL, which is the obvious next step.
+	
 
