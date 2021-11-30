@@ -72,7 +72,7 @@ I'll troubleshoot it later.
 	
 ## Setting up custom domain
 	
-This was quite straightforward, even if the [manual](https://docs.netlify.com/domains-https/custom-domains/@blank) from Netlify was a bit overwhelming.
+This was quite straightforward, even if the [manual](https://docs.netlify.com/domains-https/custom-domains@blank) from Netlify was a bit overwhelming.
 
 Set up custom domain, when you get the new DNS configuration login to your domain registrar and setup the new DNS configuration, and then wait for some time for the website to show up at the new address. It took around 2 hours in my case, and the site is now operational!
 	
