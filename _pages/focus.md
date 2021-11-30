@@ -6,10 +6,12 @@ excerpt: About Michał
 
 <b>No Fear. Dream Big. Manifest. Shine.</b>
 
+(And document the process.)
+
 ✨
 
-1) Co-creating a network of <a href="https://pico.microsolidarity.cc" target="_blank">Regenerative Projects in the Azores</a>, powered by <a href="https://microsolidarity.cc" target="_blank">Microsolidarity</a>.<br>
-2) Developing <a href="https://infinitysquares.xyz" target="_blank">journaling practices</a> to serve as a daily grounding ritual. <br>
+1) Co-creating <a href="https://pico.microsolidarity.cc" target="_blank">Azores Regenerative Network</a>, powered by <a href="https://microsolidarity.cc" target="_blank">Microsolidarity</a>.<br>
+2) Developing <a href="https://infinitysquares.xyz" target="_blank">journaling practices</a> to serve as a daily ritual for grounding and re-alignment. <br>
 3) Writing heartfelt [letters](letters). <br>
 4) Walking.
 
