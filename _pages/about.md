@@ -20,7 +20,7 @@ I like maps, writing **letters** and building structures from wood.
 
 This website is my digital **playground**.
 
-![Michal Avatar](/assets/michal-waves.jpg){:class="img-responsive"}<br>
+![Michal Waves](/assets/michal-waves.jpg){:class="img-responsive"}<br>
 *Photo by my father.*
 
 ## Contact
@@ -42,4 +42,4 @@ Love and Light,<br>
 Michał (*Me-How*)
 
 <hr>
-[Site info](/site-info). License: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA</a>. This website doesn't track you.
+[Site info](/site-info)

@@ -6,7 +6,7 @@ excerpt: About Michał
 
 <b>No Fear. Dream Big. Manifest. Shine.</b>
 
-(And document the process.)
+Document the process.
 
 ✨
 
