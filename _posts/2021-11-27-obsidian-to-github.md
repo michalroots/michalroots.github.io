@@ -77,3 +77,9 @@ This was quite straightforward, even if the [manual](https://docs.netlify.com/do
 Set up custom domain, when you get the new DNS configuration login to your domain registrar and setup the new DNS configuration, and then wait for some time for the website to show up at the new address. It took around 2 hours in my case, and the site is now operational!
 	
 🎉
+	
+## Optimising Obsidian <> Github Flow
+	
+For now I've been using a separate obsidian vault for my website, but actually, why not keep it all together?
+	
+I've created a new folder ```/web``` in my main obsidian vault and I moved the folder with website files ```heymichal.github.io``` inside.
