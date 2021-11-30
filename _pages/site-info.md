@@ -32,9 +32,8 @@ I'm using a **Macbook Pro mid 2012**. This is the last computer from Apple that 
 I'm running **MacOS Mojave**. I'd like to eventually move back to Linux, but two times I tried to make it work (once with Ubuntu and once with ElementaryOS) I failed miserably. Third times the charm?
 
 ## The Future
-- At the moment this website exists locally on my computer. First step is to get it on Github.
-- Edit in Obsidian and publish without friction
+- Edit in Obsidian and publish without friction ([in progress](/obsidian-to-github))
 - Bidirectional links on the site
+- Fix bugs
 
 Let's make it happen.
-
