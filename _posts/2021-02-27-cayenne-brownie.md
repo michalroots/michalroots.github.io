@@ -7,7 +7,7 @@ tags: [nomz]
 ---
 vegan, easy, gluten-free
 
-**This is one of the simplests and most delicious cakes ever. Spicy, salty, lusciously chocolatish, and it takes 30m to make. What not to like?**
+**This is one of the simplest and most delicious cakes ever. Spicy, salty, lusciously chocolatish, and it takes 30m to make. What not to like?**
 
 Type: whole<br>
 Tools: blender, oven, kettle/pan for boiling water, mixing bowl<br>

@@ -4,7 +4,7 @@
  <title>Michał Korzonek</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-11-28T00:09:05-01:00</updated>
+ <updated>2021-11-30T15:50:44-01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michal Korzonek</name>
@@ -43,7 +43,53 @@
 
 &lt;h2 id=&quot;uploading-code-to-github&quot;&gt;Uploading Code to Github&lt;/h2&gt;
 
-&lt;p&gt;TBC&lt;/p&gt;
+&lt;p&gt;That was easy, because I did this before, and Github has a &lt;a href=&quot;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&quot; target=&quot;_blank&quot;&gt;good manual on how to do it.&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I created a new repository called &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;I cloned the empty repository from Github to my computer using &lt;a href=&quot;https://desktop.github.com/&quot; target=&quot;_blank&quot;&gt;Github Desktop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I copied the contents of the website I have been editing on my computer to the github folder and pushed changes to Github.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The website is now live at heymichal.github.io, but there are still a few things to do.&lt;/p&gt;
+
+&lt;h2 id=&quot;editing-with-obsidian&quot;&gt;Editing with Obsidian&lt;/h2&gt;
+
+&lt;p&gt;Open the local folder with my github page as a vault in obsidian. That was super easy. I’m now editing this post in Obsidian, then commit changes and merge via Github desktop.&lt;/p&gt;
+
+&lt;p&gt;Note that it takes some time for the changes to appear on the live site.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-netlify&quot;&gt;Setting up Netlify&lt;/h2&gt;
+
+&lt;p&gt;The next step is to fix tags not working at all on the site. I suppose it’s because of some incompatibility between the template I started with and Github pages. I know that the template was using &lt;a href=&quot;https://netlify.app&quot; target=&quot;_blank&quot;&gt;Netlify&lt;/a&gt; to deploy the site, so I guess I’ll do the same.&lt;/p&gt;
+
+&lt;p&gt;Super easy and works like a charm.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I added a new site from git&lt;/li&gt;
+  &lt;li&gt;pointed to my repository with the site on git&lt;/li&gt;
+  &lt;li&gt;deployed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I now have a funky netlify url: &lt;code&gt;https://sleepy-mahavira-46dee4.netlify.app/&lt;/code&gt; which I can change into a custom domain with SSL, which is the obvious next step.&lt;/p&gt;
+
+&lt;p&gt;I also tested the speed of publishing and it works instantly. I edit in Obsidian, push with Github Desktop and it’s live.&lt;/p&gt;
+
+&lt;p&gt;The only trouble is that images don’t seem to be showing at all in previews on social media (I’m using &lt;a href=&quot;https://socialsharepreview.com/&quot; target=&quot;_blank&quot;&gt;this tool&lt;/a&gt; and &lt;a href=&quot;https://cards-dev.twitter.com/validator&quot; target=&quot;_blank&quot;&gt;twitter card validator&lt;/a&gt; to test). I checked the &lt;a href=&quot;https://milanaryal.com.np/integrating-social-meta-tags-into-jekyll/&quot; target=&quot;_blank&quot;&gt;YAML frontmatter&lt;/a&gt; and it all seems fine to my eye:&lt;/p&gt;
+
+&lt;p&gt;layout: post
+title: The Red Caped Girl
+description: The magic happens when I tune into myself. 
+image: /assets/touch-of-universe.jpg
+tags: [letters]&lt;/p&gt;
+
+&lt;p&gt;and yet, I keep getting this error:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;og:image can&apos;t be found at the defined URL&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll troubleshoot it later.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-custom-domain&quot;&gt;Setting up custom domain&lt;/h2&gt;
 </content>
  </entry>
  
@@ -55,11 +101,25 @@
    <content type="html">&lt;p&gt;27 November 2021 🌗&lt;/p&gt;
 &lt;h2 id=&quot;dear-santa&quot;&gt;Dear Santa,&lt;/h2&gt;
 
-&lt;p&gt;I am in a privilledged position of my monthly expenses being more or less covered by my online business, at least for now. After four years of entrepreneurial learning curve I finally managed to pay myself €600 for a few months in a row, which feels encouraging. It wasn’t always like that.&lt;/p&gt;
+&lt;p&gt;I am in a privileged position of my basic monthly expenses being more or less covered by my online business, at least for now.&lt;/p&gt;
 
-&lt;p&gt;In the same time, it doesn’t really leave much space for investing in what my heart calls me to invest in: regenerating the land and taking part in experiences helping me to grow in that direction.&lt;/p&gt;
+&lt;p&gt;It wasn’t easy to get here.&lt;/p&gt;
 
-&lt;p&gt;That’s why I’m writing this letter to ask you for a Gift.&lt;/p&gt;
+&lt;p&gt;It took four years of being constantly challenged by the entrepreneurial learning curve. One of the biggest difficulties revolves around money. In a nutshell: &lt;strong&gt;I feel very little alignment with the current capitalist system and I’d like to embody a different paradigm.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;But that isn’t easy when I depend on my own business to bring income. On one hand I am fully committed to release products that genuinely enrich lives and contribute to co-creating a beautiful planet where all beings can thrive. On the other, I feel pressure to make enough to pay the basic expenses. With the entrepreneurial world saturated with content prioritizing making more money rather than &lt;em&gt;why&lt;/em&gt; and &lt;em&gt;how aligned&lt;/em&gt;, it’s been hard to stay grounded and maintain a relatively steady course aligned with what my heart believes in.&lt;/p&gt;
+
+&lt;p&gt;But it’s been kinda working lately, and I feel that my work is tuning in more and more with my values, while bringing in enough financially to sustain my basic needs, and leaving more time and energy to &lt;em&gt;give freely&lt;/em&gt; to work that matters that I don’t want to charge for within the capitalist economy.&lt;/p&gt;
+
+&lt;p&gt;Because, I deeply believe that &lt;strong&gt;not everything should be monetized&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Regenerating the land.&lt;/p&gt;
+
+&lt;p&gt;Healing oneself and others.&lt;/p&gt;
+
+&lt;p&gt;Sharing the Light to inspire and encourage more people to enter into the upwards spiral of the beautiful world that our hearts know is possible &lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;These are my priorities, and while I’m committed to this path anyway, I could certainly use your help. That’s why I’m writing this letter to ask you for a Gift.&lt;/p&gt;
 
 &lt;p&gt;As a minimalist on a constant journey to have less items and more space, I learned that offering a gift is a beautiful but challenging art. For example, for a long time my family kept giving me stuff, which while being given from the heart and therefore appreciated, was, generally speaking, useless for me and only created unnecessary clutter.&lt;/p&gt;
 
@@ -67,7 +127,7 @@
 
 &lt;p&gt;a) experiences generally make much better gifts for me.&lt;/p&gt;
 
-&lt;p&gt;b) it is my responsability to communicate clearly which gifts are the most aligned with what my heart points me towards right now, instead of expecting another person to know that intuitively.&lt;/p&gt;
+&lt;p&gt;b) it is my responsibility to communicate clearly which gifts are the most aligned with what my heart points me towards right now, instead of expecting another person to know that intuitively.&lt;/p&gt;
 
 &lt;p&gt;This letter is an externalisation of these two lessons in a form of a public wishlist, supported by a firm belief that there is plenty of abundance of different sorts all around, and that within the Gift Economy (which we are indeed all a part of) the gifts gravitate towards the place where they are needed most.&lt;/p&gt;
 
@@ -79,18 +139,41 @@
 Michał.&lt;/p&gt;
 
 &lt;p&gt;ps. The List:&lt;/p&gt;
+
+&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Permaculture Design Course&lt;/strong&gt;, residential in Portugal (ideally Azores) or online&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kernel.community/en/&quot; target=&quot;_blank&quot;&gt; Kernel Online Course&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Contact Improvisation / Exctatic Dance residential gathering in Portugal&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;A sailboat&lt;/strong&gt;, to cross from Europe to Brazil in Nov/Dec 2022, as well as host experiences at sea, and finally ditch flying&lt;/li&gt;
-  &lt;li&gt;A functioning typewriter, to write letters&lt;/li&gt;
-  &lt;li&gt;A good quality, compact, and sturdy mechanical keyboard with bluetooth, to write digital letters&lt;/li&gt;
-  &lt;li&gt;A hardcover book about astrology with strong focus on charts and visuals. I want to study different types of maps and astrology is a map.&lt;/li&gt;
-  &lt;li&gt;A hardcover edition of &lt;em&gt;Tao Te Ching&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Solar panels&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Permaculture Design Course&lt;/strong&gt;, residential in Portugal (or even better, in Azores) or online, because I believe that permaculture is one of the most important fields to study right now, and I have pretty much zero experience with it.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kernel.community/en/&quot; target=&quot;_blank&quot;&gt; Kernel Online Course&lt;/a&gt;, because web3 and blockchain opens amazing possibilities for regenerating the world at scale, and I’d love to start my journey in this area by building something beautiful with other amazing people.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.greaterthan.works/academy/thriving-networks&quot; target=&quot;_blank&quot;&gt;Thriving Networks online course&lt;/a&gt;, because I’m building a &lt;a href=&quot;pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;Regenerative Network in the Azores&lt;/a&gt; and I could really use some extra support with the upcoming challenges. Knowing the humans behind this course, I feel that it’s precisely the right place for me to be.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;personal-growth&quot;&gt;Personal Growth&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Contact Improvisation / Ecstatic Dance residential gathering/course in Portugal, because connecting with other humans through dance is one of the most effective ways of addressing one of the biggest fears I’m working though at the moment, and it’s part of the healing that is very important for me to experience.&lt;/li&gt;
+  &lt;li&gt;Sailing opportunities of any shapes and sizes, ideally to/from/within the Azores, because sailing is the core foundation of my soul and I want to bring this gift to the world by hosting regenerative retreats at sea.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;items&quot;&gt;Items&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;A sailboat&lt;/strong&gt;. Yes, it’s a bold ask, but you never know. A sailboat would allow me to ditch flying for good, and move between the islands in the Azores (and beyond) to catalyse the regenerative network, as well as host transformative experiences at sea. I’m also feeling called to Brazil (and I intend to answer that Call). I’m looking to sail there from Europe in Nov/Dec 2022.&lt;/li&gt;
+  &lt;li&gt;A functioning typewriter, to write &lt;a href=&quot;/letters&quot;&gt;letters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A compact mechanical keyboard with Bluetooth, EN or PT layout, to write digital letters&lt;/li&gt;
+  &lt;li&gt;A hardcover book about astrology in English with strong focus on charts and visuals. I want to study different types of maps and astrology is a map.&lt;/li&gt;
+  &lt;li&gt;A hardcover edition of &lt;em&gt;Tao Te Ching&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Solar panels to power my tiny cabin and the community space next to it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2&gt;—&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I borrow the term “beautiful world that our hearts know is possible” from the wonderful book by Charles Eisenstein &lt;a href=&quot;https://charleseisenstein.org/books/sacred-economics/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Sacred Economics: Money, Gift &amp;amp; Society in the Age of Transition&lt;/em&gt;&lt;/a&gt;] &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
 </content>
  </entry>
  
@@ -105,6 +188,183 @@ Michał.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Learning from the story of the Royal Research Ship &lt;em&gt;Boaty McBoatface&lt;/em&gt;, I reserve the right to not answer/publish your question.&lt;/p&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Waiting At Peter&apos;s</title>
+   <link href="http://localhost:4000/waiting-at-peters"/>
+   <updated>2021-11-22T00:00:00-01:00</updated>
+   <id>http://localhost:4000/waiting-at-peters</id>
+   <content type="html">&lt;p&gt;Peter’s Cafe, Port of Horta&lt;br /&gt;
+22 November 2021&lt;/p&gt;
+
+&lt;p&gt;I’m sitting in the iconic sailing bar in the island of Faial before taking a ferry across to Pico. I filled my body with a way-too-sweet-but-still-delicious chocolate cake and begun writing this letter. It wasn’t clear to me to whom it is directed to, so let’s say that it is for you – to receive in this very moment. Thank you for holding the space for me. I appreciate it.&lt;/p&gt;
+
+&lt;p&gt;I just came back from the Mainland yesterday, but the backpack containing all my gear didn’t.&lt;/p&gt;
+
+&lt;p&gt;It’s quite frustrating to be walking around in the rain with a plastic bag holding a few items I took with me on the plane: my journal and tablet, a deck of tarot cards, headphones, headtorch, a folder with some documents and empty sheets of A4 paper, a poncho made of Serra-de-Estrela wool, a water bottle, a thermal cup, two carabiners, plus the clothes that I’m wearing. It’s a combination of items that tells a lot about me.&lt;/p&gt;
+
+&lt;p&gt;As I’m waiting for the airline to call me to arrange the drop-off of my backpack which arrived to Faial just in time to get the 1415 ferry to Pico (which I’m writing down with the intention of manifesting it into reality), I get to practice letting go. Of course, my stuff doesn’t matter, but I do feel attached to the combination of items I have carefully assembled over the last few years of scaling down. It’d be a bitch to replace a few of them, and also, quite a lot of money – a resource that is quite scarce in my life. While certainly inconvenient, I do trust that my backpack is already on it’s way back to me, and even if it isn’t, I know that it’s just stuff – even if precious to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What matters is the experience of Being in the Mainland, and all the processes, internal and external, that happened during this journey, and, as well, the processes that are about to begin &lt;em&gt;because of&lt;/em&gt; this journey.&lt;/strong&gt; Because it does indeed feel like the beginning of another cycle. I can feel that something deep has shifted within me, something cracked and opened, some subconscious pattern (or patterns) were overwritten.&lt;/p&gt;
+
+&lt;p&gt;If this is the beginning though, I feel that it’s worth inquiring “of what?” I don’t know that yet, but if I’d have to look for some words, I’d lean into letting go of fears holding me back, dreaming big, and manifesting these dreams into reality with an open heart shining with light. Yes, that feels good to write down and now say it out loud to you. &lt;strong&gt;No Fear. Dream Big. Manifest. Shine.&lt;/strong&gt; I left an empty page for setting the intentions during the Full Moon, because I wasn’t clear on them yet. I guess this is the time to write them down.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;I did, and as I was sensing into what to write next, I receive the phoneceall. My backpack is in Horta and it will be delivered to the ferry terminal on time to get the 1415 ferry to Pico. No Fear. Dream Big. Manifest. Shine.&lt;/p&gt;
+
+&lt;p&gt;I guess this is the reason why I felt like writing this letter. &lt;strong&gt;Six powerful words are now engraved into my mind to remind it, what my heart already knew. No Fear. Dream Big. Manifest. Shine.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have two hours until the ferry. It’s time to engage in a few errands and then come back to the island that is now my home and begin the new cycle of my life. I’m so excited for what’s to come.&lt;/p&gt;
+
+&lt;p&gt;No Fear. Dream Big. Manifest. Shine.&lt;/p&gt;
+
+&lt;p&gt;With Love and Light,&lt;br /&gt;
+Michał&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Last Night In Lizbon</title>
+   <link href="http://localhost:4000/last-night-in-lisbon"/>
+   <updated>2021-10-18T00:00:00+00:00</updated>
+   <id>http://localhost:4000/last-night-in-lisbon</id>
+   <content type="html">&lt;p&gt;18/10/2021&lt;/p&gt;
+
+&lt;h2 id=&quot;dear-lizbon&quot;&gt;Dear Lizbon,&lt;/h2&gt;
+
+&lt;p&gt;It’s our last night together and I’m sitting on a square writing a letter to you. You’re a Beautiful City, and I’m so grateful for everything you have allowed me to experience and discover. It’s an incredibly intense time, with unprecedented depth of self-awareness, allowing me to identify fears holding me back.&lt;/p&gt;
+
+&lt;p&gt;I feel that we’re all afraid, some more than others, but this primary emotion is something we all share. Fear of sickness and death. Fear of the Unknown. Fear of being left behind. Fear of being alone. Fear of missing out. Fear of rejection. Fear of being judged.&lt;/p&gt;
+
+&lt;p&gt;With so many fears, it’s not surprising that each and every one of us is a mess, in their very unique and irrepeatable way. And yet, Fear can be overcomed, just like any pattern, no matter how deep, can be rewritten.&lt;/p&gt;
+
+&lt;p&gt;For me, the process starts with noticing the Fear, creeping in the deep ocean of the subconscious mind, and bringing it up t the surface of awareness. And then – embrace it. That’s the hard part.&lt;/p&gt;
+
+&lt;p&gt;Oppressing, repressing, suppressing, pretending it’s not there, numbing, distracting, and other clever strategies can work in the short run, but ultimately Fear awaits to be acknowledged head on and embraced, like any other being on this planet.&lt;/p&gt;
+
+&lt;p&gt;Once accepted, it looses it’s paralyzing power. allowing for a deep wholehearted hug.&lt;/p&gt;
+
+&lt;p&gt;With the heart truly open, no Fear can be.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Red Caped Girl</title>
+   <link href="http://localhost:4000/the-red-caped-girl"/>
+   <updated>2021-10-15T00:00:00+00:00</updated>
+   <id>http://localhost:4000/the-red-caped-girl</id>
+   <content type="html">&lt;p&gt;What just happened?&lt;/p&gt;
+
+&lt;p&gt;I felt intuitively, which comes easy to me recently, since I’ve started spending most of my waking hours walking, that it is really important for me to go out of the house and have a dance. And then, maybe sit down by one of the three inviting tables on a public square in front of my flat, surrounded by a quiet residential island in the middle of Alfama, and process what is happening to me right now.&lt;/p&gt;
+
+&lt;p&gt;I followed my intuition down a curvy staircase, poured myself a cup of hot yogi tea, which fits quite well to my current circumstances since I seem to be a walking yogi these days, and started dancing.&lt;/p&gt;
+
+&lt;p&gt;At first, I was a bit shy, as the only other person on the square was clearly observing the feathers sticking out of my hair. He even stopped looking at his phone, focusing his gaze completely on me, which made me a bit uncomfortable, although not enough to stop me from dancing wholeheartedly as a song perfectly aligned with my current mood entered into my headphones.&lt;/p&gt;
+
+&lt;p&gt;I kept dancing for a while, taking short breaks for a sip of tea, a stretch and an observing look at the trees growing out of the tiny cubical stones covering the square.&lt;/p&gt;
+
+&lt;p&gt;The guy with the phone left eventually. I kept on dancing, and feeling tensions of the day disintegrate into the particles before leaving my body completely.&lt;/p&gt;
+
+&lt;p&gt;As I was setting myself free from tension, a girl in a red cape passed by on her scooter. A couple walked by. A lady parked her tiny car in the only remaining gap on the street. I kept dancing, until my body communicated that it’s time to sit down and process.&lt;/p&gt;
+
+&lt;p&gt;I wrote down a few key ideas worth remembering, did some rapid fire brainstorming and was about to decide what to do next, but… the choice was made for me, as the girl in the red cape strolled into the square and sat by one of the three tables.&lt;/p&gt;
+
+&lt;p&gt;She wrote her name and phone number in my journal, after a short but beautiful moment of connection as our energies magnetically attracted each other, so we gravitated, more or less subconsciously, to this very square, in the middle of a capital city.&lt;/p&gt;
+
+&lt;p&gt;These synergies and inexplicable gravitational pulls keep amazing me with abundant regularity. How is it possible that I keep being in the exact right place in the exactly right time to experience a magical moment, which is increasingly hard to disregard as accidental or random?&lt;/p&gt;
+
+&lt;p&gt;Whether it is or not, it doesn’t matter.&lt;/p&gt;
+
+&lt;p&gt;The girl in the red cape shared with me that by being in a certain way we attract other people vibrating in a similar frequency. I guess all beings do. Like it or not, we’re all made of empty space, and particles which vibrate in a symphony naturally gravitating towards harmonious co-existence.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In moments like these it seems insane not to redistribute the energy available to me in this very moment to vibrate in the highest frequency I can reach, attracting more magic into my life, so I can send ripples amplified by waves pouring out of open hearts of beings around me into all directions, inner, outer and beyond.&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vaclav Havel and Conflicting Advice</title>
+   <link href="http://localhost:4000/vaclav-havel-and-conflicting-advice"/>
+   <updated>2021-10-13T00:00:00+00:00</updated>
+   <id>http://localhost:4000/vaclav-havel-and-conflicting-advice</id>
+   <content type="html">&lt;p&gt;I’m sitting in a park by the table dedicated to Vaclav Havel, waiting for something to happen.&lt;/p&gt;
+
+&lt;p&gt;To be honest, a very specific thing:&lt;/p&gt;
+
+&lt;p&gt;A beautiful girl to appear out of thin air that would have a beautiful soul, and energy and space to co-create a magical moment including physical intimacy with me.&lt;/p&gt;
+
+&lt;p&gt;I feel fear as I disclose this information but these are the facts: I feel a deep need for my body to be loved and feel wanted. It’s been a while.&lt;/p&gt;
+
+&lt;p&gt;But here it gets interesting:&lt;/p&gt;
+
+&lt;p&gt;The life, a curious mistress, teaches me that I both can and can’t have what I want, which while being a profound guidance is also some fucking conflicting advice.&lt;/p&gt;
+
+&lt;p&gt;To elaborate:&lt;/p&gt;
+
+&lt;p&gt;In one moment I connect to the infinite cosmic reality, the “Big We”, as my friend calls it, and manifest any reality I choose, provided I’m specific enough to verbalize it and put it out there into the Universe, ideally out loud while facing one of the raw elements in the time when specific celestial bodies align. But to be fair, any space can become sacred if only treated with appropriate reverence.&lt;/p&gt;
+
+&lt;p&gt;The flow is a blessed state to be in for sure, and yet, it tends to end abruptly without notice, leaving me confused, disconnected, and lonely. Still waiting for the magical girl to appear, caress my back without warning, look deeply at me, and deliberately kiss my neck slowly to see what happens.&lt;/p&gt;
+
+&lt;p&gt;I can feel the shivers. But, whether I like it or not, it is not the reality, at least not in this very moment. Feel free to prove me wrong though.&lt;/p&gt;
+
+&lt;p&gt;As I sit with myself, unfolding knots tangled over the light shining from within, I feel, yet again, the conflicting advice of the Universe and it’s teachers.&lt;/p&gt;
+
+&lt;p&gt;I could remain still, witnessing my feelings arise and pass away in the infinite flow of impermanence, both blissful and difficult to accept, especially at times when the conscious choice of letting go is particularly hard. I know you’ve been there.&lt;/p&gt;
+
+&lt;p&gt;I could also act upon this very moment, and instead of waiting for the magic to happen, create the magic myself, with a not-so-litte help of the Universe, provided it’s a day when Good Fortune smiles at my cute attempts of seducing a powerful woman.&lt;/p&gt;
+
+&lt;p&gt;It’s difficult, because as I sit still with this process happening inside of me, and become conscious of it as I write it down, and now, although it’s a very scary thought, sharing it out loud with you, I feel that I’m growing inside, slowly, awkwardly, and with a fair degree of metaphysical pain, but ultimately becoming a person that is more aware and therefore loving.&lt;/p&gt;
+
+&lt;p&gt;This process of growth feels important to go through, so that’s probably why I am still here, right in the middle of this mess of myself, dying along with my unfulfilled desires, and reviving along with another moment given to me to experience.&lt;/p&gt;
+
+&lt;p&gt;What a gift to be able to live this very conflict. To &lt;em&gt;Be&lt;/em&gt;, still and motionless, witnessing what is and &lt;em&gt;Being&lt;/em&gt; with it… or not.&lt;/p&gt;
+
+&lt;p&gt;This power of deliberately changing my mindset gives me shivers, too.&lt;/p&gt;
+
+&lt;p&gt;I’m still here, making space for the magical girl to touch my soul and body and help me heal, but I’m not waiting.&lt;/p&gt;
+
+&lt;p&gt;I’m actively &lt;em&gt;Being&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;And just like that, as I let go of my expectations and fully accept this moment, the magic happens.&lt;/p&gt;
+
+&lt;p&gt;The girl doesn’t appear, but my soul is touched by something strong and I can feel the knots loosening allowing me to breathe deeper and smile wholeheartedly.&lt;/p&gt;
+
+&lt;p&gt;It’s a precious moment, and I’m grateful to Vaclav Havel for providing me with this table in a park so I could live through it and share the tale with you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Empty</title>
+   <link href="http://localhost:4000/empty"/>
+   <updated>2021-10-12T00:00:00+00:00</updated>
+   <id>http://localhost:4000/empty</id>
+   <content type="html">&lt;p&gt;I’m in this beautiful house and my heart feels so happy it’s a bit overwhelming. Fortunately the familiar gong sounds ground me, as my thoughts sink into the mindset of deliberate being by walking.&lt;/p&gt;
+
+&lt;p&gt;I let go of thinking and sink into this moment, yet another container for magic. I feel so charged with something, something powerful. I can attribute some of that to cacao in my bloodstream, but I have this intuition that it’s much more than that.&lt;/p&gt;
+
+&lt;p&gt;Something is happening right now.&lt;/p&gt;
+
+&lt;p&gt;As I walked, I opened myself. To what - I don’t know, but it feels precisely like the right kind of opening necessary to allow myself to become aware of yet another layer of knots and patterns running in the back of my subconscious mind.&lt;/p&gt;
+
+&lt;p&gt;I choose to set myself free.&lt;/p&gt;
+
+&lt;p&gt;Right in this moment, as I write these very words, right here in this place in which I feel so connected to something much bigger than myself and also this stardust, light and empty space that constitutes what I think of myself as me.&lt;/p&gt;
+
+&lt;p&gt;I choose to set myself free.&lt;/p&gt;
+
+&lt;p&gt;Free from triggers, free from scripts, and most importantly, free from Fear.&lt;/p&gt;
+
+&lt;p&gt;Freedom from fear is the hardest freedom to cultivate, yet, just like any kind of freedom, it’s just a mindset, and right here, right now, in this very moment, I am letting go of Fear and overwriting default behaviours with empty space.&lt;/p&gt;
+
+&lt;p&gt;Empty space is sacred.&lt;/p&gt;
+
+&lt;p&gt;It allows for new seeds, planted with Love and intention, to sprout into reality I choose to experience in this very moment followed by many to come.&lt;/p&gt;
+
+&lt;p&gt;In this very moment I am empty.
+In this very moment I am free.&lt;/p&gt;
 </content>
  </entry>
  
@@ -141,7 +401,7 @@ Tools: Blender, Sieve or filtering sock, funnel&lt;br /&gt;&lt;/p&gt;
    <id>http://localhost:4000/cayenne-brownie</id>
    <content type="html">&lt;p&gt;vegan, easy, gluten-free&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;This is one of the simplests and most delicious cakes ever. Spicy, salty, lusciously chocolatish, and it takes 30m to make. What not to like?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is one of the simplest and most delicious cakes ever. Spicy, salty, lusciously chocolatish, and it takes 30m to make. What not to like?&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Type: whole&lt;br /&gt;
 Tools: blender, oven, kettle/pan for boiling water, mixing bowl&lt;br /&gt;&lt;/p&gt;
@@ -206,7 +466,7 @@ Tools: oven &lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
 1c flour, 3 bananas, 1tsp baking powder, 1tsp baking soda &lt;br /&gt;&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;anything that you have around, for example: raisins, appricots, dates, figs, cocoa powder, coconut flakes, pears, apples, kiwis, oranges… Anything goes.&lt;/li&gt;
+  &lt;li&gt;anything that you have around, for example: raisins, apricots, dates, figs, cocoa powder, coconut flakes, pears, apples, kiwis, oranges… Anything goes.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;prep&quot;&gt;Prep&lt;/h2&gt;
@@ -227,14 +487,14 @@ Tools: oven &lt;br /&gt;&lt;/p&gt;
 Tools: Oven, stove, pan, mixing bowl &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;
-Base: 2c oats, 2c shreaded almonds, 1c melted coconut oil, salt
-Filling: 400ml light coconut milk, 1c coconut shreads, 1/4c-1/2c rice flour, salt, if you want it more sweet add 2tbsp agave sirup.&lt;/p&gt;
+Base: 2c oats, 2c shredded almonds, 1c melted coconut oil, salt
+Filling: 400ml light coconut milk, 1c coconut shreds, 1/4c-1/2c rice flour, salt, if you want it more sweet add 2tbsp agave sirup.&lt;/p&gt;
 
 &lt;h2 id=&quot;base&quot;&gt;Base&lt;/h2&gt;
 &lt;p&gt;Mix oats, almonds, coconut oil and salt (I like it salty). Bake for 15m at 180°C.&lt;/p&gt;
 
 &lt;h2 id=&quot;filling&quot;&gt;Filling&lt;/h2&gt;
-&lt;p&gt;Heat and mix coconut milk, rice flour, salt, coconut shreads, agave. Keep on low fire for 5m and keep mixing. Pour over the base, leave to cool. Place in the fridge for 2 hours.&lt;/p&gt;
+&lt;p&gt;Heat and mix coconut milk, rice flour, salt, coconut shreds, agave. Keep on low fire for 5m and keep mixing. Pour over the base, leave to cool. Place in the fridge for 2 hours.&lt;/p&gt;
 </content>
  </entry>
  
@@ -301,7 +561,7 @@ Tools: Oven, Freezer &lt;br /&gt;&lt;/p&gt;
   &lt;li&gt;salt&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Melt chocolate and mix well with other ingridients. Pour over the base, add topping if desired. Leave to cool.  Place in freezer for 2 hours.&lt;/p&gt;
+&lt;p&gt;Melt chocolate and mix well with other ingredients. Pour over the base, add topping if desired. Leave to cool.  Place in freezer for 2 hours.&lt;/p&gt;
 
 &lt;h2 id=&quot;topping&quot;&gt;Topping:&lt;/h2&gt;
 &lt;ul&gt;

@@ -22,7 +22,7 @@ To elaborate:
 
 In one moment I connect to the infinite cosmic reality, the "Big We", as my friend calls it, and manifest any reality I choose, provided I'm specific enough to verbalize it and put it out there into the Universe, ideally out loud while facing one of the raw elements in the time when specific celestial bodies align. But to be fair, any space can become sacred if only treated with appropriate reverence.
 
-The flow is a blessed state to be in for sure, and yet, it tends to end abrubtly without notice, leaving me confused, disconnected, and lonely. Still waiting for the magical girl to appear, caress my back without warning, look deeply at me, and deliberately kiss my neck slowly to see what happens.
+The flow is a blessed state to be in for sure, and yet, it tends to end abruptly without notice, leaving me confused, disconnected, and lonely. Still waiting for the magical girl to appear, caress my back without warning, look deeply at me, and deliberately kiss my neck slowly to see what happens.
 
 I can feel the shivers. But, whether I like it or not, it is not the reality, at least not in this very moment. Feel free to prove me wrong though.
 
@@ -46,6 +46,6 @@ I'm actively *Being*.
 
 And just like that, as I let go of my expectations and fully accept this moment, the magic happens.
 
-The girl doesn't appear, but my soul is touched by something strong and I can feel the knots loosiening allowing me to breathe deeper and smile wholeheartedly.
+The girl doesn't appear, but my soul is touched by something strong and I can feel the knots loosening allowing me to breathe deeper and smile wholeheartedly.
 
 It's a precious moment, and I'm grateful to Vaclav Havel for providing me with this table in a park so I could live through it and share the tale with you.

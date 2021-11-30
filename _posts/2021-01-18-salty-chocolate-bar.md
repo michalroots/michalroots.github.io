@@ -31,7 +31,7 @@ Mix well and bake for 10-20 min on 180oC.
 - 1/2 cup chia seeds
 - salt
 
-Melt chocolate and mix well with other ingridients. Pour over the base, add topping if desired. Leave to cool.  Place in freezer for 2 hours.
+Melt chocolate and mix well with other ingredients. Pour over the base, add topping if desired. Leave to cool.  Place in freezer for 2 hours.
 
 ## Topping:
 - 1 apple thinly sliced

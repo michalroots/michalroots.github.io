@@ -10,13 +10,13 @@ What just happened?
 
 I felt intuitively, which comes easy to me recently, since I've started spending most of my waking hours walking, that it is really important for me to go out of the house and have a dance. And then, maybe sit down by one of the three inviting tables on a public square in front of my flat, surrounded by a quiet residential island in the middle of Alfama, and process what is happening to me right now.
 
-I followed my intuition down a curvy staircase, poured myself a cup of hot yogi tea, which fits quite well to my currecnt circumstances since I seem to be a walking yogi these days, and started dancing.
+I followed my intuition down a curvy staircase, poured myself a cup of hot yogi tea, which fits quite well to my current circumstances since I seem to be a walking yogi these days, and started dancing.
 
 At first, I was a bit shy, as the only other person on the square was clearly observing the feathers sticking out of my hair. He even stopped looking at his phone, focusing his gaze completely on me, which made me a bit uncomfortable, although not enough to stop me from dancing wholeheartedly as a song perfectly aligned with my current mood entered into my headphones.
 
 I kept dancing for a while, taking short breaks for a sip of tea, a stretch and an observing look at the trees growing out of the tiny cubical stones covering the square.
 
-The guy with the phone left eventually. I kept on dancing, and feeling tenstions of the day desintegrate into the particles before leaving my body completely.
+The guy with the phone left eventually. I kept on dancing, and feeling tensions of the day disintegrate into the particles before leaving my body completely.
 
 As I was setting myself free from tension, a girl in a red cape passed by on her scooter. A couple walked by. A lady parked her tiny car in the only remaining gap on the street. I kept dancing, until my body communicated that it's time to sit down and process.
 
@@ -24,7 +24,7 @@ I wrote down a few key ideas worth remembering, did some rapid fire brainstormin
 
 She wrote her name and phone number in my journal, after a short but beautiful moment of connection as our energies magnetically attracted each other, so we gravitated, more or less subconsciously, to this very square, in the middle of a capital city.
 
-These synergies and unexplicable gravitational pulls keep amazing me with abundant regularity. How is it possible that I keep being in the exact right place in the exactly right time to experience a magical moment, which is increasingly hard to disregard as accidental or random?
+These synergies and inexplicable gravitational pulls keep amazing me with abundant regularity. How is it possible that I keep being in the exact right place in the exactly right time to experience a magical moment, which is increasingly hard to disregard as accidental or random?
 
 Whether it is or not, it doesn't matter.
 

@@ -1,0 +1,64 @@
+I"�<p><strong>This website is my digital garden, journal, archive, portfolio and open documentation of stuff I do.</strong> I had this crazy idea for a while to put it all in one place, and I finally managed to manifest it. <br /></p>
+
+<p>Pow ✨.</p>
+
+<p>In this lifetime I’m definitely not a hacker, but I have deep appreciation for what code can create and I like building with wood. Here’s my clumsy attempt of building something in public with digital blocks of “lego”.</p>
+
+<p>As I build it, I’m learning how to code, digitalise what exists in my journals, create new encapsulated moments, and pull different pieces from different places on the web together.</p>
+
+<p>The process might be messy and it’s a <strong>continuous work in progress</strong>.</p>
+
+<h2 id="this-website-doesnt-track-you">This website doesn’t track you</h2>
+<p>First things first.</p>
+
+<h2 id="content-license">Content License</h2>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>.</p>
+
+<p>Use the content as you wish without permission, as long as you:</p>
+<ul>
+  <li>give appropriate credit</li>
+  <li>don’t use it for commercial purpose</li>
+  <li>keep the same license</li>
+</ul>
+
+<h2 id="tech-stack">Tech Stack</h2>
+<p>I’m designing this website for effortless publishing from Obsidian. Here’s my <a href="/obsidian-to-github">documentation</a>.</p>
+
+<ul>
+  <li>This website is written in Obsidian</li>
+  <li>Coded by me in Jekyll</li>
+  <li>Started with Sidey Theme</li>
+  <li>Hosted on Github</li>
+  <li>Deployed by Netlify</li>
+</ul>
+
+<h2 id="the-future">The Future</h2>
+<p>[ ] Publish the website
+[ ] Link to michalkorzonek.com
+[ ] Implement bidirectional links
+[ ] Fix images not showing in social preview</p>
+
+<h2 id="contribute-on-github">Contribute on Github</h2>
+<p>If you found bugs, typos etc, you can view <a href="https://github.com/heymichal/heymichal.github.io" target="_blank">source code</a> on Github and help.</p>
+
+<p>I’m writing this post in <a href="https://obsidian.md/" target="_blank"><strong>Obsidian</strong></a>, which is the core app in my digital ecosystem.</p>
+
+<p><strong>My current learning goal is to setup this website so I can edit it directly in Obsidian and publish with as little friction as possible.</strong> Here’s <a href="/obsidian-to-github">my progress</a>.</p>
+
+<p>The <strong>static website</strong> is coded by me (although I intend to ask for help with some specific features) in <strong>Jekyll</strong>. I started with the theme <a href="https://github.com/ronv/sidey" target="_blank">Sidey</a>. You can help me fix bugs by suggesting code improvements to the source code on <strong>Github</strong>.</p>
+
+<p>I’m using a <strong>Macbook Pro mid 2012</strong>. This is the last computer from Apple that allows for easy replacement of parts. With 16GB of RAM and an SSD (soon 2x SSD) the computer allows me to edit videos, photos, write, code and enjoy films etc, without much friction for my use case.</p>
+
+<p><strong>I highly recommend fixing rather than buying new stuff.</strong> It’s cheaper, often less difficult that you thought it will be, you will learn something new, and it helps us collectively to shift towards a new way of being, not driven by exponential consumption. <a href="https://ifixit.com" target="_blank"> Ifixit</a> has some great guides for fixing stuff. <a href="https://100r.co/site/about_us.html" target="_blank">100 Rabbits</a> create excellent documentation of their explorations of low-tech solutions.</p>
+
+<p>I’m running <strong>MacOS Mojave</strong>. I’d like to eventually move back to Linux, but two times I tried to make it work (once with Ubuntu and once with ElementaryOS) I failed miserably. Third times the charm?</p>
+
+<h2 id="the-future-1">The Future</h2>
+<ul>
+  <li>Edit in Obsidian and publish without friction (<a href="/obsidian-to-github">in progress</a>)</li>
+  <li>Bidirectional links on the site</li>
+  <li>Fix bugs</li>
+</ul>
+
+<p>Let’s make it happen.</p>
+:ET
