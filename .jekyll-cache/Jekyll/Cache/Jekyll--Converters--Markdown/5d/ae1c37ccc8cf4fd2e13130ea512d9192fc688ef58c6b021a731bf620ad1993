@@ -1,0 +1,76 @@
+I"<p>Objective:</p>
+
+<p><strong>Create and edit a Jekyll website in Obsidian. Publish to Github without friction.</strong></p>
+
+<p>(Disclaimer: I don’t know how to code)</p>
+
+<h2 id="installing-jekyll-on-macos-mojave">Installing Jekyll on MacOS Mojave</h2>
+<p>It was a pain in the ass, but it worked eventually.</p>
+
+<p>I needed:</p>
+<ul>
+  <li><a href="https://macpaw.com/how-to/use-terminal-on-mac " target="_blank">Basic knowledge of Mac Terminal</a></li>
+  <li>Read through the official <a href="https://jekyllrb.com/docs/installation/macos/" target="_blank">installation guide from Jekyll</a></li>
+  <li>And another <a href="https://www.awesomeinc.org/tutorials/jekyll-basics/" target="_blank">simpler guide</a></li>
+  <li>Finally, spent a long time troubleshooting errors I couldn’t understand. Here’s <a href="https://www.chadduffey.com/2021/03/Jekyll-Poop.html" target="_blank">the most succint solution</a> that worked for me. Note: I had to run <code>bundle update</code> <em>before</em> and <em>after</em> other commands. No idea why, but it works now.</li>
+</ul>
+
+<h3 id="to-preview-the-website-locally">To preview the website locally:</h3>
+<ul>
+  <li>launch terminal and navigate to the folder with the site using  <code>cd ~/PATHTOFOLDER</code></li>
+  <li>serve jekyll with <code>Bundle exec jekyll serve</code></li>
+  <li>open <a href="http://localhost:4000" target="_blank">http://localhost:4000</a> in your browser</li>
+</ul>
+
+<h2 id="uploading-code-to-github">Uploading Code to Github</h2>
+
+<p>That was easy, because I did this before, and Github has a <a href="https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages" target="_blank">good manual on how to do it.</a></p>
+
+<ul>
+  <li>I created a new repository called <code>&lt;username&gt;.github.io</code></li>
+  <li>I cloned the empty repository from Github to my computer using <a href="https://desktop.github.com/" target="_blank">Github Desktop</a></li>
+  <li>I copied the contents of the website I have been editing on my computer to the github folder and pushed changes to Github.</li>
+</ul>
+
+<p>The website is now live at heymichal.github.io, but there are still a few things to do.</p>
+
+<h2 id="editing-with-obsidian">Editing with Obsidian</h2>
+
+<p>Open the local folder with my github page as a vault in obsidian. That was super easy. I’m now editing this post in Obsidian, then commit changes and merge via Github desktop.</p>
+
+<p>Note that it takes some time for the changes to appear on the live site.</p>
+
+<h2 id="setting-up-netlify">Setting up Netlify</h2>
+
+<p>The next step is to fix tags not working at all on the site. I suppose it’s because of some incompatibility between the template I started with and Github pages. I know that the template was using <a href="https://netlify.app" target="_blank">Netlify</a> to deploy the site, so I guess I’ll do the same.</p>
+
+<p>Super easy and works like a charm.</p>
+
+<ul>
+  <li>I added a new site from git</li>
+  <li>pointed to my repository with the site on git</li>
+  <li>deployed</li>
+</ul>
+
+<p>I now have a funky netlify url: <code>https://sleepy-mahavira-46dee4.netlify.app/</code> which I can change into a custom domain with SSL, which is the obvious next step.</p>
+
+<p>I also tested the speed of publishing and it works instantly. I edit in Obsidian, push with Github Desktop and it’s live.</p>
+
+<p>The only trouble is that images don’t seem to be showing at all in previews on social media (I’m using <a href="https://socialsharepreview.com/" target="_blank">this tool</a> and <a href="https://cards-dev.twitter.com/validator" target="_blank">twitter card validator</a> to test). I checked the <a href="https://milanaryal.com.np/integrating-social-meta-tags-into-jekyll/" target="_blank">YAML frontmatter</a> and it all seems fine to my eye:</p>
+
+<p>layout: post
+title: The Red Caped Girl
+description: The magic happens when I tune into myself. 
+image: /assets/touch-of-universe.jpg
+tags: [letters]</p>
+
+<p>and yet, I keep getting this error:</p>
+
+<p><code>og:image can't be found at the defined URL</code></p>
+
+<p>I’ll troubleshoot it later.</p>
+
+<h2 id="setting-up-custom-domain">Setting up custom domain</h2>
+
+<p>This was quite straightforward, even if the <a href="https://docs.netlify.com/domains-https/custom-domains/@blank">manual</a> from Netlify was a bit overwhelming.</p>
+:ET

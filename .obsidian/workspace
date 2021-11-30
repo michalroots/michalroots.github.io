@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/site-info.md",
+            "file": "_posts/2021-11-27-obsidian-to-github.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/site-info.md",
+                "file": "_posts/2021-11-27-obsidian-to-github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,12 @@
   },
   "active": "25bcd94d3f5bd2e6",
   "lastOpenFiles": [
+    "_posts/2021-11-27-obsidian-to-github.md",
     "_pages/site-info.md",
     "_posts/2021-11-27-21-questions.md",
     "_posts/2021-11-27-gift.md",
     "_pages/experiences.md",
     "_pages/search.md",
-    "_posts/2021-11-27-obsidian-to-github.md",
     "_pages/archive.md",
     "_pages/about.md",
     "_posts/2021-11-22-waiting-at-peters.md",

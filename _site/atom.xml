@@ -4,7 +4,7 @@
  <title>Michał Korzonek</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-11-30T18:21:48-01:00</updated>
+ <updated>2021-11-30T18:25:29-01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michal Korzonek</name>
@@ -90,6 +90,12 @@ tags: [letters]&lt;/p&gt;
 &lt;p&gt;I’ll troubleshoot it later.&lt;/p&gt;
 
 &lt;h2 id=&quot;setting-up-custom-domain&quot;&gt;Setting up custom domain&lt;/h2&gt;
+
+&lt;p&gt;This was quite straightforward, even if the &lt;a href=&quot;https://docs.netlify.com/domains-https/custom-domains/@blank&quot;&gt;manual&lt;/a&gt; from Netlify was a bit overwhelming.&lt;/p&gt;
+
+&lt;p&gt;Set up custom domain, when you get the new DNS configuration login to your domain registrar and setup the new DNS configuration, and then wait for some time for the website to show up at the new address. It took around 2 hours in my case, and the site is now operational!&lt;/p&gt;
+
+&lt;p&gt;🎉&lt;/p&gt;
 </content>
  </entry>
  
