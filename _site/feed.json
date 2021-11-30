@@ -68,8 +68,8 @@
             "id": "http://localhost:4000/21-questions",
             "title": "21 Questions",
             "summary": "21 Questions to replace FAQ on my website",
-            "content_text": "This is a simple game: Ask me a question.I’ll pick 21 and publish them here with answers.Disclaimer: Learning from the story of the Royal Research Ship Boaty McBoatface, I reserve the right to not answer/publish your question.",
-            "content_html": "<p>This is a simple game: Ask me a question.</p><p>I’ll pick 21 and publish them here with answers.</p><p><strong>Disclaimer</strong>: Learning from the story of the Royal Research Ship <em>Boaty McBoatface</em>, I reserve the right to not answer/publish your question.</p>",
+            "content_text": "I want to co-create a “FAQ” page for this website, so I created this simple game:Ask me a question.I’ll pick 21 and publish them here with answers.Disclaimer: Learning from the story of the Royal Research Ship Boaty McBoatface, I reserve the right to not answer/publish your question.",
+            "content_html": "<p>I want to co-create a “FAQ” page for this website, so I created this simple game:</p><p><strong>Ask me a question.</strong></p><p>I’ll pick 21 and publish them here with answers.</p><p><strong>Disclaimer</strong>: Learning from the story of the Royal Research Ship <em>Boaty McBoatface</em>, I reserve the right to not answer/publish your question.</p>",
             "url": "http://localhost:4000/21-questions",
             
             

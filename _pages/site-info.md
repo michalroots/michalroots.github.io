@@ -34,9 +34,10 @@ I'm designing this website for effortless publishing from Obsidian. Here's my [d
 
 ## The Future
 - ~~Publish the website~~
-- Link to michalkorzonek.com
-- Implement bidirectional links
+- ~~Link to michalkorzonek.com~~
 - Fix images not showing in social preview
+- Implement bidirectional links
+
 
 ## Contribute on Github
 If you found bugs, typos etc, you can view <a href="https://github.com/heymichal/heymichal.github.io" target="_blank">source code</a> on Github and help.
