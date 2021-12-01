@@ -82,7 +82,7 @@ In a bit over one year since our very first sharing circle, we hosted two commun
 
 The most surprising part is that it was actually quite simple. **I called a sharing circle, and as people started to spend time getting to know each other on a deeper level, magic started to happen.** Of course, as we're maturing as a congregation we'll encounter challenges. That's just a part of the process. With a strong foundation of relationships based on trust, care and support, we're ready for our next iterations.
 
-I'll document the process thoroughly [here](https://pico.microsolidarity.cc/){:target="_blank"}.
+I document the process thoroughly [here](https://pico.microsolidarity.cc/){:target="_blank"}.
 
 ### 👁 Key insight:
 
