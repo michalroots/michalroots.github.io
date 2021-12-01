@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Last Night In Lizbon
+title: Last Night In Lisbon
 description: Facing the Dark in the city of Light. 
 image: 
 tags: [letters]
@@ -8,7 +8,7 @@ tags: [letters]
 
 18/10/2021
 
-## Dear Lizbon,
+## Dear Lisbon,
 
 It's our last night together and I'm sitting on a square writing a letter to you. You're a Beautiful City, and I'm so grateful for everything you have allowed me to experience and discover. It's an incredibly intense time, with unprecedented depth of self-awareness, allowing me to identify fears holding me back.
 
