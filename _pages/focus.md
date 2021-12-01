@@ -6,8 +6,6 @@ excerpt: About Michał
 
 <b>No Fear. Dream Big. Manifest. Shine.</b>
 
-Document the process.
-
 ✨
 
 1) Co-creating <a href="https://pico.microsolidarity.cc" target="_blank">Azores Regenerative Network</a>, powered by <a href="https://microsolidarity.cc" target="_blank">Microsolidarity</a>.<br>

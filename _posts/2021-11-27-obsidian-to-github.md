@@ -41,6 +41,8 @@ The website is now live at heymichal.github.io, but there are still a few things
 Open the local folder with my github page as a vault in obsidian. That was super easy. I'm now editing this post in Obsidian, then commit changes and merge via Github desktop.
 	
 Note that it takes some time for the changes to appear on the live site.
+	
+💡 I later moved the entire local folder with my site into a /web folder inside my main obsidian vault.
 
 ## Setting up Netlify
 	
@@ -58,11 +60,11 @@ I also tested the speed of publishing and it works instantly. I edit in Obsidian
 	
 The only trouble is that images don't seem to be showing at all in previews on social media (I'm using <a href="https://socialsharepreview.com/" target="_blank">this tool</a> and <a href="https://cards-dev.twitter.com/validator" target="_blank">twitter card validator</a> to test). I checked the <a href="https://milanaryal.com.np/integrating-social-meta-tags-into-jekyll/" target="_blank">YAML frontmatter</a> and it all seems fine to my eye:
 	
-layout: post
-title: The Red Caped Girl
-description: The magic happens when I tune into myself. 
-image: /assets/touch-of-universe.jpg
-tags: [letters]
+layout: post <br>
+title: The Red Caped Girl <br>
+description: The magic happens when I tune into myself. <br>
+image: /assets/touch-of-universe.jpg <br>
+tags: [letters] <br>
 
 and yet, I keep getting this error: 
 	
@@ -77,6 +79,10 @@ This was quite straightforward, even if the [manual](https://docs.netlify.com/do
 Set up custom domain, when you get the new DNS configuration login to your domain registrar and setup the new DNS configuration, and then wait for some time for the website to show up at the new address. It took around 2 hours in my case, and the site is now operational!
 	
 🎉
+	
+## Troubleshooting SSL Certificate
+	
+It turns out that while the site was live, something didn't work with the automatic SSL encryption. I went to domain settings in Netlify, clicked on "renew certificate" and less than a minute later it was working properly. 
 	
 ## Optimising Obsidian <> Github Flow
 	
