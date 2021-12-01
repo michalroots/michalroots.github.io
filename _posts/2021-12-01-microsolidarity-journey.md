@@ -55,7 +55,7 @@ Over the next few months I launched a few crews:
 
 ### A few reflections:
 
-- While I took the responsibility of being *the caller* (the person who calls the pod to existence),** I deliberately let go of my default facilitating posture and practiced co-creating together.** The crews usually started with one or two "meta calls" diving into our intentions and deciding how do we want to be together, including technicalities such as rhythm, format etc.
+- While I took the responsibility of being *the caller* (the person who calls the pod to existence), **I deliberately let go of my default facilitating posture and practiced co-creating together.** The crews usually started with one or two "meta calls" diving into our intentions and deciding how do we want to be together, including technicalities such as rhythm, format etc.
 - **Crews had a timeframe agreed in advance. Each cycle was closed with a retrospective** when we decided what's the next step, for example closing the crew or beginning another cycle.
 - Even if we committed to the schedule set up in advance, there was always at least one call that we had to skip due to life being life (na-na-na-na-na). Pods tended to work better with meetings no further than one month apart. 
 - Keeping a recording was kinda useless, but we all enjoyed sharing our notes with each other
@@ -70,9 +70,9 @@ Check out the resources at the end of this article if you need some extra help.
 
 ## Enspiral
 
-In September 2021 I joined [Enspiral](https://www.enspiral.com/){:target="_blank"}, a network of people helping each other do more meaningful work. The network design includes *pods* (equivalent to *crews *in microslidarity lingo) to support building relationships within the network. While I haven't joined any pods, mostly due to all the other crews I had going on at the time, I got involved in *Enspiral Europe Connection Working Group* – a small group hosting bi-weekly Connection Calls for Enspiralites based in Europe.
+In September 2021 I joined [Enspiral](https://www.enspiral.com/){:target="_blank"}, a network of people helping each other do more meaningful work. The network design includes *pods* (equivalent to *crews* in microslidarity lingo) to support building relationships within the network. While I haven't joined any pods, mostly due to all the other crews I had going on at the time, I got involved in *Enspiral Europe Connection Working Group* hosting bi-weekly Connection Calls for Enspiralites based in Europe.
 
-- [ ] Write documentation of the formats tried in EECC and publish in the Enspiral Handbook.
+- [ ] Create documentation of the formats tried in EECC to publish in the Enspiral Handbook.
 
 ## Growing a congregation in Pico Island
 
