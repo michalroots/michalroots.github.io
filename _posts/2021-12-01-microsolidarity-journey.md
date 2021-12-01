@@ -8,7 +8,7 @@ tags: [documentation]
 
 Let's begin with a bit of context:
 
-I've been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it's the right time to do it. There is however a price to pay for that freedom: **the pain of saying goodbye to people dear to your heart, knowing that you might never see them again, because life is unpredictable.**
+I've been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it's the right time to do it. There is however a price to pay for that freedom: **the pain of saying goodbye to people dear to your heart, knowing that you might never see them again**. Life is unpredictable.
 
 I admit, that there were times during my travels when I felt quite lonely. I did encounter many wonderful Souls, and the connections were intense but also short. I lacked continuity.
 
@@ -47,7 +47,7 @@ Here's a part of an email exchange with one of the people I reached out to, intr
 Over the next few months I launched a few crews:
 
 - **The Unicorns** 🦄 - digital, 4 people (2 couples), mutual support, March 2020 - January 2021
-- **Team Angie** ⚡️ - digital, 4 people, exploring different topics, emotional development, May 2020 - May 2021
+- **Team Angie** ⚡️ - digital, 4 people, exploring different topics related to emotional development, May 2020 - May 2021
 - **Loverz Powerz** 💜 - digital, 4 people (2 couples), relationship-focused, May 2020 - May 2021
 - **Routine Bootcamp** 🚀 - digital, 3 people, building routines together based on [Metagame Mastermind Format (youtube video)](https://www.youtube.com/watch?v=aDWuHsyznf4){:target="_blank"}, June - November 2020
 - **The Circle** ⚪️ - presential, 4 housemates, weekly sharing circle followed by a co-living talk, February - June 2020
