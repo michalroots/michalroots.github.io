@@ -88,7 +88,7 @@ I document the process thoroughly [here](https://pico.microsolidarity.cc/){:targ
 
 **It seems that at this point I became a microsolidarity practitioner and a congregation catalyst. I attribute my progress to two core competencies developed over time:**
 
-1) **practicing crewing** –> there's no learning without practice, and no amount of theory will teach you how to be and co-create together with the real people around you.
+1) **practicing crewing** –> there's no learning without practice, and no amount of theory will teach you how to be and co-create together with the real people around you.<br>
 2) **documenting the process** –> publishing my process as an open-source documentation allowed me to regularly reflect on my learning journey. It also created beautiful connections with people who reached out to me with appreciation, questions, feedback and co-creating possibilities.
 
 If there's one advice I could give to a microsolidarity beginner, it's to do these two things from the start. I'm available to help if you could benefit from it.
