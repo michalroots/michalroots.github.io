@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Microsolidarity Journey
-description: Moving from a solo traveler to a community catalyst
+description: From a lone traveler to a community catalyst
 image: 
 tags: [documentation]
 ---
@@ -10,7 +10,7 @@ Let's begin with a bit of context:
 
 I've been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it's the right time to do it. There is however a price to pay for that freedom: **the pain of saying goodbye to people dear to your heart, knowing that you might never see them again**. Life is unpredictable.
 
-I admit, that there were times during my travels when I felt quite lonely. I did encounter many wonderful Souls, and the connections were intense but also short. I lacked continuity.
+I admit, that even if I traveled with a partner, there were times during my travels when I felt quite lonely. I did encounter many wonderful Souls, and the connections were intense but also short. I lacked continuity.
 
 One day **I decided to make a list of people I intuitively felt like reaching out to**. Some were close friends, and others were people I shared a single powerful moment sometime, somewhere. The following day I sent them all a message. 
 
