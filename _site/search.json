@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "My Microsolidarity Journey",
+      "url"      : "/microsolidarity-journey",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2021-12-01 00:00:00 -0100",
+      "description" : "Moving from a solo traveler to a community catalyst"
+
+    } ,
+  
+    {
+
       "title"    : "Publish from Obsidian to Github",
       "url"      : "/obsidian-to-github",
       "category" : "",
