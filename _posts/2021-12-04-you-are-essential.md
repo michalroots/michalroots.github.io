@@ -8,11 +8,12 @@ tags: [letters]
 
 Note: this letter was inspired, and is dedicated to all the wonderful humans (and whales) of [Diatom DAO](https://diatom.fund/){:target="_blank"}.
 
-[Video version](https://youtu.be/pGoRKBulj9Q){:target="_blank"} (youtube link)
+Video version of the letter: [youtube link](https://youtu.be/pGoRKBulj9Q){:target="_blank"}.
 
 <p align="center">🐋</p><br>
 
-Forest on a Magical Island, home to many whales 
+Forest on a Magical Island,<br>
+home to many whales<br> 
 New Moon, December 2021
 
 ## Wholehearted Greetings to You, Dearest Being of Light!
@@ -43,5 +44,8 @@ Stay courageous and beautiful.
 
 Thank you for Being.
 
-With Love and Light, as always,
+With Love and Light, as always,<br>
 Michał
+
+<hr>
+Donate 100
