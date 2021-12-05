@@ -46,6 +46,3 @@ Thank you for Being.
 
 With Love and Light, as always,<br>
 Michał
-
-<hr>
-Donate 100
