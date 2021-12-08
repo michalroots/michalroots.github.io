@@ -16,7 +16,7 @@ Michał
 
 The Cabin, 8 December 2021
 
-Dear JournalSmarter,
+## Dear JournalSmarter,
 
 It's your third birthday, if I remember correctly, and I felt that it is a perfect opportunity to write you a letter. I don't think I ever wrote to a brand, but strangely it doesn't feel weird at all. Let's see what happens.
 
