@@ -92,13 +92,13 @@ I feel much, much clearer on what is your vision for yourself.
 
 A playful reminder to journal.
 
-An inspiring guide showing not only what you can do with you can journal (so you stay excited about it), but also what is the magic that happens when you stay connected with yourself, which journaling helps you do regularly.
+An inspiring guide showing not only what you can do with your journal (so you are excited about it), but also what is the magic that happens when you stay connected with yourself, which journaling helps you do regularly.
 
-A community of people encouraging each other to co-create a beautiful world, with a funky, creative, loving, and playful flavour.
+A community of people encouraging each other to co-create a beautiful world where all beings can thrive, with a funky, creative, loving, and playful flavour.
 
 An infinite game worth playing and inviting others to play.
 
-The rest is to figure out some technical details of how to set it all up. Luckily, I'm going to talk to someone who can help me with this tomorrow. How wonderful.
+The rest is figuring out some technical details of how to set it all up. Luckily, I'm going to talk to someone who can help me with this tomorrow. How wonderful.
 
 I guess that concludes my letter to you.
 
