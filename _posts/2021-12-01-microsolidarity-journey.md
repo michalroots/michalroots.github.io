@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Microsolidarity Journey
-description: From a lone traveler to a community catalyst
+description: From lonely nomad to community catalyst
 image: 
 tags: [documentation]
 ---
