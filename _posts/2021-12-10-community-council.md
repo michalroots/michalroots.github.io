@@ -10,7 +10,7 @@ tags: [games]
 
 ![Community Council Cover](/assets/community-council-cover-small.jpg)
 
-You can **[get the 14-page pdf game manual here](https://payhip.com/buy?link=6vou){:target="_blank"}**. You can offer a donation to encourage me to create more games, or enter a coupon GIFT at checkout and get the game for free.
+You can **[get the 14-page pdf game manual here](https://payhip.com/buy?link=i1F9N){:target="_blank"}**. You can offer a donation to encourage me to create more games, or enter a coupon GIFT at checkout and get the game for free.
 
 The game was prototyped during [Pico Autumn Community Gathering](https://pico.microsolidarity.cc/projects/autumn-gathering-2021){:target="_blank"}.
 
