@@ -12,9 +12,9 @@ tags: [games]
 
 You can **[get the 14-page pdf game manual here](https://payhip.com/buy?link=i1F9N){:target="_blank"}**. You can offer a donation to encourage me to create more games, or enter a coupon GIFT at checkout and get the game for free.
 
-The game was prototyped during [Pico Autumn Community Gathering](https://pico.microsolidarity.cc/projects/autumn-gathering-2021){:target="_blank"}.
+The game was prototyped during [Pico Autumn Community Gathering](https://pico.microsolidarity.cc/projects/autumn-gathering-2021){:target="_blank"}. 
 
-Below is the preview of the manual.
+Below is the first section of the manual.
 
 <p align="center">🧙‍♂️</p><br>
 
@@ -67,5 +67,4 @@ You can also have a designated person to write down questions, requests and gift
 
 Alternatively, you can experiment with a rotating facilitator for each round.
 
-
-
+![Community Council Cover](/assets/community-council-break-small.jpg)
