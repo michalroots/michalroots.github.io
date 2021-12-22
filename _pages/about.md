@@ -29,7 +29,7 @@ michal dot korzonek at protonmail dot com<br>
 twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalkorzonek</a><br>
 
 ## Support 
-<a href="https://www.patreon.com/michalkorzonek" target="blank">Patreon</a><br>
+<b><a href="https://www.patreon.com/michalkorzonek" target="blank">Patreon</a><br></b>
 <a href="https://buymeacoffee.com/michalkorzonek" target="_blank">Buy Me A Coffee</a> <br>
 Send <a href="https://joinseeds.earth/" target="_blank"> SEEDS</a> to @michalkigule
 
