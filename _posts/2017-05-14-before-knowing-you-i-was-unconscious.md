@@ -5,12 +5,13 @@ description: A Love Letter to my home as I am about to leave it behind.
 image: /assets/edinburgh-rock.jpg
 tags: [letters]
 ---
+Context:
 
 Edinburgh will always be a foundational life chapter in my personal history. In fact, it feels more like my hometown, than the town where I was born.
 
 But, inevitably, every chapter eventually comes to an end, and at some point I felt a need to leave. My life was great, I loved the city and I had wonderful friends, but deep down I knew that if I stay for a bit longer I will get stuck here forever. It didn't feel like necessarily "bad thing", but my soul needed to grow, and the growth I was looking for involved leaving this magical city which will always be so dear to me.
 
-I wrote this letter two days before my departure, sitting on my favourite rock, not too far from where I took the photo below.
+I've said this letter out loud (and recorded it) two days before my departure, sitting on my favourite rock, not too far from where I took the photo below.
 
 <p align="center">🌀</p><br>
 ## Before knowing you I was unconscious.
@@ -57,3 +58,7 @@ Time to stand up and stretch my back. Time to move on.
 _Thank you for the time we have spent together._
 
 _Thank you for showing me everything that makes you you._
+
+🌀
+
+Since this was originally an audio recording, I've used parts of this letter to narrate the video diary I created in this powerful time of transition. It is one of these few pieces of myself that I revisit every now and then, and it puts me in a beautifully emotional state. Here's the [video](https://www.youtube.com/watch?v=SVeygd_Skfk){:target="_blank"} (youtube link).
