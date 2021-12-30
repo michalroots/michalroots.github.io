@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Epic Vegam Cheescake
+title: Epic Vegan Cheescake
 description: Delicious, vegan, sugar-free, and super easy to make.
 tags: [nomz]
 ---
-**This vegan, sugar-free cheesecake is fucking perfect.**
+**This vegan, sugar-free cheesecake is f.....g perfect.**
 
 🚨 for best results the cake needs 2-4 hours in the freezer before serving.
 
