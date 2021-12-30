@@ -3,7 +3,7 @@ layout: post
 title: Before Knowing You I Was Unconscious
 description: A Love Letter to my home as I am about to leave it behind.
 image: /assets/edinburgh-rock.jpg
-tags: #letters
+tags: [letters]
 ---
 
 Edinburgh will always be a foundational life chapter in my personal history. In fact, it feels more like my hometown, than the town where I was born.
