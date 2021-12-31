@@ -18,7 +18,7 @@ In other words: **I can't bullshit myself anymore that it's too hard. It just ta
 
 If you need more convincing on why ditch Google, there are some resources at the end of this post.
 
-Wanna chat about this? [Tweet me](https://twitter.com/michalkorzonek).
+Wanna chat about this? [Tweet me](https://twitter.com/michalkorzonek){:target="_blank"}.
 
 ## Using Google is a habit
 
