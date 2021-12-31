@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Google Free for 23
+title: Google Free before 23
 description: Freeing myself from Google
 image: 
 tags: [documentation]
 ---
 
-2023 is the time to finally ditch Google from my personal and professional life, as much as possible.
+2022 is the time to finally ditch Google from my personal and professional life, as much as possible.
 
 Why? Because:
 - I don't align with its values
@@ -17,6 +17,8 @@ Why? Because:
 In other words: **I can't bullshit myself anymore that it's too hard. It just takes some time.**
 
 If you need more convincing on why ditch Google, there are some resources at the end of this post.
+
+Wanna chat about this? [Tweet me](https://twitter.com/michalkorzonek).
 
 ## Using Google is a habit
 
@@ -46,7 +48,6 @@ I've decided to move to *Mojeek* as my primary search, and supplement it with DD
 I've quit youtube for music when I joined *Spotify*. I have a family premium account. Other alternatives I like are [Soundcloud](https://soundcloud.com){:target="_blank"} and [Bandcamp](https://bandcamp.com/){:target="_blank"} . The latter is a great way of supporting artists I love financially and downloading music for offline use, which will come in handy when I move to a sailboat ⛵️.
 
 <p align="center">⏳</p><br>
-
 ## Google Drive
 [Cryptdrive](https://cryptpad.fr/){:target="_blank"}
 
@@ -82,9 +83,7 @@ There are two problems with Proton Calendar:
 For now I started migrating some of my events there, and I'll continue the process over time.
 
 ## Youtube
-⚠️ research phase
-[D.tube](https://d.tube/){:target="_blank"}
-[Odysee](https://odysee.com/){:target="_blank"}
+⚠️ research phase: [D.tube](https://d.tube/){:target="_blank"} and [Odysee](https://odysee.com/){:target="_blank"}
 
 I just caught myself automatically going to youtube to look for something (LYT obsidian videos), which yet again brings me back to the idea that quitting Google is like quitting a bad habit.
 
@@ -100,6 +99,7 @@ I'm still not convinced to go with it and migrate all my youtube content there, 
 
 ## Google Analytics
  
+<hr>
 
 ## Resources
 - [Restore Privacy](https://restoreprivacy.com/){:target="_blank"} - an in-depth resource exploring digital privacy issues. This is my go-to website in that area at the moment.
