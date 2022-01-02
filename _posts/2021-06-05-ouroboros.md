@@ -2,7 +2,7 @@
 layout: post
 title: Ouroboros
 description: An interactive performance about ocean pollution and consumer lifestyle.
-image: /assets/ouroboros-1.jpg
+image: /assets/ouroboros-1.jpeg
 tags: [performance]
 ---
 
@@ -14,7 +14,7 @@ Video:
 - Short cut (0:52) - [youtube link](https://youtu.be/VKQn-VCkWCk){:target="_blank"}
 - Full timelapse (11:01) - [youtube link](https://www.youtube.com/watch?v=RfZwLx99B8E){:target="_blank"}
 
-![Michal on the ground](/assets/ouroboros-1.jog)
-![Michal and Austeja carrying a chest](/assets/ouroboros-2.jog)
-![Michal and Austeja in front of broken TV](/assets/ouroboros-3.jog)
-![Michal and Austeja covering the stage with a fishing net](/assets/ouroboros-4.jog)
+![Michal on the ground](/assets/ouroboros-1.joeg)<br>
+![Michal and Austeja carrying a chest](/assets/ouroboros-2.joeg)<br>
+![Michal and Austeja in front of broken TV](/assets/ouroboros-3.joeg)<br>
+![Michal and Austeja covering the stage with a fishing net](/assets/ouroboros-4.joeg)<br>
