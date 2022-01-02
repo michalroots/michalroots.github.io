@@ -6,7 +6,7 @@ image: /assets/ouroboros-1.jpeg
 tags: [performance]
 ---
 
-Ouroboros was a performance created by [Austeja Liupševičiūtė](https://austejaliu.com) and Michal Korzonek, showcased during Açores Entre Mares Festival in Lajes do Pico.
+Ouroboros was a performance created by [Austeja Liupševičiūtė](https://austejaliu.com){:target="_blank"} and Michal Korzonek, showcased during Açores Entre Mares Festival in Lajes do Pico.
 
 5 June 2021
 
