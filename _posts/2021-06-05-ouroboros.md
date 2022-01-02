@@ -14,6 +14,7 @@ Video:
 - Short cut (0:52) - [youtube link](https://youtu.be/VKQn-VCkWCk){:target="_blank"}
 - Full timelapse (11:01) - [youtube link](https://www.youtube.com/watch?v=RfZwLx99B8E){:target="_blank"}
 
+
 ![Michal on the ground](/assets/ouroboros-1.jpeg)<br>
 ![Michal and Austeja carrying a chest](/assets/ouroboros-2.jpeg)<br>
 ![Michal and Austeja in front of broken TV](/assets/ouroboros-3.jpeg)<br>
