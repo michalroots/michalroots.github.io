@@ -75,10 +75,11 @@ The habit-building work begins here. I created my free protonmail account and st
 ## Google Calendar
 Proton Calendar
 
-There are two problems with Proton Calendar:
+There are three problems with Proton Calendar:
 
 - the design on mobile is quite poor for my use case, and since I have to use the dedicated app I can't fix it with a third-party app
 - development cycles in Proton are ridiculously long.
+- can it work with calendly or other scheduling tool?
 
 For now I started migrating some of my events there, and I'll continue the process over time.
 
