@@ -4,7 +4,7 @@
  <title>Michał Korzonek</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-12-01T15:53:48-01:00</updated>
+ <updated>2022-01-02T13:13:56-01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michal Korzonek</name>
@@ -13,15 +13,493 @@
 
  
  <entry>
+   <title>Gratitude Mandala</title>
+   <link href="http://localhost:4000/gratitude-mandala-2021"/>
+   <updated>2022-01-02T00:00:00-01:00</updated>
+   <id>http://localhost:4000/gratitude-mandala-2021</id>
+   <content type="html">&lt;p&gt;Every year I draw a &lt;a href=&quot;https://journalsmarter.com/gratitude-mandala&quot; target=&quot;_blank&quot;&gt;Gratitude Mandala&lt;/a&gt;, which includes beings I’m grateful for in the year that has ended. It’s a part of my yearly review since 2019.&lt;/p&gt;
+
+&lt;p&gt;Here’s the mandala from 2021:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-mandala-2021.jpg&quot; alt=&quot;Gratitude Mandala 2021&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve been reconnecting with my letter writing practice recently, and I’ve decided to make some of the letters public. Here’s the list:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/to-kiks&quot;&gt;To Kiks&lt;/a&gt; - a letter to Kiki, a wonderful cat that lives with me&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Google Free before 23</title>
+   <link href="http://localhost:4000/google-free"/>
+   <updated>2021-12-31T00:00:00-01:00</updated>
+   <id>http://localhost:4000/google-free</id>
+   <content type="html">&lt;p&gt;2022 is the time to finally ditch Google from my personal and professional life, as much as possible.&lt;/p&gt;
+
+&lt;p&gt;Why? Because:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;I don’t align with its values&lt;/li&gt;
+  &lt;li&gt;I’m disturbed by the insane power that a single corporation has&lt;/li&gt;
+  &lt;li&gt;There are plenty of functional and awesome alternatives&lt;/li&gt;
+  &lt;li&gt;I’m done sacrificing my values for convenience&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In other words: &lt;strong&gt;I can’t bullshit myself anymore that it’s too hard. It just takes some time.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If you need more convincing on why ditch Google, there are some resources at the end of this post.&lt;/p&gt;
+
+&lt;p&gt;Wanna chat about this? &lt;a href=&quot;https://twitter.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Tweet me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;using-google-is-a-habit&quot;&gt;Using Google is a habit&lt;/h2&gt;
+
+&lt;p&gt;As I embarked on this journey, I noticed that &lt;strong&gt;quitting google is very similar to quitting a bad habit&lt;/strong&gt;. Over numerous year of interacting with the internet, I have conditioned myself to default to google, and it’s not easy at all to give it up.&lt;/p&gt;
+
+&lt;p&gt;This is a powerful realisation, because I am a certified habit building coach, and I have worked with clients (and myself) in the area of habit building for quite some time. This means I know exactly how to approach this situation effectively, or at least give it my best shot.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The critical idea in habit-building is to steadily keep moving forward with a tiny habit, rather than overcommitting.&lt;/strong&gt; This is why I don’t intend to migrate away from google in a week or so, but rather see it as an ongoing process, which I’m going to document here.&lt;/p&gt;
+
+&lt;p&gt;Here’s my (ongoing) process:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;✅&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;google-chrome&quot;&gt;Google Chrome&lt;/h2&gt;
+&lt;p&gt;I always preferred &lt;a href=&quot;https://www.mozilla.org/en-GB/firefox/new/&quot; target=&quot;_blank&quot;&gt;Firefox&lt;/a&gt;. &lt;a href=&quot;https://brave.com/&quot; target=&quot;_blank&quot;&gt;Brave&lt;/a&gt; is cool too (I use it on mobile). Easy peasy.&lt;/p&gt;
+
+&lt;h2 id=&quot;google-search&quot;&gt;Google Search&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.mojeek.com/&quot; target=&quot;_blank&quot;&gt;Mojeek&lt;/a&gt; + &lt;a href=&quot;https://duckduckgo.com/&quot; target=&quot;_blank&quot;&gt;DuckDuckGo&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I swapped to &lt;em&gt;DuckDuckGo&lt;/em&gt; years ago and it used to be my default search engine until I read this &lt;a href=&quot;https://restoreprivacy.com/private-search-engine/&quot; target=&quot;_blank&quot;&gt;amazing article&lt;/a&gt; exploring private search engines. Turns out DDG stores some information, plus it is US-based, which doesn’t inspire my confidence at all.&lt;/p&gt;
+
+&lt;p&gt;I’ve decided to move to &lt;em&gt;Mojeek&lt;/em&gt; as my primary search, and supplement it with DDG whenever necessary.&lt;/p&gt;
+
+&lt;h2 id=&quot;youtube-for-music&quot;&gt;Youtube for music&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://spotify.com/&quot; target=&quot;_blank&quot;&gt;Spotify&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ve quit youtube for music when I joined &lt;em&gt;Spotify&lt;/em&gt;. I have a family premium account. Other alternatives I like are &lt;a href=&quot;https://soundcloud.com&quot; target=&quot;_blank&quot;&gt;Soundcloud&lt;/a&gt; and &lt;a href=&quot;https://bandcamp.com/&quot; target=&quot;_blank&quot;&gt;Bandcamp&lt;/a&gt; . The latter is a great way of supporting artists I love financially and downloading music for offline use, which will come in handy when I move to a sailboat ⛵️.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;⏳&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;google-drive&quot;&gt;Google Drive&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://cryptpad.fr/&quot; target=&quot;_blank&quot;&gt;Cryptdrive&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I love cryptdrive and it was a no-brainer to switch. I’m using it for all new files, but I still need to migrate documents from Google Drive.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, this is one of these things that have a tendency of sending me down a rabbit hole of over organising folders etc. I admit my drive is a combination of well organised &lt;a href=&quot;https://fortelabs.co/blog/para/&quot; target=&quot;_blank&quot;&gt;PARA system&lt;/a&gt; and a folder with all the mess that I made over the years, which I never got to really clean up.&lt;/p&gt;
+
+&lt;p&gt;It’s worth noting here that I’m redesigning my computer experience for &lt;em&gt;offline-first&lt;/em&gt; and &lt;em&gt;&lt;a href=&quot;https://obsidian.md/&quot; target=&quot;_blank&quot;&gt;obsidian&lt;/a&gt;-centered&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;gmail&quot;&gt;Gmail&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://protonmail.com/&quot; target=&quot;_blank&quot;&gt;Protonmail&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After going on a rabbit hole of research triggered by this &lt;a href=&quot;https://restoreprivacy.com/email/secure/&quot; target=&quot;_blank&quot;&gt;article&lt;/a&gt;  about secure emails, I reached a conclusion that there is no fully private option on the market. Even Protonmail and Tutanota have serious issues.&lt;/p&gt;
+
+&lt;p&gt;After considering different pros and cons, I made my decision to go with protonmail. It’s not perfect, but definitely better than gmail.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, this is where the migration becomes tricky.&lt;/p&gt;
+
+&lt;p&gt;1) All my digital world relies on multiple @gmail addresses and the process of moving to Proton is essentially an opportunity to practice one of the virtues I’m not so good at – patience.&lt;/p&gt;
+
+&lt;p&gt;2) My recovering-perfectionist mind wants me to create a perfect combination of email addresses, for personal, work and secret purposes.&lt;/p&gt;
+
+&lt;p&gt;The habit-building work begins here. I created my free protonmail account and started using it for creating new accounts, subscriptions etc. I’ll eventually move to a paid plan, as I ditch my business google accounts.&lt;/p&gt;
+
+&lt;h2 id=&quot;google-calendar&quot;&gt;Google Calendar&lt;/h2&gt;
+&lt;p&gt;Proton Calendar&lt;/p&gt;
+
+&lt;p&gt;There are three problems with Proton Calendar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the design on mobile is quite poor for my use case, and since I have to use the dedicated app I can’t fix it with a third-party app&lt;/li&gt;
+  &lt;li&gt;development cycles in Proton are ridiculously long.&lt;/li&gt;
+  &lt;li&gt;can it work with calendly or other scheduling tool?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For now I started migrating some of my events there, and I’ll continue the process over time.&lt;/p&gt;
+
+&lt;h2 id=&quot;youtube&quot;&gt;Youtube&lt;/h2&gt;
+&lt;p&gt;⚠️ research phase: &lt;a href=&quot;https://d.tube/&quot; target=&quot;_blank&quot;&gt;D.tube&lt;/a&gt; and &lt;a href=&quot;https://odysee.com/&quot; target=&quot;_blank&quot;&gt;Odysee&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I just caught myself automatically going to youtube to look for something (LYT obsidian videos), which yet again brings me back to the idea that quitting Google is like quitting a bad habit.&lt;/p&gt;
+
+&lt;p&gt;I noticed though, so I went on to try alternatives. &lt;em&gt;Dtube&lt;/em&gt; gave me nothing, but &lt;em&gt;Odysee&lt;/em&gt; shown more promising results.&lt;/p&gt;
+
+&lt;p&gt;I’m still not convinced to go with it and migrate all my youtube content there, but I am considering it.&lt;/p&gt;
+
+&lt;h2 id=&quot;google-photos&quot;&gt;Google Photos&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.piwigo.org/&quot;&gt;Piwigo&lt;/a&gt;?&lt;/p&gt;
+
+&lt;h2 id=&quot;google-translate&quot;&gt;Google Translate&lt;/h2&gt;
+
+&lt;h2 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://restoreprivacy.com/&quot; target=&quot;_blank&quot;&gt;Restore Privacy&lt;/a&gt; - an in-depth resource exploring digital privacy issues. This is my go-to website in that area at the moment.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/fasterthanlime/status/1452053938195341314&quot; target=&quot;_blank&quot;&gt;Twitter thread&lt;/a&gt; summarizing key points of 173 pages of the unredacted Google antitrust filing&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://koshinan.com/how-to-completely-ditch-google/&quot; target=&quot;_blank&quot;&gt;Article on how to ditch google&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>To Kiks</title>
+   <link href="http://localhost:4000/to-kiks"/>
+   <updated>2021-12-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/to-kiks</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;This letter is the first I wrote, on my &lt;a href=&quot;/gratitude-mandala-2021&quot;&gt;Gratitude Mandala&lt;/a&gt; journey – expressing gratitude to all beings that I feel grateful for in my year.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;🐈&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;30 December 2021&lt;/p&gt;
+
+&lt;p&gt;Dear Kiki,&lt;/p&gt;
+
+&lt;p&gt;I’m writing this letter to you, while you chill on my back. It’s noticeably colder today and I’m grateful that you are so committed to being as close as possible to me, whenever I’m sitting or lying down, like I am right now.&lt;/p&gt;
+
+&lt;p&gt;I’m doing this thing of writing letters to people that I feel very grateful for in 2021, and as I’ve been reflecting on that list, I’ve noticed that you are missing. You are not a person, but it’s obvious to me that I should rename my list to “Beings I’m grateful for”. And you are certainly one of them.&lt;/p&gt;
+
+&lt;p&gt;I absolutely love our co-living arrangement. It’s wonderful to feel your presence and play around with you. You brought me so much laughter when you were climbing the ladder, chilling with your body rolled into a pretzel, or simply being. You are activating a part of me that I love seeing more and more - playful, present, connected with myself and agile. I feel like you have a lot to teach me, and I’m grateful that you choose to live with me. Ultimately you are free, and that makes me happy. I guess this is obvious to you, but in the human world we’re conditioned to say nonsense like “my cat”. For some reason we claim ownership on another being, which I find, frankly speaking, ridiculous.&lt;/p&gt;
+
+&lt;p&gt;You are your own being, and you are free to be here with me, or, if you choose, go somewhere else. I’d of course miss your presence, but I’d be okay. In the meantime, I’m happy to provide shelter, company, and food, and all the space you need to explore and live. I admit that I’d love to experience a day as your shadow once, to see what you are doing when you’re in the forest. Who knows, maybe one day I’ll have a chance. In fact, it seems like a perfect adventure to embark on: to be a cat’s shadow. I’m sure I’d learn a lot.&lt;/p&gt;
+
+&lt;p&gt;For now though, I’d just like to tell you one more time that I’m super grateful to have met you and watch your growth from a little cub who came on my lap immediately, to this wonderful healthy young adult that you now are.&lt;/p&gt;
+
+&lt;p&gt;I wish you all that is most beautiful for you in the coming year, although I have limited understanding of what it might be.&lt;/p&gt;
+
+&lt;p&gt;Thank you for Being,
+Michał&lt;/p&gt;
+
+&lt;p&gt;ps. I’m also grateful for the name I channeled for you. It really does suit you, you little cheeksto.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Community Council</title>
+   <link href="http://localhost:4000/community-council"/>
+   <updated>2021-12-10T00:00:00-01:00</updated>
+   <id>http://localhost:4000/community-council</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;A Collaborative Game to Catalyse Your Community&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/community-council-cover-small.jpg&quot; alt=&quot;Community Council Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You can &lt;strong&gt;&lt;a href=&quot;https://payhip.com/buy?link=i1F9N&quot; target=&quot;_blank&quot;&gt;get the 14-page pdf game manual here&lt;/a&gt;&lt;/strong&gt;. You can offer a donation to encourage me to create more games, or enter a coupon GIFT at checkout and get the game for free.&lt;/p&gt;
+
+&lt;p&gt;The game was prototyped during &lt;a href=&quot;https://pico.microsolidarity.cc/projects/autumn-gathering-2021&quot; target=&quot;_blank&quot;&gt;Pico Autumn Community Gathering&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Below is the first section of the manual.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;🧙‍♂️&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;purpose&quot;&gt;Purpose&lt;/h2&gt;
+&lt;p&gt;The Community Council is a collaborative meta-game, designed to &lt;strong&gt;catalyze projects and facilitate community weaving.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;The game moves through six rounds&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Opening&lt;/strong&gt; – mindfully transitioning into the game&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Calls&lt;/strong&gt; - starting projects for the benefit of the community&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Questions&lt;/strong&gt; - accessing collective intelligence&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Requests&lt;/strong&gt; - verbalizing needs&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gifts&lt;/strong&gt; - giving from the heart&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Closing&lt;/strong&gt; - providing closure to the experience&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;The game is modular.&lt;/strong&gt; Start with the opening, end with the closing, and pick other rounds to go through as desired. Note that new communities tend to call numerous projects, and it might be beneficial to extend the Round of Calls during the first game, even if you’d have to skip the other rounds. Play it by ear.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Allow around two hours to play the game&lt;/strong&gt;. It’s hard to keep focus in the group for longer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The game can be played as a recurring activity&lt;/strong&gt;, for example monthly or bi-annually, providing a rhythm to the community.&lt;/p&gt;
+
+&lt;p&gt;The game is designed for &lt;strong&gt;presential play in a group of 5-15 people&lt;/strong&gt;, although it can be adapted for a different group size, as well as virtual play.&lt;/p&gt;
+
+&lt;p&gt;Use this manual as a blueprint and &lt;strong&gt;create new iterations of the game&lt;/strong&gt; that would suit better the context of your community.&lt;/p&gt;
+
+&lt;p&gt;Feel free to &lt;strong&gt;share your experiments with me&lt;/strong&gt; – you’ll find my contact details at the end of this manual.&lt;/p&gt;
+
+&lt;h2 id=&quot;materials&quot;&gt;Materials&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Big piece of paper (ideally A3 or bigger) for the &lt;em&gt;Community Map&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Pens or pencils, one per person&lt;/li&gt;
+  &lt;li&gt;(optional, but useful) one permanent marker&lt;/li&gt;
+  &lt;li&gt;counters (eg. stones, dried chickpea), three per person&lt;/li&gt;
+  &lt;li&gt;post-its or index cards, four per person&lt;/li&gt;
+  &lt;li&gt;up to four blank sheets of A4 paper for the list(s) that will be created during the game.&lt;/li&gt;
+  &lt;li&gt;(optional, but fun) a gong or bell for the timekeeping&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;community-map&quot;&gt;Community Map&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;The big piece of paper will serve as a shared artifact collecting ideas.&lt;/strong&gt; You can draw an actual map of your community to reinforce your local context, or keep it blank.&lt;/p&gt;
+
+&lt;h2 id=&quot;facilitation&quot;&gt;Facilitation&lt;/h2&gt;
+&lt;p&gt;The game is designed to allow the facilitator to play. To make it easier, I highly recommend distributing the roles between participants.&lt;/p&gt;
+
+&lt;h3 id=&quot;roles&quot;&gt;Roles&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Facilitator&lt;/strong&gt;: reading this manual, prepping in advance, guiding the process.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Time Keeper&lt;/strong&gt;: keeping an eye on the flow of time, eg. with a gong or timer ringing every 30m, or timing each round.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Connection Keeper&lt;/strong&gt; –&amp;gt; compiling the List of Connections during the round of &lt;em&gt;Calls&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You can also have a designated person to write down questions, requests and gifts, although this can be more intimate space and participants might feel more comfortable if no record would be made. Feel into it.&lt;/p&gt;
+
+&lt;p&gt;Alternatively, you can experiment with a rotating facilitator for each round.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/community-council-break-small.jpg&quot; alt=&quot;Community Council Cover&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>the Dreams</title>
+   <link href="http://localhost:4000/the-dreams"/>
+   <updated>2021-12-09T00:00:00-01:00</updated>
+   <id>http://localhost:4000/the-dreams</id>
+   <content type="html">&lt;p&gt;I wrote this letter to a dear friend after a multi-year gap in communications. It was always on my mind to write to her, but somehow I never did. I guess the letter was waiting for the right time to be channeled and it happened to be today.&lt;/p&gt;
+
+&lt;p&gt;This is a reminder to myself, and to you, if you so desire, that it’s always okay to reconnect with Beautiful Souls encountered on the journey of life.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;☽&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s been a while since I wrote this kind of letter to a friend, so thanks for the opportunity. And, first of all – HELLO!!! You can perhaps feel a wholehearted playful hugging energy arriving into your body as you read these words.&lt;/p&gt;
+
+&lt;p&gt;I’m sitting on a floor in a tiny wooden cabin, 3x3 meters, in the middle of a beautiful forest with a view towards the ocean surrounding this wonderful island which is my home for almost 2 years. The island is called Pico, and you can find it around 1/3 way from continental Portugal towards the US. I came here for two months during my nomadic traveling period, and never took the flight back. In fact, I’m now looking for land, whether in this island, or the neighbouring one called Faial (there are 9 islands in the Azores archipelago). It’s a wonderful place. If you ever feel like visiting, you’re more than welcome.&lt;/p&gt;
+
+&lt;p&gt;It’s a very particular time in my life because recently, close to the November’s Full Moon, a new cycle of my life has begun. It was not something that I expected, and it hit me suddenly without any notice, during the last night in Lisbon, before coming back to the Azores. This new cycle is about manifesting dreams.&lt;/p&gt;
+
+&lt;p&gt;I’ve spent the last few years learning the ropes of entrepreneurship, and it was a tough fucking ride. I really loved the freedom of traveling whenever I want, working for myself and doing something I like doing, but there was also a darker side which manifested in different ways – perfectionism, procrastination, stuckness, feeling of lacking, confusion, frustration, disappointment, disillusionment. I’ve learnt a lot through that process, and to be honest with you, I had a total blast, despite the challenges. Plus I got to travel to some amazing places. Japan, which I absolutely adored. Thailand, which changed me deeply. Edinburgh, which I revisited for a short while and experienced the contrast between my new and the old self who used to live there for seven years. I feel like Edinburgh will always be a very special place for me. A lot of the processes which are happening now started there, many years ago. Ah, and I also spent some time housesitting, which was a wonderful opportunity to stay in some exciting homes, but primarily, to connect with animals on a deeper level. Btw, around an hour ago, a cat that lives with me, Kiki, was defending the house from some forest creature, with continuous loud meowing, growling and hissing. It was kinda scary and hilarious at the same time. She’s quite a character. I guess all cats are.&lt;/p&gt;
+
+&lt;p&gt;Let me tell you about Dreams.&lt;/p&gt;
+
+&lt;p&gt;I’ve spent this summer living in a forest, with a dear friend as a neighbour. She’s a Lithuanian forest witch and a beautiful soul. Being in between the trees right on the ocean cliff was a special moment in space and time. I was sinking into the forest floor every night and felt a growing awareness of what I refer to now as intuition – a feeling of what is the next action to take, that is the most beneficial for All. I’ve been tuning myself more and more to it, and whenever I can reach this deep connected state, magical things happen.&lt;/p&gt;
+
+&lt;p&gt;And then I went from the forest, into the city. I didn’t feel like leaving from Pico and the Forest, but I broke my front tooth earlier in May, and decided not to be a pirate for life (at least visually speaking) and replace it with a fake one, which was a complicated procedure requiring two trips to the mainland, one in June, one in September. June was the first time I was back in a city environment after over a year in an island without a single traffic light. It was shocking, especially with all the Fear creeping everywhere. And yet, I spent a lot of time dancing in public spaces, being free, and bringing a sense of hope and joy to random people who noticed me around. But I couldn’t wait to come back to Pico.&lt;/p&gt;
+
+&lt;p&gt;The trip in September was the most powerful journey in my life so far. After Being in the forest, I’ve been so tuned into myself, that I sunk into a deep meditative state for three weeks. It didn’t last the whole time of course, but a big chunk of it. I spent most of my waking hours walking. I would wake up, prepare cacao, have some food, and walk, walk, walk, walk, walk, walk, walk for hours and hours. I often listened to Tibetan gongs as I walked, which kept me grounded and aware. I’ve spent three weeks, going back and forth (by train) between Porto, where my dental appointments were, and Lisbon, where I wanted to be on all the days in between. And then walk and walk and walk in these two cities.&lt;/p&gt;
+
+&lt;p&gt;As I kept walking, I opened myself to something. I’ve never experienced such an overwhelming amount of synchronicities, beautiful encounters with strangers, and moments of connection. I know that this tends to happen during travels, but this was a whole new level of abundance. I felt touched deeply, noticed numerous patterns in myself which I wasn’t aware of, and experienced some insights which reframed how I am and want to be in the world.&lt;/p&gt;
+
+&lt;p&gt;The final part of the trip was holding a wedding ceremony for my dear friend, who didn’t want to get married in a church, and asked me to perform the ceremony. It was magical. I’d love to do more of these in the future. If you know of someone who wants to celebrate their love, whether it’s a romantic relationship or a friendship, with a beautiful ceremony, I’m available.&lt;/p&gt;
+
+&lt;p&gt;Shortly after the wedding I went back to Pico, to co-host a community gathering. This is actually worth a quick intermission in between travel stories. My arrival to Pico coincided with coming across a community building framework called microsolidarity. It resonated with me a lot, and I thought – hey, let’s do it in Pico and see what happens. Well… A year later, we’ve had two gatherings, have a few community projects going, and a few more sprouting over the surface. I feel like I have family in the island, and I have a feeling I’m not the only person who feels this way. And I’ve taken a role of catalyst and documenter of this community and I’m really enjoying the process. A big dream for this lifecycle is to co-create Azores Regenerative Network, and travel between the nine islands on a sailboat and catalyse local community projects.&lt;/p&gt;
+
+&lt;p&gt;So… I arrive back to Pico, getting ready to host the gathering, and I have this feeling that I need to come back to the Mainland. There’s something awaiting me there. I kinda waited for an excuse and a few days later I’ve seen an invite to a tree-planting gathering in a part of continental Portugal called Alentejo, so I booked my flights for right after the Pico gathering. From one to another…&lt;/p&gt;
+
+&lt;p&gt;There was a good reason though.&lt;/p&gt;
+
+&lt;p&gt;Being in the mainland again, and it really felt like a continuation of the previous trip, but with a different flavour, made some things very clear to me:&lt;/p&gt;
+
+&lt;p&gt;1) There is a growing amount of people already living in a different culture. By different, I mean not part of the mess of a mainstream capitalist system that’s eating our souls and the planet. The alternative is not very clearly defined, because we’re all experimenting, and it takes time, but it’s based on love, openness, connection, living close to the land, regenerating… We feel it intuitively. It kinda makes sense that this is growing, considering the hyper pumping of fear in the last few years, and the fact that light requires darkness and vice versa. But it also makes my heart smile. The alternative we’re creating is just so much more appealing, that it’s just a matter of time. Of course, there will be some challenges and times of darkness during that time, but all we need to do is shine. The big shift has happened. I was writing about it in my recent Moonly Review, which is a practice that I do for a year now and really enjoy – every 🌑 and 🌕 I write about what’s been alive in me in this cycle and publish it. It keeps me accountable and hopefully brings some good vibes to a few people who read it. I really enjoy writing and publishing my words. I’m now experimenting with reading my letters out loud, but it’s still something very new.&lt;/p&gt;
+
+&lt;p&gt;2) My entrepreneurial journey disconnected me a bit from my big dreams. They were still there, but hidden, barely noticeable. It was necessary though, so I can learn how to overcome the challenges I mentioned earlier. But after encountering people who have Big, beautiful dreams and actually manifest a lot of them, I can’t help but notice that so can I. I’m not special in that sense, anyone can. It’s just the matter of finding a way.&lt;/p&gt;
+
+&lt;p&gt;So, the Dreams.&lt;/p&gt;
+
+&lt;p&gt;I’m reconnecting with the practice of writing letters, and I’d love to do it as a lifestyle. Ideally combined with walking, of course.&lt;/p&gt;
+
+&lt;p&gt;I’m catalysing a beautiful community in Pico, and soon beginning my work in the neighbouring islands, as I move towards co-creating an archipelago-wide network. I’m in the process of making this my paid work, which would be a bliss, although I’d do it anyway.&lt;/p&gt;
+
+&lt;p&gt;I’m living in a tiny house, which is not mine, but it’s a perfect opportunity to prototype my ideal living scenario – a tiny house in the middle of an agroforest, with good friends as neighbours within a walking distance. All I need is to find the land, which is already in the process.&lt;/p&gt;
+
+&lt;p&gt;I feel called to Brazil, so I’m co-creating a sailing trip for the next season (Nov/Dec 2022). I met some amazing people in my recent travels and it seems that we can make it happen. It’s not just about the trip, but also about promoting a different mode of travel – slower, rather than faster, and using the time in between for deep personal and relational growth that can benefit the world.&lt;/p&gt;
+
+&lt;p&gt;There’s still some blockage around my online journaling business, but I’m getting more clarity on that – I’d like to keep creating journaling games that help people reconnect with themselves regularly, making it easier to stay aligned and embody their values no matter the challenges that life throws at them.&lt;/p&gt;
+
+&lt;p&gt;I also dream of a beautiful world where all beings can thrive, and I guess, these are my tiny little roles to play in making it possible.&lt;/p&gt;
+
+&lt;p&gt;Dreaming is easy though. The challenge is to manifest the dreams.&lt;/p&gt;
+
+&lt;p&gt;But I feel that in this cycle it is all possible.&lt;/p&gt;
+
+&lt;p&gt;Let’s see what happens.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;That’s a bit about what’s going on in my life right now.&lt;/p&gt;
+
+&lt;p&gt;Tell me what’s your world been and is like and what are the Dreams you’re manifesting!&lt;/p&gt;
+
+&lt;p&gt;Sending a big hug from the forest 🌳.&lt;br /&gt;
+Michał&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>📖🎉 Unexpected Birthday Letter</title>
+   <link href="http://localhost:4000/unexpected-birthday-letter"/>
+   <updated>2021-12-08T00:00:00-01:00</updated>
+   <id>http://localhost:4000/unexpected-birthday-letter</id>
+   <content type="html">&lt;p&gt;What you’re about to read could use three sentences of context.&lt;/p&gt;
+
+&lt;p&gt;I felt stuck with the direction for JournalSmarter, so I decided to write a letter to it. I’ve been recently reconnecting with writing letters, which is one of my favourite things to do. I hope that what this one helps to create will bring you as much joy as it does to me as I finish writing these words of introduction, after reading the whole letter you’re about to read.&lt;/p&gt;
+
+&lt;p&gt;Michał&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;📖🎉&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Cabin, 8 December 2021&lt;/p&gt;
+
+&lt;h2 id=&quot;dear-journalsmarter&quot;&gt;Dear JournalSmarter,&lt;/h2&gt;
+
+&lt;p&gt;It’s your third birthday, if I remember correctly, and I felt that it is a perfect opportunity to write you a letter. I don’t think I ever wrote to a brand, but strangely it doesn’t feel weird at all. Let’s see what happens.&lt;/p&gt;
+
+&lt;p&gt;I’m writing to you because I’m struggling to figure out what do you want to be. Since I’m one of your parents, I feel responsible to equip you with everything you need to unfold your wings and fly. I’m totally in your corner. In fact, I’m deeply linked with you and you’ll always be a part of my identity, even if our paths might separate one day.&lt;/p&gt;
+
+&lt;p&gt;I was actually pondering today, as I was walking in my favourite part of the Island, if we should part. It was a precious realisation that we indeed can.  I’m not enslaved by you in any way. In fact, I choose to give my energy to you and continue on this path, at least for now.&lt;/p&gt;
+
+&lt;p&gt;But, I admit, I’m confused about what’s next.&lt;/p&gt;
+
+&lt;p&gt;Are you?&lt;/p&gt;
+
+&lt;p&gt;I’d really love to connect with you and feel into what do you want. I know that it’s not just about me, and in fact, the best results are the co-created ones.&lt;/p&gt;
+
+&lt;p&gt;So… Would you like to share?&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;Well… That’s unexpected question to answer. I guess… No, I feel that the name doesn’t resonate with me very much. It’s a good, solid name, but it doesn’t represent accurately what I want to be, which is intuitive journaling. Intuition over mind. Being connected instead of being smart. You get my drift? There’s nothing wrong with smartness, but you know very well that mind plays tricks, and often disconnects you from what your heart knows.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;I see your point. The word “intuitive” has been important for me lately, and intuition is definitely something I’d like to explore more. And I mean it, not as just yet another thing I say I’d like to do. This is for real.&lt;/p&gt;
+
+&lt;p&gt;And journaling plays an important role in that process.&lt;/p&gt;
+
+&lt;p&gt;In fact, it’s one of the most effective practices that I do consistently that reconnect me with myself and therefore my intuition. My journal is something I always carry with me. Seriously, people laugh at me, that I always carry my backpack, but I just don’t want to leave my journal behind wherever I go. It’s a physical reminder that I can always access &lt;em&gt;any&lt;/em&gt; part of myself. Of course, I don’t really need my journal for that, but it’s a gateway that makes it much, much easier.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;That makes sense. Now, imagine what the world could be like if a lot of people would act from a place of being grounded, aligned and connected with themselves. Whenever you’re grounded you can face any challenge with peace and kindness. You can stay clear on your path and don’t get distracted. You can sense-make your experience and filter signal from noise, and consciously decide what to do with it.&lt;/p&gt;
+
+&lt;p&gt;In a nutshell, being connected with yourself is a powerful state and it shapes whatever it is that you’re creating with your life. What you do matters, but who you are matters too. Journaling is a daily check, showing you who you really are, on an ongoing basis, which is a precious gift.&lt;/p&gt;
+
+&lt;p&gt;Do you know why?&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;Awareness informs action. I’ve experienced that numerous times when connecting with myself on the pages of my journal. But I’d like to focus our conversation on what you want to become.&lt;/p&gt;
+
+&lt;p&gt;I feel that you have something more specific to share on that. I’d really love to hear it!&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;I’ll get there, but first, an unexpected curve ball.&lt;/p&gt;
+
+&lt;p&gt;I know that you like documenting the process of making beautiful ideas happen. That’s essentially a form of public journaling. You log your process, sense-make your experience, and share it with the world. And people appreciate that, because what you are documenting is important to be documented.&lt;/p&gt;
+
+&lt;p&gt;It’s not about the format, it’s about what the format allows.&lt;/p&gt;
+
+&lt;p&gt;Journaling is a format for self-connection. For cultivating deep self-awareness. For sense-making. For constantly becoming a beautiful person.&lt;/p&gt;
+
+&lt;p&gt;There are thousand ways, or specific formats if you’d like, for how this can be done, and this is your freaking superpower – you can turn anything into a journaling practice and share it in a clear and actionable way that’s fun to do. You’re creating games. Journaling Games. That’s a good name, by the way, keep a note of it, but don’t get too attached, okay? It’s not about the freaking name. It’s about what journaling allows – realigning daily and moving forward on the path no matter the challenge.&lt;/p&gt;
+
+&lt;p&gt;Now, here’s another important component, so pay attention – this process can benefit anyone, but you’ve learned the hard way that in the digital world this doesn’t work. But it’s not just about for specific target audience you define through some marketing framework, but about people who resonate with the vibe you are creating.&lt;/p&gt;
+
+&lt;p&gt;Let me tell you about my vibe.&lt;/p&gt;
+
+&lt;p&gt;It’s a vibe of play. Kindness. Making the world a better place, starting today and continuing tomorrow. It’s a vibe of joy and appreciating life for the beauty the world showers us with everyday. It’s a vibe of encouragement to keep going, especially when it’s hard. It’s about encouraging people to shine. You know how to do this. You are already doing it. You always were. So why do you feel so stuck? Because, here’s the punch – you actually aren’t.&lt;/p&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;p&gt;Hmm… Thank you for saying that. I wasn’t expecting it, but then again, I wasn’t expecting to write a letter to a brand I’ve created. I feel like laughing for a bit, so I will, I hope that’s okay.&lt;/p&gt;
+
+&lt;p&gt;In fact I’ll take a moment to move my body a little bit, because I really need it. It’s beautiful to notice that as I write this I’m becoming more and more connected with myself. Thank you for that. That’s the magic of writing letters.&lt;/p&gt;
+
+&lt;p&gt;(He dances.)&lt;/p&gt;
+
+&lt;p&gt;It’s funny.&lt;/p&gt;
+
+&lt;p&gt;Whenever I start dancing good things happen.&lt;/p&gt;
+
+&lt;p&gt;I feel much, much clearer on what is your vision for yourself.&lt;/p&gt;
+
+&lt;p&gt;A playful reminder to journal.&lt;/p&gt;
+
+&lt;p&gt;An inspiring guide showing not only what you can do with your journal (so you are excited about it), but also what is the magic that happens when you stay connected with yourself, which journaling helps you do regularly.&lt;/p&gt;
+
+&lt;p&gt;A community of people encouraging each other to co-create a beautiful world where all beings can thrive, with a funky, creative, loving, and playful flavour.&lt;/p&gt;
+
+&lt;p&gt;An infinite game worth playing and inviting others to play.&lt;/p&gt;
+
+&lt;p&gt;The rest is figuring out some technical details of how to set it all up. Luckily, I’m going to talk to someone who can help me with this tomorrow. How wonderful.&lt;/p&gt;
+
+&lt;p&gt;I guess that concludes my letter to you.&lt;/p&gt;
+
+&lt;p&gt;Happy Birthday, JournalSmarter!&lt;/p&gt;
+
+&lt;p&gt;📖✨&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>You Are Essential</title>
+   <link href="http://localhost:4000/you-are-essential"/>
+   <updated>2021-12-04T00:00:00-01:00</updated>
+   <id>http://localhost:4000/you-are-essential</id>
+   <content type="html">&lt;p&gt;Note: this letter was inspired, and is dedicated to all the wonderful humans (and whales) of &lt;a href=&quot;https://diatom.fund/&quot; target=&quot;_blank&quot;&gt;Diatom DAO&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Video version of the letter: &lt;a href=&quot;https://youtu.be/pGoRKBulj9Q&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;🐋&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Forest on a Magical Island,&lt;br /&gt;
+home to many whales&lt;br /&gt; 
+New Moon, December 2021&lt;/p&gt;
+
+&lt;h2 id=&quot;wholehearted-greetings-to-you-dearest-being-of-light&quot;&gt;Wholehearted Greetings to You, Dearest Being of Light!&lt;/h2&gt;
+
+&lt;p&gt;I’m feeling humbled by the feeling that you are in this very moment, connecting with me, through this simple, yet powerful medium - a letter. I’m writing it in the old-fashioned way – on paper, with a pen, which is one of the best way I know to open my heart and speak freely.&lt;/p&gt;
+
+&lt;p&gt;You see, a friend just pointed out to me, that many rules that we follow are written on sand. We know that, yet, at times, struggle to finally move on towards alternatives. &lt;strong&gt;Seeking requires courage. And sometimes it is something I lack.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s a bit embarrassing to admit to lacking courage, but in the same time, it’s in fact the most precious moment – the realization, the shift of perspective, and expansion of awareness, which by bringing uncomfortable truths to the surface and making them explicit, actually facilitates the first step towards something new.&lt;/p&gt;
+
+&lt;p&gt;The first step is the most difficult one to take. It might feel impossible to do. It might feel like being blindfolded while looking for something in a vast and hazardous space. It certainly is a challenge, however, it feels like the right thing to do, intuitively.&lt;/p&gt;
+
+&lt;p&gt;Take that step. Then take another one.&lt;/p&gt;
+
+&lt;p&gt;This really is a reminder to myself, rather than anything else, and I’m grateful for you holding the space for that process to happen.&lt;/p&gt;
+
+&lt;p&gt;A few weeks ago, I was reminded to DREAM BIG and then MANIFEST THESE DREAMS. The world is in a strange space of transition and it is up to all of us to &lt;strong&gt;let go of the rules written on sand, dream alternatives and take steps toward them.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Plan trees. Remove plastic from the Ocean. Cultivate biodiversity. Be kind. Be brave. Rewrite patterns of culture imprinted onto us, and regenerate this wonderful planet that has been so kind to us and all the other species - each of them essential in their own unique way for the entire Community of Life.&lt;/p&gt;
+
+&lt;p&gt;What’s encouraging is that we can indeed choose to do it.&lt;/p&gt;
+
+&lt;p&gt;We are so incredibly priviledged to be in that position, but also, it’s worth noticing that this privilege brings responsibility. We can choose to remain blindly trusting into the sand-written rules that enslave us and destroy the world, or let go of convenience and courageously pioneer a shared dream of a beautiful planet where all beings can thrive. The choice is, as always, up to us, and it’s a continuous process, rather than a one-off moment. But you know all that already. &lt;strong&gt;You are ready and you are taking the steps.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;All I really wanted to remind you is that we can all manifest a wonderful place to live. We have a critical mass, technology, skills, resources, and blessings of all the Beings, visible and invisible, who wish us well. All we need to do is shine. So shine., and let’s spread the Light and let it ripple thought the Universe and beyond. &lt;strong&gt;You are an essential part of this process, and we need you.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Stay courageous and beautiful.&lt;/p&gt;
+
+&lt;p&gt;Thank you for Being.&lt;/p&gt;
+
+&lt;p&gt;With Love and Light, as always,&lt;br /&gt;
+Michał&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>My Microsolidarity Journey</title>
    <link href="http://localhost:4000/microsolidarity-journey"/>
    <updated>2021-12-01T00:00:00-01:00</updated>
    <id>http://localhost:4000/microsolidarity-journey</id>
    <content type="html">&lt;p&gt;Let’s begin with a bit of context:&lt;/p&gt;
 
-&lt;p&gt;I’ve been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it’s the right time to do it. There is however a price to pay for that freedom: &lt;strong&gt;the pain of saying goodbye to people dear to your heart, knowing that you might never see them again, because life is unpredictable.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I’ve been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it’s the right time to do it. There is however a price to pay for that freedom: &lt;strong&gt;the pain of saying goodbye to people dear to your heart, knowing that you might never see them again&lt;/strong&gt;. Life is unpredictable.&lt;/p&gt;
 
-&lt;p&gt;I admit, that there were times during my travels when I felt quite lonely. I did encounter many wonderful Souls, and the connections were intense but also short. I lacked continuity.&lt;/p&gt;
+&lt;p&gt;I admit, that even if I traveled with a partner, there were times during my travels when I felt quite lonely. I did encounter many wonderful Souls, and the connections were intense but also short. I lacked continuity.&lt;/p&gt;
 
 &lt;p&gt;One day &lt;strong&gt;I decided to make a list of people I intuitively felt like reaching out to&lt;/strong&gt;. Some were close friends, and others were people I shared a single powerful moment sometime, somewhere. The following day I sent them all a message.&lt;/p&gt;
 
@@ -59,7 +537,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;The Unicorns&lt;/strong&gt; 🦄 - digital, 4 people (2 couples), mutual support, March 2020 - January 2021&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Team Angie&lt;/strong&gt; ⚡️ - digital, 4 people, exploring different topics, emotional development, May 2020 - May 2021&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Team Angie&lt;/strong&gt; ⚡️ - digital, 4 people, exploring different topics related to emotional development, May 2020 - May 2021&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Loverz Powerz&lt;/strong&gt; 💜 - digital, 4 people (2 couples), relationship-focused, May 2020 - May 2021&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Routine Bootcamp&lt;/strong&gt; 🚀 - digital, 3 people, building routines together based on &lt;a href=&quot;https://www.youtube.com/watch?v=aDWuHsyznf4&quot; target=&quot;_blank&quot;&gt;Metagame Mastermind Format (youtube video)&lt;/a&gt;, June - November 2020&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;The Circle&lt;/strong&gt; ⚪️ - presential, 4 housemates, weekly sharing circle followed by a co-living talk, February - June 2020&lt;/li&gt;
@@ -69,7 +547,7 @@
 &lt;h3 id=&quot;a-few-reflections&quot;&gt;A few reflections:&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;While I took the responsibility of being &lt;em&gt;the caller&lt;/em&gt; (the person who calls the pod to existence),** I deliberately let go of my default facilitating posture and practiced co-creating together.** The crews usually started with one or two “meta calls” diving into our intentions and deciding how do we want to be together, including technicalities such as rhythm, format etc.&lt;/li&gt;
+  &lt;li&gt;While I took the responsibility of being &lt;em&gt;the caller&lt;/em&gt; (the person who calls the pod to existence), &lt;strong&gt;I deliberately let go of my default facilitating posture and practiced co-creating together.&lt;/strong&gt; The crews usually started with one or two “meta calls” diving into our intentions and deciding how do we want to be together, including technicalities such as rhythm, format etc.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Crews had a timeframe agreed in advance. Each cycle was closed with a retrospective&lt;/strong&gt; when we decided what’s the next step, for example closing the crew or beginning another cycle.&lt;/li&gt;
   &lt;li&gt;Even if we committed to the schedule set up in advance, there was always at least one call that we had to skip due to life being life (na-na-na-na-na). Pods tended to work better with meetings no further than one month apart.&lt;/li&gt;
   &lt;li&gt;Keeping a recording was kinda useless, but we all enjoyed sharing our notes with each other&lt;/li&gt;
@@ -85,10 +563,10 @@
 
 &lt;h2 id=&quot;enspiral&quot;&gt;Enspiral&lt;/h2&gt;
 
-&lt;p&gt;In September 2021 I joined &lt;a href=&quot;https://www.enspiral.com/&quot; target=&quot;_blank&quot;&gt;Enspiral&lt;/a&gt;, a network of people helping each other do more meaningful work. The network design includes &lt;em&gt;pods&lt;/em&gt; (equivalent to &lt;em&gt;crews *in microslidarity lingo) to support building relationships within the network. While I haven’t joined any pods, mostly due to all the other crews I had going on at the time, I got involved in *Enspiral Europe Connection Working Group&lt;/em&gt; – a small group hosting bi-weekly Connection Calls for Enspiralites based in Europe.&lt;/p&gt;
+&lt;p&gt;In September 2021 I joined &lt;a href=&quot;https://www.enspiral.com/&quot; target=&quot;_blank&quot;&gt;Enspiral&lt;/a&gt;, a network of people helping each other do more meaningful work. The network design includes &lt;em&gt;pods&lt;/em&gt; (equivalent to &lt;em&gt;crews&lt;/em&gt; in microslidarity lingo) to support building relationships within the network. While I haven’t joined any pods, mostly due to all the other crews I had going on at the time, I got involved in &lt;em&gt;Enspiral Europe Connection Working Group&lt;/em&gt; hosting bi-weekly Connection Calls for Enspiralites based in Europe.&lt;/p&gt;
 
 &lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Write documentation of the formats tried in EECC and publish in the Enspiral Handbook.&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Create documentation of the formats tried in EECC to publish in the Enspiral Handbook.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;growing-a-congregation-in-pico-island&quot;&gt;Growing a congregation in Pico Island&lt;/h2&gt;
@@ -99,13 +577,13 @@
 
 &lt;p&gt;The most surprising part is that it was actually quite simple. &lt;strong&gt;I called a sharing circle, and as people started to spend time getting to know each other on a deeper level, magic started to happen.&lt;/strong&gt; Of course, as we’re maturing as a congregation we’ll encounter challenges. That’s just a part of the process. With a strong foundation of relationships based on trust, care and support, we’re ready for our next iterations.&lt;/p&gt;
 
-&lt;p&gt;I’ll document the process thoroughly &lt;a href=&quot;https://pico.microsolidarity.cc/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I document the process thoroughly &lt;a href=&quot;https://pico.microsolidarity.cc/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;-key-insight-1&quot;&gt;👁 Key insight:&lt;/h3&gt;
 
 &lt;p&gt;&lt;strong&gt;It seems that at this point I became a microsolidarity practitioner and a congregation catalyst. I attribute my progress to two core competencies developed over time:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;1) &lt;strong&gt;practicing crewing&lt;/strong&gt; –&amp;gt; there’s no learning without practice, and no amount of theory will teach you how to be and co-create together with the real people around you.
+&lt;p&gt;1) &lt;strong&gt;practicing crewing&lt;/strong&gt; –&amp;gt; there’s no learning without practice, and no amount of theory will teach you how to be and co-create together with the real people around you.&lt;br /&gt;
 2) &lt;strong&gt;documenting the process&lt;/strong&gt; –&amp;gt; publishing my process as an open-source documentation allowed me to regularly reflect on my learning journey. It also created beautiful connections with people who reached out to me with appreciation, questions, feedback and co-creating possibilities.&lt;/p&gt;
 
 &lt;p&gt;If there’s one advice I could give to a microsolidarity beginner, it’s to do these two things from the start. I’m available to help if you could benefit from it.&lt;/p&gt;
@@ -295,8 +773,8 @@ Michał.&lt;/p&gt;
 &lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Permaculture Design Course&lt;/strong&gt;, residential in Portugal (or even better, in Azores) or online, because I believe that permaculture is one of the most important fields to study right now, and I have pretty much zero experience with it.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kernel.community/en/&quot; target=&quot;_blank&quot;&gt; Kernel Online Course&lt;/a&gt;, because web3 and blockchain opens amazing possibilities for regenerating the world at scale, and I’d love to start my journey in this area by building something beautiful with other amazing people.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.greaterthan.works/academy/thriving-networks&quot; target=&quot;_blank&quot;&gt;Thriving Networks online course&lt;/a&gt;, because I’m building a &lt;a href=&quot;pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;Regenerative Network in the Azores&lt;/a&gt; and I could really use some extra support with the upcoming challenges. Knowing the humans behind this course, I feel that it’s precisely the right place for me to be.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kernel.community/en/&quot; target=&quot;_blank&quot;&gt; Kernel Online Course&lt;/a&gt;, because web3 and blockchain open amazing possibilities for regenerating the world at scale, and I’d love to start my journey in this area by building something beautiful with other amazing people.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.greaterthan.works/academy/thriving-networks&quot; target=&quot;_blank&quot;&gt;Thriving Networks online course&lt;/a&gt;, because I’m building a &lt;a href=&quot;https://pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;Regenerative Network in the Azores&lt;/a&gt; and I could really use some extra support with the upcoming challenges. Knowing the humans behind this course, I feel that it’s precisely the right place for me to be.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;personal-growth&quot;&gt;Personal Growth&lt;/h2&gt;
@@ -342,6 +820,47 @@ Michał.&lt;/p&gt;
 &lt;p&gt;I’ll pick 21 and publish them here with answers.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: Learning from the story of the Royal Research Ship &lt;em&gt;Boaty McBoatface&lt;/em&gt;, I reserve the right to not answer/publish your question.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;👁&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;️-my-god-cant-wait-to-hear-more-of-where-life-has-brought-you-recently&quot;&gt;❤️ my god can’t wait to hear more of where life has brought you recently&lt;/h2&gt;
+&lt;p&gt;– João&lt;/p&gt;
+
+&lt;p&gt;I’m excited to tell you!&lt;/p&gt;
+
+&lt;p&gt;It feels like on the last night of my recent trip to the mainland a new cycle of my life have just began. That was in November, around the Full Moon time. I’m now back to Pico Island, living in a tiny cabin made of wood, surrounded by trees, with a view to the ocean. It’s a very inspiring place to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I feel that a big part of the new cycle is about manifesting dreams.&lt;/strong&gt; I’ve been focused on the practical, productivity side of things for a while, but somehow I got disconnected a bit with my Big Dreams. They were always there, deep inside my heart, but I guess I didn’t feel that the time to make them happen is &lt;em&gt;now&lt;/em&gt;. And now, I do feel that way. It’s very empowering.&lt;/p&gt;
+
+&lt;p&gt;I’ve taken my microsolidarity game to the next level, begun the process of creating a cooperative in the island, and started moving the energy towards creating a Regenerative Network in the Azores. I’ve coded my new website and set it up for effortless publishing right from Obsidian, which is a little thing, but it was something that has been on my mind for a long time. I’ve been enjoying building with wood and prototyping the next iteration of the cabin where I live. I finally put some energy to kickstart the process of sailing to Brazil in November/December 2022. I’ve started writing more letters again, and started reading them out in public for the first time, which felt special. I’ve noticed two particular fears surfacing in my life and faced them head on. Things are definitely moving!&lt;/p&gt;
+
+&lt;p&gt;And there’s soooo much more to share. Looking forward to hugging you soon and going deeper, and also learning about your life!&lt;/p&gt;
+
+&lt;h2 id=&quot;what-are-3-things-you-explore-daily-to-changebetter-your-life&quot;&gt;What are 3 things you explore daily to Change/better your life?&lt;/h2&gt;
+&lt;p&gt;– Niko&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I explore myself and the world I interact with through journaling. It’s possibly the most powerful practice in my life. It helps me to continuously realign with myself.&lt;/li&gt;
+  &lt;li&gt;Walking. Walking. Walking. To be honest, there are days when I don’t walk, but I always miss it a lot if I skip a day and I come back to it. It’s one of the most effective forms of my meditation.&lt;/li&gt;
+  &lt;li&gt;Deliberately engaging in the action of &lt;em&gt;Being&lt;/em&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;what-are-some-things-you-can-talk-for-hours-about&quot;&gt;What are some things you can talk for hours about?&lt;/h2&gt;
+&lt;p&gt;– Chris&lt;/p&gt;
+
+&lt;p&gt;Sailing, travel stories, journaling, optimizing inventory for having less items, designing experiences, relationships, islands, maps, seeking wisdom, becoming an elder…&lt;/p&gt;
+
+&lt;p&gt;But, perhaps more importantly, sharing from the heart.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-keeps-you-going&quot;&gt;What keeps you going?&lt;/h2&gt;
+&lt;p&gt;– Bruno&lt;/p&gt;
+
+&lt;p&gt;I had to think for a while about that one.&lt;/p&gt;
+
+&lt;p&gt;In a nutshell, I have some kind of underlying sense of faith that life is unfolding itself perfectly, and I have real choice and influence over quite a lot of things (although not everything).&lt;/p&gt;
+
+&lt;p&gt;WIth that in mind, I feel that no matter what happens to me, I have a choice to make. That’s very empowering, because it makes me feel like I’m in a driver’s seat of my life. I do experience darker days, of course, but ultimately, I see them as inevitable challenges, and my overall experience of life so far led me to believe that, no matter the struggle, I can manifest any reality I want, which motivates me to actually make it happen on daily basis.&lt;/p&gt;
 
 </content>
  </entry>
@@ -520,6 +1039,28 @@ Michał&lt;/p&gt;
 
 &lt;p&gt;In this very moment I am empty.
 In this very moment I am free.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ouroboros</title>
+   <link href="http://localhost:4000/ouroboros"/>
+   <updated>2021-06-05T00:00:00+00:00</updated>
+   <id>http://localhost:4000/ouroboros</id>
+   <content type="html">&lt;p&gt;Ouroboros was a performance created by &lt;a href=&quot;https://austejaliu.com&quot; target=&quot;_blank&quot;&gt;Austeja Liupševičiūtė&lt;/a&gt; and Michal Korzonek, showcased during Açores Entre Mares Festival in Lajes do Pico.&lt;/p&gt;
+
+&lt;p&gt;5 June 2021&lt;/p&gt;
+
+&lt;p&gt;Video:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Short cut (0:52) - &lt;a href=&quot;https://youtu.be/VKQn-VCkWCk&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Full timelapse (11:01) - &lt;a href=&quot;https://www.youtube.com/watch?v=RfZwLx99B8E&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ouroboros-1.jpeg&quot; alt=&quot;Michal on the ground&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/ouroboros-2.jpeg&quot; alt=&quot;Michal and Austeja carrying a chest&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/ouroboros-3.jpeg&quot; alt=&quot;Michal and Austeja in front of broken TV&quot; /&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/ouroboros-4.jpeg&quot; alt=&quot;Michal and Austeja covering the stage with a fishing net&quot; /&gt;&lt;br /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -723,6 +1264,109 @@ Tools: Oven, Freezer &lt;br /&gt;&lt;/p&gt;
   &lt;li&gt;1 apple thinly sliced&lt;/li&gt;
 &lt;/ul&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Epic Vegan Cheescake</title>
+   <link href="http://localhost:4000/epic-vegan-cheescake"/>
+   <updated>2020-12-24T00:00:00-01:00</updated>
+   <id>http://localhost:4000/epic-vegan-cheescake</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;This vegan, sugar-free cheesecake is f…..g perfect.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;🚨 for best results the cake needs 2-4 hours in the freezer before serving.&lt;/p&gt;
+
+&lt;p&gt;Inspired by &lt;a href=&quot;https://minimalistbaker.com/7-ingredient-vegan-cheesecakes/&quot; target=&quot;_blank&quot;&gt;Minimalist Baker&lt;/a&gt; 🎩. Voted the best cake of the Christmas table a few times by my Pico Family (not to be bragging, or anything, just trying to get you to make it)✨&lt;/p&gt;
+
+&lt;p&gt;Tools: Blender, Freezer, Mixing Bowl.
+Type: Base + Filling + (optional) Topping &lt;br /&gt;
+ &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt; oats (2 cup), drinking coconut milk (1 cup), cocoa (2 tbsp), dates (1 cup), cashew nuts (3 cup), coconut oil (1/2 cup), thick coconut milk (1 cup), lemon (1-2), agave sirup (1 cup),&lt;/p&gt;
+
+&lt;p&gt;Optional: peanut butter (1/2 cup) and / or blueberries (1 cup)&lt;/p&gt;
+
+&lt;h2 id=&quot;base&quot;&gt;Base:&lt;/h2&gt;
+
+&lt;p&gt;Soak 2 cups of &lt;strong&gt;oats&lt;/strong&gt; in &lt;strong&gt;coconut milk  with 2 tbsp **cocoa powder&lt;/strong&gt;, then blend with 1 cup of pitted dates. Pour in the cake dish and put into the freezer while you make the filling.&lt;/p&gt;
+
+&lt;h2 id=&quot;filling&quot;&gt;Filling:&lt;/h2&gt;
+
+&lt;p&gt;Blend together: 3 cup soaked &lt;strong&gt;cashews&lt;/strong&gt; + 1 cup thick &lt;strong&gt;coconut milk&lt;/strong&gt; + 1/2 cup melted &lt;strong&gt;coconut oil&lt;/strong&gt; + 1-2 &lt;strong&gt;lemons&lt;/strong&gt; (taste to adjust) + 1 cup &lt;strong&gt;agave sirup&lt;/strong&gt;. Then pour over the base and freeze for 4 hours.&lt;/p&gt;
+
+&lt;p&gt;Optionally: blend with blueberries, or peanut butter.&lt;/p&gt;
+
+&lt;h2 id=&quot;topping&quot;&gt;Topping:&lt;/h2&gt;
+
+&lt;p&gt;1 spoon of &lt;strong&gt;peanut butter&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The original recipe says that you can keep it in the fridge for a few days, but I never got to verify that claim—the cake was gone within 24 hours.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Before Knowing You I Was Unconscious</title>
+   <link href="http://localhost:4000/before-knowing-you-i-was-unconscious"/>
+   <updated>2017-05-14T00:00:00+00:00</updated>
+   <id>http://localhost:4000/before-knowing-you-i-was-unconscious</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;Edinburgh will always be a foundational life chapter in my personal history. In fact, it feels more like my hometown, than the town where I was born.&lt;/p&gt;
+
+&lt;p&gt;But, inevitably, every chapter eventually comes to an end, and at some point I felt a need to leave. My life was great, I loved the city and I had wonderful friends, but deep down I knew that if I stay for a bit longer I will get stuck here forever. It didn’t feel like necessarily “bad thing”, but my soul needed to grow, and the growth I was looking for involved leaving this magical city which will always be so dear to me.&lt;/p&gt;
+
+&lt;p&gt;I’ve said this letter out loud (and recorded it) two days before my departure, sitting on my favourite rock, not too far from where I took the photo below.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;🌀&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;before-knowing-you-i-was-unconscious&quot;&gt;Before knowing you I was unconscious.&lt;/h2&gt;
+&lt;p&gt;Yet this is one of the last times that I am taking a look at you.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/edinburgh-rock.jpg&quot; alt=&quot;View from a magical place in Edinburgh&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It feels strange. In two more days I will be on the other side of this beautiful continent, in a completely different space and time, with completely different people whom I haven’t seen for a long time. Will I ever see you again?&lt;/p&gt;
+
+&lt;p&gt;Goodbyes are what we pay with for the freedom of traveling. There are plenty, and none is easy to say. How could they be? If I am leaving something that I love with all my heart how can I simply say:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;See you later!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Will I ever?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;See you at some point… Maybe? We’ll see…&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s not that I don’t want to see you again, but I know that everything changes and is never the same again. I don’t know what will happen when I will be away. To both of us.&lt;/p&gt;
+
+&lt;p&gt;I get used to what is, but then something else grabs my attention and I look away for a moment. As I look back–what was is now gone. Circumstances change and it’s only me on my own again.&lt;/p&gt;
+
+&lt;p&gt;It’s good to be on my own. We all need time to process everything what happens and there is always so much life around. Just look up. We don’t look up often enough.&lt;/p&gt;
+
+&lt;p&gt;Goodbyes are never easy and you’ve been a wonderful company for the past seven years. Enough to feel you are my home. It’s with you that I became who I am now.&lt;/p&gt;
+
+&lt;p&gt;Before knowing you I was unconscious.&lt;/p&gt;
+
+&lt;p&gt;Before knowing you, I was conscious only of self-consciousness, as a teenage boy falling in love with beautiful girls who weren’t falling back in love with me–which I couldn’t understand, because I would give them all of myself.&lt;/p&gt;
+
+&lt;p&gt;Love is a hard process to learn. It rips our hearts, as we fall in love with people, places, things, parts of our skin and memories–which all inevitably change.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Everything is temporary and here I am about to leave you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m moving to another chapter of life to discover who I am, what the world is and what there is in this world.&lt;/p&gt;
+
+&lt;p&gt;I’m going to discover geographical locations and people who live there and how they live and how they build connections between themselves. I’ll observe and learn how I can help and appreciate the differences between us.&lt;/p&gt;
+
+&lt;p&gt;I am genuinely interested in people and the world, because it is all so curious to me. How could you not be interested in the world which is so full of life and so full of beautiful things? The world with the sea, which is so vast and goes from one side to another one and then comes back to surround it all! The world where you look up and suddenly there is a whole sky above with the universe and the planets and the universes beyond the universes we can barely begin to imagine.&lt;/p&gt;
+
+&lt;p&gt;Everything is one. It’s just life. Life–which I perceive through the lens of me. I need to learn about what makes me me, so I can make good use of time, which I have so abundantly received. I need to study myself to learn about the world without alien filters.&lt;/p&gt;
+
+&lt;p&gt;Time to stand up and stretch my back. Time to move on.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thank you for the time we have spent together.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thank you for showing me everything that makes you you.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;🌀&lt;/p&gt;
+
+&lt;p&gt;Since this was originally an audio recording, I’ve used parts of this letter to narrate the video diary I created in this powerful time of transition. It is one of these few pieces of myself that I revisit every now and then, and it puts me in a beautifully emotional state. Here’s the &lt;a href=&quot;https://www.youtube.com/watch?v=SVeygd_Skfk&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; (youtube link).&lt;/p&gt;
 </content>
  </entry>
  

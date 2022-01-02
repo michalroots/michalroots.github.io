@@ -2,12 +2,89 @@
   
     {
 
+      "title"    : "Gratitude Mandala",
+      "url"      : "/gratitude-mandala-2021",
+      "category" : "",
+      "tags"     : "games",
+      "date"     : "2022-01-02 00:00:00 -0100",
+      "description" : "A beautiful prompt for writing heartfelt letters to the people who shaped my year"
+
+    } ,
+  
+    {
+
+      "title"    : "Google Free before 23",
+      "url"      : "/google-free",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2021-12-31 00:00:00 -0100",
+      "description" : "Freeing myself from Google"
+
+    } ,
+  
+    {
+
+      "title"    : "To Kiks",
+      "url"      : "/to-kiks",
+      "category" : "",
+      "tags"     : "letters",
+      "date"     : "2021-12-30 00:00:00 -0100",
+      "description" : "A gratitude letter to the wonderful cat that lives with me."
+
+    } ,
+  
+    {
+
+      "title"    : "The Community Council",
+      "url"      : "/community-council",
+      "category" : "",
+      "tags"     : "games",
+      "date"     : "2021-12-10 00:00:00 -0100",
+      "description" : "A Collaborative Game to Catalyse Your Community."
+
+    } ,
+  
+    {
+
+      "title"    : "the Dreams",
+      "url"      : "/the-dreams",
+      "category" : "",
+      "tags"     : "letters",
+      "date"     : "2021-12-09 00:00:00 -0100",
+      "description" : "Dreaming is easy. The challenge is to manifest the dreams."
+
+    } ,
+  
+    {
+
+      "title"    : "📖🎉 Unexpected Birthday Letter",
+      "url"      : "/unexpected-birthday-letter",
+      "category" : "",
+      "tags"     : "letters",
+      "date"     : "2021-12-08 00:00:00 -0100",
+      "description" : "I felt stuck with the direction for JournalSmarter, so I decided to write a letter to it"
+
+    } ,
+  
+    {
+
+      "title"    : "You Are Essential",
+      "url"      : "/you-are-essential",
+      "category" : "",
+      "tags"     : "letters",
+      "date"     : "2021-12-04 00:00:00 -0100",
+      "description" : "A letter about courage and beautiful dreams becoming a reality because of you. You are **essential**."
+
+    } ,
+  
+    {
+
       "title"    : "My Microsolidarity Journey",
       "url"      : "/microsolidarity-journey",
       "category" : "",
       "tags"     : "documentation",
       "date"     : "2021-12-01 00:00:00 -0100",
-      "description" : "Moving from a solo traveler to a community catalyst"
+      "description" : "From lonely nomad to community catalyst"
 
     } ,
   
@@ -40,7 +117,7 @@
       "category" : "",
       "tags"     : "games",
       "date"     : "2021-11-27 00:00:00 -0100",
-      "description" : "21 Questions to replace FAQ on my website"
+      "description" : "A game. A FAQ page. An opportunity to ask a question."
 
     } ,
   
@@ -96,6 +173,17 @@
       "tags"     : "letters",
       "date"     : "2021-10-12 00:00:00 +0000",
       "description" : "Empty space is sacred. Here&#39;s what happens when you make some."
+
+    } ,
+  
+    {
+
+      "title"    : "Ouroboros",
+      "url"      : "/ouroboros",
+      "category" : "",
+      "tags"     : "performance",
+      "date"     : "2021-06-05 00:00:00 +0000",
+      "description" : "An interactive performance about ocean pollution and consumer lifestyle."
 
     } ,
   
@@ -173,6 +261,28 @@
       "tags"     : "nomz",
       "date"     : "2021-01-18 00:00:00 -0100",
       "description" : "Luscious, rich and salty chocolate bar."
+
+    } ,
+  
+    {
+
+      "title"    : "Epic Vegan Cheescake",
+      "url"      : "/epic-vegan-cheescake",
+      "category" : "",
+      "tags"     : "nomz",
+      "date"     : "2020-12-24 00:00:00 -0100",
+      "description" : "Delicious, vegan, sugar-free, and super easy to make."
+
+    } ,
+  
+    {
+
+      "title"    : "Before Knowing You I Was Unconscious",
+      "url"      : "/before-knowing-you-i-was-unconscious",
+      "category" : "",
+      "tags"     : "letters",
+      "date"     : "2017-05-14 00:00:00 +0000",
+      "description" : "A Love Letter to my home as I am about to leave it behind."
 
     } 
   
