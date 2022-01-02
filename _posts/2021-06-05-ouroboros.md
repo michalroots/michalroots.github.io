@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ouroboros
-description:
+description: An interactive performance about ocean pollution and consumer lifestyle.
 image: /assets/ouroboros-1.jpg
 tags: [performance]
 ---
