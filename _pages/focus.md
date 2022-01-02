@@ -14,7 +14,7 @@ I'm implementing [microsolidarity in Pico Island](https://pico.microsolidarity.c
 
 I also contribute to [Enspiral](https://enspiral.com){:target="_blank"}.
 
-I'm dedicated to the **long-game of Earth stewardship**, and I am a **natural catalyst / coordinator**, with over 15+ years of experience in **facilitation and creating spaces for people**.
+I'm dedicated to playing the **long-game of Earth stewardship**, and I am a **natural catalyst / coordinator**, with over 15+ years of experience in **facilitation and creating spaces for people**.
 
 I believe in creating and sharing **open-source documentation** in order to **inspire**, **send ripples**, **spread the regenerative culture**.
 
