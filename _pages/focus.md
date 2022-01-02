@@ -8,19 +8,23 @@ excerpt: About Michał
 
 ✨
 
-1) **I create regenerative communities and document the process.** I'm implementing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"} and contribute to [Enspiral](https://enspiral.com){:target="_blank"} 
+**I create and document regenerative communities.**
 
-1) **I'm implementing <a href="https://pico.microsolidarity.cc" target="_blank">microsolidarity in Pico Island</a>** and contribute to <a href="https://enspiral.com" target="_blank">[Enspiral](https://enspiral.com){:target="_blank"}.
+I'm implementing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"}, working towards *Azores Regenerative Network*. This is my #1 priority in 2022.
 
-2) <b>I create <a href="https://journalsmarter.com" target="_blank">journaling games</a><b> serving as a daily ritual for grounding and re-alignment. 
+I also contribute to [Enspiral](https://enspiral.com){:target="_blank"}.
 
-3) I write heartfelt [letters](letters)
+I'm dedicated to the **long-game of Earth stewardship**, and I am a **natural catalyst / coordinator**, with over 15+ years of experience in **facilitation and creating spaces for people**.
 
+I believe in creating and sharing **open-source documentation** in order to **inspire**, **send ripples**, **spread the regenerative culture**.
 
+<hr>
 
-3) Writing heartfelt [letters](letters). <br>
-4) Walking.
+Other activities that are important to me:
 
-<p>also...</p>
+- **creating [journaling games](https://journalsmarter.com){:target="_blank"}** serving as a daily ritual for grounding and re-alignment. 
+- **writing heartfelt [letters](letters)**
+- walking
+- enjoying simple life in a tiny wooden cabin in the middle of a beautiful forest.
 
-5) Enjoying simple life in a tiny wooden cabin in the middle of a beautiful forest.
+🌳
