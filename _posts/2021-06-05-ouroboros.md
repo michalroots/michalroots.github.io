@@ -19,3 +19,4 @@ Video:
 ![Michal and Austeja carrying a chest](/assets/ouroboros-2.jpeg)<br>
 ![Michal and Austeja in front of broken TV](/assets/ouroboros-3.jpeg)<br>
 ![Michal and Austeja covering the stage with a fishing net](/assets/ouroboros-4.jpeg)<br>
+*Photos by Pedro Rabuja Meneses.*

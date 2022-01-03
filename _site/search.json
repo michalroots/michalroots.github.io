@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Yearly Review 2021",
+      "url"      : "/yearly-review-2021",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2022-01-02 00:00:00 -0100",
+      "description" : "My personal yearly review for 2021"
+
+    } ,
+  
+    {
+
       "title"    : "Gratitude Mandala",
       "url"      : "/gratitude-mandala-2021",
       "category" : "",
