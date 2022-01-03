@@ -14,7 +14,7 @@ excerpt: About Michał
 
 My work involves catalysing the community, coordinating projects, creating spaces for meaningful connection, and documenting the process.
 
-I also contribute to [Enspiral](https://enspiral.com){:target="_blank"} in working groups *Europe Connection* and *Comms*.
+**I also contribute to [Enspiral](https://enspiral.com){:target="_blank"}** in working groups *Europe Connection* and *Comms*.
 <p></p>
 <hr>
 <p></p>
