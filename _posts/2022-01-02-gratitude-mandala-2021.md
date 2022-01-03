@@ -6,9 +6,9 @@ image: /assets/gratitude-mandala-2021.jpg
 tags: [games]
 ---
 
-Every year I draw a [Gratitude Mandala](https://journalsmarter.com/gratitude-mandala){:target="_blank"}, which includes beings I'm grateful for in the year that has ended. It's a part of my yearly review since 2019.
+Every year I draw a [Gratitude Mandala](https://journalsmarter.com/gratitude-mandala){:target="_blank"}, which includes beings I'm grateful for in the year that has ended. It's a part of my yearly review since 2019. 
 
-Here's the mandala from 2021:
+Here's the [review for 2021](/yearly-review-2021){:target="_blank"} and here's the mandala from 2021:
 
 ![Gratitude Mandala 2021](/assets/gratitude-mandala-2021.jpg)
 
