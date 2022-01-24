@@ -22,7 +22,7 @@ My work involves catalysing the community, coordinating projects, creating space
 Other activities that are important to me:
 
 - creating [journaling games](https://journalsmarter.com){:target="_blank"} serving as a daily ritual for grounding and re-alignment. 
-- writing heartfelt [letters](letters)
+- writing heartfelt [letters](letters.md)
 - walking
 - enjoying simple life in a tiny wooden cabin in the middle of a beautiful forest.
 
