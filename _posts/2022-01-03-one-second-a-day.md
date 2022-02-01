@@ -21,7 +21,7 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 - **Walking Moon 7 Sep - 5 Oct 2021** - [youtube link](https://www.youtube.com/watch?v=ikHgY-kpNwk){:target="_blank"}
 - **Feather Moon 6 Oct - 3 Nov 2021** - [youtube link](https://www.youtube.com/watch?v=lBOnSfgW2v8){:target="_blank"}
 - **Planting Moon 4 Nov - 3 Dec 2021** - [youtube link](https://www.youtube.com/watch?v=695g5cMkCt8){:target="_blank"}
-- Inner Moon 4 Dec - 1 Jan 2022 - [youtube link](https://www.youtube.com/watch?v=DXJtwKv51ek){:target="_blank"}
+- Inner Moon 4 Dec 2021 - 1 Jan 2022 - [youtube link](https://www.youtube.com/watch?v=DXJtwKv51ek){:target="_blank"}
 - Darkness Moon 2 Jan - 31 Jan 2022 - [youtube link](https://youtu.be/MDI4kyMJCL8){:target="_blank"}
 <p></p>
 <hr>
