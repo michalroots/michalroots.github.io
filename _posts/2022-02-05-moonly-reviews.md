@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moonly Reviews 🌕🌑
+title: Moonly Reviews
 description: A heartfelt letter sent every New and Full Moon.
 image: 
 tags: [documentation]
