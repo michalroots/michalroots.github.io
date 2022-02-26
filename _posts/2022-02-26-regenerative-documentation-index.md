@@ -63,6 +63,7 @@ Okay, this is not really a documentation project, but more of a database of Rege
 
 ### The Pink Paper from Traditional Dream Factory
 > *"The pink paper is an evolving document describing the internal functioning of the Traditional Dream Factory (TDF) - a coliving regenerative village in the process of being built"*
+
 - [The Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic)
 - [Traditional Dream Factory](https://traditionaldreamfactory.com/)
 - [OASA Network](https://oasa.co/)
