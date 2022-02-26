@@ -16,7 +16,9 @@ But perhaps the most important thing for me, is that creating *documentation* co
 
 I've been doing this for quite a while now, and it seems that I have become relatively decent at the craft.
 
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Michal is world champion of documenting community formation processes <a href="https://t.co/dPfgjFoLEA">https://t.co/dPfgjFoLEA</a></p>&mdash; microsolidarity (@micro_solid) <a href="https://twitter.com/micro_solid/status/1496148154655330310?ref_src=twsrc%5Etfw">February 22, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
+![Documentation world champion](/assets/documentation-world-champion.png)
+
+[Link to tweet](https://twitter.com/micro_solid/status/1496148154655330310)
 
 ## Regenerative Documentation Index
 
