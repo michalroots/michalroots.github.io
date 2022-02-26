@@ -22,7 +22,9 @@ I've been doing this for quite a while now, and it seems that I have become rela
 
 ## Regenerative Documentation Index
 
-Here's the list of some of my favourite documentation projects, which started as a note in Obsidian which really wanted to be published. Since [my Obsidian vault is linked directly with this website](obsidian-to-github), it's actually frictionless to make this note publicly available. 
+Here's the list of some of my favourite documentation projects.
+
+It all started as a note in Obsidian which really wanted to be published. Since [my Obsidian vault is linked directly with this website](obsidian-to-github), it's actually frictionless to make this note publicly available. I guess I just can't stop documenting 😂.
 
 I'll keep updating this post whenever I feel like. Feel free to **share your fav documentation projects with me**, either via email or in this twitter thread.
 
