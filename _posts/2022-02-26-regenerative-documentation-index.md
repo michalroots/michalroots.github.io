@@ -26,7 +26,7 @@ Here's the list of some of my favourite documentation projects.
 
 It all started as a note in Obsidian which really wanted to be published. Since [my Obsidian vault is linked directly with this website](obsidian-to-github), it's actually frictionless to make this note publicly available. I guess I just can't stop documenting 😂.
 
-I'll keep updating this post whenever I feel like. Feel free to **share your fav documentation projects with me**, either via email or in this twitter thread.
+I'll keep updating this post whenever I feel like. Feel free to **share your fav documentation projects with me**, either via email or in this [twitter thread](https://twitter.com/michalkorzonek/status/1497541135425802240).
 
 ### 100 Rabbits
 > *"We research and test low-tech solutions and document our findings with the hope of building a more resilient future."*
@@ -55,6 +55,23 @@ A network focused on supporting people to do meaningful work.
 > *"The goal (of this handbook) is to give everyone in the network as much clarity and context as possible, while sharing our structures and practices with the outside world as well."*
 
 - [Enspiral Handbook](https://handbook.enspiral.com/)
+
+### Regenerative Renaissance Wiki
+Okay, this is not really a documentation project, but more of a database of Regenerative Resources. Still, it's worth to take a look.
+
+- [Regenerative Renaissance Wiki](https://wiki.renaissance.university/)
+
+### The Pink Paper from Traditional Dream Factory
+> *"The pink paper is an evolving document describing the internal functioning of the Traditional Dream Factory (TDF) - a coliving regenerative village in the process of being built"*
+- [The Pink Paper](https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic)
+- [Traditional Dream Factory](https://traditionaldreamfactory.com/)
+- [OASA Network](https://oasa.co/)
+
+---
+
+(...)
+
+---
 
 ## I'm available to help
 If you'd like some help with starting / growing your documentation project, I'm available to help. There's no landing page with an offer - reach out, tell me how could I help, and I'll get back to you 💜.

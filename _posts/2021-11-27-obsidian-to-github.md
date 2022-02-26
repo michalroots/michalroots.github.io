@@ -12,6 +12,8 @@ Objective:
 
 (Disclaimer: I don't know how to code)
 
+Note: This process also allows to publish from Obsidian to Gitbook, via [Github Sync](https://docs.gitbook.com/integrations/git-sync/enabling-github-sync). Create a Gitbook, sync with Github, then use Github Desktop to sync with Obsidian 🤓.
+
 ## Installing Jekyll on MacOS Mojave
 It was a pain in the ass, but it worked eventually.
 
