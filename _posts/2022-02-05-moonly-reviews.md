@@ -46,4 +46,6 @@ Here's the full list:
 - [🌑 January 2022 - Yearly Review](https://michalkorzonek.com/yearly-review-2021){:target="_blank"}
 - [🌕 January 2022 - *Thirty Three*](https://michalkorzonek.substack.com/p/moonly-review-thirty-three){:target="_blank"}
 - [🌑 February 2022 - *In and Out of Darkness*](https://michalkorzonek.substack.com/p/moonly-review-in-and-out-of-darkness){:target="_blank"}
+- (skipped 🌕)
+- [🌑 March 2022 - *Gatherings, Money, Belonging*](https://michalkorzonek.substack.com/p/moonly-review-gatherings-money-belonging){:target="_blank"}
 
