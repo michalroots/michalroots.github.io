@@ -1,16 +1,16 @@
-—
+---
 layout: post
 title: Gratitude Tokens
 description: Collaborative game catalysing gratitude 💜.
 image: 
 tags: [games]
-—
+---
 
 **Gratitude Tokens is a collaborative game designed to catalyse expressing gratitude within a community.**
 
 ![Gratitude Token](/assets/gratitude-token.jpg)
 
-☀️ This game was prototyped with [Bart Hoorweg](https://www.linkedin.com/in/bart-hoorweg){:target=„_blank”} at the [Traditional Dream Factory](https://traditionaldreamfactory.com).{:target=„_blank”}.
+☀️ This game was prototyped with [Bart Hoorweg](https://www.linkedin.com/in/bart-hoorweg){:target=„_blank”} at the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target=„_blank”}.
 
 🌱 If you’d like to encourage me to create more games, I invite you to become my [Patreon](https://patreon.com/michalkorzonek){:target=„_blank”} and/or offer a [gift](/gift){:target=„_blank”}.
 
@@ -27,7 +27,7 @@ Gratitude is a state of the highest vibration. Gratitude Tokens play with the cr
 
 ![HODL ≠ GWYC](/assets/hodl-gwyc.jpg)
 
-![Gratitude Token Minting Station](/assets/gratitude-token-mining-station.jpg)
+![Gratitude Token Minting Station](/assets/gratitude-token-minting-station.jpg)
 
 ## Gratitude Token Ledger
 ![Gratitude Token Ledger Cover](/assets/gratitude-token-ledger-cover.jpg)
