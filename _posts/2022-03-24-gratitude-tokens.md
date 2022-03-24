@@ -14,7 +14,7 @@ tags: [games]
 
 🌱 If you’d like to encourage me to create more games, I invite you to become my [Patreon](https://patreon.com/michalkorzonek){:target=„_blank”} and/or offer a [gift](/gift){:target=„_blank”}.
 
-🐥 [Twitter thread](ADD LINK) for the game.
+🐥 [Twitter thread](https://twitter.com/michalkorzonek/status/1507047355291471890?s=21){:target=“_blank”} for the game.
 
 ## Overview
 Gratitude is a state of the highest vibration. Gratitude Tokens play with the cryptocurrency mechanics, by creating a physical token incentivising expressing gratitude within a community in a playful way.
