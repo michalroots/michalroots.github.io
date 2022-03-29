@@ -9,6 +9,8 @@ Vegan, sugar-free, gluten-free
 
 **Delicious and rich coconut taste boosted with salty base.**
 
+> "Top 3 cake of TDF" - Julianna
+
 Type: Base + Filling <br>
 Tools: Oven, stove, pan, mixing bowl <br>
 
