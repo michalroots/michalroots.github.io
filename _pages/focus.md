@@ -14,7 +14,7 @@ excerpt: What I am focusing on at the moment (aka: now page).
 
 **I contribute to [Enspiral](https://enspiral.com){:target="_blank"}** in working groups *Europe Connection* and *Comms*. 
 
-**I'm a member of [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}** involved in the *Community Circle*.
+**I'm a member of [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}** involved in the *Community & Communication* and *Legal and Governance* Circle.
 
 **I offer coaching, consulting, and catalysing sessions for community weavers**. I can help with moving the energy, deepening the sense of belonging within your community, implementing microsolidarity, and/or creating amazing documentation.
 <p></p>
