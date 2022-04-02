@@ -48,4 +48,6 @@ Here's the full list:
 - [🌑 February 2022 - *In and Out of Darkness*](https://michalkorzonek.substack.com/p/moonly-review-in-and-out-of-darkness){:target="_blank"}
 - (skipped 🌕)
 - [🌑 March 2022 - *Gatherings, Money, Belonging*](https://michalkorzonek.substack.com/p/moonly-review-gatherings-money-belonging){:target="_blank"}
+- 🌕 [March 2022 - *Family Time*](https://michalkorzonek.substack.com/p/moonly-review-family-time){:target="_blank"}
+- 🌑 [April 2022 - *Hijacked by the Dream*](https://michalkorzonek.substack.com/p/moonly-review-hijacked-by-the-dream){:target="_blank"}
 
