@@ -67,4 +67,7 @@ Here's a suggested format. Tweak as necessary to fit your context.
 - Idea to explore: *Gratitude Token Burn Ceremony*
 - Idea to explore: *Programmable Tokens* - use the backside of the token to add extra instructions to the token
 
+## GratiDAO
+Link to [telegram group](https://t.me/+kCHKLHRlh3UyYTg0).
+
 💜
