@@ -3,22 +3,24 @@ layout: page
 title: Experiences
 ---
 
-**I (co-)create experiences and spaces where magic happens.**
-
+**I (co-)create experiences, spaces and events where magic happens.**
+<p>
+🌀
+</p>
 Gatherings, immersive performances, cohort based courses, parties, exhibitions, sailing trips, sharing circles, workshops, trainings, retreats, weddings ... you name it. 
 
-My personal *ikigai* is bringing people together into a container and holding space for *relational transformation*. Relational = in relationship with other people and the container itself.
+My personal *ikigai* is bringing people together and holding space for **relational transformation**. Relational = in relationship with other people and the world around us.
 
-It all started with my mother bringing me to a winter retreat of a theatre group at the age of one, which escalated into a Film and Media degree, and numerous exhibitions, performances, and art-based experiences, which I continue to create with delight.
+It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art-based experiences**, which I continue to create with delight.
 
-At the age of eighteen I've started organising events and facilitating teams on international exchanges and European Youth Parliament sessions. Since then, I've been practicing the future of work by co-creating within a creative partnership studio Honeyboom, Enspiral, Traditional Dream Factory, and Lethally Harmless Productions. I'm a community weaver and catalyst in Pico Island, working towards Azores Regenerative Network. Also: a certified habit coach.
+At the age of eighteen I've started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom* and *Lethally Harmless Productions*. I'm a **community weaver and catalyst** in Pico Island, working towards Azores Regenerative Network. Also: a **certified habit coach**.
 
-My work is inspired by heart-to-heart connections, nature and playfulness. I love contact improvisation, hiking for hours, and sailing at night under star-covered sky. These moments of awe make me feel alive, and fuel my aspiration to co-create a beautiful world where all Beings can thrive.
+**My work is inspired by heart-to-heart connections, nature and playfulness**. I love contact improvisation, hiking for hours, building structures from wood, seeing a spark of joy in someones eyes, and sailing at night under star-covered sky. These moments of awe make me feel alive, and fuel my aspiration:
+
+**Let's co-create a beautiful world where all Beings can thrive**.
 
 Thank you for Being ✨
 Michał
-
-ps. Here's my [portfolio](/tag/experiences) - an incomplete list of experiences of different shapes and sizes, online and offline, which I had the joy of creating.
 
 ## Here's my offer:
 - **Experience Design Consulting**: I help regenerative organisations create transformational retreats, workshops, courses and events. €200 / hour (discounts and token payments possible)
@@ -27,6 +29,9 @@ ps. Here's my [portfolio](/tag/experiences) - an incomplete list of experiences 
 - **Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
 
 michal.korzonek@protonmail.com
+
+## Here's my portfolio: 
+[An incomplete list of experiences](/tag/experiences) of different shapes and sizes, online and offline, which I had the joy of creating.
 
 ## A friend shared with me recently:
 
