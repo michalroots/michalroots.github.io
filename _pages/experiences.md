@@ -10,11 +10,15 @@ title: Experiences
 Gatherings, immersive performances, cohort based courses, parties, exhibitions, sailing trips, sharing circles, workshops, trainings, retreats, weddings ... you name it. 
 
 My personal *ikigai* is to **bring people together and hold space for relational transformation**. Relational = in relationship with other people and the world around us.
-
+<p>
+🌳
+</p>
 It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art-based experiences.**
 
-In parallel, at the age of eighteen I've started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. Also: a **certified habit coach** -> dream big, start small, make it happen. I'm a big fan of **learning by doing**.
-
+In parallel, at the age of eighteen I've started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **microsolidarity community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. Also: a **certified habit coach** -> dream big, start small, make it happen. I'm a big fan of **learning by doing**.
+<p>
+☀️
+</p>
 **My work is inspired by heart-to-heart connections, nature and playfulness**. I love contact improvisation, hiking for hours, building structures from wood, seeing a spark of joy in someones eyes, and sailing at night under star-covered sky. These moments of awe make me feel alive and fuel my aspiration:
 
 **Let's co-create a beautiful world where all Beings can thrive**.
@@ -22,19 +26,21 @@ In parallel, at the age of eighteen I've started **organising events and facilit
 Thank you for Being ✨ <br>
 Michał
 
-## My Offer:
+## My Offer
 - **Experience Design Consulting**: I help regenerative organisations create transformational retreats, workshops, courses and events. €200 / hour (discounts and token payments possible)
 - **Facilitation Magic:** Hire me to facilitate your event. €500 / day (discounts and token payments possible)
 - **Art Co-Creation**: Immersive experiences are my thing. If you'd like me to co-create with you, or at your festival / exhibition - reach out.
 - **Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
 
-💌 michal.korzonek@protonmail.com
+## Portfolio
+[An incomplete list of experiences](/tag/experience) of different shapes and sizes, online and offline, which I had the joy of creating.
+
+## Contact
+
+💌 michal.korzonek@protonmail.com <br>
 🐦 [@michalkorzonek](https://twitter.com/michalkorzonek)
 
-## Portfolio:
-[An incomplete list of experiences](/tag/experiences) of different shapes and sizes, online and offline, which I had the joy of creating.
-
-## Words That Touched Me:
+## Words That Touched Me
 
 A friend from Traditional Dream Factory shared with me recently:
 
@@ -70,6 +76,8 @@ TDF
 > 
 > I’m happy with what I’ve produced and the breakthroughs I’ve had. Now I wouldn’t want to continue with my project without these guys on the path with me. **This is the most valuable and satisfying working group I’ve been a part of in a long time. I heartily encourage anyone who is thinking of working with you to just do it**, for the creative and productive value and for the positive experience.”
 – Deanna Vogt; Executive Coach
+
+Thank you 🙏
 
 
 ---
