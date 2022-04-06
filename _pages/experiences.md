@@ -13,9 +13,9 @@ My personal *ikigai* is to **bring people together and hold space for relational
 <p>
 🌳
 </p>
-It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art-based experiences.**
+It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you mum!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art-based experiences.**
 
-In parallel, at the age of eighteen I've started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **microsolidarity community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. Also: a **certified habit coach** -> dream big, start small, make it happen. I'm a big fan of **learning by doing**.
+In parallel, at the age of eighteen I started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **microsolidarity community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. Also: a **certified habit coach** -> dream big, start small, make it happen. I'm a big fan of **learning by doing**.
 <p>
 ☀️
 </p>
@@ -30,7 +30,7 @@ Michał
 - **Experience Design Consulting**: I help regenerative organisations create transformational retreats, workshops, courses and events. €200 / hour (discounts and token payments possible)
 - **Facilitation Magic:** Hire me to facilitate your event. €500 / day (discounts and token payments possible)
 - **Art Co-Creation**: Immersive experiences are my thing. If you'd like me to co-create with you, or at your festival / exhibition - reach out.
-- **Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
+- **Officiating Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
 
 ## Portfolio
 [An incomplete list of experiences](/tag/experiences) of different shapes and sizes, online and offline, which I had the joy of creating.
@@ -49,10 +49,6 @@ A friend from Traditional Dream Factory shared with me recently:
 It touched me deeply.
 
 Here are a few other comments about my work:
-
-YOP
-Pico
-TDF
 
 > “I’ve made my year in review as always to close this year. Going through my calendar, the series of events, feelings and insights that I had, I realized how much of a great impact your work had on the positive outcome of my year. **I’m slowly changing to become the person I would like to be. You gave me tools for that, by putting your heart in sharing your own life and learnings openly, as a coach, as a mentor, as a person.**“  
 – Flora Koczka; _Wise_
