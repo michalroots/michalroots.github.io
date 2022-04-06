@@ -33,7 +33,7 @@ Michał
 - **Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
 
 ## Portfolio
-[An incomplete list of experiences](/tag/experience) of different shapes and sizes, online and offline, which I had the joy of creating.
+[An incomplete list of experiences](/tag/experiences) of different shapes and sizes, online and offline, which I had the joy of creating.
 
 ## Contact
 

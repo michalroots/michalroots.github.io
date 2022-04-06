@@ -3,7 +3,7 @@ layout: post
 title: Ouroboros
 description: An interactive performance about ocean pollution and consumer lifestyle.
 image: /assets/ouroboros-1.jpeg
-tags: [experience]
+tags: [experiences]
 ---
 
 Ouroboros was a performance created by [Austeja Liupševičiūtė](https://austejaliu.com){:target="_blank"} and Michal Korzonek, showcased during Açores Entre Mares Festival in Lajes do Pico.
