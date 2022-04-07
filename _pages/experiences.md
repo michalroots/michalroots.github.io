@@ -35,6 +35,8 @@ Michał
 ## Portfolio
 [An incomplete list of experiences](/tag/experiences) of different shapes and sizes, online and offline, which I had the joy of creating.
 
+(in progress, scroll down for temporary list)
+
 ## Contact
 
 💌 michal.korzonek@protonmail.com <br>
