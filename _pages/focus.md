@@ -8,7 +8,7 @@ excerpt: What I am focusing on at the moment (aka: now page).
 
 ✨
 
-**I create experiences, gatherings and games for regenerative communities.**
+**I create [experiences](/experiences){:target="_blank"}, gatherings and games for regenerative communities.**
 
 **I'm implementing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"}**, working towards *Azores Regenerative Network*. 
 
