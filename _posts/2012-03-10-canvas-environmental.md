@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Canvas Environmental Art (Exhibition)
+title: Canvas Environmental Art (Exhibition)
 description: 
 image:
 tags: [experiences]

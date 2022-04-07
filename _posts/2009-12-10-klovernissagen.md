@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Klovernissagen (Exhibition)
+title: Klovernissagen (Exhibition)
 description: 
 image:
 tags: [experiences]

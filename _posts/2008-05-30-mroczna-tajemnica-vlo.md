@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Mroczna Tajemnica VLO (Theatre Experience)
+title: Mroczna Tajemnica VLO (Theatre Experience)
 description: 
 image:
 tags: [experiences]

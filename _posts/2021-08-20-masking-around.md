@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Masking Around (Party Installation)
+title: Masking Around (Party Installation)
 description: 
 image:
 tags: [experiences]

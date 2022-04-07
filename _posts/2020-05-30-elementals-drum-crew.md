@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Elementals (Drum Crew)
+title: Elementals (Drum Crew)
 description: 
 image:
 tags: [experiences]

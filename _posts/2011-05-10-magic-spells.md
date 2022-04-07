@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Magic Spells (Party & Installation)
+title: Magic Spells (Party & Installation)
 description: 
 image:
 tags: [experiences]

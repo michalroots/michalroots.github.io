@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3rd International Forum of the European Youth Parliament Albania
+title: Samhuinn (Performance & Ceremony)
 description: 
 image:
 tags: [experiences]
