@@ -12,7 +12,7 @@ excerpt: What I am focusing on at the moment (aka: now page).
 
 🌳
 
-I'm a **community weaver and catalyst**, implementing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"} on the journey towards *Azores Regenerative Network/*
+I'm a **community weaver and catalyst**, implementing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"} on the journey towards *Azores Regenerative Network*
 
 **I contribute to [Enspiral](https://enspiral.com){:target="_blank"}** in working groups *Europe Connection* and *Comms*. 
 
