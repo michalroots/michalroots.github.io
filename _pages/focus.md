@@ -16,7 +16,7 @@ I'm a **community weaver and catalyst**, implementing [microsolidarity in Pico I
 
 **I contribute to [Enspiral](https://enspiral.com){:target="_blank"}** in working groups *Europe Connection* and *Comms*. 
 
-**I'm a member of [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}** involved in the *Community & Communication* and *Legal and Governance* Circle.
+**I'm a member of [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}** involved in the *Community & Communication*, *Legal and Governance* Circle, and a part of the Stewarding Team during summer 2022.
 <p></p>
 <hr>
 <p></p>
