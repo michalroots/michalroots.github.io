@@ -13,9 +13,12 @@ My personal *ikigai* is to **bring people together and hold space for relational
 <p>
 🌳
 </p>
-It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you mum!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art-based experiences.**
+It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you mum!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art experiences.**
 
-In parallel, at the age of eighteen I started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **microsolidarity community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. Also: a **certified habit coach** -> dream big, start small, make it happen. I'm a big fan of **learning by doing**.
+In parallel, at the age of eighteen I started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **microsolidarity community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. I'm also: a **certified habit coach** -> dream big, start small, make it happen. 
+
+I'm a big fan of **learning by doing** and my professional curiosity lies in **integrating transformational experiences**: *how to carry forward the energy and insight from a transformational experience, after it's over?*
+
 <p>
 ☀️
 </p>

@@ -6,4 +6,10 @@ image:
 tags: [experiences]
 ---
 
+Context:
+
+Magic:
+
+My Role:
+
 - [ ] add documentation
