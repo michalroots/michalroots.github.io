@@ -41,3 +41,6 @@ I'm designing this website for effortless publishing from Obsidian. Here's my [d
 
 ## Contribute on Github
 If you found bugs, typos etc, you can view <a href="https://github.com/heymichal/heymichal.github.io" target="_blank">source code</a> on Github and help.
+
+## Contribute with 🍪
+Perhaps the stuff I do here is useful to you and you'd like to send me some gratitude in a form of financial support? [Patreon](https://www.patreon.com/michalkorzonek) is a great place to do so. If not, hugs are another great option 💜.
