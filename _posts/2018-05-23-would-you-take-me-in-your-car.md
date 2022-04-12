@@ -3,7 +3,7 @@ layout: post
 title: Would You Take Me in Your Car?
 description: How I learned about trust while hitchhiking across Europe
 image:
-tags: [article]
+tags: [articles]
 ---
 
 Context: 
