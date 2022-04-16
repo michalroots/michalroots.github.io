@@ -31,7 +31,7 @@ Michał
 
 ## My Offer
 - **Experience Design Consulting**: I help regenerative organisations create transformational retreats, workshops, courses and events. €200 / hour (discounts and token payments possible)
-- **Facilitation Magic:** Hire me to facilitate your event. €500 / day (discounts and token payments possible)
+- **Facilitation Magic:** Hire me to facilitate your event. €1000 / day (discounts and token payments possible)
 - **Art Co-Creation**: Immersive experiences are my thing. If you'd like me to co-create with you, or at your festival / exhibition - reach out.
 - **Officiating Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
 
