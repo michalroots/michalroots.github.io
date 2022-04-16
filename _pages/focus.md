@@ -4,19 +4,25 @@ title: Focus
 excerpt: What I am focusing on at the moment (aka: now page).
 ---
 
-<b>No Fear. Dream Big. Manifest. Shine.</b>
+I co-create magic in three communities:
+
+- Community Weaving and Catalysing by practicing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"} (Azores).
+- Community Weaving and Connection in [Enspiral](https://enspiral.com){:target="_blank"} Europe + Creating Enspiral Newsletter
+- Community Weaving, Legal & Governance, Stewarding Team for summer 2022 in [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}, the first land-based DAO in Europe.
 
 ✨
 
-**I create [experiences](/experiences){:target="_blank"} where magic happens, and [games](/tag/games){:target="_blank"} for regenerative communities.**
+I'm available to work with projects, organisations and communities, focused on co-creating a beautiful world where all beings can thrive 
+
+(A few keywords: #regenerative #belonging #meaningfulwork #refi #teal #bioregion #village #nonhierarchical #dao )
+
+Here are two ways I can help:
+
+- **I create [experiences](/experiences) where magic happens** -> I create gatherings, spaces and experiences, building long-lasting community weaving rhythms
+- **I tell [stories](/storytelling-documentation) of beautiful dreams becoming reality** -> I create (news)letters & documentation
 
 🌳
 
-I'm a **community weaver and catalyst**, implementing [microsolidarity in Pico Island](https://pico.microsolidarity.cc){:target="_blank"} on the journey towards *Azores Regenerative Network*
-
-**I contribute to [Enspiral](https://enspiral.com){:target="_blank"}** in working groups *Europe Connection* and *Comms*. 
-
-**I'm a member of [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}** involved in the *Community & Communication*, *Legal and Governance* Circle, and a part of the Stewarding Team during summer 2022.
 <p></p>
 <hr>
 <p></p>
