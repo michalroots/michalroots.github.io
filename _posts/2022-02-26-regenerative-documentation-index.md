@@ -75,4 +75,4 @@ Okay, this is not really a documentation project, but more of a database of Rege
 ---
 
 ## I'm available to help
-If you'd like some help with starting / growing your documentation project, [I'm available to help](/storytelling).
+If you'd like some help with starting / growing your documentation project, [I'm available to help](/storytelling-documentation).

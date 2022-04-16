@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Storytelling Magic
+title: Storytelling & Documentation Magic
 description: I tell heartfelt stories of beautiful dreams becoming a reality.
 summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 ---
