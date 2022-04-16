@@ -20,7 +20,7 @@ I co-create three communities:
 
 (A few keywords: #regenerative #belonging #meaningfulwork #refi #teal #bioregion #village #nonhierarchical #dao )
 
-Here are two ways I can help:
+Here's how I can be of service:
 
 - **I create [experiences](/experiences) where magic happens** -> I create gatherings, spaces and experiences, building long-lasting community weaving rhythms
 - **I tell [stories](/storytelling-documentation) of beautiful dreams becoming reality** -> I create (news)letters & documentation
