@@ -6,7 +6,7 @@ summary: What I am focusing on at the moment (aka - now page).
 ---
 
 1. **I bring people together and make beautiful dreams happen.**
-2. **I tell stories of how it happens, to inspire others and send ripples.** 
+2. **I tell stories documenting the process, to inspire others and send ripples.** 
 
 North star: Let's co-create a beautiful world where all beings can thrive.
 
