@@ -33,7 +33,6 @@ Here's how I can be of service:
 <p></p>
 Other activities that are important to me:
 
-- creating open-source [documentation](/tag/documentation/){:target="_blank"}
 - creating [journaling games](https://journalsmarter.com){:target="_blank"} serving as a daily ritual for grounding and re-alignment. 
 - writing heartfelt [letters](letters.md)
 - walking
