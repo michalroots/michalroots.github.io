@@ -21,7 +21,7 @@ North star: Let's co-create a beautiful world where all beings can thrive.
 <p></p>
 **I'm available to work with your project, organisation and community.**
 
-A few keywords that bring spark into my eyes: #regenerative #belonging #meaningfulwork #refi #bioregion #island #village #nonhierarchical #playful
+A few keywords that bring spark into my eyes: #regenerative #belonging #meaningfulwork #refi #bioregion #island #village #nonhierarchical #playful #foodforest
 
 Here's how I can be of service:
 
