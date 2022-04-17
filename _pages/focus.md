@@ -25,8 +25,8 @@ A few keywords that bring spark into my eyes: #regenerative #belonging #meaningf
 
 Here's how I can be of service:
 
-- **[I create experiences](/experiences) where magic happens and continues to shine long into the future** -> I create gatherings, spaces and experiences, building long-lasting community weaving rhythms
-- **[I tell stories](/documentation) documenting beautiful dreams becoming reality** -> I create (news)letters and documentation
+- [**I create experiences where magic happens and continues to shine long into the future**](/experiences){:target="_blank"} -> I create gatherings, spaces and experiences, building long-lasting community weaving rhythms
+- [**I tell stories documenting beautiful dreams becoming reality**](/documentation){:target="_blank"} -> I create (news)letters and documentation
 
 <p></p>
 <hr>
