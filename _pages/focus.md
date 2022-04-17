@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Focus
-description: What I am focusing on at the moment (aka: now page).
-summary: What I am focusing on at the moment (aka: now page).
+description: What I am focusing on at the moment (aka - now page).
+summary: What I am focusing on at the moment (aka - now page).
 ---
 
 1. **I bring people together and make beautiful dreams happen.**
