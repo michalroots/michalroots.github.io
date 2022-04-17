@@ -5,7 +5,7 @@ description: I tell heartfelt stories of beautiful dreams becoming a reality.
 summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 ---
 
-**I tell heartfelt stories of beautiful dreams becoming a reality.**
+**I tell heartfelt stories documenting beautiful dreams becoming a reality.**
 
 ---
 
