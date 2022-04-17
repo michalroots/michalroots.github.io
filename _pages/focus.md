@@ -3,7 +3,7 @@ layout: page
 title: Focus
 excerpt: What I am focusing on at the moment (aka: now page).
 ---
-# Focus
+
 1. **I bring people together and make beautiful dreams happen.**
 2. **I tell stories of how it happens, to inspire others and send ripples.** 
 
