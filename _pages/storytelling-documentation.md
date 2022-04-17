@@ -10,8 +10,8 @@ summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 ---
 
 ## My Offer
-- Creating a **monthly newsletter for regenerative projects**, organisations and communities. I will **narrate your story** as it happens, providing a **consistent rhythm** of **building trust and connection** with your audience and **creating documentation** for your organisation (€300-€800/m, token payments possible)
-- Creating documentation for your organisation (€1000-€3000, token payments possible)
+- Creating a **monthly newsletter for regenerative projects**, organisations and communities. I will **narrate your story** in a **consistent rhythm**, serving to **build trust and connection** with your audience, and to **create documentation** for your organisation (€500-€1000/m, token payments possible)
+- Creating hanbooks / documentation for your organisation (€1000-€5000, token payments possible)
 
 <p>🌳</p>
 
