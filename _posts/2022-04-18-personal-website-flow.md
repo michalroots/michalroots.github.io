@@ -114,7 +114,7 @@ Proofreading is now complete, which means I can cmd+Tab to GitHub Desktop and co
 
 That is all, folks.
 
-Funny enough, I decide not to take this final step right now, because I notice that lonely paragraph again, and on an impulse decide to make it an integral part of this article, rather than leaving a few random lines at the end of the article completely out of context. I guess that's fair to the reader..
+Funny enough, I decide not to take this final step right now, because I notice that lonely paragraph again, and on an impulse decide to make it an integral part of this article, rather than leaving a few random lines at the end of the article completely out of context. I guess that's fair to you..
 
 To give context, we need to return to the poem.
 
