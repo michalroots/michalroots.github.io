@@ -124,7 +124,7 @@ Okay, tangent finished. It's still random. Forgive me.
 
 In any case, the poem is still awaiting editing, which is actually perfect, because I feel like my work here is done for now.
 
-I just need to republish this article, send the link to Rob, and then come back to what I was doing, before a sudden breeze of air would bring me here together with you.
+I just need two clicks to republish this article, send the link to Rob, and then come back to what I was doing, before a sudden breeze of air would bring me here together with you.
 
 BIRDS SURFING OCEAN WIND VIDEO
 
