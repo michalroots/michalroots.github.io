@@ -6,47 +6,47 @@ image:
 tags: [poems]
 ---
 
-I'm here with you
-holding space
-curiously patiently
-getting to know you
-and yet 
-I'm loosing myself 
-in seeking connection
-and somehow forget 
-to take a breath
-and ask
+I'm here with you<br>
+holding space<br>
+curiously patiently<br>
+getting to know you<br>
+and yet <br>
+I'm loosing myself<br> 
+in seeking connection<br>
+and somehow forget <br>
+to take a breath<br>
+and ask<br>
 
-instead
-I speak from the heart
-opening up 
-yet taking space 
-that I wish to hold
-letting myself unfold
-into the night
-combining your essence
-with my luminescence
-so bright
+instead<br>
+I speak from the heart<br>
+opening up <br>
+yet taking space<br> 
+that I wish to hold<br>
+letting myself unfold<br>
+into the night<br>
+combining your essence<br>
+with my luminescence<br>
+so bright<br>
 
-eyes close 
-eyes meet 
-we breathe
+eyes close <br>
+eyes meet <br>
+we breathe<br>
 
-you're my guide 
-my teacher
-my mirror
+you're my guide<br> 
+my teacher<br>
+my mirror<br>
 
-making me aware 
-of uncomfortable truths
-for which I'm grateful
+making me aware<br> 
+of uncomfortable truths<br>
+for which I'm grateful<br>
 
-I'm with you and them 
-and all the questions 
-with no comprehension
-floating around
-yet with courage anew
-drawing closer to you
-timelessly suspended 
-our fears befriended
-witnessing a moment
-of blossoming
+I'm with you and them <br>
+and all the questions <br>
+with no comprehension<br>
+floating around<br>
+yet with courage anew<br>
+drawing closer to you<br>
+timelessly suspended <br>
+our fears befriended<br>
+witnessing a moment<br>
+of blossoming<br>
