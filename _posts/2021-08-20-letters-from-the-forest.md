@@ -3,7 +3,7 @@ layout: post
 title: Letters from the Forest (Poetry Collection)
 description: Collection of heartfelt poems inspired by living in a Magical Forest.
 image:
-tags: [poetry]
+tags: [poems]
 ---
 
 Context: 

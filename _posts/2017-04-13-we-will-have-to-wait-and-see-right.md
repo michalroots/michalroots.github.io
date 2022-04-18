@@ -3,7 +3,7 @@ layout: post
 title: We Will Have to Wait and See, Right?
 description: Rap song for a departing Lover
 image:
-tags: [poetry]
+tags: [poems]
 ---
 
 Context: 
