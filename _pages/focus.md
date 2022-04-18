@@ -34,7 +34,7 @@ Here's how I can be of service:
 Other activities that are important to me:
 
 - creating [journaling games](https://journalsmarter.com){:target="_blank"} serving as a daily ritual for grounding and re-alignment. 
-- writing heartfelt [letters](letters.md)
+- writing heartfelt [letters](/letters)
 - walking
 - sailing ⛵️⛵️⛵️
 - feeding people with [riddiculously delicious vegan desserts](/tag/nomz)
