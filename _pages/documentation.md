@@ -10,7 +10,7 @@ summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 ---
 
 ## My Offer
-- Creating a **monthly newsletter for regenerative projects**, organisations and communities. I will **narrate your story** in a **consistent rhythm**, serving to **build trust and connection** with your audience, and to **create documentation** for your organisation (€500-€1000/m, token payments possible)
+- Creating a **monthly / moonly newsletter for regenerative projects**, organisations and communities. I will **narrate your story** in a **consistent rhythm**, serving to **build trust and connection** with your audience, and to **create documentation** for your organisation (€500-€1000/m, token payments possible)
 - Creating hanbooks / documentation for your organisation (€1000-€5000, token payments possible)
 
 <p>🌳</p>
@@ -20,7 +20,7 @@ summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 ### (News)letters 💌
 - [Moonly Reviews 🌑🌕 ](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
 - [Enspiral Newsletter](https://www.enspiral.com/){:target="_blank"} (Internal & External) - updates from a network of people helping each other do **meaningful work** and notes from the field of the future of work and a **new way of organising**.
-- [Sunday Insights](https://docs.google.com/document/d/163FC_CZsNVmpjaw1Mty4PJvIhrGwqIDE9aa6YyU1AXw/edit?usp=sharing){:target="_blank"} (newsletter project in 2020) - weekly email with an insight, a prompt, picture from us and an idea worth spreading.
+- [Sunday Insights](https://docs.google.com/document/d/163FC_CZsNVmpjaw1Mty4PJvIhrGwqIDE9aa6YyU1AXw/edit?usp=sharing){:target="_blank"} (newsletter project in 2020) - weekly email with an insight, a prompt, a picture, and an idea worth spreading.
 <br>
 > “One of my favorite things about the Sunday Insights is that they give a window into your world. I love it that not only are you deep thinkers committed to the things that matter most in life, but that you are also committed to being guides on the journey. So grateful to be in satsanga.” <br> -- Cathy Hutchison
 
