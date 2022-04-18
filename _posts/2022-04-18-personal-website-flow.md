@@ -118,7 +118,7 @@ Funny enough, I decide not to take this final step right now, because I notice t
 
 To give context, we need to return to the poem.
 
-I was editing it so I can get it ready for a spoken word collaboration with [João Moreira] - one of the two Portuguese men whom I connected with deeply many years back in Albania, and on my return to Edinburgh which was my home at the time, I immediately booked my tickets to Portugal to fly there 2 months later. It turned out that I'd find a Lover I would spend 8 years together with, and eventually move to Portugal, where I'm living now (although it's not the continental part of Portugal).
+I was editing it so I can get it ready for a spoken word collaboration with [João Moreira] - one of the two Portuguese men whom I connected with deeply many years back in Albania, and on my return to Edinburgh which was my home at the time, I immediately booked my tickets to Portugal to fly there 2 months later. It turned out that I'd find a Person I would spend 8 years together with, and eventually move to Portugal, where I'm living now (although it's not the continental part of Portugal).
 
 Okay, tangent finished. It's still random. Forgive me.
 
