@@ -5,16 +5,15 @@ description: What I am focusing on at the moment (aka - now page).
 summary: What I am focusing on at the moment (aka - now page).
 ---
 
-1. **I bring people together and make beautiful dreams happen.**
-2. **I tell stories documenting the process, to inspire others and send ripples.** 
+**Creating Moments and Stories**
 
 North star: Let's co-create a beautiful world where all beings can thrive.
 
 <p>🌳⛵️✨</p>
 
-- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - I'm catalysing, hosting events and creating documentation. NOW: Co-hosting Pico Spring Gathering
-- [**Enspiral**](https://enspiral.com){:target="_blank"} - I'm weaving connection within the European node of the network and creating the Enspiral Newsletter. NOW: Co-hosting Enspiral Europe Summer Gathering
-- [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - I'm contributing in Legal & Governance and Community & Comms circles of the first land-based DAO in Europe. NOW: TDF Steward for summer 2022
+- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - events, documentation, piconomics. NOW: Co-hosting Pico Spring Gathering
+- [**Enspiral**](https://enspiral.com){:target="_blank"} - weaving connection within the European node of the network, Enspiral Newsletter. NOW: Co-hosting Enspiral Europe Summer Gathering
+- [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - I'm kinda hijacked by the Dream Tribe at the moment. Legal & Governance Circle, Community & Comms Circle, NOW: TDF Steward for summer 2022
 
 <p></p>
 <hr>
@@ -25,9 +24,10 @@ A few keywords that bring spark into my eyes: #regenerative #belonging #meaningf
 
 Here's how I can be of service:
 
-- [**I create experiences where magic happens and continues to shine long into the future**](/experiences){:target="_blank"} -> I create gatherings, spaces and experiences, building long-lasting community weaving rhythms
-- [**I tell stories documenting beautiful dreams becoming reality**](/documentation){:target="_blank"} -> I create (news)letters and documentation
+- [**I create moments that move the energy forward**](/experiences){:target="_blank"} -> gatherings & events with relational rhythms to catalyse continuous co-creation and regeneration
+- [**I tell stories documenting beautiful dreams becoming reality**](/documentation){:target="_blank"} -> I write (news)letters, articles and documentation
 
+*Note: My long-term goal is to move towards gift economy, as much as possible. You can accelerate this process via [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.*
 <p></p>
 <hr>
 <p></p>
@@ -38,6 +38,6 @@ Other activities that are important to me:
 - walking
 - sailing ⛵️⛵️⛵️
 - feeding people with [riddiculously delicious vegan desserts](/tag/nomz)
-- enjoying simple life in a tiny wooden cabin in the middle of a beautiful forest.
+- enjoying simple life in a tiny wooden cabin in the middle of a magical forest.
 
 ♥
