@@ -94,7 +94,7 @@ It's live.
 
 IMG
 
-Note that it's imperfect as fuck. 
+Please note that it's imperfect as fuck. 
 
 I mean there is a paragraph typed below that I wrote before and decided not to include, but felt bad to delete it because it feels like a good paragraph to come back to at some point. Moreover, there are no screenshots included, and the links are all missing. 
 
