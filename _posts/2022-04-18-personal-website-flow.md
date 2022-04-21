@@ -22,7 +22,7 @@ WEBSITE ENTERS
 
 Here's how it works:
 
-I publish unfinished stuff, but I publish it consistently. And since [everything is written and managed directly inside my Obsidian vault], which is the central point of my digital [focus], I can update anything I publish effortlessly, at any time, on my laptop or phone. I press Alt+Tab, write a letter "g" (for GitHub Desktop to appear as the first result) and press enter. Then click "commit to main" and finalise the process by clicking "push origin". Robots do their work, and the website is updated.
+**I publish unfinished stuff, but I publish it consistently**. And since [everything is written and managed directly inside my Obsidian vault], which is the central point of my digital [focus], I can update anything I publish effortlessly, at any time, on my laptop or phone. I press Alt+Tab, write a letter "g" (for GitHub Desktop to appear as the first result) and press enter. Then click "commit to main" and finalise the process by clicking "push origin". Robots do their work, and the website is updated.
 
 It takes me approximately 2 seconds.
 
