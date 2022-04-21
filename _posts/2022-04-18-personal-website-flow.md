@@ -6,7 +6,7 @@ image:
 tags: articles documentation
 ---
 
-Context: This is deliberately unfinished article. It will all make sense, I promise.
+Context: This article is deliberately unfinished to illustrate a point. It will all make sense, I promise.
 
 <p>🐦</p>
 
