@@ -6,6 +6,10 @@ image:
 tags: articles documentation
 ---
 
+Context: This is deliberately unfinished article. It will all make sense, I promise.
+
+<p>🐦</p>
+
 My personal website is pretty much targeted for me - so I can publish as much as possible.
 
 The fact that it's live online, adds some pressure on the quality of what I publish, but more importantly helps me overcome my perfectionistic tendencies. For context, it took me 3 months to write [this article]. It was worth it, but I could have done it in 2 weeks. I just kept getting stuck in perfecting, even if deep down I knew that it will never be perfect anyway, and that's totally fine, too. In the end, the 2.5 months of extra time increased it's final quality by 1%. 
