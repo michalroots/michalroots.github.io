@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sailing
+title: Sailing ⛵️
 description: Sailing Plan and CV
 summary: Sailing Plan and CV
 ---
@@ -32,7 +32,7 @@ currently based in Pico island, Azores
 - Nationality: Polish (EU passport) 
 - Dream: co-creating a beautiful world where all beings can thrive.
 - Diet: no animals for me, but I don't mind you eating yours.
-- Smoking: nope
+- Non-smoker
 
 Also:
 
