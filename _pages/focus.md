@@ -36,7 +36,7 @@ Other activities that are important to me:
 - creating [journaling games](https://journalsmarter.com){:target="_blank"} serving as a daily ritual for grounding and re-alignment. 
 - writing heartfelt [letters](/letters)
 - walking
-- sailing ⛵️⛵️⛵️
+- [sailing](/sailing) ⛵️⛵️⛵️
 - feeding people with [riddiculously delicious vegan desserts](/tag/nomz)
 - enjoying simple life in a tiny wooden cabin in the middle of a magical forest.
 
