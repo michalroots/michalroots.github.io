@@ -148,12 +148,12 @@ and <br>
 
 connected<br>
 
+<p> </p>
 ---
 Scan of the original text below:
 
 ![Scan of the original text from my journal](/assets/illuminated.jpg)
 
-Written at:
 
 *22 May 2017<br>
 54°12.444 N<br>
