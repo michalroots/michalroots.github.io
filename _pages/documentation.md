@@ -20,9 +20,10 @@ summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 ### (News)letters 💌
 - [Moonly Reviews 🌑🌕 ](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
 - [Enspiral Newsletter](https://www.enspiral.com/){:target="_blank"} (Internal & External) - updates from a network of people helping each other do **meaningful work** and notes from the field of the future of work and a **new way of organising**.
+- [Microsolidarity in Pico](https://picomicrosolidarity.substack.com/){:target="_blank"}  - a newsletter complimenting [documentation](https://pico.microsolidarity.cc/){:target="_blank"} of my community weaving work in Pico Island.
 - [Sunday Insights](https://docs.google.com/document/d/163FC_CZsNVmpjaw1Mty4PJvIhrGwqIDE9aa6YyU1AXw/edit?usp=sharing){:target="_blank"} (newsletter project in 2020) - weekly email with an insight, a prompt, a picture, and an idea worth spreading.
 <br>
-> “One of my favorite things about the Sunday Insights is that they give a window into your world. I love it that not only are you deep thinkers committed to the things that matter most in life, but that you are also committed to being guides on the journey. So grateful to be in satsanga.” <br> -- Cathy Hutchison
+> “One of my favourite things about the Sunday Insights is that they give a window into your world. I love it that not only are you deep thinkers committed to the things that matter most in life, but that you are also committed to being guides on the journey. So grateful to be in satsanga.” <br> -- Cathy Hutchison
 
 ### Documentation Projects 📖
 - [Microsolidarity in Pico](https://pico.microsolidarity.cc/){:target="_blank"} - a digital journal documenting the process of **community weaving** in Pico Island, by practicing Microsolidarity.
