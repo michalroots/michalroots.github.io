@@ -100,7 +100,7 @@ And here's brainstorming / structuring a workshop to boost an Enspiral friend on
 
 ## 5. Whiteboard
 
-I have a whiteboard. I love whiteboards. I use it mostly to incubate ideas over a period of a few days. I write/draw stuff, and adjust over a period of a few days, until incubation process is completed and I can turn an idea into reality.
+I have a whiteboard. I love whiteboards. I use it mostly to incubate ideas over a period of a few days. I write/draw stuff whenever I feel like, until incubation process is completed and I can turn an idea into reality.
 
 Here's a half-incubated participatory experience called [*Merging*](/merging){:target="_blank"}:
 
