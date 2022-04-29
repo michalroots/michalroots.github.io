@@ -8,7 +8,9 @@ tags: articles documentation
 
 Earlier today, a friend reached out asking to cancel our learning pod meeting. It seems that calls and other stuff took over her day, and she forgot to keep some free time to eat. 
 
-*Tranquilo, let's skip the pod.* - I replied immediately - *I guess we could both use a lesson of scheduling food breaks.*
+I replied immediately:
+
+![Tranquilo, let's skip the pod. We could both use a food break.](/assets/no-breaks.jpg)
 
 For context, I'm the guy who loves free space in calendars, async work and time away from digital devices. Considering that my last few weeks are basically *non-stop action* from morning to late at night, it seems like now is a good moment to pause and ask myself gently: 
 
