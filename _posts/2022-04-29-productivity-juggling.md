@@ -20,9 +20,9 @@ Checking in to my Enspiral Work Pod was a perfect opportunity to reflect on that
 
 > I know very well that this is not sustainable modus operandi and I know that in the next week I will make an effort to increase the amount of free space in my day. On the other hand, I've noticed that **in order to keep up with all the open projects I'm fuelling my energy into at the moment, I needed to step up my personal productivity game, and drop some projects that I just couldn't keep up with anymore.** 
 
-In other words, the times of *nakurw* {roughly translated as "full fucking thrust"} forced me to cut the crap and developed a super effective way of juggling all my things to do without even noticing.
+In other words, the times of *nakurw* {roughly translated as "full fucking thrust"} forced me to cut the crap and develop a super effective way of juggling all my things to do without even noticing.
 
-After all I'm a juggler.
+After all I am a juggler.
 
 🤹‍♀️ 
 
@@ -96,7 +96,7 @@ Here's an example of my [Moonly Page](https://journalsmarter.com/new-moon-journa
 
 And here's brainstorming / structuring a workshop to boost an Enspiral friend on her new business venture:
 
-![scan journal brainstorming page](/assets/journal-an-boost)
+![scan journal brainstorming page](/assets/journal-an-boost.jpg)
 
 ## 5. Whiteboard
 
