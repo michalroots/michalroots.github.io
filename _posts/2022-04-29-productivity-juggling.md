@@ -10,11 +10,9 @@ Earlier today, a friend reached out asking to cancel our learning pod meeting. I
 
 *Tranquilo, let's skip the pod.* - I replied immediately - *I guess we could both use a lesson of scheduling food breaks.*
 
-![Calendar Screenshot](/assets/calendar-screenshot.jpg)
-
 For context, I'm the guy who loves free space in calendars, async work and time away from digital devices. Considering that my last few weeks are basically *non-stop action* from morning to late at night, it seems like now is a good moment to pause and ask myself gently: 
 
-WTF ARE YOU DOING, MICHAŁ?
+*WTF ARE YOU DOING, MICHAŁ?*
 
 Checking in to my Enspiral Work Pod was a perfect opportunity to reflect on that question. Here's what came up:
 
@@ -54,7 +52,7 @@ I timebox almost everything into my calendar, including meetings and work slots.
 
 For work slots, I write specific tasks I intend on executing.
 
-[Details of work slot event](/assets/calendar-details.jpg)
+![Details of work slot event](/assets/calendar-details.jpg)
 
 During the day I just follow the plan and dynamically adjust calendar events as needed. Whenever a task is done, I mark it as ✅.
 
