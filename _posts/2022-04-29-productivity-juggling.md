@@ -36,11 +36,13 @@ So: I created a note called ```Braindump ✅``` and started dumping all the shit
 
 It's kinda like a backlog, but I don't need another app for it.
 
-I progressively edit the list every time I look at it, which is kinda all the time, and rearrange the order of items in order of priority. Whenever I notice resistance suggesting that a task is too big to execute, I replace it with a smaller version of that task.
+I progressively edit the list every time I look at it, which is kinda all the time, and rearrange the order of items in order of priority. Whenever I notice resistance suggesting that a task is too big to execute, or not clear enough, I replace it with a smaller version of that task, or define it better.
 
 I also added some basic guidance on top:
 
 ![braindump note image](/assets/braindump-note.jpg)
+
+In this example "tax return" is way too big, and I replaced with a single step from my accounting checklist.
 
 Whenever I complete a task, I move it to the ``  done ✅ `` section below all the tasks and feel the boost of endorfins kicking in.
 
@@ -116,4 +118,4 @@ Wish me luck.
 
 🌳
 
-Oh, and It would be sweet if you'd consider channeling some cashish into my [Patreon](https://patreon.com/michalkorzonek){:target="_blank"}. I'll use it wisely, I promise.
+Oh, and It would be sweet if you'd consider channeling some cashish into my [Patreon](https://patreon.com/michalkorzonek){:target="_blank"}, especially if this was helpful / fun to read. In any case, thank you for being here 💜. In fact, thank you for Being!
