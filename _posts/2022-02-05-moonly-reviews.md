@@ -10,7 +10,7 @@ Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive 
 
 I've started in December 2020, loved it, and the streak continues until today (with a few misses, of course, because it's okay). This public review practice written as a letter from the heart became one of my favourite rituals, along with my [Moonly Videos](one-second-a-day){:target="_blank"}, and [Infinity Squares](/infinity-squares){:target="_blank"}.
 
-At the moment I publish my Moonly Reviews via [Substack](https://michalkorzonek.substack.com){:target="_blank"}. If you'd enjoy reading a letter from me every 🌑 and 🌕, I'd like to encourage you to subscribe there.
+At the moment I publish my Moonly Reviews via Substack. If you'd enjoy reading a letter from me every 🌑 and 🌕, I'd like to encourage you to subscribe [here](https://michalkorzonek.substack.com){:target="_blank"}.
 
 Here's the full list:
 
