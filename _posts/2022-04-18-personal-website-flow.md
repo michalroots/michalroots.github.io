@@ -6,7 +6,7 @@ image:
 tags: articles documentation
 ---
 
-Context: This article is deliberately unfinished to illustrate a point. It will all make sense, I promise. I also created a [full version here](/personal-wesbite-flow-full){:target="_blank"}.
+Context: This article is deliberately unfinished to illustrate a point. It will all make sense, I promise. I also created a [full version here](/personal-website-flow-full){:target="_blank"}.
 
 <p>🐦</p>
 
