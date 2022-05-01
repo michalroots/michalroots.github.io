@@ -9,7 +9,7 @@ North star: **Let's co-create a beautiful world where all beings can thrive.**
 
 My part: **Creating Moments and Stories**
 
-Log: [***Moonly Review***]()
+Log: [**Moonly Review**](/moonly-review){:target="_blank"}
 
 <p>🌳⛵️✨</p>
 
