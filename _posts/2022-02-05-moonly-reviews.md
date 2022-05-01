@@ -8,9 +8,9 @@ tags: [documentation]
 
 Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive in me right now. 
 
-I've started in December 2020 and only skipped a few beats since then. It has become one of my favourite digital journaling practices (along with my [Moonly Videos](one-second-a-day)).
+I've started in December 2020, loved it, and the streak continues until today (with a few misses, of course, because it's okay). This public review practice written as a letter from the heart became one of my favourite rituals, along with my [Moonly Videos](one-second-a-day){:target="_blank"}, and [Infinity Squares](/infinity-squares){:target="_blank"}.
 
-At the moment I publish my Moonly Reviews via [Substack](https://michalkorzonek.substack.com){:target="_blank"}. If you want to hear from me, I'd like to encourage you to subscribe there.
+At the moment I publish my Moonly Reviews via [Substack](https://michalkorzonek.substack.com){:target="_blank"}. If you'd enjoy reading a letter from me every 🌑 and 🌕, I'd like to encourage you to subscribe there.
 
 Here's the full list:
 
@@ -29,10 +29,10 @@ Here's the full list:
 - 🌑 [March 2021 - *Alternative Business*](https://michalkorzonek.substack.com/p/moonly-review-alternative-business){:target="_blank"}
 - 🌕 [March 2021 - *Home, Log, Community*](https://michalkorzonek.substack.com/p/moonly-review-home-log-community){:target="_blank"}
 - 🌑 [April 2021 - *New Beginnings*](https://michalkorzonek.substack.com/p/moonly-review-new-beginnings){:target="_blank"}
-- 🌕 skipped
+- 🌕 skipped ❌
 - 🌑 [May 2021 - *After the Soul Storm*](https://michalkorzonek.substack.com/p/moonly-review-after-the-soul-storm){:target="_blank"}
 - 🌕 [May 2021 - *Covid City*](https://michalkorzonek.substack.com/p/supermoonly-review-covid-city){:target="_blank"}
-- 🌑 skipped
+- 🌑 skipped ❌
 - 🌕 [June 2021 - *Pico Vortex*](https://michalkorzonek.substack.com/p/moonly-review-pico-vortex){:target="_blank"}
 - 🌑 [July 2021 - *Infinite Possibilities*](https://michalkorzonek.substack.com/p/moonly-review-infinite-possibilities){:target="_blank"}
 - 🌕 [July 2021 - *Connected State*](https://michalkorzonek.substack.com/p/moonly-review-connected-state){:target="_blank"}
@@ -51,10 +51,11 @@ Here's the full list:
 - 🌑 [January 2022 - Yearly Review](https://michalkorzonek.com/yearly-review-2021){:target="_blank"}
 - 🌕 [January 2022 - *Thirty Three*](https://michalkorzonek.substack.com/p/moonly-review-thirty-three){:target="_blank"}
 - 🌑 [February 2022 - *In and Out of Darkness*](https://michalkorzonek.substack.com/p/moonly-review-in-and-out-of-darkness){:target="_blank"}
-- 🌕 skipped
+- 🌕 skipped ❌
 - 🌑 [March 2022 - *Gatherings, Money, Belonging*](https://michalkorzonek.substack.com/p/moonly-review-gatherings-money-belonging){:target="_blank"}
 - 🌕 [March 2022 - *Family Time*](https://michalkorzonek.substack.com/p/moonly-review-family-time){:target="_blank"}
 - 🌑 [April 2022 - *Hijacked by the Dream*](https://michalkorzonek.substack.com/p/moonly-review-hijacked-by-the-dream){:target="_blank"}
 - 🌕 [April 2022 - *Don't Be Careful What You Wish For*](https://michalkorzonek.substack.com/p/moonly-review-dont-be-careful-what){:target="_blank"}
 - 🌑 [April 2022 - *Parallel*](https://michalkorzonek.substack.com/p/moonly-review-parallel){:target="_blank"}
 
+*Note to self: one day I could add a note here that I'm a habit coach and could take on one or two clients. Maybe I will, maybe I won't.*
