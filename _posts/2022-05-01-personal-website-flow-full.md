@@ -6,13 +6,14 @@ image:
 tags: articles documentation
 ---
 
-Context: This article is deliberately unfinished to illustrate a point. It will all make sense, I promise. I also created a [full version here](/personal-wesbite-flow-full){:target="_blank"}.
+Context: This article is a full version of the original article, which you can find [here](/personal-website-flow){:target="_blank"}. This version is more useful, but the other one is funnier. Choose wisely.
 
-<p>🐦</p>
+
+<p>🧙‍♂️</p>
 
 My personal website is pretty much targeted for me - so I can publish as much as possible.
 
-The fact that it's live online, adds some pressure on the quality of what I publish, but more importantly helps me overcome my perfectionistic tendencies. For context, it took me 3 months to write [this article]. It was worth it, but I could have done it in 2 weeks. I just kept getting stuck in perfecting, even if deep down I knew that it will never be perfect anyway, and that's totally fine, too. In the end, the 2.5 months of extra time increased it's final quality by 1%. 
+The fact that it's live online, adds some pressure on the quality of what I publish, but more importantly helps me overcome my perfectionistic tendencies. For context, it took me 3 months to write [this article](https://medium.com/p/6f71e0954f0d){:target="_blank"}. It was worth it, but I could have done it in 2 weeks. I just kept getting stuck in perfecting, even if deep down I knew that it will never be perfect anyway, and that's totally fine, too. In the end, the 2.5 months of extra time increased its final quality by 1%. 
 
 ```
 SAD TROMBONE PLAYS
@@ -26,11 +27,13 @@ WEBSITE ENTERS
 
 Here's how it works:
 
-**I publish unfinished stuff, but I publish it consistently**. And since [everything is written and managed directly inside my Obsidian vault], which is the central point of my digital [focus], I can update anything I publish effortlessly, at any time, on my laptop or phone. I press Alt+Tab, write a letter "g" (for GitHub Desktop to appear as the first result) and press enter. Then click "commit to main" and finalise the process by clicking "push origin". Robots do their work, and the website is updated.
+**I publish unfinished stuff, but I publish it consistently**. And since [everything is written and managed directly inside my Obsidian vault](/obsidian-to-github){:target="_blank"}, which is the central point of my digital [focus](/focus){:target="_blank"}, I can update anything I publish effortlessly, at any time, on my laptop or phone. I press Alt+Tab, write a letter "g" (for GitHub Desktop to appear as the first result) and press enter. Then click "commit to main" and finalise the process by clicking "push origin". Robots do their work, and the website is updated.
+
+![Screenshot Github Desktop](/assets/github-desktop.jpg)
 
 It takes me approximately 2 seconds.
 
-I keep seeing all my files on the left. Folder structure includes (among other things) three web projects (my personal website, [journalsmarter] and [microsolidarity in pico]), each with /assets folder containing images. I can manipulate all files, restructure websites, move files from one project to another, link in between etc, and then in 2 seconds all changes are published.
+I keep seeing all my files on the left. Folder structure includes (among other things) three web projects (my personal website, [journalsmarter](https://journalsmarter.com){:target="_blank"} and [microsolidarity in pico](https://pico.microsolidarity.cc){:target="_blank"}), each with /assets folder containing images. I can manipulate all files, restructure websites, move files from one project to another, link in between etc, and then in 2 seconds all changes are published.
 
 This is the first part of my strategy, which is complimented by the fact that not many people read my personal website (or at least I assume so, and I have no data to check, because the site has no tracking of any sort, which is a deliberate decision because I find tracking on the internet quite creepy. But I digress). Not many readers = not much pressure, in fact it's probably just me and you right now who have ever visited this page.
 
@@ -38,7 +41,7 @@ No resistance to publish + no pressure to publish is a combo that really does it
 
 Here's my current example:
 
-I was editing a [poem] which I wrote during a sailing trip which begun the transition into the chapter of my life that has just concluded as I write these words right now (okay, not exactly, but the actual day of the new beginning is only a couple of days off, which makes me smile feeling into the magical world of synchronicities).
+I was editing a [poem](/illuminated){:target="_blank"} which I wrote during a sailing trip which begun the transition into the chapter of my life that has just concluded as I write these words right now (okay, not exactly, but the actual day of the new beginning is only a couple of days off, which makes me smile feeling into the magical world of synchronicities).
 
 As I was editing the poem, an idea bounced into my mind: to start writing a meta article about my writing workflow, because it feels like a useful gift I could offer to someone who'd like to make writing a self-inflicted addiction.
 
@@ -46,7 +49,7 @@ That's kinda what happened to me.
 
 **I struggled to build a digital publishing habit, so I turned it into addiction.** 
 
-( I can feel my [certified habit coach part] giving me a shoulder pat as I type these words, btw. )
+( I can feel my certified habit coach part giving me a shoulder pat as I type these words, btw. )
 
 I clicked Ctrl+N, abandoned the poem for a while (we'll come back to it later), and begun writing a new note with a raw title How I Use My Personal Website.
 
@@ -54,7 +57,7 @@ I furiously typed the next 598 words. Breath. 600.
 
 Then took this screenshot:
 
-IMG
+![600 words typed](/assets/600.jpg)
 
 (There will be a few more in this article - I've been taking them occasionally since I want to show how I do it, instead of just telling the story.)
 
@@ -84,7 +87,7 @@ Not perfect, but good enough for now and safe enough to try.
 
 I've copy-pasted the front matter from another post (I could have inserted it from template to make it faster), which forced me to add a description and relevant tags.
 
-IMG
+![Screenshot of front matter](/assets/front-matter.jpg)
 
 And just like that this note is ready to publish.
 
@@ -96,7 +99,7 @@ And just like that this note is ready to publish.
 
 It's live.
 
-IMG
+![Screenshot of article showing on my website](/assets/article-published.jpg)
 
 Please note that it's imperfect as fuck. 
 
@@ -108,7 +111,7 @@ But here's the most important thing:
 
 I just published a 911 words article in 20 minutes or so. That's a second thing I published today.
 
-Hey, I might tweet it, just for the laughs. I feel like it's something that [Rob] would appreciate.
+Hey, I might tweet it, just for the laughs. I feel like it's something that [Rob](https://twitter.com/ungatedcreative){:target="_blank"} would appreciate.
 
 As I get ready to copy the link so I can place it into the tweet, I start reading the published article. Perfect - I'll catch some basic spelling mistakes and small shit like that. I won't bother with deep proof reading, images or links.
 
@@ -122,7 +125,7 @@ Funny enough, I decide not to take this final step right now, because I notice t
 
 To give context, we need to return to the poem.
 
-I was editing it so I can get it ready for a spoken word collaboration with [João Moreira] - one of the two Portuguese men whom I connected with deeply many years back in Albania, and on my return to Edinburgh which was my home at the time, I immediately booked my tickets to Portugal to fly there 2 months later. It turned out that I'd find a Person I would spend 8 years together with, and eventually move to Portugal, where I'm living now (although it's not the continental part of Portugal).
+I was editing it so I can get it ready for a spoken word collaboration with [João Moreira](https://instil.bandcamp.com/){:target="_blank"} - one of the two Portuguese men whom I connected with deeply many years back in Albania, and on my return to Edinburgh which was my home at the time, I immediately booked my tickets to Portugal to fly there 2 months later. It turned out that I'd find a Person I would spend 8 years together with, and eventually move to Portugal, where I'm living now (although it's not the continental part of Portugal).
 
 Okay, tangent finished. It's still random. Forgive me.
 
@@ -143,6 +146,8 @@ Now I am a bird.
 ps. Next time we meet in person, feel free to ask me to greet you with the wonderfully strange bird call from the island located not too far from the Atlantis. I have a feeling you will love it.
 
 [tweet proof](https://twitter.com/michalkorzonek/status/1516193384037502984?s=20&t=EoUU6kttWTMCyMREqxUf4A).
+
+(Funny: the *obsidian* I tagged in that tweet is the wrong one 😂 )
 
 
 
