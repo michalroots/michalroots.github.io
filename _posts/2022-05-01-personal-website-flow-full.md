@@ -6,7 +6,7 @@ image:
 tags: articles documentation
 ---
 
-Context: This article is a full version of the original article, which you can find [here](/personal-website-flow){:target="_blank"}. This version is more useful, but the other one is funnier. Choose wisely.
+Context: This article is a full version of the original article, which you can find [here](/personal-website-flow){:target="_blank"}. This version is updated, the other is the original commit. Choose wisely.
 
 
 <p>🧙‍♂️</p>

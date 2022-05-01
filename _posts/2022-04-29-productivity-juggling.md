@@ -30,6 +30,10 @@ Let's geek out on this for a bit, shall we?
 
 ## 1. Braindump into Obsidian
 
+```
+When in doubt - Braindump ✅
+```
+
 Obsidian is the central point of my digital focus. I write everything there and continuously [optimise it for effortlessness](/personal-website-flow){:target="_blank"}. 
 
 So: I created a note called ```Braindump ✅``` and started dumping all the shit I want to do there.
