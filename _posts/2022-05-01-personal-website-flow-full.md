@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Personal Website Flow - How I Use This Website
+title: Personal Website Flow (Full Version) - How I Use This Website
 description: Meta article about my writing process using Obsidian as a central point of my digital world.
 image: 
 tags: articles documentation
