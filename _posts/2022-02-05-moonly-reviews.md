@@ -6,7 +6,7 @@ image:
 tags: [documentation]
 ---
 
-Every 🌑 and 🌕 I sent a heartfelt electronic letter with whatever is alive in me right now. 
+Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive in me right now. 
 
 I've started in December 2020 and only skipped a few beats since then. It has become one of my favourite digital journaling practices (along with my [Moonly Videos](one-second-a-day)).
 
@@ -14,8 +14,11 @@ At the moment I publish my Moonly Reviews via [Substack](https://michalkorzonek.
 
 Here's the full list:
 
+### 2020
 - [🌑  December 2020](https://michalkorzonek.substack.com/p/moonly-review-december-2020){:target="_blank"}
 - [🌕  December 2020](https://michalkorzonek.substack.com/p/moonly-review-december-2020-b9f){:target="_blank"}
+
+### 2021
 - [🌑 January 2021 - Yearly Review](https://michalkorzonek.substack.com/p/moonly-review-yearly-review){:target="_blank"}
 
 (I've started to give a title to my reviews.)
@@ -43,6 +46,8 @@ Here's the full list:
 - [🌕  November 2021 - *Invitation to Shine*](https://michalkorzonek.substack.com/p/moonly-review-invitation-to-shine){:target="_blank"}
 - [🌑  December 2021 - *New Cycle (Out of Nowhere)*](https://michalkorzonek.substack.com/p/moonly-review-new-cycle-out-of-nowhere){:target="_blank"}
 - [🌕 December 2021 - *It's Time*](https://michalkorzonek.substack.com/p/moonly-review-its-time){:target="_blank"}
+
+### 2022
 - [🌑 January 2022 - Yearly Review](https://michalkorzonek.com/yearly-review-2021){:target="_blank"}
 - [🌕 January 2022 - *Thirty Three*](https://michalkorzonek.substack.com/p/moonly-review-thirty-three){:target="_blank"}
 - [🌑 February 2022 - *In and Out of Darkness*](https://michalkorzonek.substack.com/p/moonly-review-in-and-out-of-darkness){:target="_blank"}

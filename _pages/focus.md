@@ -5,9 +5,11 @@ description: What I am focusing on at the moment (aka - now page).
 summary: What I am focusing on at the moment (aka - now page).
 ---
 
-**Creating Moments and Stories**
+North star: **Let's co-create a beautiful world where all beings can thrive.**
 
-North star: Let's co-create a beautiful world where all beings can thrive.
+My part: **Creating Moments and Stories**
+
+Log: [***Moonly Review***]()
 
 <p>🌳⛵️✨</p>
 
@@ -18,7 +20,7 @@ North star: Let's co-create a beautiful world where all beings can thrive.
 <p></p>
 <hr>
 <p></p>
-**I'm available to work with your project, organisation and community.**
+**I'm available to bring my energy into your project, organisation and community.**
 
 A few keywords that bring spark into my eyes: #regenerative #belonging #meaningfulwork #refi #bioregion #island #village #nonhierarchical #playful #foodforest
 
