@@ -137,6 +137,8 @@ I just need two clicks to republish this article, send the link to Rob, and then
 BIRDS SURFING OCEAN WIND VIDEO
 ```
 
+([video in tweet](https://twitter.com/michalkorzonek/status/1511800475422711811?s=20&t=6XU3FUkpNfkxCtINWEKRIg){:target="_blank"})
+
 I used to be a turtle.
 
 Now I am a bird.
@@ -145,7 +147,7 @@ Now I am a bird.
 
 ps. Next time we meet in person, feel free to ask me to greet you with the wonderfully strange bird call from the island located not too far from the Atlantis. I have a feeling you will love it.
 
-[tweet proof](https://twitter.com/michalkorzonek/status/1516193384037502984?s=20&t=EoUU6kttWTMCyMREqxUf4A).
+[tweet proof](https://twitter.com/michalkorzonek/status/1516193384037502984?s=20&t=EoUU6kttWTMCyMREqxUf4A){:target="_blank"}.
 
 (Funny: the *obsidian* I tagged in that tweet is the wrong one 😂 )
 
