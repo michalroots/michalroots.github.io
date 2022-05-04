@@ -36,13 +36,13 @@ Three ideas really struck a deeper chord:
 
 I sat down and made another list.
 
-![Who Are The People?](assets/who-are-the-people.jpg)
+![Who Are The People?](web/michalroots.github.io/assets/who-are-the-people.jpg)
 
 I let the names sink in for some time, feeling into small groups that would make sense to call into existence. When it felt right, I reached out to some people with an idea of launching "mastermind groups" (which was the vocabulary more familiar to the people I was reaching out to). 
 
 Here's a part of an email exchange with one of the people I reached out to, introducing the idea of co-creating a group.
 
-![Crew Invitation Email Screenshot](assets/crew-invitation-email.png)
+![Crew Invitation Email Screenshot](web/michalroots.github.io/assets/crew-invitation-email.png)
 
 Over the next few months I launched a few crews:
 
