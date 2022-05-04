@@ -10,7 +10,7 @@ That doesn't make me special, because who isn't a storyteller these days.
 
 Still - I keep creating stories, in a form of words, pictures, and videos.
 
-I'm interested in stories about these powerful moments of connection when the universe aligns, and everything seems to make sense (for once), and no words are needed.
+I'm interested in stories about these powerful moments of connection when the universe aligns, and everything seems to make sense (for once), and no words are needed. 
 
 I'm sure you experienced some of these.
 
@@ -26,5 +26,5 @@ There is still some time left in your day. What is something that brings you enj
 
 Tell me all about it when we meet next time.
 
-In the meantime - Bon Voyage,
+In the meantime - Bon Voyage,<br>
 Michał
