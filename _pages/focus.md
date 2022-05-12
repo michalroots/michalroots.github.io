@@ -13,7 +13,7 @@ Log: [**Moonly Review**](/moonly-reviews){:target="_blank"}
 
 <p>🌳⛵️✨</p>
 
-- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - events, documentation, piconomics. NOW: Co-hosting Pico Spring Gathering
+- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - events, documentation, piconomics. NOW: Rising funds to purchase our Community Home
 - [**Enspiral**](https://enspiral.com){:target="_blank"} - weaving connection within the European node of the network, Enspiral Newsletter. NOW: Co-hosting Enspiral Europe Summer Gathering
 - [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - I'm kinda hijacked by the Dream Tribe at the moment. Legal & Governance Circle, Community & Comms Circle, NOW: TDF Steward for summer 2022
 
