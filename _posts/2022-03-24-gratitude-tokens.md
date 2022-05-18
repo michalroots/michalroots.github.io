@@ -32,7 +32,7 @@ Gratitude is a state of the highest vibration. Gratitude Tokens play with the cr
 ## Gratitude Token Ledger
 ![Gratitude Token Ledger Cover](/assets/gratitude-token-ledger-cover.jpg)
 
-Below are the instructions (v1) to include in the Ledger. Feel free to modify them to fit your context.
+Below are the instructions (v1) to include in the Ledger. Feel free to modify them to fit your context. You'll find a few ideas at the end.
 
 ### Tokenomics
 1. A Gratitude Token is a physical object serving as a catalyst to express gratitude.
@@ -43,6 +43,7 @@ Below are the instructions (v1) to include in the Ledger. Feel free to modify th
 6. Whenever you run out of tokens, you can mint new Gratitude Tokens at any time at your local minting station. To mint, prepare a wooden piece, draw the Gratitude Token Symbol, and add a personal mark. Next, state your Proof of Work by completing an entry in the Gratitude Token Ledger by drawing *your personal mark* and answer in writing *why are you minting this token.*
 
 ![Gratitude Token Tokenomics](/assets/gratitude-token-tokenomics.jpg)
+
 
 ### Ledger Records
 Here are the records from our Ledger at TDF.
@@ -63,7 +64,7 @@ Here's a suggested format. Tweak as necessary to fit your context.
 
 ## Notes
 - Tokens don't need to stay within a community. Make them travel ⛵️and remember to *GWYC*.
-- If you recieve a gratitude token out of nowhere and/or decide to introduce this game in your community, I'd love to connect with you.
+- If you receive a gratitude token out of nowhere and/or decide to introduce this game in your community, I'd love to connect with you.
 - Idea to explore: *Gratitude Token Burn Ceremony*
 - Idea to explore: *Programmable Tokens* - use the backside of the token to add extra instructions to the token
 
@@ -71,3 +72,13 @@ Here's a suggested format. Tweak as necessary to fit your context.
 Link to [telegram group](https://t.me/+kCHKLHRlh3UyYTg0).
 
 💜
+
+## Tokenomics Proposals
+Have a new proposal? Submit it via our telegram group.
+
+- When illegal tender (not registered in the ledger) is found, the present members of the gratitude economy will burn the token in an Abundance Ceremony where we express our gratitude for the land, space, community, and all of the surrounding abundance. *{source: TDF}*
+- New arrivals are welcomed with a gratitude token and encouraged to mint their own when the first grateful moment arises. *{source: TDF}*
+- When a token has gone full circle (every community member has had it at some point), it can be offered back to nature in an Abundance Ceremony (burning the token). *{source: TDF}*
+- Whenever you find a TOOP (Token Out Of Place) take a moment to reflect what are you grateful for and claim it as yours. Don't HODL! *{source: Pico}*
+
+![Proposals in the ledger](/assets/abundance-ceremony-proposal.jpg)
