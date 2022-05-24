@@ -27,6 +27,7 @@ summary: I tell heartfelt stories of beautiful dreams becoming a reality.
 
 ### Documentation Projects 📖
 - [Microsolidarity in Pico](https://pico.microsolidarity.cc/){:target="_blank"} - a digital journal documenting the process of **community weaving** in Pico Island, by practicing Microsolidarity.
+- Traditional Dream Factory Handbook (in development - v0.5 [here](https://heymichal.gitbook.io/tdf-handbook-beta){:target="_blank"}) - documentation of the very first land-based DAO in Europe, the first prototype of a regenerative village in [OASA Network](https://oasa.earth){:target="_blank"}
 - [Digital Journal](https://heymichal.gitbook.io/journal/){:target="_blank"}  (inactive) - a digital journaling / **personal development documentation** project which evolved into my personal website.
 - [The White Log](https://heymichal.gitbook.io/whitelog/){:target="_blank"} (inactive) -  creating notes on **living a meaningful life**, co-created with [Silvia Bastos](https://silviamakesdrawings.com).
 
