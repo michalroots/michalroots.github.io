@@ -25,7 +25,7 @@ This website is my digital **playground**.
 
 ## Contact
 
-michal dot korzonek at protonmail dot com<br>
+michalroots at proton dot me<br>
 twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalkorzonek</a><br>
 
 ## Support 

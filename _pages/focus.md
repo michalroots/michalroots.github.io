@@ -13,9 +13,9 @@ Log: [**Moonly Review**](/moonly-reviews){:target="_blank"}
 
 <p>🌳⛵️✨</p>
 
-- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - events, documentation, piconomics. NOW: Rising funds to purchase our Community Home
+- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - community weaving, catalysing, documentation NOW: Rising funds to [purchase our Community Home](https://pico.microsolidarity.cc/crews-and-projects/community-home){:target="_blank"}
+- [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - Community Circle, Legal & Governance Circle, NOW: TDF Steward for summer 2022
 - [**Enspiral**](https://enspiral.com){:target="_blank"} - weaving connection within the European node of the network, Enspiral Newsletter. NOW: Co-hosting Enspiral Europe Summer Gathering
-- [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - I'm kinda hijacked by the Dream Tribe at the moment. Legal & Governance Circle, Community & Comms Circle, NOW: TDF Steward for summer 2022
 
 <p></p>
 <hr>
@@ -29,7 +29,7 @@ Here's how I can be of service:
 - [**I create moments that move the energy forward**](/experiences){:target="_blank"} -> gatherings & events with relational rhythms to catalyse continuous co-creation and regeneration
 - [**I tell stories documenting beautiful dreams becoming reality**](/documentation){:target="_blank"} -> I write (news)letters, articles and documentation
 
-*Note: My long-term goal is to move towards gift economy, as much as possible. You can accelerate this process via [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.*
+*Note: My long-term goal is to move towards gift economy. You can accelerate this process via [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.*
 <p></p>
 <hr>
 <p></p>
