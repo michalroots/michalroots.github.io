@@ -60,3 +60,5 @@ Here's the full list:
 - 🌘 [May 2022 - *In Transition*](https://michalkorzonek.substack.com/p/moonly-review-in-transition?sd=fs){:target="_blank"}
 - 🌑 skipped ❌
 - 🌕 [June 2022 - Beyond the Darkness](https://michalkorzonek.substack.com/p/moonly-review-beyond-the-darkness){:target="_blank"}
+- 🌑 skipped ❌
+- 🌕 [July 2022 - Dying Nowhere](https://michalkorzonek.substack.com/p/moonly-review-dying-nowhere){:target="_blank"}
