@@ -27,7 +27,8 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 - **Dreamer Moon, 2 March - 1 April 2022 - [youtube link](https://www.youtube.com/watch?v=OpL2wJrL9qs){:target="_blank"}**
 - Opening Moon, 1 April - 29 April - 2022 - [youtube link](https://youtu.be/HHMle6YJDhg){:target="_blank"}
 - Island Moon, 30 April - 29 May 2022 - [youtube link](https://youtu.be/AfnFys37Ab8){:target="_blank"}
-- Rebirth Moon, 30 May - 28 June 2022 - [youtube link](https://youtu.be/4Q8EyZzQ4lY){:target="_blank"}
+- **Rebirth Moon, 30 May - 28 June 2022** - [youtube link](https://youtu.be/4Q8EyZzQ4lY){:target="_blank"}
+- Dragon Moon, 29 June - 26 July 2022 - [youtube link](https://youtu.be/fUanmeujnzM){:target="_blank"}
 <p></p>
 
 <hr>
