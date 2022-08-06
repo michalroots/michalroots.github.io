@@ -8,7 +8,7 @@ summary: Sailing Plan and CV
 ![Sailing Headshot](/assets/sailing-michal.jpg)
 
 **Michał Korzonek**<br>
-contact: [michal.korzonek@protonmail.com](mailto:michal.korzonek@protonmail.com) <br>
+contact: [michal.korzonek@protonmail.com](mailto:michalroots@protonmail.com) <br>
 currently based in Pico island, Azores
 
 ## Current Goal

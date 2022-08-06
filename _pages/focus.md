@@ -13,9 +13,9 @@ Log: [**Moonly Review**](/moonly-reviews){:target="_blank"}
 
 <p>🌳⛵️✨</p>
 
-- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - community weaving, catalysing, documentation NOW: Rising funds to [purchase our Community Home](https://pico.microsolidarity.cc/crews-and-projects/community-home){:target="_blank"}
-- [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - Community Circle, Legal & Governance Circle, NOW: TDF Steward for summer 2022
-- [**Enspiral**](https://enspiral.com){:target="_blank"} - weaving connection within the European node of the network, Enspiral Newsletter. NOW: Co-hosting Enspiral Europe Summer Gathering
+- Stewarding [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"}, a regenerative village being built and the first land-based DAO in Europe, until 24th of September 2022.
+- Co-weaving Azores Regenerative Networks and documenting the process: [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"}. Rising funds to [purchase Pico Community Home](https://pico.microsolidarity.cc/crews-and-projects/community-home){:target="_blank"}
+- Weaving connections within [**Enspiral**](https://enspiral.com){:target="_blank"} and writing Enspiral Newsletter.
 
 <p></p>
 <hr>

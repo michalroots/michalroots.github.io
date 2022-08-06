@@ -42,7 +42,7 @@ Michał
 
 ## Contact
 
-💌 michal.korzonek@protonmail.com <br>
+💌 michalroots@protonmail.com <br>
 🐦 [@michalkorzonek](https://twitter.com/michalkorzonek)
 
 ## Words That Touched Me
