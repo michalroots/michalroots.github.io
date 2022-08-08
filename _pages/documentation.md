@@ -45,6 +45,8 @@ More documentation in the [archive](https://michalkorzonek.com/tag/documentation
 ### Articles, Stories & Letters 📝
 Here's the archive with my [articles](https://michalkorzonek.com/tag/articles/){:target="_blank"}, [stories](https://michalkorzonek.com/tag/stories/){:target="_blank"} and [letters](https://michalkorzonek.com/tag/letters/){:target="_blank"}.
 
+### Support My Work 🚀
+I have a [Patreon account](https://patreon.com/michalkorzonek){:target="_blank"} and it'd make a huge difference to have you supporting my work – so I can keep open sourcing and transitioning towards the circular gift economy ✨.
 
 See you around, Beautiful Person
 💜
