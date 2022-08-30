@@ -63,3 +63,5 @@ Here's the full list:
 - 🌑 skipped ❌
 - 🌕 [July 2022 - Dying Nowhere](https://michalkorzonek.substack.com/p/moonly-review-dying-nowhere){:target="_blank"}
 - 🌑 [August 2022 - Artists of the Artfaire](https://michalkorzonek.substack.com/p/moonly-review-artists-of-the-artfaire){:target="_blank"}
+- 🌕 skipped ❌
+- 🌑 [August 2022 - Co-creating Containers](https://michalkorzonek.substack.com/p/moonly-review-co-creating-containers){:target="_blank"}
