@@ -29,7 +29,7 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 - Island Moon, 30 April - 29 May 2022 - [youtube link](https://youtu.be/AfnFys37Ab8){:target="_blank"}
 - **Rebirth Moon, 30 May - 28 June 2022** - [youtube link](https://youtu.be/4Q8EyZzQ4lY){:target="_blank"}
 - Dragon Moon, 29 June - 26 July 2022 - [youtube link](https://youtu.be/fUanmeujnzM){:target="_blank"}
-- Co-Moon, 28 July - 26 August 2022 - [youtube link](){:target="_blank"}
+- Co-Moon, 28 July - 26 August 2022 - [youtube link](https://youtu.be/E7Szeib1HsQ){:target="_blank"}
 <p></p>
 
 <hr>
