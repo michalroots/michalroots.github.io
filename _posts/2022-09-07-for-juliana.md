@@ -3,7 +3,7 @@ layout: post
 title: For Juliana a nice posterino
 description: 
 image: 
-tags:
+tags: games
 author:
 ---
 
