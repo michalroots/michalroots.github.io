@@ -13,6 +13,8 @@ Log: [**Moonly Review**](/moonly-reviews){:target="_blank"}
 
 <p>🌳⛵️✨</p>
 
+crewating abook with some cool peeepols
+
 - Stewarding [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"}, a regenerative village being built and the first land-based DAO in Europe, until 24th of September 2022.
 - Co-weaving Azores Regenerative Networks and documenting the process: [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"}. Rising funds to [purchase Pico Community Home](https://pico.microsolidarity.cc/crews-and-projects/community-home){:target="_blank"}
 - Weaving connections within [**Enspiral**](https://enspiral.com){:target="_blank"} and writing Enspiral Newsletter.
