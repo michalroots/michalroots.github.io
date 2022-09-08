@@ -5,43 +5,35 @@ description: What I am focusing on at the moment (aka - now page).
 summary: What I am focusing on at the moment (aka - now page).
 ---
 
-North star: **Let's co-create a beautiful world where all beings can thrive.**
+I thrive most when **bringing people together** into a **container for co-creation**, aligned with transitioning towards a **regenerative lifestyle**.
 
-My part: **Creating Moments and Stories**
+Short version:
 
-Log: [**Moonly Review**](/moonly-reviews){:target="_blank"}
+**I create moments and stories.**
 
 <p>🌳⛵️✨</p>
 
-crewating abook with some cool peeepols
+## Now:
 
-- Stewarding [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"}, a regenerative village being built and the first land-based DAO in Europe, until 24th of September 2022.
-- Co-weaving Azores Regenerative Networks and documenting the process: [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"}. Rising funds to [purchase Pico Community Home](https://pico.microsolidarity.cc/crews-and-projects/community-home){:target="_blank"}
-- Weaving connections within [**Enspiral**](https://enspiral.com){:target="_blank"} and writing Enspiral Newsletter.
+- Facilitating **Regenerative Village Builders Mastermind**, where we're **co-creating an open-source book** for aspiring village builders. Live documentation in this [twitter thread](https://twitter.com/michalkorzonek/status/1562439997416177664){:target="_blank"}
 
-<p></p>
-<hr>
-<p></p>
-**I'm available to bring my energy into your project, organisation and community.**
+*(Note to self: limit amount of focus projects, ideally to ONE. When completed, move to [archive](/archive){:target="_blank"}.*
 
-A few keywords that bring spark into my eyes: #regenerative #belonging #meaningfulwork #refi #bioregion #island #village #nonhierarchical #playful #foodforest
+## I actively contribute to:
 
-Here's how I can be of service:
+- [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - regenerative village in Portugal
+- [**Enspiral**](https://enspiral.com){:target="_blank"} - network helping people do more meaningful work
+- [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - decentralised village on a small island
 
-- [**I create moments that move the energy forward**](/experiences){:target="_blank"} -> gatherings & events with relational rhythms to catalyse continuous co-creation and regeneration
-- [**I tell stories documenting beautiful dreams becoming reality**](/documentation){:target="_blank"} -> I write (news)letters, articles and documentation
+## You can hire me to:
 
-*Note: My long-term goal is to move towards gift economy. You can accelerate this process via [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.*
-<p></p>
-<hr>
-<p></p>
-Other activities that are important to me:
+- Create [containers for co-creation](/experiences)
+- Consult on creating containers / experience design, and/or coach you through the process
+- Create [documentation](/documentation) of your regenerative / positive impact project
 
-- creating [journaling games](https://journalsmarter.com){:target="_blank"} serving as a daily ritual for grounding and re-alignment. 
-- writing heartfelt [letters](/letters)
-- walking
-- [sailing](/sailing) ⛵️⛵️⛵️
-- feeding people with [riddiculously delicious vegan desserts](/tag/nomz)
-- enjoying simple life in a tiny wooden cabin in the middle of a magical forest.
+You can see my past work in the [archive](/archive).
 
-♥
+Talk soon,
+Michał
+
+ps. I work in public and document my process through a public [Moonly Review](/moonly-reviews) and a [video diary](/one-second-a-day).

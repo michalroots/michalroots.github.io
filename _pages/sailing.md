@@ -8,12 +8,12 @@ summary: Sailing Plan and CV
 ![Sailing Headshot](/assets/sailing-michal.jpg)
 
 **Michał Korzonek**<br>
-contact: [michal.korzonek@protonmail.com](mailto:michalroots@protonmail.com) <br>
+contact: michalroots@proton.me<br>
 currently based in Pico island, Azores
 
 ## Current Goal
-- Looking for a boat to sail from Azores (Faial / Pico) to Mainland Portugal starting mid May 2022
-- Looking for a boat to sail from Mainland Portugal to Azores starting October 2022
+- **Atlantic crossing in winter 2022** - from Portugal / Canaries to Brasil, but as one of my captains used to say - "*The port of arrival doesn't matter. What matters is the continent.*" I can roll with Americas as a continent of destination.
+- A longevity cruise from **Pico to Ikaria** - August / September 2023.
 
 ## Long Term Goal
 

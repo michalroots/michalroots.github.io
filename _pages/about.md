@@ -29,9 +29,11 @@ michalroots at proton dot me<br>
 twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalkorzonek</a><br>
 
 ## Support 
-<b><a href="https://www.patreon.com/michalkorzonek" target="blank">Patreon</a><br></b>
-<a href="https://buymeacoffee.com/michalkorzonek" target="_blank">Buy Me A Coffee</a> <br>
-Send <a href="https://joinseeds.earth/" target="_blank"> SEEDS</a> to @michalkigule
+I'm in the process of transitioning towards the **gift economy**. You can support my journey by contributing via:
+
+- <b><a href="https://www.patreon.com/michalkorzonek" target="blank">Patreon</a><br></b>
+- <a href="https://buymeacoffee.com/michalkorzonek" target="_blank">Buy Me A Coffee</a> <br>
+- <a href="https://joinseeds.earth/" target="_blank"> SEEDS</a> -> @michalkigule
 
 or offer a [gift](/gift).
 
@@ -43,4 +45,4 @@ Love and Light,<br>
 Michał (*Me-How*)
 
 <hr>
-[Site info](/site-info)
+[How I built this site](/site-info)

@@ -3,7 +3,7 @@ layout: post
 title: One Second a Day - Digital Journaling
 description: I keep recording at least one second every day and put it together in a video every Moon cycle.
 image: 
-tags: [documentation]
+tags: [journal]
 ---
 
 Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some images and vibe of my life in that period. 

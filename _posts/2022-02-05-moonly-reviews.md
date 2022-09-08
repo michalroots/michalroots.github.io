@@ -3,7 +3,7 @@ layout: post
 title: Moonly Reviews
 description: A heartfelt letter sent every New and Full Moon.
 image: 
-tags: documentation
+tags: journal
 ---
 
 Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive in me right now. 
