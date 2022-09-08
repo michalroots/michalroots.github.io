@@ -5,10 +5,6 @@ description: What I am focusing on at the moment (aka - now page).
 summary: What I am focusing on at the moment (aka - now page).
 ---
 
-I thrive most when **bringing people together** into a **container for co-creation**, aligned with transitioning towards a **regenerative lifestyle**.
-
-Short version:
-
 **I create moments and stories.**
 
 <p>🌳⛵️✨</p>
