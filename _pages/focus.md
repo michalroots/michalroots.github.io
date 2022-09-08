@@ -33,7 +33,7 @@ Short version:
 
 You can see my past work in the [archive](/archive).
 
-Talk soon,
+Talk soon,<br>
 Michał
 
 ps. I work in public and document my process through a public [Moonly Review](/moonly-reviews) and a [video diary](/one-second-a-day).
