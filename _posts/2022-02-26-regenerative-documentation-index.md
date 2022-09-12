@@ -68,6 +68,11 @@ Okay, this is not really a documentation project, but more of a database of Rege
 - [Traditional Dream Factory](https://traditionaldreamfactory.com/)
 - [OASA Network](https://oasa.co/)
 
+### Gaianet OS Playbook
+> "*Gaianet is a collective of **mission-aligned** **projects and professionals** who connect and unite to share knowledge and resources, find workforce and solutions for funding.*"
+
+- [Gaianet OS Playbook](https://alexanderkeehnen.gitbook.io/gaianet-os-playbook/)
+
 ---
 
 (...)
