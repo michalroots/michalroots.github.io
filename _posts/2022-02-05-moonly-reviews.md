@@ -65,3 +65,4 @@ Here's the full list:
 - 🌑 [August 2022 - Artists of the Artfaire](https://michalkorzonek.substack.com/p/moonly-review-artists-of-the-artfaire){:target="_blank"}
 - 🌕 skipped ❌
 - 🌑 [August 2022 - Co-creating Containers](https://michalkorzonek.substack.com/p/moonly-review-co-creating-containers){:target="_blank"}
+- 🌕 [September 2022 - Book, Cards, and Creating New Culture](https://michalkorzonek.substack.com/p/moonly-review-book-cards-and-creating){:target="_blank"}
