@@ -31,6 +31,11 @@ twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalk
 ## Support 
 I'm in the process of transitioning towards the **gift economy**. You can support my journey by contributing via:
 
+- Patreon
+- michalroots.eth
+- Buy Me A Coffee
+- Seeds: @michalkigule
+
 - <b><a href="https://www.patreon.com/michalkorzonek" target="blank">Patreon</a><br></b>
 - <a href="https://buymeacoffee.com/michalkorzonek" target="_blank">Buy Me A Coffee</a> <br>
 - <a href="https://joinseeds.earth/" target="_blank"> SEEDS</a> -> @michalkigule
