@@ -11,7 +11,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## Now:
 
-- Facilitating **Regenerative Village Builders Mastermind**, where we're **co-creating an open-source book** for aspiring village builders. Live documentation in this [twitter thread](https://twitter.com/michalkorzonek/status/1562439997416177664){:target="_blank"}
+- **Co-creating an open-source playbook for regenerative village builders.** Live documentation in this [twitter thread](https://twitter.com/michalkorzonek/status/1562439997416177664){:target="_blank"} 🐉 You can support this project by making a small donation in the ongoing [GitCoin Round](https://gitcoin.co/grants/7656/dao-solarpunk-regen-village-builders-book){:target="_blank"}. Every donation makes a huge difference due to quadratic funding.
 
 *(Note to self: limit amount of focus projects, ideally to ONE. When completed, move to [archive](/archive){:target="_blank"}.*
 
@@ -23,7 +23,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## You can hire me to:
 
-- Create [containers for co-creation](/experiences)
+- Create IRL [containers for playful co-creation](/experiences)
 - Consult on creating containers / experience design, and/or coach you through the process
 - Create [documentation](/documentation) of your regenerative / positive impact project
 
