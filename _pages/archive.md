@@ -6,8 +6,6 @@ title: Archive
 <section class="posts">
 	<h1>{{ page.title }}</h1>
 
-
-
 <div class="archive-tags">
     <b>Tags:</b> <br>
   {%- for tag in site.tags -%} 
