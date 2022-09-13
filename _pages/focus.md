@@ -11,7 +11,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## Now:
 
-- **Co-creating an open-source playbook for regenerative village builders.** Live documentation in this [twitter thread](https://twitter.com/michalkorzonek/status/1562439997416177664){:target="_blank"} 🐉 You can support this project by making a small donation in the ongoing [GitCoin Round](https://gitcoin.co/grants/7656/dao-solarpunk-regen-village-builders-book){:target="_blank"}. Every donation makes a huge difference due to quadratic funding.
+- **Co-creating an open-source playbook for regenerative village builders.** Live documentation in this [twitter thread](https://twitter.com/michalkorzonek/status/1562439997416177664){:target="_blank"} 🐉  Support via [GitCoin](https://gitcoin.co/grants/7656/dao-solarpunk-regen-village-builders-book){:target="_blank"}.
 
 *(Note to self: limit amount of focus projects, ideally to ONE. When completed, move to [archive](/archive){:target="_blank"}.*
 

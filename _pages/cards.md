@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Cards
-excerpt: Co-Creation Superorganism
+excerpt: Cocreation Superorganism
 ---
 
-Use tweets as cards. Practice deckbuilding.
-
-- Digital Decks via [twitter](https://twitter.com/michalkorzonek/status/1569651243978575875?s=20&t=ZevncYnWozmYQ9Msmi-pCA)
+Digital Cards: [tweets as cards](https://twitter.com/michalkorzonek/status/1569651243978575875?s=20&t=ZevncYnWozmYQ9Msmi-pCA){:target="_blank"}.
