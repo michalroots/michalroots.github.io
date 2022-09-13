@@ -46,29 +46,7 @@ Whether that's the case or not, I'm grateful for your presence, and I wish you w
 With Love and Gratitude,<br>
 Michał.
 
-ps. The List:
-
-## Education
-- **Permaculture Design Course**, residential in Portugal (or even better, in Azores) or online, because I believe that permaculture is one of the most important fields to study right now, and I have pretty much zero experience with it.
-- <a href="https://kernel.community/en/" target="_blank"> Kernel Online Course</a>, because web3 and blockchain open amazing possibilities for regenerating the world at scale, and I'd love to start my journey in this area by building something beautiful with other amazing people.
-- <a href="https://www.greaterthan.works/academy/thriving-networks" target="_blank">Thriving Networks online course</a>, because I'm building a <a href="https://pico.microsolidarity.cc" target="_blank">Regenerative Network in the Azores</a> and I could really use some extra support with the upcoming challenges. Knowing the humans behind this course, I feel that it's precisely the right place for me to be.
-
-## Personal Growth
-- **Contact Improvisation residential gathering/course in Portugal**, because connecting with other humans through dance is one of the most effective ways of addressing one of the biggest fears I'm working though at the moment, and it's part of the healing that is very important for me to experience.
-- **Sailing opportunities of any shapes and sizes**, ideally to/from/within the Azores, because sailing is the core foundation of my soul and I want to bring this gift to the world by hosting regenerative retreats at sea.
-
-## Items
-- **A sailboat**. Yes, it's a bold ask, but you never know. A sailboat would allow me to ditch flying for good, and move between the islands in the Azores (and beyond) to catalyse the regenerative network, as well as host transformative experiences at sea.
-- A functioning typewriter, to write [letters](/letters)
-- A compact mechanical keyboard with Bluetooth, EN or PT layout, to write digital letters
-- A hardcover book about astrology in English with strong focus on charts and visuals. I want to study different types of maps and astrology is a map.
-- A hardcover edition of *Tao Te Ching*
-- Solar panels to power my tiny cabin and the community space next to it
-- [Travel Berkey Water Filter](https://berkey-waterfilters.fr/products/systeme-de-filtration-deau-travel-berkey-version-reduite-du-big-berkey){:target="_blank"}, because drinking highest quality water is essential
-
-## Other
-- TDF Carrot Tokens 🥕🥕🥕
-
+ps. The List is [here](/gift)
 <p></p>
 
 ## ---
