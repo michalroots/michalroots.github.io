@@ -66,3 +66,4 @@ Here's the full list:
 - 🌕 skipped ❌
 - 🌑 [August 2022 - Co-creating Containers](https://michalkorzonek.substack.com/p/moonly-review-co-creating-containers){:target="_blank"}
 - 🌕 [September 2022 - Book, Cards, and Creating New Culture](https://michalkorzonek.substack.com/p/moonly-review-book-cards-and-creating){:target="_blank"}
+- 🌔 [October 2022 - Embodying Transformation](https://michalkorzonek.substack.com/p/moonly-review-embodying-transformation){:target="_blank"}
