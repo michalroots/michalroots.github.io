@@ -5,7 +5,7 @@ description: Crystal clear, concise, and delightful handbooks for tale-worthy or
 summary: Crystal clear, concise, and delightful handbooks for tale-worthy organisations.
 ---
 
-**I create crystal clear, concise, and delightful hanbooks for tale-worthy organisations and projects.** 
+**I create crystal clear, concise, and delightful handbooks for tale-worthy organisations and projects.** 
 
 ## My Offer
 
@@ -35,13 +35,14 @@ More documentation in the [archive](https://michalkorzonek.com/tag/documentation
 
 
 ### Documentation in Twitter Threads 
-- [**Regenerative Village Builders Mastermind**](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"}: a live documentation of an 11-day process where 15 people created a 192 pages book encouraging moving towards regenerative way of living as a planetary goal.
+- [**Regenerative Village Builders Mastermind**](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"} - live documentation of an 11-day process where 15 people created a 192 pages book encouraging moving towards regenerative way of living as a planetary goal.
+- [**Pico Cabin Residency Prototype**](https://twitter.com/michalkorzonek/status/1578695706466222080?s=20&t=3TgdeKBgSV-0ogK7jfRtHA){:target="_blank"} - live documentation of prototyping a magickal residency program for Regens and Open-Source creators.
 
 ### (News)letters 💌
 - [**Moonly Reviews 🌑🌕 **](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
 - [**Enspiral Newsletter**](https://www.enspiral.com/){:target="_blank"} (Internal & External) - updates from a network of people helping each other do **meaningful work** and notes from the field of the future of work and a **new way of organising**.
 - [**Sunday Insights**](https://docs.google.com/document/d/163FC_CZsNVmpjaw1Mty4PJvIhrGwqIDE9aa6YyU1AXw/edit?usp=sharing){:target="_blank"} (newsletter project in 2020) - weekly email with an insight, a prompt, a picture, and an idea worth spreading.
-<br>
+<br><br>
 > “One of my favourite things about the Sunday Insights is that they give a window into your world. I love it that not only are you deep thinkers committed to the things that matter most in life, but that you are also committed to being guides on the journey. So grateful to be in satsanga.” <br> -- Cathy Hutchison
 
 ### Video Journaling 📹
