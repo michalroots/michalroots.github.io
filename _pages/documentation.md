@@ -14,7 +14,7 @@ summary: Crystal clear, concise, and delightful handbooks for tale-worthy organi
 - **gitbook** setup and wizardry.
 - €1000-€5000, token payments possible
 
-michalroots@protonmail.com
+michalroots@protonmail.com <br>
 DM on twitter: [@michalkorzonek](https://twitter.com/michalkorzonek)
 
 <p>🌳</p>
