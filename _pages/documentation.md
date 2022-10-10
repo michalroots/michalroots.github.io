@@ -9,7 +9,7 @@ summary: Crystal clear, concise, and delightful handbooks for tale-worthy organi
 
 - creating a structure bringing **clarity and focus** to navigate through your story, processes, and tools.
 - writing **up-to-date** sections with a **stellar vibe**.
-- **gitbook** setup.
+- **gitbook** setup and wizardry.
 - €1000-€5000, token payments possible
 
 <p>🌳</p>
