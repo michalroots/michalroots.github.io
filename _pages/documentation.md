@@ -33,6 +33,10 @@ More documentation in the [archive](https://michalkorzonek.com/tag/documentation
 
 [Link to tweet](https://twitter.com/micro_solid/status/1496148154655330310){:target="_blank"}
 
+
+### Documentation in Twitter Threads 
+- [Regenerative Village Builders Mastermind](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"}: a live documentation of an 11-day process where 15 people created a 192 pages book encouraging moving towards regenerative way of living as a planetary goal.
+
 ### (News)letters 💌
 - [Moonly Reviews 🌑🌕 ](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
 - [Enspiral Newsletter](https://www.enspiral.com/){:target="_blank"} (Internal & External) - updates from a network of people helping each other do **meaningful work** and notes from the field of the future of work and a **new way of organising**.
