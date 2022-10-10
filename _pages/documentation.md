@@ -8,7 +8,7 @@ summary: Crystal clear, concise, and delightful handbooks for tale-worthy organi
 **I create crystal clear, concise, and delightful hanbooks for tale-worthy organisations and projects.** 
 
 - creating a structure bringing **clarity and focus** to navigate through your story, processes, and tools.
-- writing sections with a **stellar vibe**.
+- writing **up-to-date** sections with a **stellar vibe**.
 - **gitbook** setup.
 - €1000-€5000, token payments possible
 
