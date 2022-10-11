@@ -39,7 +39,7 @@ More documentation in the [archive](https://michalkorzonek.com/tag/documentation
 - [**Pico Cabin Residency Prototype**](https://twitter.com/michalkorzonek/status/1578695706466222080?s=20&t=3TgdeKBgSV-0ogK7jfRtHA){:target="_blank"} - live documentation of prototyping a magickal residency program for Regens and Open-Source creators.
 
 ### (News)letters 💌
-- [**Moonly Reviews 🌑🌕 **](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
+- [**Moonly Reviews** 🌑🌕 ](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
 - [**Enspiral Newsletter**](https://www.enspiral.com/){:target="_blank"} (Internal & External) - updates from a network of people helping each other do **meaningful work** and notes from the field of the future of work and a **new way of organising**.
 - [**Sunday Insights**](https://docs.google.com/document/d/163FC_CZsNVmpjaw1Mty4PJvIhrGwqIDE9aa6YyU1AXw/edit?usp=sharing){:target="_blank"} (newsletter project in 2020) - weekly email with an insight, a prompt, a picture, and an idea worth spreading.
 <br><br>
