@@ -1,27 +1,26 @@
 ---
 layout: page
-title: Experiences
+title: Experience Design Consulting
 description: Facilitation wizard at your disposal.
 ---
 
 **Facilitation wizard at your disposal 🧙‍♂️.**
 
 ## My Offer:
-- I design and facilitate containers for playful co-creation
-- In-Real-Life is my Ikigai superpower
-- Five days to one Moon Cycle is my fav length
-- Focus on co-creation of tangible artefacts
-- Price depends on many moving parts. Let's talk.
+- I'm here to help you design a totally magickal event
+-  In-Real-Life is my Ikigai superpower, but I created some powerful online experiences as well.
+- €100 / session (~1.5h, prep time included in the price). Token payments possible.
+
 
 💌 michalroots@protonmail.com <br>
 🐦 [@michalkorzonek](https://twitter.com/michalkorzonek)
 
-(If you're looking for experience design consulting, [here's my offer](/experience-design-consulting){:target="_blank"})
+(If you're looking for facilitation and experience design, [here's my offer](/experiences){:target="_blank"})
 
 ✨
 
-## Selected Portfolio
-### In-Real-Life
+## Portfolio
+In-Real-Life
 - [**Regenerative Village Builders Mastermind**](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"} - 11 days mastermind, where 15 village builders created 192 pages book about building regen villages. September 2022, Traditional Dream Factory.
 - **Human Mycelium Activation** - September 2022, Traditional Dream Factory & Gathering of The Tribes.
 - **Bruno and Vera Wedding Ceremony** - two friends asked me to hold a wedding ceremony for them, in front of their friends and families. It was magickal. Portugal, September 2021.

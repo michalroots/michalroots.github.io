@@ -1,39 +1,49 @@
 ---
 layout: page
 title: Experiences
-description: Facilitation wizard at your disposal.
 ---
 
-**Facilitation wizard at your disposal 🧙‍♂️.**
+**I (co-)create experiences, spaces and events where magic happens.**
+<p>
+🌀
+</p>
+Gatherings, immersive performances, cohort based courses, parties, exhibitions, sailing trips, sharing circles, workshops, trainings, retreats, weddings ... you name it. 
 
-## My Offer:
-- I design and facilitate containers for playful co-creation
-- In-Real-Life is my Ikigai superpower
-- Five days to one Moon Cycle is my fav length
-- Focus on co-creation of tangible artefacts
-- Price depends on many moving parts. Let's talk.
+My personal *ikigai* is to **bring people together and hold space for relational transformation**. Relational = in relationship with other people and the world around us.
+<p>
+🌳
+</p>
+It all started with my mother bringing me to a winter retreat of a theatre group at the age of one (thank you mum!), which escalated into a **Film and Media degree**, and numerous **exhibitions, performances, and art experiences.**
+
+In parallel, at the age of eighteen I started **organising events and facilitating teams** on international exchanges and *European Youth Parliament* sessions. Since then, I've been **practicing the future of work by co-creating within *Enspiral*, *Traditional Dream Factory***, *Honeyboom*, *Lethally Harmless Productions* and other wonderful projects and organisations. I'm a **microsolidarity community weaver and catalyst** in Pico Island (which is my home for most of the year), working towards Azores Regenerative Network. I'm also: a **certified habit coach** -> dream big, start small, make it happen. 
+
+I'm a big fan of **learning by doing** and my professional curiosity lies in **integrating transformational experiences**: *how to carry forward the energy and insight from a transformational experience, after it's over?*
+
+<p>
+☀️
+</p>
+**My work is inspired by heart-to-heart connections, nature and playfulness**. I love contact improvisation, hiking for hours, building structures from wood, seeing a spark of joy in someones eyes, and sailing at night under star-covered sky. These moments of awe make me feel alive and fuel my aspiration:
+
+**Let's co-create a beautiful world where all Beings can thrive**.
+
+Thank you for Being ✨ <br>
+Michał
+
+## My Offer
+- **Experience Design Consulting**: I help regenerative organisations create transformational retreats, workshops, courses and events. €200 / hour (discounts and token payments possible)
+- **Facilitation Magic:** Hire me to facilitate your event. €1000 / day (discounts and token payments possible)
+- **Art Co-Creation**: Immersive experiences are my thing. If you'd like me to co-create with you, or at your festival / exhibition - reach out.
+- **Officiating Weddings and Ceremonies**: I love these special moments of celebration. Tell me about yours!
+
+## Portfolio
+[An incomplete list of experiences](/tag/experiences) of different shapes and sizes, online and offline, which I had the joy of creating.
+
+(I'm in the process of adding documentation.)
+
+## Contact
 
 💌 michalroots@protonmail.com <br>
 🐦 [@michalkorzonek](https://twitter.com/michalkorzonek)
-
-(If you're looking for experience design consulting, [here's my offer](/experience-design-consulting){:target="_blank"})
-
-✨
-
-## Selected Portfolio
-### In-Real-Life
-- [**Regenerative Village Builders Mastermind**](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"} - 11 days mastermind, where 15 village builders created 192 pages book about building regen villages. September 2022, Traditional Dream Factory.
-- **Human Mycelium Activation** - September 2022, Traditional Dream Factory & Gathering of The Tribes.
-- **Bruno and Vera Wedding Ceremony** - two friends asked me to hold a wedding ceremony for them, in front of their friends and families. It was magickal. Portugal, September 2021.
-- **Pico Community Gatherings** - [Summer 2021](https://pico.microsolidarity.cc/crews-and-projects/summer-gathering-2021){:target="_blank"}, [Autumn 2021](https://pico.microsolidarity.cc/crews-and-projects/autumn-gathering-2021){:target="_blank"}, [Spring 2022](https://pico.microsolidarity.cc/crews-and-projects/spring-gathering-2022){:target="_blank"}
-- [**European Youth Parliament**](https://eyp.org/){:target="_blank"} - multi-year experience in designing and facilitating sessions and media teams.
-- [**Youth in Action Program**](https://www.salto-youth.net/rc/inclusion/archive/archive-resources/inclusiongroups/inclusionrural/inclusion-ruralyia/){:target="_blank"} - multi-year experience in designing and facilitating international exchanges and seminars.
-
-### Online
-- **Year of Practice** - a year-long online habit-building course in cohorts. One habit per quarter. The course was designed to be a dependable, long-term rhythm for relational growth, and grow in iterations based on the individual experience of the the ups and downs.
-- **Habit Sprint** - two-month facilitated habit-building program, where each participant chooses one habit to focus on
-
-That's just the tip of the iceberg. I've been creating experiences of different shapes and sizes, online and offline, for years. Here's [an incomplete list](/tag/experiences).
 
 ## Words That Touched Me
 
