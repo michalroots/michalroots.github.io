@@ -6,7 +6,7 @@ image:
 tags: article
 ---
 
-I've spent the summer of 2022 immersed in [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"} - a regenerative village with super-high-energy social context overflowing with all sorts of in-real-life relating. As my stewardsheep 🐑 came to an end I returned to Pico island. Suddenly I am spending pretty much all of my time alone.
+I've spent the summer of 2022 immersed in [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"} - a regenerative village with super-high-energy social context overflowing with all sorts of in-real-life relating. As my [stewardsheep](https://handbook.traditionaldreamfactory.com/participate/stewardsheep){:target="_blank"} 🐑 came to an end I returned to Pico island. Suddenly I am spending pretty much all of my time alone.
 
 It's a huge shift.
 
@@ -54,7 +54,7 @@ As I allow myself to Be, I begin to recalibrate and ground. It becomes clear tha
 
 **It is my very choice to take action to meet my needs.**
 
-Just as the *Akinado Card* reminds me:
+Just as the *[Akinado Card](/akinado){:target="_blank"}* reminds me:
 
 **Metamorphosis. It all starts with a choice.**
 
