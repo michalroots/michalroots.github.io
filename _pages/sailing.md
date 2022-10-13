@@ -12,8 +12,8 @@ contact: michalroots@proton.me<br>
 currently based in Pico island, Azores
 
 ## Current Goal
-- **Atlantic crossing in winter 2022** - from Portugal / Canaries to Brasil, but as one of my captains used to say - "*The port of arrival doesn't matter. What matters is the continent.*" I can roll with Americas as a continent of destination.
-- A longevity cruise from **Pico to Ikaria** - August / September 2023.
+- **Sailing in winter 2022** - Cannaries, Madeira, maybe Atlantic crossing?
+- Prototyping *Melting Man* - a regenerative burn at sea. **Netherlands to Ikaria** - August / September 2023.
 
 ## Long Term Goal
 
