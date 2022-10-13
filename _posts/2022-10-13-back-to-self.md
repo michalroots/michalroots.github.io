@@ -18,7 +18,6 @@ Creating self-time in a community is something to practice, and there are many w
 
 Setting boundaries for self-time. Going away for a few days. Creating spaces for silence. Setting cues for not being disturbed.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today I&#39;m experimenting with new visual cue helping me to stay focused in a high-energy creative vortex environment: <a href="https://twitter.com/tdfinyourdreams?ref_src=twsrc%5Etfw">@tdfinyourdreams</a> <a href="https://t.co/RAcYYlzjTz">pic.twitter.com/RAcYYlzjTz</a></p>&mdash; Michał ✨ (@michalkorzonek) <a href="https://twitter.com/michalkorzonek/status/1564943385802186752?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 
 Damn, I had so much fun.
