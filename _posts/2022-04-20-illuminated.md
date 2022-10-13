@@ -8,9 +8,9 @@ tags: poems spoken
 
 Context: I wrote this text while at sea (original scan at the end), a couple of days after departing from Edinburgh, which used to be my Home for seven years, and it still does feel like my hometown somehow. 
 
-Back then, I sailed into a new chapter of my life, which funny enough is now about to end with another [sailing](/sailing) adventure taking me to whatever awaits next.
+Back then, I sailed into a new chapter of my life, which funny enough is now about to end with another [sailing](/sailing){:target="_blank"} adventure taking me to whatever awaits next.
 
-I'm in the process of recording this text as a spoken-word-music collaboration with [João Moreira aka Instil](https://instil.bandcamp.com/album/wide-spectrum-of-beautiful-chaos).
+I'm in the process of recording this text as a spoken-word-music collaboration with [João Moreira aka Instil](https://instil.bandcamp.com/album/wide-spectrum-of-beautiful-chaos){:target="_blank"}. For now it's [available for my Patrons](https://www.patreon.com/posts/illuminated-pre-66220721){:target="_blank"}.
 
 <p>⛵️</p>
 

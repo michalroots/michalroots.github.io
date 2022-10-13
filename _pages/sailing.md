@@ -24,7 +24,7 @@ currently based in Pico island, Azores
 ## About 
 **Sailing is my medicine**, and it's when I feel the most alive. You might find me singing shanties madly in a pouring rain, and then to delight you with a delicious dessert when you least expect it. 
 
-**Professionally, I create events** (gatherings, workshops, performances, courses...) **and write stories.** Some are decent. I seem to be very good at **bringing people together, holding space and catalysing** the energy in the room to co-create magic together. Here's where I [focus](/focus) at the moment.
+**Professionally, I create events** (gatherings, workshops, performances, courses...) **and write stories.** Some are decent. I seem to be very good at **bringing people together, holding space and catalysing** the energy in the room to co-create magic together. Here's where I [focus](/focus){:target="_blank"} at the moment.
 
 **I'm high vibe, positive, and proactive**. I love heart-to-heart conversations and give memorable hugs (bold statement, I know). I like to **travel light** - less than 80l.
 
@@ -47,8 +47,8 @@ In other words, good catch 💜
 
 ## Sailing Experience & Certificates
 Log: 2231 NM / 533h at sea + Regattas <br><br>
-- Yacht Skipper Certificate (Jachtowy Sternik Morski via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski))
-- [RYA](http://www.rya.org.uk/Pages/Home.aspx) SRC Certificate 
+- Yacht Skipper Certificate (Jachtowy Sternik Morski via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"})
+- [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC Certificate 
 - STCW’95 Certificate
 - Certificate of Proficiency in Security Awareness
 
@@ -60,5 +60,5 @@ Log: 2231 NM / 533h at sea + Regattas <br><br>
 - Crew (Masurian Lake District - inshore; 2005-2007)
 
 **Profiles:**
-- [Ocean Nomads profile](https://oceannomads.mn.co/members/5854004)
-- [Find a crew profile](https://www.findacrew.net/en/crew/284446)
+- [Ocean Nomads profile](https://oceannomads.mn.co/members/5854004){:target="_blank"}
+- [Find a crew profile](https://www.findacrew.net/en/crew/284446){:target="_blank"}
