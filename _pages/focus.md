@@ -25,7 +25,7 @@ summary: What I am focusing on at the moment (aka - now page).
 ## You can hire me to:
 
 - Create in-real-life [containers for playful co-creation](/experiences)
-- Consult on creating containers / experience design, and/or coach you through the process
+- [Consult on creating containers / experience design](/experience-design-consulting), and/or coach you through the process
 - Create [documentation](/documentation) of your regenerative / positive impact project
 
 You can see my past work in the [archive](/archive).
