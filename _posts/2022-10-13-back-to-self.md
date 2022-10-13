@@ -50,7 +50,7 @@ Fortunately, I am in the most wonderful place to practice - a volcanic rock imme
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I invite you to fly through my window together 🐦 <a href="https://t.co/M881KZBfUX">pic.twitter.com/M881KZBfUX</a></p>&mdash; Michał ✨ (@michalkorzonek) <a href="https://twitter.com/michalkorzonek/status/1526484139096133632?ref_src=twsrc%5Etfw">May 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-As I allow myself to Be, I begin to recalibrate and ground. It becomes clear that just like in TDF I could practice creating self-time, I can practice creating IRL deep relating in Pico. In fact, [I'm doing that already](https://pico.microsolidarity.cc), only at a slower pace.
+As I allow myself to Be, I begin to recalibrate and ground. It becomes clear that just like in TDF I could practice creating self-time, I can practice creating IRL deep relating in Pico. In fact, [I'm doing that already](https://pico.microsolidarity.cc){:target="_blank"}, only at a slower pace.
 
 **It is my very choice to take action to meet my needs.**
 
