@@ -18,7 +18,6 @@ Creating self-time in a community is something to practice, and there are many w
 
 Setting boundaries for self-time. Going away for a few days. Creating spaces for silence. Setting cues for not being disturbed.
 
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today I&#39;m experimenting with new visual cue helping me to stay focused in a high-energy creative vortex environment: <a href="https://twitter.com/tdfinyourdreams?ref_src=twsrc%5Etfw">@tdfinyourdreams</a> <a href="https://t.co/RAcYYlzjTz">pic.twitter.com/RAcYYlzjTz</a></p>&mdash; Michał ✨ (@michalkorzonek) <a href="https://twitter.com/michalkorzonek/status/1564943385802186752?ref_src=twsrc%5Etfw">August 31, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 Damn, I had so much fun.
 
@@ -30,7 +29,6 @@ Now, all of this is gone, and it's just the silly old me again.
 
 Hi.
 
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Toolkit upgrade. Worth every cent. <a href="https://t.co/59k74z6wYS">pic.twitter.com/59k74z6wYS</a></p>&mdash; Michał ✨ (@michalkorzonek) <a href="https://twitter.com/michalkorzonek/status/1580598971248308226?ref_src=twsrc%5Etfw">October 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 Surprisingly, although that's perhaps due to my naivety, being in the space with little-to-none IRL deep relating for a couple of days, I find myself inside emotional whirlpool, as intense as when I was at TDF.
 
@@ -47,8 +45,6 @@ I'm regaining balance.
 **This summer, I practiced finding stillness in the moments of absolute chaos. Now it's time to find stillness inside of me.**
 
 Fortunately, I am in the most wonderful place to practice - a volcanic rock immersed in Awe Inspiring Nature.
-
-`<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I invite you to fly through my window together 🐦 <a href="https://t.co/M881KZBfUX">pic.twitter.com/M881KZBfUX</a></p>&mdash; Michał ✨ (@michalkorzonek) <a href="https://twitter.com/michalkorzonek/status/1526484139096133632?ref_src=twsrc%5Etfw">May 17, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>`
 
 As I allow myself to Be, I begin to recalibrate and ground. It becomes clear that just like in TDF I could practice creating self-time, I can practice creating IRL deep relating in Pico. In fact, [I'm doing that already](https://pico.microsolidarity.cc), only at a slower pace.
 
