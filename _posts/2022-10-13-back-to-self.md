@@ -56,7 +56,7 @@ As I allow myself to Be, I begin to recalibrate and ground. It becomes clear tha
 
 Just as the *[Akinado Card](/akinado){:target="_blank"}* reminds me:
 
-**Metamorphosis. It all starts with a choice.**
+**Metamorphosis. It all starts with a Choice.**
 
 As the external and internal noise dissolves into silence, a feeling of boundless spaciousness emerges. 
 
