@@ -3,7 +3,7 @@ layout: post
 title: My Microsolidarity Journey
 description: From lonely nomad to community catalyst
 image: 
-tags: [documentation]
+tags: documentation articles
 ---
 
 Let's begin with a bit of context:
