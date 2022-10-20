@@ -91,3 +91,14 @@ It turns out that while the site was live, something didn't work with the automa
 For now I've been using a separate obsidian vault for my website, but actually, why not keep it all together?
 	
 I've created a new folder ```/web``` in my main obsidian vault and I moved the folder with website files ```heymichal.github.io``` inside.
+
+## Is this Useful?
+
+Well... I hope so. Personally speaking, it did change my entire experience of creating digital content.
+
+If it seems to be making a difference for you, then I'm really happy. Enjoy!
+
+You might also enjoy this article - [Personal Website Flow (Full Version) - How I Use This Website](https://michalkorzonek.com/personal-website-flow-full){:target="_blank"}, where I'll show you how effortless it is to fly while this setup is operational.
+
+If you feel like supporting my work, [Patreon](https://patreon.com/michalkorzonek){:target="_blank"}  is a great opportunity.
+
