@@ -11,8 +11,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## Now:
 
-- **Prototyping Pico Cabin Residency** - a community run space for regens and open source creators, designed for deep rest and deep focus. Live documentation in this [twitter thread](https://twitter.com/michalkorzonek/status/1578695706466222080?s=20&t=CrGEdV_kJuVTRUqsIrsVkg){:target="_blank"}, and here's the [Info Doc](https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing){:target="_blank"}.
-- The focus of my residency: **publishing the open-source playbook for regenerative village builders**. Here's the [twitter thread](https://twitter.com/michalkorzonek/status/1565240255564980225?s=20&t=CrGEdV_kJuVTRUqsIrsVkg){:target="_blank"} documenting the mastermind where the book was created.
+- Publishing **the open-source playbook for regenerative village builders**. Here's the [twitter thread](https://twitter.com/michalkorzonek/status/1565240255564980225?s=20&t=CrGEdV_kJuVTRUqsIrsVkg){:target="_blank"} documenting the mastermind where the book was created. We're now going through editing and final compilation. Exciting!
 
 *(Note to self: limit amount of focus projects, ideally to ONE. When completed, move to [archive](/archive){:target="_blank"}.*
 
@@ -24,9 +23,9 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## You can hire me to:
 
-- Create in-real-life [containers for playful co-creation](/experiences)
-- [Consult on creating containers / experience design](/experience-design-consulting), and/or coach you through the process
-- Create [documentation](/documentation) of your regenerative / positive impact project
+- [Create spaces for playful co-creation](/experiences)
+- [Consult on creating containers / experience design](/experience-design-consulting)
+- Create [documentation](/documentation) of tale-worthy organisations and projects.
 
 You can see my past work in the [archive](/archive).
 
