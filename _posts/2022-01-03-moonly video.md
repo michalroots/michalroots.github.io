@@ -30,7 +30,8 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 - **Rebirth Moon, 30 May - 28 June 2022** - [youtube link](https://youtu.be/4Q8EyZzQ4lY){:target="_blank"}
 - Dragon Moon, 29 June - 26 July 2022 - [youtube link](https://youtu.be/fUanmeujnzM){:target="_blank"}
 - Co-Moon, 28 July - 26 August 2022 - [youtube link](https://youtu.be/E7Szeib1HsQ){:target="_blank"}
-- Sheeplosion Moon, 27 August - 24 September 2022 - [youtube link](https://youtu.be/H3le69xkD9k){:target="blank"}
+- **Sheeplosion Moon, 27 August - 24 September 2022** - [youtube link](https://youtu.be/H3le69xkD9k){:target="blank"}
+- Transition Moon, 25 September - 24 October 2022 - [youtube link](https://youtu.be/588eK0gbXgQ){:target="blank"}
 <p></p>
 
 <hr>

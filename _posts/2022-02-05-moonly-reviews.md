@@ -8,7 +8,7 @@ tags: journal
 
 Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive in me right now. 
 
-I've started in December 2020, loved it, and the streak continues until today (with a few misses, of course, because it's okay). This public review practice written as a letter from the heart became one of my favourite rituals, along with my [Moonly Videos](one-second-a-day){:target="_blank"}, and [Infinity Squares](/infinity-squares){:target="_blank"}.
+I've started in December 2020, loved it, and the streak continues until today (with a few misses, of course, because it's okay). This public review practice written as a letter from the heart became one of my favourite rituals, along with my [Moonly Videos](moonly-video){:target="_blank"}, and [Infinity Squares](/infinity-squares){:target="_blank"}.
 
 At the moment I publish my Moonly Reviews via Substack. If you'd enjoy reading a letter from me every 🌑 and 🌕, I'd like to encourage you to subscribe [here](https://michalkorzonek.substack.com){:target="_blank"}.
 
@@ -68,3 +68,4 @@ Here's the full list:
 - 🌕 [September 2022 - Book, Cards, and Creating New Culture](https://michalkorzonek.substack.com/p/moonly-review-book-cards-and-creating){:target="_blank"}
 - 🌔 [October 2022 - Embodying Transformation](https://michalkorzonek.substack.com/p/moonly-review-embodying-transformation){:target="_blank"}
 - 🌕 [October 2022 - Containers in the Sand](https://michalkorzonek.substack.com/p/moonly-review-containers-in-the-sand){:target="_blank"}
+- 🌑 [October 2022 - Prioritise Priorities](https://michalkorzonek.substack.com/p/moonly-review-prioritise-priorities){:target="_blank"}

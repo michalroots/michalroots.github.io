@@ -45,7 +45,7 @@ More documentation in the [archive](https://michalkorzonek.com/tag/documentation
 > “One of my favourite things about the Sunday Insights is that they give a window into your world. I love it that not only are you deep thinkers committed to the things that matter most in life, but that you are also committed to being guides on the journey. So grateful to be in satsanga.” <br> -- Cathy Hutchison
 
 ### Video Journaling 📹
-- [One Second A Day](https://michalkorzonek.com/one-second-a-day){:target="_blank"} - Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some **images and vibe** of my life in that period.
+- [Moonly Video](https://michalkorzonek.com/moonly-video){:target="_blank"} - Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some **images and vibe** of my life in that period.
 - [Michal & Silvia / Honeyboom](https://www.youtube.com/channel/UCFkEEtX7yPtYD0Om0GPwL7w/videos){:target="_blank"} (inactive) - Youtube channel exploring tools and inspiration to help you **build vibrant relationships**
 - [Anton on Holidays](https://www.youtube.com/watch?v=sMdFqFmjje4){:target="_blank"} (fun travel documentary) - Back in the summer of 2012 I traveled over 11000 km with a shark called Anton.
 
