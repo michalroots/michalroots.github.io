@@ -32,6 +32,7 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 - Co-Moon, 28 July - 26 August 2022 - [youtube link](https://youtu.be/E7Szeib1HsQ){:target="_blank"}
 - **Sheeplosion Moon, 27 August - 24 September 2022** - [youtube link](https://youtu.be/H3le69xkD9k){:target="blank"}
 - Transition Moon, 25 September - 24 October 2022 - [youtube link](https://youtu.be/588eK0gbXgQ){:target="blank"}
+- Editing Moon, 25 October - 22 November 2022 - [youtube link](https://youtu.be/AjzlHvPmWxk){:target="blank"}
 <p></p>
 
 <hr>
