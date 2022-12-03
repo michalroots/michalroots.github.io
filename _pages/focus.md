@@ -11,7 +11,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## Now:
 
-- Just published: "[**How To Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"} " (draft 0.9) 🎉
+- Just published a book: "[**How To Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"} " (draft 0.9) 🎉
 - Compiling **documentation for Enspiral**: emergence of European Node + handbook updates
 - [**Yearly Review Course**](https://payhip.com/b/aW9jx){:target="_blank"} 
 
