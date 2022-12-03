@@ -11,15 +11,16 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## Now:
 
-- Publishing **the open-source playbook for regenerative village builders**. Here's the [twitter thread](https://twitter.com/michalkorzonek/status/1565240255564980225?s=20&t=CrGEdV_kJuVTRUqsIrsVkg){:target="_blank"} documenting the mastermind where the book was created. We're now going through editing and final compilation. Exciting!
-
-*(Note to self: limit amount of focus projects, ideally to ONE. When completed, move to [archive](/archive){:target="_blank"}.*
+- Just published: "[**How To Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"} " (draft 0.9) 🎉
+- Compiling **documentation for Enspiral**: emergence of European Node + handbook updates
+- [Yearly Review](https://payhip.com/b/aW9jx){:target="_blank"}  Course
 
 ## I actively contribute to:
 
 - [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - regenerative village in Portugal
 - [**Enspiral**](https://enspiral.com){:target="_blank"} - network helping people do more meaningful work
 - [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - decentralised village on a small island
+- [Treehouse DAO](https://treehousedao.earth){:target="_blank"} - web3 publishing organisation focused on regenerating the planet
 
 ## You can hire me to:
 
@@ -32,4 +33,4 @@ You can see my past work in the [archive](/archive).
 Talk soon,<br>
 Michał
 
-ps. I work in public and document my process through a public [Moonly Review](/moonly-reviews) and a [video diary](/one-second-a-day).
+ps. **I work in public and document my process** through a public [Moonly Review](/moonly-reviews) and a [video diary](/one-second-a-day).
