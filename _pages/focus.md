@@ -13,14 +13,14 @@ summary: What I am focusing on at the moment (aka - now page).
 
 - Just published: "[**How To Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"} " (draft 0.9) 🎉
 - Compiling **documentation for Enspiral**: emergence of European Node + handbook updates
-- [Yearly Review](https://payhip.com/b/aW9jx){:target="_blank"}  Course
+- [**Yearly Review Course**](https://payhip.com/b/aW9jx){:target="_blank"} 
 
 ## I actively contribute to:
 
 - [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - regenerative village in Portugal
 - [**Enspiral**](https://enspiral.com){:target="_blank"} - network helping people do more meaningful work
 - [**Microsolidarity in Pico**](https://pico.microsolidarity.cc){:target="_blank"} - decentralised village on a small island
-- [Treehouse DAO](https://treehousedao.earth){:target="_blank"} - web3 publishing organisation focused on regenerating the planet
+- [**Treehouse DAO**](https://treehousedao.earth){:target="_blank"} - web3 publishing organisation focused on regenerating the planet
 
 ## You can hire me to:
 
