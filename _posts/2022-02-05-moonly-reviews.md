@@ -71,3 +71,4 @@ Here's the full list:
 - 🌑 [October 2022 - Prioritise Priorities](https://michalkorzonek.substack.com/p/moonly-review-prioritise-priorities){:target="_blank"}
 - 🌕 [November 2022 - Tower Time](https://michalkorzonek.substack.com/p/moonly-review-tower-time){:target="_blank"}
 - 🌓 [November 2022 - Slowly slower slowing slow](https://michalkorzonek.substack.com/p/moonly-review-slowly-slower-slowing){:target="_blank"}
+- 🌖 [December 2022 - Inner Winter](https://michalkorzonek.substack.com/p/moonly-review-inner-winter){:target="_blank"}
