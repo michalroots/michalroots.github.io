@@ -12,8 +12,8 @@ summary: What I am focusing on at the moment (aka - now page).
 ## Now:
 
 - Just published a book: "[**How To Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"} " (draft 0.9) 🎉
-- Compiling **documentation for Enspiral**: emergence of European Node + handbook updates
-- [**Yearly Review Course**](https://payhip.com/b/aW9jx){:target="_blank"} 
+- Compiling **documentation for Enspiral**: emergence of European Node + handbook updates (follow along in this [twitter thread](https://twitter.com/michalkorzonek/status/1599750154596540417?s=20&t=zx8aRJnEQUzB3kOzCta5iA){:target="_blank"} )
+- Embark on the [**Funky Yearly Review Course**](https://payhip.com/b/aW9jx){:target="_blank"} 
 
 ## I actively contribute to:
 
