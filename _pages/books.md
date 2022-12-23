@@ -113,6 +113,7 @@ He actively contributes to [Enspiral](https://enspiral.com){:target="_blank"} an
 
 [CV on LinkedIn](https://www.linkedin.com/in/michalkorzonek/){:target="_blank"}
 
+![another funky pic, just for the vibes](/assets/michal-mast.jpg)
 <p></p>
 
 ---
