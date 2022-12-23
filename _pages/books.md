@@ -5,7 +5,9 @@ description:
 summary: 
 ---
 
-Why books?
+COVER IMAGE
+
+**Why books?**
 
 Books are far from dead. They are **tangible artefacts distilling the vibe, knowledge, and work of your organisation** into a physical item sending ripples into the world.
 
