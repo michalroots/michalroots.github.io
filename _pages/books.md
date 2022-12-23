@@ -25,8 +25,10 @@ Shall we make yours?
 
 ## Choose your adventure 🧭
 
-1. **Let's make a Zine** <br>
+### Let's make a Zine 
 I'll take your team on a facilitated journey resulting in a short magazine.
+
+<br>
 
 - Time commitment: from 0,5 to 2 days IRL
 - Perfect fit for one-off workshops or additional building block for team retreats
