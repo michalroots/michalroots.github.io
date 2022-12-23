@@ -68,7 +68,7 @@ The BIG offer. We'll gather for a mastermind, resulting in a beautiful book.
 **Example Book:**
 -  "[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} "
 
-
+![Cover of the book](/assets/regen-village-cover.jpg)
 
 The 174 pages illustrated book, weaves together lineages of wisdom and practical experience from a worldwide tribe of regenerative village builders - serving as an emergent base of knowledge, as well as actionable blueprint, encouraging the transition towards a regenerative way of living.
   
