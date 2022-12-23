@@ -34,7 +34,7 @@ I'll take your team on a facilitated journey resulting in a short magazine.
 - Perfect fit for one-off workshops or additional building block for team retreats
 - Cost: from €500 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
-
+<br>
 **Example Zines:**
 - IDK Ask the AI
 - Abela Artfaire
@@ -42,28 +42,27 @@ I'll take your team on a facilitated journey resulting in a short magazine.
 - Insight
 - Stroboheroes
 
-2. **Let's make a Handbook** <br>
+### Let's make a Handbook
 I'll take your team on a facilitated journey, resulting in a crystal clear, concise, and delightful handbooks for your organisation. 
-
+<br>
 - Time commitment: 2-5 days IRL
 - Perfect for organisations needing to organise their tools, processes and stories
 - Cost: from €1000 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
-
-
+<br>
 **Example Hanbooks:**
 - Traditional Dream Factory
 - Enspiral Europe
 - Enspiral
 
-**3. Let's make a "Proper" Book** <br>
+### Let's make a "Proper" Book
 The BIG offer. We'll gather for a mastermind, resulting in a beautiful book.
-
+<br>
 - Time commitment: from 10 days IRL
 - Perfect for positive-impact organisations ready to tell the story of their work, while aligning the team and creating life-long friendships
 - Cost: from €5000 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
-
+<br>
 **Example Book:**
 -  "[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} "
 
