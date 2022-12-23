@@ -116,4 +116,4 @@ He actively contributes to [Enspiral](https://enspiral.com){:target="_blank"} an
 ---
 ## Help Me Find The Words.
 
-Describing what I do is not easy. Help me find the right vocabulary to bring my facilitation wizardry to super-aligned projects. Your feedback on this offer would be the most beautiful Gift ✨
+Describing what I do is not easy. Help me find the right vocabulary to bring my facilitation wizardry to super-aligned projects. Perhaps you have a testimonial for me? Your help on this offer would be the most beautiful Gift ✨
