@@ -27,9 +27,7 @@ Shall we make yours?
 
 ### Let's make a Zine 
 I'll take your team on a facilitated journey resulting in a short magazine.
-
 <br>
-
 - Time commitment: from 0,5 to 2 days IRL
 - Perfect fit for one-off workshops or additional building block for team retreats
 - Cost: from €500 (I provide facilitation and materials, you take care of the space and logistics)
