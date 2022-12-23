@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Let's Make A Book For Your Organisations
+title: Let's Make A Book For Your Organisation
 description: 
 summary: 
 ---
 
-COVER IMAGE
+ADD COVER IMAGE
 
 **Why books?**
 
@@ -17,7 +17,7 @@ This is not *just* about the book, though...
 
 ## The Process
 
-GROUP VIBES IMAGE
+ADD GROUP VIBES IMAGE
 
 There is a very tangible magic in the air that emerges when people **gather to create something together** in the same physical space. We are after that magic, topped up with a very special ingredient:
 
@@ -29,7 +29,7 @@ Shall we make yours?
 
 ## Choose your adventure 🧭
 
-### Let's make a Zine 
+### 📒 Let's make a Zine 
 I'll take your team on a facilitated journey resulting in a short magazine.
 <br>
 - Time commitment: from 0,5 to 2 days IRL
@@ -37,27 +37,27 @@ I'll take your team on a facilitated journey resulting in a short magazine.
 - Cost: from €500 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
 
-📒**Example Zines:**
-- IDK Ask the AI
-- Abela Artfaire
-- The Cocreated Story of Awaking Life
-- Insight
-- Stroboheroes
+Example Zines:
+- *IDK Ask the AI* (Traditional Dream Factory)
+- *Abela Artfaire* (Traditional Dream Factory)
+- *The Cocreated Story of Awaking Life* (Waking Life Festival 2022)
+- *Insight* (European Youth Parliament)
+- *Stroboheroes* (European Youth Parliament)
 
-### Let's make a Handbook
-I'll take your team on a facilitated journey, resulting in a crystal clear, concise, and delightful handbooks for your organisation. 
+### 📕 Let's make a Handbook
+I'll take your team on a facilitated journey, resulting in a crystal clear, concise, and delightful handbook for your organisation. 
 <br>
 - Time commitment: 2-5 days IRL
 - Perfect for organisations needing to organise their tools, processes and stories
 - Cost: from €1000 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
 
-📕 **Example Hanbooks:**
+Example Hanbooks:
 - Traditional Dream Factory
 - Enspiral Europe
 - Enspiral
 
-### Let's make a "Proper" Book
+### 📖 Let's make a "Proper" Book
 The BIG offer. We'll gather for a mastermind, resulting in a beautiful book.
 <br>
 - Time commitment: from 10 days IRL
@@ -65,7 +65,7 @@ The BIG offer. We'll gather for a mastermind, resulting in a beautiful book.
 - Cost: from €5000 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
 
-📖 **Example Book:**
+**Example Book:**
 -  "[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} "
 
 ![Cover of the book](/assets/regen-village-cover.jpg)
