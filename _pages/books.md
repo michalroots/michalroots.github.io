@@ -17,6 +17,8 @@ This is not *just* about the book, though...
 
 ## The Process
 
+GROUP VIBES IMAGE
+
 There is a very tangible magic in the air that emerges when people **gather to create something together** in the same physical space. We are after that magic, topped up with a very special ingredient:
 
 **Serious Fun**.
@@ -34,8 +36,8 @@ I'll take your team on a facilitated journey resulting in a short magazine.
 - Perfect fit for one-off workshops or additional building block for team retreats
 - Cost: from €500 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
-<br>
-**Example Zines:**
+
+📒**Example Zines:**
 - IDK Ask the AI
 - Abela Artfaire
 - The Cocreated Story of Awaking Life
@@ -49,8 +51,8 @@ I'll take your team on a facilitated journey, resulting in a crystal clear, conc
 - Perfect for organisations needing to organise their tools, processes and stories
 - Cost: from €1000 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
-<br>
-**Example Hanbooks:**
+
+📕 **Example Hanbooks:**
 - Traditional Dream Factory
 - Enspiral Europe
 - Enspiral
@@ -62,8 +64,8 @@ The BIG offer. We'll gather for a mastermind, resulting in a beautiful book.
 - Perfect for positive-impact organisations ready to tell the story of their work, while aligning the team and creating life-long friendships
 - Cost: from €5000 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
-<br>
-**Example Book:**
+
+📖 **Example Book:**
 -  "[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} "
 
 ![Cover of the book](/assets/regen-village-cover.jpg)
