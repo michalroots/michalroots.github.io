@@ -11,7 +11,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 ## Now:
 
-- I'm [**making books for positive impact organisations**](/books). Should we make one for yours? (new offer, v0.8)
+- I'm [**creating books for positive impact organisations**](/books). Should we make one for yours? (new offer, v0.8)
 - Compiling **documentation for Enspiral**: emergence of European Node + handbook updates (follow along in this [twitter thread](https://twitter.com/michalkorzonek/status/1599750154596540417?s=20&t=zx8aRJnEQUzB3kOzCta5iA){:target="_blank"} )
 
 ## Freshly Published:
