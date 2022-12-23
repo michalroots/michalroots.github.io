@@ -1,6 +1,6 @@
 ---
 layout: page
-title: I Create Books For Positive Impact Organisations
+title: Let's Make A Book For Your Organisations
 description: 
 summary: 
 ---
