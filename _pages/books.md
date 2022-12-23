@@ -82,12 +82,15 @@ I've documented the creation process live in this [twitter thread](https://twitt
 
 <p></p>
 
+---
+
 ## Let's make you a book!
 
 **[Reach out via this form](https://airtable.com/shrGEYDIRVw882ipn)** 
 
 There are 4 quick questions and I'll get back to you with a scheduling link for a call. Let's go 🚀
 
+---
 <p></p>
 
 ## Testimonials
