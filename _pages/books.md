@@ -30,7 +30,7 @@ Shall we make yours?
 ## Choose your adventure 🧭
 
 ### 📒 Let's make a Zine 
-I'll take your team on a facilitated journey resulting in a short magazine.
+I'll take your team on a facilitated journey resulting in a **short magazine**.
 <br>
 - Time commitment: from 0,5 to 2 days IRL
 - Perfect fit for one-off workshops or additional building block for team retreats
@@ -44,8 +44,10 @@ Example Zines:
 - *Insight* (European Youth Parliament)
 - *Stroboheroes* (European Youth Parliament)
 
+<p></p>
+
 ### 📕 Let's make a Handbook
-I'll take your team on a facilitated journey, resulting in a crystal clear, concise, and delightful handbook for your organisation. 
+I'll take your team on a facilitated journey, resulting in a **crystal clear, concise, and delightful handbook** for your organisation. 
 <br>
 - Time commitment: 2-5 days IRL
 - Perfect for organisations needing to organise their tools, processes and stories
@@ -57,8 +59,10 @@ Example Hanbooks:
 - Enspiral Europe
 - Enspiral
 
+<p></p>
+
 ### 📖 Let's make a "Proper" Book
-The BIG offer. We'll gather for a mastermind, resulting in a beautiful book.
+The BIG offer. We'll gather for a mastermind, resulting in a **beautiful book**.
 <br>
 - Time commitment: from 10 days IRL
 - Perfect for positive-impact organisations ready to tell the story of their work, while aligning the team and creating life-long friendships
