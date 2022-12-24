@@ -33,14 +33,15 @@ Shall we make yours?
 I'll take your team on a facilitated journey resulting in a **short magazine**.
 <br>
 - Time commitment: from 0,5 to 2 days IRL
-- Perfect fit for one-off workshops or additional building block for team retreats
+- Perfect fit for a stand-alone workshop, or additional building block for team retreats and residencies
 - Cost: from €500 (I provide facilitation and materials, you take care of the space and logistics)
 - Optional post-production (remote)
 
-Example Zines:
+A couple of Zines from the past:
 - *IDK Ask the AI* (Traditional Dream Factory)
 - *Abela Artfaire* (Traditional Dream Factory)
 - *The Cocreated Story of Awaking Life* (Waking Life Festival 2022)
+- *Unfold* (European Youth Parliament)
 - *Insight* (European Youth Parliament)
 - *Stroboheroes* (European Youth Parliament)
 
@@ -51,34 +52,34 @@ I'll take your team on a facilitated journey, resulting in a **crystal clear, co
 <br>
 - Time commitment: 2-5 days IRL
 - Perfect for organisations needing to organise their tools, processes and stories
-- Cost: from €1000 (I provide facilitation and materials, you take care of the space and logistics)
+- Cost: from €1000 when I provide facilitation and materials, and you take care of the space and logistics. If you'd prefer for me and my team to organise everything for you, then the cost will be higher. Let's chat.)
 - Optional post-production (remote)
 
-Example Hanbooks:
-- Traditional Dream Factory
-- Enspiral Europe
-- Enspiral
+Handbooks:
+- [Traditional Dream Factory](https://handbook.traditionaldreamfactory.com/)
+- Enspiral Europe (currently on it)
+- Enspiral (scheduled for January 2023)
 
 <p></p>
 
 ### 📖 Let's make a "Proper" Book
-The BIG offer. We'll gather for a mastermind, resulting in a **beautiful book**.
+The BIG offer. We'll gather for a **mastermind**, resulting in a **beautiful book**, serving as an **epic artefact** for your **super-aligned team**. And hey, since you have a book now, you might use it to **show your work** in spaces where you seek to **create impact**.
 <br>
 - Time commitment: from 10 days IRL
 - Perfect for positive-impact organisations ready to tell the story of their work, while aligning the team and creating life-long friendships
-- Cost: from €5000 (I provide facilitation and materials, you take care of the space and logistics)
+- Cost: from €5000 when I provide facilitation and materials, and you take care of the space and logistics. If you'd prefer for me and my team to organise everything for you, then the cost will be higher. Let's chat and align.
 - Optional post-production (remote)
 
-**Example Book:**
+Books:
 -  "[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} "
 
 ![Cover of the book](/assets/regen-village-cover.jpg)
 
-The 174 pages illustrated book, weaves together lineages of wisdom and practical experience from a worldwide tribe of regenerative village builders - serving as an emergent base of knowledge, as well as actionable blueprint, encouraging the transition towards a regenerative way of living.
-  
-**The book was co-created by a multidisciplinary team of 28 regenerative pioneers during an 11-day mastermind**, which I had the pleasure of facilitating.
+**This 174 pages illustrated book was co-created by a multidisciplinary team of 28 regenerative pioneers during an 11-day mastermind**, which I had the pleasure of facilitating.
 
-I've documented the creation process live in this [twitter thread](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"}.
+It weaves together lineages of wisdom and practical experience from a worldwide tribe of regenerative village builders - serving as an emergent base of knowledge, as well as actionable blueprint, encouraging the **transition towards a regenerative way of living**.
+  
+**I've documented the creation process** live in this [twitter thread](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"}.
 
 <p></p>
 
@@ -88,37 +89,37 @@ I've documented the creation process live in this [twitter thread](https://twitt
 
 ⚡️ **[Reach out via this form](https://airtable.com/shrGEYDIRVw882ipn)** ⚡️
 
-There are 4 quick questions and I'll get back to you with a scheduling link for a call. Let's go 🚀
+Answer 4 quick questions and I'll get back to you with a **scheduling link for a call.** Let's go 🚀
 
 ---
 <p></p>
 
 ## Testimonials
 
->"What you accomplices with the mastermind is INCREDIBLE. We always tell people how gifted you are at facilitating and keeping the energy flowing. We don’t know anyone who could’ve done what you did."
+>"**What you accomplished with the mastermind is INCREDIBLE**. We always tell people how gifted you are at facilitating and **keeping the energy flowing**. We don’t know anyone who could’ve done what you did."
 >– Laura van Wijngaarden, Liminal Village
 
 <br>
 
-> "You are my first choice when it comes to cool facilitation that can be equally fun and professional."
+> "**You are my first choice** when it comes to cool facilitation that can be **equally fun and professional.**"
 > – Ani Anca, Traditional Dream Factory
 
 <br>
 
-> "Michał is world champion in documenting community formation processes."
+> "**Michał is world champion in documenting** community formation processes."
 > – Richard Bartlett, Enspiral & Microsolidarity
 
 ## About Michał
 
 ![Funky profile pic](/assets/michal-cabin-vibes-profile.jpeg)
 
-Michał is an **experience designer, multidisciplinary artist and sailor**, with over 15 years of experience in **creating spaces for playful co-creation**.
+Michał is an **experience designer, multidisciplinary artist, and sailor**, with over 15 years of **creating spaces, experiences, and multimedia content**.
 
-He's passionate about **serious fun** – creating together through play, and **amplifying work of positive-impact teams** around the world.
+He is passionate about **serious fun** - **amplifying the work of positive-impact projects, by creating spaces for playful co-creation**. Who said that **transitioning towards a regenerative way of living** on a planetary scale can't be fun?
 
-He actively contributes to [Enspiral](https://enspiral.com){:target="_blank"} and [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}, and works toward the Dream of creating experiences at sea aboard a fleet of tall ships and sailboats connecting regenerative villages around the world ⛵️.
+He actively contributes to [**Enspiral**](https://enspiral.com){:target="_blank"} and [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"}, weaves a [**microsolidarity network in the Azores**](https://pico.microsolidarity.cc), makes cards, and works toward the Dream of **creating experiences at sea aboard a fleet of tall ships and sailboats** connecting regenerative villages around the world ⛵️.
 
-[CV on LinkedIn](https://www.linkedin.com/in/michalkorzonek/){:target="_blank"}
+I need to update my [CV on LinkedIn](https://www.linkedin.com/in/michalkorzonek/){:target="_blank"} and at some point I will. Pinky promise 🐸
 
 ![another funky pic, just for the vibes](/assets/michal-mast.jpg)
 <p></p>
