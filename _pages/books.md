@@ -56,7 +56,7 @@ I'll take your team on a facilitated journey, resulting in a **crystal clear, co
 - Optional post-production (remote)
 
 Handbooks:
-- [Traditional Dream Factory](https://handbook.traditionaldreamfactory.com/)
+- [Traditional Dream Factory](https://handbook.traditionaldreamfactory.com/){:target="_blank"}
 - Enspiral Europe (currently on it)
 - Enspiral (scheduled for January 2023)
 
@@ -71,7 +71,7 @@ The BIG offer. We'll gather for a **mastermind**, resulting in a **beautiful boo
 - Optional post-production (remote)
 
 Books:
--  "[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} "
+-  [How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} 
 
 ![Cover of the book](/assets/regen-village-cover.jpg)
 
