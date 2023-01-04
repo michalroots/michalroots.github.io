@@ -12,12 +12,13 @@ contact: michalroots@proton.me<br>
 currently based in Pico island, Azores
 
 ## Current Goal
-- **Sailing in winter 2022** - Cannaries, Madeira, maybe Atlantic crossing?
-- Prototyping *Melting Man* - a regenerative burn at sea. **Netherlands to Ikaria** - August / September 2023.
+- **Getting ready for studying in [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"} **
+- Looking to crew in Spring / Summer 2023.
+- Prototyping *Melting Man* - a regenerative burn at sea.
 
 ## Long Term Goal
 
-**My long term goal is to sail between regenerative projects.** The journey starts with connecting my forest home in Pico (Azores) and *Traditional Dream Factory* in Mainland Portugal. What's next?
+**My long term goal is to sail between regenerative projects and host experiences at sea.** The journey starts with connecting my forest home in Pico (Azores) and *Traditional Dream Factory* in Mainland Portugal. What's next?
 
 **I am looking to expand my offshore sailing experience**, particularly in passage planning, navigation, difficult weather conditions and yacht maintenance.
 
