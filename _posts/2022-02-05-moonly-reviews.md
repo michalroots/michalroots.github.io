@@ -73,3 +73,6 @@ Here's the full list:
 - 🌓 [November 2022 - Slowly slower slowing slow](https://michalkorzonek.substack.com/p/moonly-review-slowly-slower-slowing){:target="_blank"}
 - 🌖 [December 2022 - Inner Winter](https://michalkorzonek.substack.com/p/moonly-review-inner-winter){:target="_blank"}
 - 🌑 [December 2022 - Closing Loops, Opening Portals](https://michalkorzonek.substack.com/p/moonly-review-closing-loops-opening){:target="_blank"}
+
+### 2023
+- 🌖 [January 2023 - The Year of Play](https://michalkorzonek.substack.com/p/moonly-review-the-year-of-play){:target="blank"}
