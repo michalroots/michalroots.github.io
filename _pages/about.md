@@ -4,22 +4,21 @@ title: About
 excerpt: About Michał
 ---
 
-<b>Pilgrim of Light, Shapeshifting Raccoon and Forest Guardian in Training.</b>
+**Facilitator** and **Catalyst**. Multidisciplinary **Artist**. Playful **Wizard**.
 
-🌳
+🔆
 
-**Microsolidarity** practitioner.
+I create **experiences** and **games**.
 
-Multidisciplinary **artist**.
-
-**Aquarius** with Gemini Ascendant.
-
-I like maps, writing **letters** and building structures from wood. 
+- **In-Real-Life**-first
+- **Create** (and co-create) rather than consume
+- **Play**, the ultimate flowstate
 
 **Sailing** is when I feel the most alive.
 
-This website is my digital **playground**.
+North star: **Let's co-create a beautiful world where all Beings can thrive** ✨
 
+This website is my digital **playground**.
 ![Michal Waves](/assets/michal-waves.jpg){:class="img-responsive"}<br>
 *Photo by my father.*
 
