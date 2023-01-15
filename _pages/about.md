@@ -15,6 +15,7 @@ Current Homes: **Pico Island** (Azores) + **Traditional Dream Factory** (regener
 North Star: **Let's co-create a beautiful world where all Beings can thrive** ✨
 
 This website is my digital **playground**.
+
 ![Michal Waves](/assets/michal-waves.jpg){:class="img-responsive"}<br>
 *Photo by my father.*
 
