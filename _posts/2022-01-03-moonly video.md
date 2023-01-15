@@ -35,6 +35,3 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 21. Editing Moon, 25 October - 22 November 2022 - [youtube link](https://youtu.be/AjzlHvPmWxk){:target="blank"}
 22. **Moon of Cards, 23 November - 22 December 2022** - [youtube link](https://youtu.be/MNEh7oI1Q8E){:target="blank"}
 <p></p>
-
-<hr>
-Note to self: find an alternative to youtube for video uploads, as I want to be [Google Free before 2023](/google-free){:target="_blank"}*
