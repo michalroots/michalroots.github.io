@@ -5,8 +5,6 @@ description: Are you ready for some Serious Fun?
 summary: Are you ready for some Serious Fun?
 ---
 
-![Sailing Headshot](/assets/sailing-michal.jpg)
-
 I create games and infinite games for personal regeneration and collective co-creation.
 
 Are you ready for some **Serious Fun**?
