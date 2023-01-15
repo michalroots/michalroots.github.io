@@ -35,6 +35,8 @@ Your financial contribution (no matter how big or small) enables creation from a
 michalroots at proton dot me<br>
 twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalkorzonek</a>
 
+<p></p>
+
 See You Around,<br>
 Michał (*Me-How*)
 
