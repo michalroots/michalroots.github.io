@@ -5,7 +5,7 @@ description: What I am focusing on at the moment (aka - now page).
 summary: What I am focusing on at the moment (aka - now page).
 ---
 
-I playfully (and skilfully) juggle ideas and projects.
+I playfully (and skilfully) juggle multiple ideas and projects.
 
 The most effective way to see what I'm up to is to **check out my latest [Moonly Review](https://michalkorzonek.substack.com){:target="_blank"}**, published every 🌑 and 🌕.
 
