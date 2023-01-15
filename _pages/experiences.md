@@ -18,9 +18,13 @@ In my work I combine over a **decade of experience** with **facilitation in dive
 
 [**Alternative Wedding Ceremonies**](https://alternativewedding.carrd.co/){:target="_blank"} - celebrating the love union through a profound ceremony.
 
-[**Pico Cabin Residency**](https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing){:target="_blank"}
+[**Pico Cabin Residency**](https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing){:target="_blank"} - personal regeneration retreats in Pico Island, Azores.
+
+<p></p>
 
 ---
+
+<p></p>
 
 >"**What you accomplished with the mastermind is INCREDIBLE**. We always tell people how gifted you are at facilitating and **keeping the energy flowing**. We don’t know anyone who could’ve done what you did."
 >– Laura van Wijngaarden, Liminal Village
@@ -29,7 +33,3 @@ In my work I combine over a **decade of experience** with **facilitation in dive
 
 > "**You are my first choice** when it comes to cool facilitation that can be **equally fun and professional.**"
 > – Ani Anca, Traditional Dream Factory
-
-
-
-****
