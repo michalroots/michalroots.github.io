@@ -21,7 +21,9 @@ This website is my digital **playground**.
 
 ## Moonly Review 
 
-Every 🌑 and 🌕, I write a **heartfelt electronic letter** with what's alive in me in this cycle. If you'd like to receive it, please <a href="https://michalkorzonek.substack.com" target="_blank">sign up here</a>. Every 🌑 I compile a short film compiling images from every day of the cycle. You can see them [here](/moonly-video){:target="_blank"}. 
+Every 🌑 and 🌕, I write a **heartfelt electronic letter** with what's alive in me in this cycle. If you'd like to receive it, please <a href="https://michalkorzonek.substack.com" target="_blank">sign up here</a>. 
+
+Every 🌑 I compile a short film compiling images from every day of the cycle. You can see them [here](/moonly-video){:target="_blank"}. 
 
 ## Gift Economy
 Your financial contribution (no matter how big or small) enables creation from a place of Abundance. 
