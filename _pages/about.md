@@ -33,7 +33,8 @@ Your financial contribution (no matter how big or small) enables creation from a
 ## Contact
 
 michalroots at proton dot me<br>
-twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalkorzonek</a><br>
+twitter at <a href="https://twitter.com/michalkorzonek" target="_blank"> michalkorzonek</a>
+
 See You Around,<br>
 Michał (*Me-How*)
 
