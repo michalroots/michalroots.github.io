@@ -14,7 +14,7 @@ In my work I combine over a **decade of experience** with **facilitation in dive
 
 ✨
 
-[**Books for Positive Impact Organisations**](/books){:target="_blank"} - a creative playground for your team resulting in an artifact sharing your project with the world (and friendships).
+[**Books for Positive Impact Organisations**](/books){:target="_blank"} - a creative playground for your team resulting in a humming team and an artifact sharing your project with the world.
 
 [**Alternative Wedding Ceremonies**](https://alternativewedding.carrd.co/){:target="_blank"} - celebrating the love union through a profound ceremony.
 
