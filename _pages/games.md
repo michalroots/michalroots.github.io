@@ -13,6 +13,7 @@ Are you ready for some **Serious Fun**?
 
 ## Solo
 
+- [**The Silence Game**](https://payhip.com/b/IUkGi){:target="_blank"} - Switch off the noise in your environment to experience silence, stillness, and a deep state of presence..
 - [**The Departure Game**](https://payhip.com/b/PWpK8){:target="_blank"} - Enjoy the last few days before traveling, instead of stressing about too many things to do.
 - [**Yearly Review**](https://payhip.com/b/aW9jx){:target="_blank"} - Reconnect with moments that shaped your year. Process your journey. Embrace new adventures.
 
@@ -31,7 +32,6 @@ I am creating numerous games and always looking for **playtesting opportunities 
 - **Akinado Nada Nissa** (solo and multiplayer) - magickal life processing
 - **The Village Game** (8 people+) - practicing community-living skills through storytelling
 - **The Storytelling Game** (multiplayer) - telling stories & harmonising
-- **Silence Game** (solo) - design your silent retreat
 - **Infinity Squares** (solo and multiplayer) - visual life processing and a moment of grounding
 
 & more
