@@ -76,3 +76,4 @@ Here's the full list:
 
 ### 2023
 - 🌖 [January 2023 - The Year of Play](https://michalkorzonek.substack.com/p/moonly-review-the-year-of-play){:target="blank"}
+- 🌒 [January 2023 - On the Move](https://michalkorzonek.substack.com/p/moonly-review-on-the-move){:target="blank"}
