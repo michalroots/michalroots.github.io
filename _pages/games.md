@@ -33,5 +33,6 @@ I am creating numerous games and always looking for **playtesting opportunities 
 - **The Village Game** (8 people+) - practicing community-living skills through storytelling
 - **The Storytelling Game** (multiplayer) - telling stories & harmonising
 - **Infinity Squares** (solo and multiplayer) - visual life processing and a moment of grounding
+- **The Handbook Game** (for orgs) - communicate mission and processes of your organisation in a crystal-clear and concise way
 
 & more
