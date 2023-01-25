@@ -14,6 +14,8 @@ At the moment I publish my Moonly Reviews via Substack. If you'd enjoy reading a
 
 Here's the full list:
 
+*(Scroll to the end for the most recent review)*
+
 ### 2020
 - 🌑  [December 2020](https://michalkorzonek.substack.com/p/moonly-review-december-2020){:target="_blank"}
 - 🌕  [December 2020](https://michalkorzonek.substack.com/p/moonly-review-december-2020-b9f){:target="_blank"}
