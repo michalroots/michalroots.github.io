@@ -11,7 +11,7 @@ summary: Sailing Plan and CV
 contact: michalroots@proton.me<br>
 currently based in Pico island, Azores
 
-PIRATE
+updatw
 
 ## Current Goal
 - **Getting ready for studying in [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"} **
