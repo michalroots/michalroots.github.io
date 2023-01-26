@@ -8,8 +8,8 @@ description: Facilitation wizard at your disposal.
 
 ## My Offer:
 - I'm here to help you design a totally magickal event
--  In-Real-Life is my Ikigai superpower, but I created some powerful online experiences as well.
-- €100 / session (~1.5h, prep time included in the price). Token payments possible.
+-  In-Real-Life is my Ikigai superpower, online if fun too, but slightly out of the centre of the venn diagram
+- €100 / session (~1.5h, prep time included in the price).
 
 
 💌 michalroots@protonmail.com <br>
@@ -32,7 +32,7 @@ In-Real-Life
 - **Year of Practice** - a year-long online habit-building course in cohorts. One habit per quarter. The course was designed to be a dependable, long-term rhythm for relational growth, and grow in iterations based on the individual experience of the the ups and downs.
 - **Habit Sprint** - two-month facilitated habit-building program, where each participant chooses one habit to focus on
 
-That's just the tip of the iceberg. I've been creating experiences of different shapes and sizes, online and offline, for years. Here's [an incomplete list](/tag/experiences).
+That's just the tip of the iceberg. I've been creating experiences of different shapes and sizes, online and offline, for years.
 
 ## Words That Touched Me
 

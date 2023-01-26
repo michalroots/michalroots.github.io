@@ -1,21 +1,33 @@
 ---
 layout: post
-title: Publish from Obsidian to Github
-description: Creating a Jekyll website in Obsidian for frictionless publishing on Github
-summary: Creating a Jekyll website in Obsidian for frictionless publishing on Github
+title: Publish from Obsidian to Gitbook
+description: Create a gitbook, edit in obsidian.
+summary: Create a gitbook, edit in obsidian.
 tags: [documentation]
 ---
 
 Objective: 
 
-**Create and edit a Jekyll website in Obsidian. Publish to Github without friction.**
+**Create and edit a Gitbook in Obsidian. Publish without friction.**
 
-(Disclaimer: I don't know how to code)
+Let's get right to it.
 
-Note: This process also allows to publish from [Obsidian to Gitbook](/obsidian-to-gitbook), via [Github Sync](https://docs.gitbook.com/integrations/git-sync/enabling-github-sync).
+Create a [github](https://github.com/) account if you don't have one yet.
 
----
 
+1. Create a new public repository on github
+2. Install Gitbook app in your github account, then give it access to your repository Applications > Gitbook> repository access > REPOSITORY
+3. Create a new [gitbook](https://gitbook.com) and publish.
+4. Edit > synchronise with Git – choose the REPOSITORY, main branch, select writing content on gitbook (improtant) gitbook will copy content to github now
+5. delete synchronisation with git, then redoit, this time selecting write on gitbook –> 
+6. github sync desktop, clone repository choose REPOSITORY, then local path
+
+
+
+
+
+
+Note: This process also allows to publish from Obsidian to Github, via [Github Sync](https://docs.gitbook.com/integrations/git-sync/enabling-github-sync). Create a Gitbook, sync with Github, then use Github Desktop to sync with Obsidian 🤓.
 
 ## Installing Jekyll on MacOS Mojave
 It was a pain in the ass, but it worked eventually.

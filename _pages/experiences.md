@@ -20,6 +20,11 @@ In my work I combine over a **decade of experience** with **facilitation in dive
 
 [**Pico Cabin Residency**](https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing){:target="_blank"} - personal regeneration retreats in Pico Island, Azores.
 
+[**Experience Design Consulting**](/experience-design-consulting){:target="_blank"} - facilitation wizard at your disposal.
+
+**Wizard at Your Event** – reach out at michalroots@proton.me or [twitter](https://twitter.com/michalkorzonek){:target="_blank"} and let's talk how we can play.
+
+🧙‍♂️
 <p></p>
 
 ---

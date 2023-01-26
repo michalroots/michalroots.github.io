@@ -10,9 +10,13 @@ I create **[experiences](/experiences){:target="_blank"}** and **[games](/games)
 
 Background: **facilitation** + **multidisciplinary art** + **sailing**
 
+Keywords: **In Real Life** + **CoCreation** + **Play**
+
 Current Homes: **Pico Island** (Azores) + **Traditional Dream Factory** (regenerative village in Portugal)
 
 North Star: **Let's co-create a beautiful world where all Beings can thrive** ✨
+
+Profile: **Aquarius** with Gemini Asc. / **Generator**
 
 This website is my digital **playground**.
 
@@ -26,7 +30,7 @@ Every 🌑 and 🌕, I write a **heartfelt electronic letter** with what's alive
 Every 🌑 I compile a **short film** compiling images from every day of the cycle. You can see them all [here](/moonly-video){:target="_blank"}. 
 
 ## Gift Economy
-Your financial contribution (no matter how big or small) enables creation from a place of Abundance. 
+Your financial contribution (no matter how big or small) enables creation from a place of **Abundance**. 
 
 - [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}
 - [Tall Ship School Fund](https://www.buymeacoffee.com/michalkorzonek/w/10563){:target="_blank"}

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Cards
-excerpt: Cocreation Superorganism
+excerpt: Minimal Programmable Playful Meta Containers
 ---
 
-testing!
+It's time to play.
 

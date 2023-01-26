@@ -123,8 +123,3 @@ I need to update my [CV on LinkedIn](https://www.linkedin.com/in/michalkorzonek/
 
 ![another funky pic, just for the vibes](/assets/michal-mast.jpg)
 <p></p>
-
----
-## Help Me Find The Words.
-
-Describing what I do is not easy. Help me find the right vocabulary to bring my facilitation wizardry to super-aligned projects. Perhaps you have a testimonial for me? Your help on this offer would be the most beautiful Gift ✨
