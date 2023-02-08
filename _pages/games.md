@@ -13,9 +13,11 @@ Are you ready for some **Serious Fun**?
 
 ## Solo
 
+- [**Prioritise Priorities**](https://payhip.com/b/0E2Kc){:target="_blank"} (Open for Foreplay) - **Mastery requires practice**. This game is a process to design a **flexible routine** that will help you **prioritise your priorities everyday,** and **make artful changes** whenever you need.
 - [**The Silence Game**](https://payhip.com/b/IUkGi){:target="_blank"} - Switch off the noise in your environment to experience silence, stillness, and a deep state of presence..
 - [**The Departure Game**](https://payhip.com/b/PWpK8){:target="_blank"} - Enjoy the last few days before traveling, instead of stressing about too many things to do.
 - [**Yearly Review**](https://payhip.com/b/aW9jx){:target="_blank"} - Reconnect with moments that shaped your year. Process your journey. Embrace new adventures.
+
 
 ## Multiplayer
 
