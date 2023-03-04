@@ -35,4 +35,7 @@ Here's the list of videos in chronological order. My favourite ones in bold.
 21. Editing Moon, 25 October - 22 November 2022 - [youtube link](https://youtu.be/AjzlHvPmWxk){:target="blank"}
 22. **Moon of Cards, 23 November - 22 December 2022** - [youtube link](https://youtu.be/MNEh7oI1Q8E){:target="blank"}
 23. Departure Moon, 23 December - 20 January 2023 - [youtube link](https://youtu.be/i_Vna-PdcjA){:target="blank"}
+24. Everywhere Moon, 21 January - 19 February 2023 - [youtube link](https://youtu.be/g8uHtMpeR2M){:target="blank"}
 <p></p>
+
+🐦 [Twitter thread](https://twitter.com/michalkorzonek/status/1632126889757114368?s=20){:target="blank"}.
