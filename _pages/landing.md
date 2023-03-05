@@ -10,7 +10,7 @@ This site is our playground. Welcome!
 Your host,<br>
 Michał
 
-![Funky profile pic](/assets/michal-cabin-vibes-profile.jpeg){: .float-right}
+<img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michal in front of the Cabin" width="50%" class="float-right">
 
 1. [Play cards](/cards) with me.
 2. Let's [make a podcast](/podcast).
