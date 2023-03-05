@@ -7,10 +7,10 @@ summary: Are you ready for some Serious Fun?
 
 This site is our playground. Welcome!
 
-Your host,
+Your host,<br>
 Michał
 
-![Funky profile pic](/assets/michal-cabin-vibes-profile.jpeg)
+![Funky profile pic](/assets/michal-cabin-vibes-profile.jpeg){: .float-right}
 
 1. [Play cards](/cards) with me.
 2. Let's [make a podcast](/podcast).
