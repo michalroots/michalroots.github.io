@@ -5,24 +5,15 @@ description: Are you ready for some Serious Fun?
 summary: Are you ready for some Serious Fun?
 ---
 
+I'm Michał, and I'll be your host.
+<img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michał in front of the Cabin" style="width:50%">
+[Enter](/about).
 
-<div style="display:inline-block;">
-    <img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michał in front of the Cabin" style="width:50%; float:right;">
-    <div style="display:inline-block; vertical-align:top;">
-        <p>Welcome!</p>
-        <p>I'm Michał, and I'll be your host.</p>
-    </div>
-</div>
 
 
 ---
 
-Welcome to the playground!
 
-Your host,<br>
-Michał
-
-<img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michal in front of the Cabin" style="width:50%; float:right;">
 
 1. [Play cards](/cards) with me.
 2. Let's [make a podcast](/podcast).
