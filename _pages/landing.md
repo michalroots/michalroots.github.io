@@ -9,7 +9,6 @@ I'm Michał, and I'll be your host.
 
 ![Michał in front of the Cabin](/assets/michal-cabin-vibes-profile.jpeg){: width="50%"}
 
-<img src="" alt="" style="width:50%">
 [Enter](/about).
 
 
