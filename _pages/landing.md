@@ -6,7 +6,9 @@ summary: Are you ready for some Serious Fun?
 ---
 
 I'm Michał, and I'll be your host.
-<img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michał in front of the Cabin" style="width:50%">
+![Michał in front of the Cabin](/assets/michal-cabin-vibes-profile.jpeg){: width="50%"}
+
+<img src="" alt="" style="width:50%">
 [Enter](/about).
 
 
