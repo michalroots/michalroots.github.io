@@ -1,11 +1,23 @@
 ---
 layout: page
-title: This site is our playground
+title: Welcome to the Playground!
 description: Are you ready for some Serious Fun?
 summary: Are you ready for some Serious Fun?
 ---
 
-Welcome!
+
+<div style="display:inline-block;">
+    <img src="/path/to/image.jpg" alt="Image Description" style="width:50%; float:right;">
+    <div style="display:inline-block; vertical-align:top;">
+        <p>Welcome!</p>
+        <p>I'm Michał, and I'll be your host.</p>
+    </div>
+</div>
+
+
+---
+
+Welcome to the playground!
 
 Your host,<br>
 Michał
