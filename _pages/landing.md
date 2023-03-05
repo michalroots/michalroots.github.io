@@ -7,7 +7,7 @@ summary: Are you ready for some Serious Fun?
 
 
 <div style="display:inline-block;">
-    <img src="/path/to/image.jpg" alt="Image Description" style="width:50%; float:right;">
+    <img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michał in front of the Cabin" style="width:50%; float:right;">
     <div style="display:inline-block; vertical-align:top;">
         <p>Welcome!</p>
         <p>I'm Michał, and I'll be your host.</p>
