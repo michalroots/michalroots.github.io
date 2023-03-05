@@ -10,7 +10,7 @@ Welcome!
 Your host,<br>
 Michał
 
-<img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michal in front of the Cabin" width="30%" class="float-right">
+<img src="/assets/michal-cabin-vibes-profile.jpeg" alt="Michal in front of the Cabin" style="width:50%; float:right;">
 
 1. [Play cards](/cards) with me.
 2. Let's [make a podcast](/podcast).
