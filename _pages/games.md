@@ -21,6 +21,7 @@ Are you ready for some **Serious Fun**?
 
 ## Multiplayer
 
+- [**Gratitude Token**](/gratitude-tokens){:target="_blank"} - a collaborative game designed to catalyse expressing gratitude within a community.
 - [**The Community Council**](https://payhip.com/b/i1F9N){:target="_blank"} - a collaborative meta-game, designed to catalyze projects and facilitate community weaving.
 - [**Play, Laugh, Love**](https://payhip.com/b/ES5V3){:target="_blank"} - 60 Activities to Bring More Fun to Your Relationship
 
