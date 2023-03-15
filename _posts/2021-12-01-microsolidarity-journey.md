@@ -6,6 +6,8 @@ image:
 tags: documentation articles
 ---
 
+*Published: 2021-12-01*
+
 Let's begin with a bit of context:
 
 I've been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it's the right time to do it. There is however a price to pay for that freedom: **the pain of saying goodbye to people dear to your heart, knowing that you might never see them again**. Life is unpredictable.
@@ -72,8 +74,6 @@ Check out the resources at the end of this article if you need some extra help.
 
 In September 2021 I joined [Enspiral](https://www.enspiral.com/){:target="_blank"}, a network of people helping each other do more meaningful work. The network design includes *pods* (equivalent to *crews* in microslidarity lingo) to support building relationships within the network. While I haven't joined any pods, mostly due to all the other crews I had going on at the time, I got involved in *Enspiral Europe Connection Working Group* hosting bi-weekly Connection Calls for Enspiralites based in Europe.
 
-- [ ] Create documentation of the formats tried in EECC to publish in the Enspiral Handbook.
-
 ## Growing a congregation in Pico Island
 
 What happened in Pico surpassed my wildest dreams.
@@ -116,11 +116,6 @@ Also, a wholehearted hug goes to everyone with whom I got to practice microsolid
 - [Microsolidarity: Crewing Methods](https://www.microsolidarity.cc/crewing){:target="_blank"}
 - [Enspiral Handbook: Pods](https://handbook.enspiral.com/guides/pods){:target="_blank"}
 - [Metagame Mastermind Format (youtube video)](https://www.youtube.com/watch?v=aDWuHsyznf4){:target="_blank"}
-- [ ] Sharing Circle for Housemates
+- [Conversation with Rich and Nati about crews](https://www.youtube.com/watch?v=ARx6cKOQOhg)
 - [Pico Sharing Circle Format](https://pico.microsolidarity.cc/projects/sharing-circle){:target="_blank"}
 - [How To Start a Sharing Circle With Your Loved Ones (and Why You Should)](https://betterhumans.pub/how-to-start-a-sharing-circle-with-your-loved-ones-and-why-you-should-8fa67d5b93aa){:target="_blank"}
-- [ ] Our Life Stories – Session Format
-- [ ] Session Notes Template
-- [ ] Crew Log Template
-- [ ] Crew Invitation Template
-- [ ] Initial Meeting Template

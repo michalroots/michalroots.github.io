@@ -81,5 +81,6 @@ Here's the full list:
 - 🌒 [January 2023 - On the Move](https://michalkorzonek.substack.com/p/moonly-review-on-the-move){:target="blank"}
 - 🌕 [February 2023 - Family Time](https://michalkorzonek.substack.com/p/moonly-review-family-time-b49){:target="blank"}
 - 🌑 [February 2023 - Preparation](https://michalkorzonek.substack.com/p/moonly-review-preparation){:target="blank"}
+- 🌑 [February 2023 - Preparation](https://michalkorzonek.substack.com/p/moonly-review-preparation){:target="blank"}
 - 🌕 [March 2023 - Unbreakable Vow](https://michalkorzonek.substack.com/p/moonly-review-unbreakable-vow){:target="blank"}
 
