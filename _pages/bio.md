@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Michał's Bio & Proof of ~~Work~~ Play
+title: Michał's Bio & Proof of Play
 description: 
 summary: skills and professional experience
 ---
 
-**Michał Korzonek is a facilitator, artist, and sailor, passionate about play as the ultimate state of flow unlocking limitless creativity**. He combines two decades of practice in performing arts, multimedia creation, and facilitation, with positive vibes and grounding state of presence. He lives in between a tiny house in Pico Island, Traditional Dream Factory, and, soon, a fleet of sailboats connecting positive impact projects around the world.
+**Michał Korzonek is a facilitator, artist, and sailor, passionate about Play as the ultimate state of flow unlocking limitless creativity**. He combines two decades of practice in performing arts, multimedia creation, and facilitation, with positive vibes and grounding state of presence. He lives in between a tiny house in Pico Island, Traditional Dream Factory, and, soon, a fleet of sailboats connecting positive impact projects around the world.
 
 Personal North Star: **Let's co-create a world where all Beings can thrive**.
 
@@ -24,7 +24,6 @@ Personal North Star: **Let's co-create a world where all Beings can thrive**.
 - [**Green with Orange**](https://www.youtube.com/watch?v=Er3OoPPN2_I){:target="_blank"} - a short documentary film about an artist turning pieces of scrap metal into Scottish landscapes, featured on the Glasgow Film Festival.
 - **Parallel, Oasis, Radio Ion** - a series of immersive experiences, Parallel featured on [Hidden Door Festival](https://hiddendoorarts.org/){:target="_blank"} in Edinburgh.
 - **Inside** - a dystopian theatre play exploring the impact of rapidly advancing technology
-
 
 ## Experiments and experiences:
 
