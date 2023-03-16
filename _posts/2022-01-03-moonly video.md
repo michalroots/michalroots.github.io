@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Second a Day - Digital Journaling
+title: Moonly Video - Digital Journaling
 description: I keep recording at least one second every day and put it together in a video every Moon cycle.
 image: 
 tags: [journal]
@@ -10,7 +10,7 @@ Every day I record at least one second of video. I then compile it into a Moonly
 
 I've started in February 2017 and kept it going until May 2017. I then had a loooong break until reconnecting with this practice in June 2021. I really enjoy seeing how this practice evolves over time.
 
-Here's the list of videos in chronological order. My favourite ones in bold.
+Here's the list of videos in chronological order. My favourite ones in bold. Scroll down for the latest one.
 
 1. One Second A Day: February 2017 - [youtube link](https://www.youtube.com/watch?v=6lV3xcRPhec){:target="_blank"}
 2. One Second A Day: March 2017 - [youtube link](https://www.youtube.com/watch?v=lxKG-vb4wuU){:target="_blank"}
