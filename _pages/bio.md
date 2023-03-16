@@ -11,7 +11,7 @@ Personal North Star: **Let's co-create a world where all Beings can thrive**.
 
 ⛵️
 
-## A couple of projects I'm proud of:
+## Selected projects:
 
 - "[**How to Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"}" - facilitating a mastermind which resulted in a beautiful book.
 - Building [**Enspiral**](https://enspiral.com){:target="_blank"} Europe and documenting the process through handbook and podcasts.
@@ -26,13 +26,13 @@ Personal North Star: **Let's co-create a world where all Beings can thrive**.
 - **Inside** - a dystopian theatre play exploring the impact of rapidly advancing technology
 
 
-## Other fun experiments and experiences:
+## Experiments and experiences:
 
 - 245 consistent days of 1 hour yoga practice
 - Hitchhiking over 20k kilometers
 - Nowhere, Rainbow, Gathering of the Tribes
 
-## Selected Education:
+## Selected education:
 
 - BA (Hons) Degree: Film and Media, Queen Margaret University, Edinburgh
 - Sailing Offshore License + STCW + SRC ⛵️
