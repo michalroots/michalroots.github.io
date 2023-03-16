@@ -9,9 +9,6 @@ summary: skills and professional experience
 
 Personal North Star: **Let's co-create a world where all Beings can thrive**.
 
-![Michal Waves](/assets/michalkorzonek-profile.jpg){:class="img-responsive"}<br>
-*Photo by my father.*
-
 ⛵️
 
 ## A couple of projects I'm proud of:
