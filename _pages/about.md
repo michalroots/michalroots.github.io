@@ -4,6 +4,10 @@ title: About
 excerpt: Michał creates experiences and games that accelerate transition towards a regenerative way of living.
 ---
 
+I create **experiences** and **games** that accelerate the transition towards a **regenerative way of living**, on an individual and planetary scale.
+
+🌳✨⛵️
+
 Choose wisely 🧙‍♂️:
 
 1. What [game](/games) do you want to play?.
