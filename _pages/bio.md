@@ -11,10 +11,10 @@ Personal North Star: Let's co-create a world where all Beings can thrive.
 
 ⛵️
 
-A couple of projects I'm proud of:
+## A couple of projects I'm proud of:
 
-- "**[How to Build A Regenerative Village](https://treehousedao.earth){:target="_blank"} **" - facilitating a mastermind which resulted in a beautiful book.
-- Building **[Enspiral](https://enspiral.com){:target="_blank"} ** Europe and documenting the process through handbook and podcasts.
+- "[**How to Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"}" - facilitating a mastermind which resulted in a beautiful book.
+- Building [**Enspiral**](https://enspiral.com){:target="_blank"} Europe and documenting the process through handbook and podcasts.
 - Stewarding [**Traditional Dream Factory**](https:://traditionaldreamfactory.com){:target="_blank"}  - a regenerative village and the first land-based DAO in Europe
 - **Building a [decentralised neighbourhood community in Pico Island](https://pico.microsolidarity.cc){:target="_blank"}** through microsolidarity and documenting the process
 - Facilitating **Year of Practice** - a year long cohort-based course focused on building rock-solid consistency with the practices that allow you to live a life of impact.
@@ -24,13 +24,13 @@ A couple of projects I'm proud of:
 - **Parallel, Oasis, Radio Ion** - a series of immersive experiences, Parallel featured on [Hidden Door Festival](https://hiddendoorarts.org/){:target="_blank"} in Edinburgh.
 - **Inside** - a dystopian theatre play exploring the impact of rapidly advancing technology
 
-Other fun experiments and experiences:
+## Other fun experiments and experiences:
 
 - 245 consistent days of 1 hour yoga practice
 - Hitchhiking over 20k kilometers
 - Nowhere, Rainbow, Gathering of the Tribes
 
-Selected Education:
+## Selected Education:
 
 - BA (Hons) Degree: Film and Media, Queen Margaret University, Edinburgh
 - Sailing Offshore License + STCW + SRC ⛵️
