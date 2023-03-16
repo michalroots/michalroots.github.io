@@ -10,13 +10,15 @@ I create **experiences** and **games** that accelerate the transition towards a 
 
 Choose wisely:
 
-1. What [game](/games) do you want to play?.
+1. Play a [game](/games).
 2. Let's [make a podcast](/podcast).
 3. (Very) [serious cv, bio, and selected body of ~~work~~ play](bio).
 
 ✨
 
-**You can hire me as a [flowplay facilitator](/experiences)** for your project/org/event. I play with people creating positive impact in the world (even if my business coach says that this is not specific enough 🥺). You can think of me as a **wizard sherpa** committed to climb your Vision Mountain together. I'll bring my  superpowers: creativity, energy, multimedia and play.
+**You can hire me as a [flowplay facilitator](/experiences)** for your project/org/event. I play with people creating positive impact in the world (even if my business coach says that this is not specific enough 🥺). You can think of me as a **wizard sherpa** committed to help you climb your Vision Mountain. I'll bring my  superpowers: creativity, energy, multimedia and play.
+
+First step is easy.
 
 🌕🌑
 
