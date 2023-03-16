@@ -5,10 +5,9 @@ description:
 summary: 
 ---
 
-I really enjoy
+Chatting with amazing people and sharing our conversations is my love language. Wanna make a podcast?
 
 Check out: [Enspiral Podcast](https://www.youtube.com/watch?v=xyLl4HnXdyQ&list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp)
-
 
 Other Episodes:
 
