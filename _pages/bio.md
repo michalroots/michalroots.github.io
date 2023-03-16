@@ -5,11 +5,11 @@ description:
 summary: skills and professional experience
 ---
 
-![Profile Picture](/assets/michalkorzonek-profile.jpg)
-
 **Michał Korzonek is a facilitator, artist, and sailor, passionate about play as the ultimate state of flow unlocking limitless creativity**. He combines two decades of practice in performing arts, multimedia creation, and facilitation, with positive vibes and grounding state of presence. He lives in between a tiny house in Pico Island, Traditional Dream Factory, and, soon, a fleet of sailboats connecting positive impact projects around the world.
 
-Personal North Star: Let's co-create a world where all Beings can thrive.
+Personal North Star: **Let's co-create a world where all Beings can thrive**.
+![Michal Waves](/assets/michal-waves.jpg){:class="img-responsive"}<br>
+*Photo by my father.*
 
 ⛵️
 
