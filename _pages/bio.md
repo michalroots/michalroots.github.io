@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Michał's Bio & Cool Stuff
+title: Michał's Bio & Cool Stuff I Made
 description: 
 summary: skills and professional experience
 ---
@@ -23,9 +23,11 @@ Personal North Star: Let's co-create a world where all Beings can thrive.
 - Facilitating **Year of Practice** - a year long cohort-based course focused on building rock-solid consistency with the practices that allow you to live a life of impact.
 - Creating **[Infinity Squares](https://infinitysquares.xyz/){:target="_blank"}** - a journaling practice that went [semi-viral on Medium](https://betterhumans.pub/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28){:target="_blank"}.
 - 2 years of consistently shipping [**Moonly Reviews**](/moonly-reviews){:target="_blank"} and **[Moonly Videos](/moonly-video){:target="_blank"}**.
+- **Designing the [Cabin](/cabin){:target="_blank"}** for the ultimate state of chill, flow, and magick.
 - [**Green with Orange**](https://www.youtube.com/watch?v=Er3OoPPN2_I){:target="_blank"} - a short documentary film about an artist turning pieces of scrap metal into Scottish landscapes, featured on the Glasgow Film Festival.
 - **Parallel, Oasis, Radio Ion** - a series of immersive experiences, Parallel featured on [Hidden Door Festival](https://hiddendoorarts.org/){:target="_blank"} in Edinburgh.
 - **Inside** - a dystopian theatre play exploring the impact of rapidly advancing technology
+
 
 ## Other fun experiments and experiences:
 
