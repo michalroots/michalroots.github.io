@@ -5,8 +5,7 @@ description:
 summary: skills and professional experience
 ---
 
-![Michał Profile Picture](assets/michal2018-lq.jpg){: width="75%"}
-
+![Profile Picture](/assets/michalkorzonek-profile.jpg)
 
 **Michał Korzonek is a facilitator, artist, and sailor, passionate about play as the ultimate state of flow unlocking limitless creativity**. He combines two decades of practice in performing arts, multimedia creation, and facilitation, with positive vibes and grounding state of presence. He lives in between a tiny house in Pico Island, Traditional Dream Factory, and, soon, a fleet of sailboats connecting positive impact projects around the world.
 
