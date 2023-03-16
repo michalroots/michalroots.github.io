@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Michał's Bio & Cool Stuff I Made
+title: Michał's Bio & Proof of ~~Work~~ Play
 description: 
 summary: skills and professional experience
 ---
