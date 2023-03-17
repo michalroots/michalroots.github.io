@@ -7,7 +7,7 @@ summary: What I am focusing on at the moment (aka - now page).
 
 I playfully (and skilfully) juggle multiple ideas and projects.
 
-The most effective way to see **what I'm up to right now** is to **check out my latest [Moonly Review](https://michalkorzonek.substack.com){:target="_blank"}**, published every 🌑 and 🌕.
+The most effective way to see **what I'm up to right now** is to **plug into [my twittah](https://twitter.com/michalkorzonek){:target="_blank"}** or **check out my latest [Moonly Review](https://michalkorzonek.substack.com){:target="_blank"}**, published every 🌑 and 🌕.
 
 ## I direct my energy into:
 

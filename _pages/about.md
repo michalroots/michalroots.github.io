@@ -24,7 +24,8 @@ Choose wisely:
 
 If you're curious about my personal journey, read my [Moonly Reviews](/moonly-reviews) or watch [Moonly Videos](/moonly-video). Moonly rhythms are dope. 
 
-🐦 [Twitter](https://twitter.com/michalkorzonek/){:target="_blank"}
+🐦 [Twitter](https://twitter.com/michalkorzonek/){:target="_blank"}<br>
+🎁 [Patreon](https://www.patreon.com/michalkorzonek/){:target="_blank"}
 
 ---
 [garden](/garden) 🌳

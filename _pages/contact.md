@@ -5,7 +5,7 @@ excerpt:
 ---
 
 - [Twitter](https://twitter.com/michalkorzonek/){:target="_blank"}
-- @michalroots on telegram
+- [@michalroots](https://t.me/michalroots){:target="_blank"} on telegram
 
 💌
 
