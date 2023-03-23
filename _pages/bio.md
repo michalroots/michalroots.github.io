@@ -13,7 +13,7 @@ Personal North Star: **Let's co-create a world where all Beings can thrive**.
 
 ## Selected projects:
 
-- "[**How to Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"}" - facilitating a mastermind which resulted in a beautiful book.
+- "[**How to Build A Regenerative Village**](https://treehousedao.earth){:target="_blank"}" - facilitating a mastermind which resulted in a beautiful book. I documented the process in [this twitter thread](https://twitter.com/michalkorzonek/status/1565240255564980225){:target="_blank"}.
 - Building [**Enspiral**](https://enspiral.com){:target="_blank"} Europe and documenting the process through handbook and podcasts.
 - Stewarding [**Traditional Dream Factory**](https:://traditionaldreamfactory.com){:target="_blank"}  - a regenerative village and the first land-based DAO in Europe
 - **Building a [decentralised neighbourhood community in Pico Island](https://pico.microsolidarity.cc){:target="_blank"}** through microsolidarity and documenting the process
@@ -24,12 +24,14 @@ Personal North Star: **Let's co-create a world where all Beings can thrive**.
 - [**Green with Orange**](https://www.youtube.com/watch?v=Er3OoPPN2_I){:target="_blank"} - a short documentary film about an artist turning pieces of scrap metal into Scottish landscapes, featured on the Glasgow Film Festival.
 - **Parallel, Oasis, Radio Ion** - a series of immersive experiences, Parallel featured on [Hidden Door Festival](https://hiddendoorarts.org/){:target="_blank"} in Edinburgh.
 - **Inside** - a dystopian theatre play exploring the impact of rapidly advancing technology
+- Management and support work in [Epilepsy Scotland](https://www.epilepsyscotland.org.uk/)
 
 ## Experiments and experiences:
 
 - 245 consistent days of 1 hour yoga practice
 - Hitchhiking over 20k kilometers
 - Nowhere, Rainbow, Gathering of the Tribes
+- Organising sailing retreats
 
 ## Selected education:
 
@@ -41,3 +43,7 @@ Personal North Star: **Let's co-create a world where all Beings can thrive**.
 - Online Workshop Facilitation
 - European Voluntary Service
 - Academic Chair Training
+
+## Articles:
+- [My Microsolidarity Journey](/microsolidarity-journey)
+- [Minimalist Journaling - A Fun and Effective Tool for Tremendous Habit Change](https://betterhumans.pub/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28)

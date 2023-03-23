@@ -4,28 +4,30 @@ title: About
 excerpt: Michał creates experiences and games that accelerate transition towards a regenerative way of living.
 ---
 
-I create **experiences** and **games** that accelerate the transition towards a **regenerative way of living**, on an individual and planetary scale. + document the process.
+I'm a **facilitator** and a **documentation wizard**, building and documenting [Enspiral](https://enspiral.com), [Traditional Dream Factory](https://traditionaldreamfactory.com), and [Microsolidarity in Pico](https://pico.microsolidarity.cc).
+
+I'm passionate about **regeneration**, **learning by doing** and **play as the source of flow**. 
+
+**Sailing** is my medicine.
 
 🌳✨⛵️
 
-Choose wisely:
+You can **hire me as a facilitator**, or **book a consulting call**. Here's my (very) [serious cv, bio, and selected body of ~~work~~ play](bio).
 
-1. Play a [game](/games).
-2. Let's [make a podcast](/podcast).
-3. (Very) [serious cv, bio, and selected body of ~~work~~ play](bio).
+- [Twitter](https://twitter.com/michalkorzonek/){:target="_blank"}
+- [@michalroots](https://t.me/michalroots){:target="_blank"} on telegram
 
-✨
-
-**You can hire me as a flowplay facilitator** for your project/org/event. I play with people creating positive impact in the world (even if my business coach says that this is not specific enough 🥺). You can think of me as a **wizard sherpa** committed to help you climb your Vision Mountain. I'll bring my  superpowers: creativity, energy, multimedia and play.
-
-[First step is easy](/contact).
+Alternatively, check out my [games and courses](/games) for personal regeneration and co-creation.
 
 🌕🌑
 
-If you're curious about my personal journey, read my [Moonly Reviews](/moonly-reviews) or watch [Moonly Videos](/moonly-video). Moonly rhythms are dope. 
+If you're curious about my personal journey, read my [Moonly Reviews](/moonly-reviews) or watch [Moonly Videos](/moonly-video). Moonly rhythms are dope.
 
-🐦 [Twitter](https://twitter.com/michalkorzonek/){:target="_blank"}<br>
-🎁 [Patreon](https://www.patreon.com/michalkorzonek/){:target="_blank"}
+🐦 [Twitter](https://twitter.com/michalkorzonek/){:target="_blank"} - serious fun<br>
+🎁 [Patreon](https://www.patreon.com/michalkorzonek/){:target="_blank"} - gift economy
+
+See you around,
+Michał
 
 ---
 [garden](/garden) 🌳

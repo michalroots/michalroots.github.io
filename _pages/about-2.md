@@ -48,3 +48,12 @@ Michał (*Me-How*)
 
 <hr>
 [How I built this site](/site-info)
+
+
+
+
+
+✨
+
+**You can hire me as a flowplay facilitator** for your project/org/event. I play with people creating positive impact in the world (even if my business coach says that this is not specific enough 🥺). You can think of me as a **wizard sherpa** committed to help you climb your Vision Mountain. I'll bring my  superpowers: creativity, energy, multimedia and play.
+
