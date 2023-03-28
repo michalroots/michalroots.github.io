@@ -30,4 +30,4 @@ See you around,
 Michał
 
 ---
-[garden](/garden) 🌳
+[garden](/garden) 🌳 [cabin tour](/cabin) 🏡
