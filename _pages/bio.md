@@ -12,6 +12,7 @@ summary:
 🧙‍♂️ Areas of research:
 
 - Co-creation through play
+- Community weaving
 - Pattern breaking
 - Non-negotiable commitments
 - Radical self-reliance
