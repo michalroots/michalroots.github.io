@@ -2,6 +2,281 @@
   
     {
 
+      "title"    : "Publish from Obsidian to Gitbook",
+      "url"      : "/obsidian-to-gitbook",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2023-01-26 00:00:00 -0100",
+      "description" : "Create a gitbook, edit in obsidian."
+
+    } ,
+  
+    {
+
+      "title"    : "Back To Self",
+      "url"      : "/back-to-self",
+      "category" : "",
+      "tags"     : "article",
+      "date"     : "2022-10-13 00:00:00 +0000",
+      "description" : "I spent the summer surrounded by people all the time. Now I am alone."
+
+    } ,
+  
+    {
+
+      "title"    : "Akinado Nada Nissa",
+      "url"      : "/akinado",
+      "category" : "",
+      "tags"     : "games",
+      "date"     : "2022-10-13 00:00:00 +0000",
+      "description" : "The Divine Permission to Play"
+
+    } ,
+  
+    {
+
+      "title"    : "Gift",
+      "url"      : "/gift",
+      "category" : "",
+      "tags"     : "meta",
+      "date"     : "2022-09-13 00:00:00 +0000",
+      "description" : "Gifts always gravitate towards where they are needed most."
+
+    } ,
+  
+    {
+
+      "title"    : "Write 📝",
+      "url"      : "/write",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2022-08-01 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Within",
+      "url"      : "/within",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2022-05-24 00:00:00 +0000",
+      "description" : "Taking a pause to ask within"
+
+    } ,
+  
+    {
+
+      "title"    : "The Cabin",
+      "url"      : "/cabin",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2022-05-17 00:00:00 +0000",
+      "description" : "Let me show you my favourite home."
+
+    } ,
+  
+    {
+
+      "title"    : "No Words",
+      "url"      : "/no-words",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2022-05-12 00:00:00 +0000",
+      "description" : "When words cannot come out"
+
+    } ,
+  
+    {
+
+      "title"    : "Pico Spring 2022 Community Gathering",
+      "url"      : "/pico-spring-community-gathering-2022",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2022-05-05 00:00:00 +0000",
+      "description" : "Our third community gathering in Pico"
+
+    } ,
+  
+    {
+
+      "title"    : "Walking Home",
+      "url"      : "/walking-home",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2022-05-03 00:00:00 +0000",
+      "description" : "Under the stars"
+
+    } ,
+  
+    {
+
+      "title"    : "Wave",
+      "url"      : "/wave",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2022-05-01 00:00:00 +0000",
+      "description" : "in a blink of an eye"
+
+    } ,
+  
+    {
+
+      "title"    : "Personal Website Flow (Full Version) - How I Use This Website",
+      "url"      : "/personal-website-flow-full",
+      "category" : "",
+      "tags"     : "articles, documentation",
+      "date"     : "2022-05-01 00:00:00 +0000",
+      "description" : "Meta article about my writing process using Obsidian as a central point of my digital world."
+
+    } ,
+  
+    {
+
+      "title"    : "Productivity Juggling 🤹‍♀️",
+      "url"      : "/productivity-juggling",
+      "category" : "",
+      "tags"     : "articles, documentation",
+      "date"     : "2022-04-29 00:00:00 +0000",
+      "description" : "Behold! How running like a headless chicken resulted in a perfect productivity system."
+
+    } ,
+  
+    {
+
+      "title"    : "Illuminated",
+      "url"      : "/illuminated",
+      "category" : "",
+      "tags"     : "poems, spoken",
+      "date"     : "2022-04-20 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Personal Website Flow - How I Use This Website",
+      "url"      : "/personal-website-flow",
+      "category" : "",
+      "tags"     : "articles, documentation",
+      "date"     : "2022-04-18 00:00:00 +0000",
+      "description" : "Meta article about my writing process using Obsidian as a central point of my digital world."
+
+    } ,
+  
+    {
+
+      "title"    : "Blossoming",
+      "url"      : "/blossoming",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2022-04-18 00:00:00 +0000",
+      "description" : "Poem about getting lost in connection with you"
+
+    } ,
+  
+    {
+
+      "title"    : "Merging (Participatory Experience)",
+      "url"      : "/merging",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2022-04-10 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Touched",
+      "url"      : "/touched",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2022-04-06 00:00:00 +0000",
+      "description" : "A poem."
+
+    } ,
+  
+    {
+
+      "title"    : "New Moon Journaling",
+      "url"      : "/new-moon-journaling",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2022-03-30 00:00:00 +0000",
+      "description" : "How To Use Journaling to Realign in the Beginning of a New Cycle."
+
+    } ,
+  
+    {
+
+      "title"    : "Gratitude Tokens",
+      "url"      : "/gratitude-tokens",
+      "category" : "",
+      "tags"     : "games",
+      "date"     : "2022-03-24 00:00:00 -0100",
+      "description" : "Collaborative game catalysing gratitude 💜."
+
+    } ,
+  
+    {
+
+      "title"    : "Faial Community Day (workshop)",
+      "url"      : "/faial-community-day",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2022-02-27 00:00:00 -0100",
+      "description" : "Bringing microsolidarity to Faial Island"
+
+    } ,
+  
+    {
+
+      "title"    : "Regenerative Documentation Index",
+      "url"      : "/regenerative-documentation-index",
+      "category" : "",
+      "tags"     : "documentation",
+      "date"     : "2022-02-26 00:00:00 -0100",
+      "description" : "A growing compilation of notable documentations 📚."
+
+    } ,
+  
+    {
+
+      "title"    : "Moonly Reviews",
+      "url"      : "/moonly-reviews",
+      "category" : "",
+      "tags"     : "journal",
+      "date"     : "2022-02-05 00:00:00 -0100",
+      "description" : "A heartfelt letter sent every New and Full Moon."
+
+    } ,
+  
+    {
+
+      "title"    : "Thirty Three",
+      "url"      : "/thirty-three",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2022-01-22 00:00:00 -0100",
+      "description" : "Facing the shadow as I approach another birthda"
+
+    } ,
+  
+    {
+
+      "title"    : "Moonly Video - Digital Journaling",
+      "url"      : "/moonly-video",
+      "category" : "",
+      "tags"     : "journal",
+      "date"     : "2022-01-03 00:00:00 -0100",
+      "description" : "I keep recording at least one second every day and put it together in a video every Moon cycle."
+
+    } ,
+  
+    {
+
       "title"    : "Yearly Review 2021",
       "url"      : "/yearly-review-2021",
       "category" : "",
@@ -93,7 +368,7 @@
       "title"    : "My Microsolidarity Journey",
       "url"      : "/microsolidarity-journey",
       "category" : "",
-      "tags"     : "documentation",
+      "tags"     : "documentation, articles",
       "date"     : "2021-12-01 00:00:00 -0100",
       "description" : "From lonely nomad to community catalyst"
 
@@ -113,7 +388,7 @@
     {
 
       "title"    : "Gift",
-      "url"      : "/gift",
+      "url"      : "/gift-santa",
       "category" : "",
       "tags"     : "letters",
       "date"     : "2021-11-27 00:00:00 -0100",
@@ -145,12 +420,34 @@
   
     {
 
+      "title"    : "Pico Autumn Community Gathering",
+      "url"      : "/pico-autumn-community-gathering",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-10-21 00:00:00 +0000",
+      "description" : "Our second community gathering in Pico"
+
+    } ,
+  
+    {
+
       "title"    : "Last Night In Lisbon",
       "url"      : "/last-night-in-lisbon",
       "category" : "",
       "tags"     : "letters",
       "date"     : "2021-10-18 00:00:00 +0000",
       "description" : "Facing the Dark in the city of Light."
+
+    } ,
+  
+    {
+
+      "title"    : "Bruno &amp; Vera Wedding Ceremony",
+      "url"      : "/bruno-vera-wedding-ceremony",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-10-16 00:00:00 +0000",
+      "description" : "Officiating a Ceremony of Love"
 
     } ,
   
@@ -189,12 +486,177 @@
   
     {
 
-      "title"    : "Ouroboros",
+      "title"    : "The Gift",
+      "url"      : "/the-gift",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2021-08-21 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Masking Around (Party Installation)",
+      "url"      : "/masking-around",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-08-20 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Letters from the Forest (Poetry Collection)",
+      "url"      : "/letters-from-the-forest",
+      "category" : "",
+      "tags"     : "poems",
+      "date"     : "2021-08-20 00:00:00 +0000",
+      "description" : "Collection of heartfelt poems inspired by living in a Magical Forest."
+
+    } ,
+  
+    {
+
+      "title"    : "Slam Jam (Event)",
+      "url"      : "/slam-jam",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-07-30 00:00:00 +0000",
+      "description" : "Merging a ritual, a poetry slam and a jam session"
+
+    } ,
+  
+    {
+
+      "title"    : "End of the World",
+      "url"      : "/end-of-the-world",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-07-06 00:00:00 +0000",
+      "description" : "A moment of freedom at the end of the world."
+
+    } ,
+  
+    {
+
+      "title"    : "Box",
+      "url"      : "/box",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-06-30 00:00:00 +0000",
+      "description" : "A moment of removing the box"
+
+    } ,
+  
+    {
+
+      "title"    : "Space",
+      "url"      : "/space",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-06-29 00:00:00 +0000",
+      "description" : "A moment of painful reconnection"
+
+    } ,
+  
+    {
+
+      "title"    : "Shift",
+      "url"      : "/shift",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-06-24 00:00:00 +0000",
+      "description" : "Opening up again to infinite possibilities"
+
+    } ,
+  
+    {
+
+      "title"    : "Waiting",
+      "url"      : "/waiting",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-06-22 00:00:00 +0000",
+      "description" : "A moment of stopping to wait."
+
+    } ,
+  
+    {
+
+      "title"    : "Enspiral Europe Connection Experiment (Online Gathering)",
+      "url"      : "/enspiral-europe-connection-experiment",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-06-17 00:00:00 +0000",
+      "description" : "Experiment in weaving connection within European Enspiral Crowd"
+
+    } ,
+  
+    {
+
+      "title"    : "Pico Summer Community Gathering 2021",
+      "url"      : "/pico-summer-community-gathering-2021",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-06-09 00:00:00 +0000",
+      "description" : "The first gathering of Pico Island Congregation."
+
+    } ,
+  
+    {
+
+      "title"    : "Ouroboros (Performance)",
       "url"      : "/ouroboros",
       "category" : "",
-      "tags"     : "performance",
+      "tags"     : "experiences",
       "date"     : "2021-06-05 00:00:00 +0000",
       "description" : "An interactive performance about ocean pollution and consumer lifestyle."
+
+    } ,
+  
+    {
+
+      "title"    : "Shattered",
+      "url"      : "/shattered",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-05-28 00:00:00 +0000",
+      "description" : "A conversation with Fear."
+
+    } ,
+  
+    {
+
+      "title"    : "Anchors in Time",
+      "url"      : "/anchors-in-time",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-05-28 00:00:00 +0000",
+      "description" : "A reflection on the past and present."
+
+    } ,
+  
+    {
+
+      "title"    : "Feather",
+      "url"      : "/feather",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-05-20 00:00:00 +0000",
+      "description" : "A moment of sharing before taking off to fly"
+
+    } ,
+  
+    {
+
+      "title"    : "Infinity",
+      "url"      : "/infinity",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2021-05-15 00:00:00 +0000",
+      "description" : "A short story about looking up"
 
     } ,
   
@@ -206,6 +668,17 @@
       "tags"     : "nomz",
       "date"     : "2021-05-06 00:00:00 +0000",
       "description" : "Delicious Oat Milk"
+
+    } ,
+  
+    {
+
+      "title"    : "Habit Sprint (Cohort Based Course)",
+      "url"      : "/habit-sprint",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-03-29 00:00:00 +0000",
+      "description" : ""
 
     } ,
   
@@ -277,6 +750,17 @@
   
     {
 
+      "title"    : "Year of Practice (Cohort Based Course)",
+      "url"      : "/year-of-practice",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2021-01-11 00:00:00 -0100",
+      "description" : "A year long course focusing on building practices that matter"
+
+    } ,
+  
+    {
+
       "title"    : "Epic Vegan Cheescake",
       "url"      : "/epic-vegan-cheescake",
       "category" : "",
@@ -288,12 +772,474 @@
   
     {
 
+      "title"    : "Pico Sharing Circle",
+      "url"      : "/pico-sharing-circle",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2020-07-26 00:00:00 +0000",
+      "description" : "A microsolidarity experiment which evolved into a thriving congregation"
+
+    } ,
+  
+    {
+
+      "title"    : "Routine Bootcamp (Habit Building Crew)",
+      "url"      : "/routine-bootcamp",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2020-07-10 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Team Angie (Care &amp; Support Crew)",
+      "url"      : "/team-angie",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2020-06-23 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Elementals (Drum Crew)",
+      "url"      : "/elementals-drum-crew",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2020-05-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "The Circle (Sharing Circle)",
+      "url"      : "/circle",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2020-05-20 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Unicorns (Care &amp; Support Crew)",
+      "url"      : "/unicorns",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2020-05-01 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Minimalist Journaling System (Cohort Based Course &amp; Workshop)",
+      "url"      : "/minimalist-journaling-system",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2019-10-28 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "41 Powerful Journaling Exercises for Mind Expansion and Effective Behaviour Change",
+      "url"      : "/journaling-exercises",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2019-05-18 00:00:00 +0000",
+      "description" : "Based on the work of some of the greatest world-class experts on productivity, complexity thinking, health and wellbeing, and more"
+
+    } ,
+  
+    {
+
+      "title"    : "How to Chart a New Course For Your Life with 3 Simple Diagrams",
+      "url"      : "/chart-new-course",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2018-08-08 00:00:00 +0000",
+      "description" : "Overcome inertia and move ahead on your goals with these proven tools for visual thinking"
+
+    } ,
+  
+    {
+
+      "title"    : "Minimalist Journaling - A Fun and Effective Tool for Tremendous Habit Change",
+      "url"      : "/minimalist-journaling",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2018-06-13 00:00:00 +0000",
+      "description" : "Collection of heartfelt poems inspired by living in a Magical Forest."
+
+    } ,
+  
+    {
+
+      "title"    : "Would You Take Me in Your Car?",
+      "url"      : "/would-you-take-me-in-your-car",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2018-05-23 00:00:00 +0000",
+      "description" : "How I learned about trust while hitchhiking across Europe"
+
+    } ,
+  
+    {
+
+      "title"    : "01:31 AM Yoga",
+      "url"      : "/am-yoga",
+      "category" : "",
+      "tags"     : "articles",
+      "date"     : "2018-05-05 00:00:00 +0000",
+      "description" : "Rebooting my brain at the airport before a 6 hour flight."
+
+    } ,
+  
+    {
+
+      "title"    : "Sailcubator (Sailing Retreat)",
+      "url"      : "/sailcubator",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2017-06-11 00:00:00 +0000",
+      "description" : "Nature. Love. Growing Connection. On a Sailboat."
+
+    } ,
+  
+    {
+
+      "title"    : "Timeless",
+      "url"      : "/timeless",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2017-05-17 00:00:00 +0000",
+      "description" : "A story of love in a bubble out of time."
+
+    } ,
+  
+    {
+
+      "title"    : "Moments of Connection (Collection of Stories)",
+      "url"      : "/moments-of-connection",
+      "category" : "",
+      "tags"     : "stories",
+      "date"     : "2017-05-17 00:00:00 +0000",
+      "description" : "A collection of poetic stories inspired by magical moments and conversations."
+
+    } ,
+  
+    {
+
       "title"    : "Before Knowing You I Was Unconscious",
       "url"      : "/before-knowing-you-i-was-unconscious",
       "category" : "",
       "tags"     : "letters",
       "date"     : "2017-05-14 00:00:00 +0000",
       "description" : "A Love Letter to my home as I am about to leave it behind."
+
+    } ,
+  
+    {
+
+      "title"    : "Beltane Fire Festival (Performance &amp; Ceremony)",
+      "url"      : "/beltane-fire-festival-beasties",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2017-04-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "We Will Have to Wait and See, Right?",
+      "url"      : "/we-will-have-to-wait-and-see-right",
+      "category" : "",
+      "tags"     : "poems, spoken",
+      "date"     : "2017-04-13 00:00:00 +0000",
+      "description" : "Rap song for a departing Lover"
+
+    } ,
+  
+    {
+
+      "title"    : "Your Time is Valuable (Workshop)",
+      "url"      : "/your-time-is-valuable",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2017-03-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Parallel (Performance)",
+      "url"      : "/parallel",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2016-05-30 00:00:00 +0000",
+      "description" : "Eye gazing connection."
+
+    } ,
+  
+    {
+
+      "title"    : "Oasis (Performance)",
+      "url"      : "/oasis",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2015-10-30 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Radio Ion (Performance)",
+      "url"      : "/radio-ion",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2015-08-10 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Words Without Wires (Workshop)",
+      "url"      : "/words-without-wires",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2014-07-10 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Scottish - Will Travel (Exhibition)",
+      "url"      : "/scottish-will-travel",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2014-05-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Beltane Fire Festival (Performance &amp; Ceremony)",
+      "url"      : "/beltane-fire-festival-bower",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2014-04-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Ridotto 2014 - Neverland (Exhibition)",
+      "url"      : "/ridotto",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2014-01-30 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "3rd International Forum of the European Youth Parliament Albania",
+      "url"      : "/eyp-albania-forum",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2013-11-30 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Samhuinn (Performance &amp; Ceremony)",
+      "url"      : "/samhuinn-seasonal-promise",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2013-10-30 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Beltane Fire Festival (Performance &amp; Ceremony)",
+      "url"      : "/beltane-fire-festival-fire",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2013-04-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Unfold (6th NSC of the European Youth Parliament Albania)",
+      "url"      : "/eyp-unfold",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2013-03-20 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "24 Planets (Festival)",
+      "url"      : "/24-planets",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2013-02-01 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "The Emporium of Vaudeville Wonders (Installation)",
+      "url"      : "/vaudeville-empire",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2013-01-30 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "20+4 slash 11.DR1651F1 (Party &amp; Installation)",
+      "url"      : "/20-4-11-dr1651f1",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2012-11-30 00:00:00 -0100",
+      "description" : "Transforming a party into an interactive playground"
+
+    } ,
+  
+    {
+
+      "title"    : "Do You Like Blue? (Party &amp; Installation)",
+      "url"      : "/do-you-like-blue",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2012-09-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Tallinn Media (70th International Session of the European Youth Parliament)",
+      "url"      : "/eyp-tallinn-media",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2012-08-10 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Canvas Environmental Art (Exhibition)",
+      "url"      : "/canvas-environmental",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2012-03-10 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Stroboheroes (12th National Conference of the European Youth Parliament Austria)",
+      "url"      : "/eyp-stroboheroes",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2011-05-29 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Magic Spells (Party &amp; Installation)",
+      "url"      : "/magic-spells",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2011-05-10 00:00:00 +0000",
+      "description" : "Bringing local artists to transform a flat into a magical playground"
+
+    } ,
+  
+    {
+
+      "title"    : "Klovernissagen (Exhibition)",
+      "url"      : "/klovernissagen",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2009-12-10 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Mroczna Tajemnica VLO (Theatre Experience)",
+      "url"      : "/mroczna-tajemnica-vlo",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2008-05-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Anielskie Lydki (Film Experience)",
+      "url"      : "/anielskie-lydki",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2008-05-10 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Bathroom Sounds (Party &amp; Installation)",
+      "url"      : "/bathroom-sounds",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2007-05-30 00:00:00 +0000",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Car Mikolaj (Theatre Play)",
+      "url"      : "/car-mikolaj",
+      "category" : "",
+      "tags"     : "experiences",
+      "date"     : "2002-09-10 00:00:00 +0000",
+      "description" : ""
 
     } 
   

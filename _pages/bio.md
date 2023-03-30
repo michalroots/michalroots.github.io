@@ -5,7 +5,7 @@ description:
 summary: 
 ---
 
-**Michał Korzonek catalyses the transition towards regenerative way of living as a Facilitation Artist and Wizard of Cards.** You will find him **publishing open-source documentation** and **hosting gatherings and voyages** between forests, oceans, and volcanic rocks.
+**Michał Korzonek catalyses the transition towards regenerative way of living as a Facilitation Artist and Wizard of Play.** You will find him **publishing open-source documentation** and **hosting gatherings and voyages** between forests, oceans, and volcanic rocks.
 
 📷 Profile Photo [here](/assets/michalkorzonek-profile-lq.jpg){:target="_blank"}.
 

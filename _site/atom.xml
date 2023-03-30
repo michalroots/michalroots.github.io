@@ -4,13 +4,1826 @@
  <title>Michał Korzonek</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-01-03T00:47:21-01:00</updated>
+ <updated>2023-03-30T10:44:33+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michal Korzonek</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Publish from Obsidian to Gitbook</title>
+   <link href="http://localhost:4000/obsidian-to-gitbook"/>
+   <updated>2023-01-26T00:00:00-01:00</updated>
+   <id>http://localhost:4000/obsidian-to-gitbook</id>
+   <content type="html">&lt;p&gt;Objective:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Create and edit a Gitbook in Obsidian. Publish without friction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s get right to it.&lt;/p&gt;
+
+&lt;p&gt;Create a &lt;a href=&quot;https://github.com/&quot;&gt;github&lt;/a&gt; account if you don’t have one yet.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Create a new public repository on github&lt;/li&gt;
+  &lt;li&gt;Install Gitbook app in your github account, then give it access to your repository Applications &amp;gt; Gitbook&amp;gt; repository access &amp;gt; REPOSITORY&lt;/li&gt;
+  &lt;li&gt;Create a new &lt;a href=&quot;https://gitbook.com&quot;&gt;gitbook&lt;/a&gt; and publish.&lt;/li&gt;
+  &lt;li&gt;Edit &amp;gt; synchronise with Git – choose the REPOSITORY, main branch, select writing content on gitbook (improtant) gitbook will copy content to github now&lt;/li&gt;
+  &lt;li&gt;delete synchronisation with git, then redoit, this time selecting write on gitbook –&amp;gt;&lt;/li&gt;
+  &lt;li&gt;github sync desktop, clone repository choose REPOSITORY, then local path&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Note: This process also allows to publish from Obsidian to Github, via &lt;a href=&quot;https://docs.gitbook.com/integrations/git-sync/enabling-github-sync&quot;&gt;Github Sync&lt;/a&gt;. Create a Gitbook, sync with Github, then use Github Desktop to sync with Obsidian 🤓.&lt;/p&gt;
+
+&lt;h2 id=&quot;installing-jekyll-on-macos-mojave&quot;&gt;Installing Jekyll on MacOS Mojave&lt;/h2&gt;
+&lt;p&gt;It was a pain in the ass, but it worked eventually.&lt;/p&gt;
+
+&lt;p&gt;I needed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macpaw.com/how-to/use-terminal-on-mac &quot; target=&quot;_blank&quot;&gt;Basic knowledge of Mac Terminal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Read through the official &lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot; target=&quot;_blank&quot;&gt;installation guide from Jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;And another &lt;a href=&quot;https://www.awesomeinc.org/tutorials/jekyll-basics/&quot; target=&quot;_blank&quot;&gt;simpler guide&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Finally, spent a long time troubleshooting errors I couldn’t understand. Here’s &lt;a href=&quot;https://www.chadduffey.com/2021/03/Jekyll-Poop.html&quot; target=&quot;_blank&quot;&gt;the most succint solution&lt;/a&gt; that worked for me. Note: I had to run &lt;code&gt;bundle update&lt;/code&gt; &lt;em&gt;before&lt;/em&gt; and &lt;em&gt;after&lt;/em&gt; other commands. No idea why, but it works now.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;to-preview-the-website-locally&quot;&gt;To preview the website locally:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;launch terminal and navigate to the folder with the site using  &lt;code&gt;cd ~/PATHTOFOLDER&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;serve jekyll with &lt;code&gt;Bundle exec jekyll serve&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;open &lt;a href=&quot;http://localhost:4000&quot; target=&quot;_blank&quot;&gt;http://localhost:4000&lt;/a&gt; in your browser&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;uploading-code-to-github&quot;&gt;Uploading Code to Github&lt;/h2&gt;
+
+&lt;p&gt;That was easy, because I did this before, and Github has a &lt;a href=&quot;https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages&quot; target=&quot;_blank&quot;&gt;good manual on how to do it.&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I created a new repository called &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;I cloned the empty repository from Github to my computer using &lt;a href=&quot;https://desktop.github.com/&quot; target=&quot;_blank&quot;&gt;Github Desktop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I copied the contents of the website I have been editing on my computer to the github folder and pushed changes to Github.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The website is now live at heymichal.github.io, but there are still a few things to do.&lt;/p&gt;
+
+&lt;h2 id=&quot;editing-with-obsidian&quot;&gt;Editing with Obsidian&lt;/h2&gt;
+
+&lt;p&gt;Open the local folder with my github page as a vault in obsidian. That was super easy. I’m now editing this post in Obsidian, then commit changes and merge via Github desktop.&lt;/p&gt;
+
+&lt;p&gt;Note that it takes some time for the changes to appear on the live site.&lt;/p&gt;
+
+&lt;p&gt;💡 I later moved the entire local folder with my site into a /web folder inside my main obsidian vault.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-netlify&quot;&gt;Setting up Netlify&lt;/h2&gt;
+
+&lt;p&gt;The next step is to fix tags not working at all on the site. I suppose it’s because of some incompatibility between the template I started with and Github pages. I know that the template was using &lt;a href=&quot;https://netlify.app&quot; target=&quot;_blank&quot;&gt;Netlify&lt;/a&gt; to deploy the site, so I guess I’ll do the same.&lt;/p&gt;
+
+&lt;p&gt;Super easy and works like a charm.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I added a new site from git&lt;/li&gt;
+  &lt;li&gt;pointed to my repository with the site on git&lt;/li&gt;
+  &lt;li&gt;deployed&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I now have a funky netlify url: &lt;code&gt;https://sleepy-mahavira-46dee4.netlify.app/&lt;/code&gt; which I can change into a custom domain with SSL, which is the obvious next step.&lt;/p&gt;
+
+&lt;p&gt;I also tested the speed of publishing and it works instantly. I edit in Obsidian, push with Github Desktop and it’s live.&lt;/p&gt;
+
+&lt;p&gt;The only trouble is that images don’t seem to be showing at all in previews on social media (I’m using &lt;a href=&quot;https://socialsharepreview.com/&quot; target=&quot;_blank&quot;&gt;this tool&lt;/a&gt; and &lt;a href=&quot;https://cards-dev.twitter.com/validator&quot; target=&quot;_blank&quot;&gt;twitter card validator&lt;/a&gt; to test). I checked the &lt;a href=&quot;https://milanaryal.com.np/integrating-social-meta-tags-into-jekyll/&quot; target=&quot;_blank&quot;&gt;YAML frontmatter&lt;/a&gt; and it all seems fine to my eye:&lt;/p&gt;
+
+&lt;p&gt;layout: post &lt;br /&gt;
+title: The Red Caped Girl &lt;br /&gt;
+description: The magic happens when I tune into myself. &lt;br /&gt;
+image: /assets/touch-of-universe.jpg &lt;br /&gt;
+tags: [letters] &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;and yet, I keep getting this error:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;og:image can&apos;t be found at the defined URL&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I’ll troubleshoot it later.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-custom-domain&quot;&gt;Setting up custom domain&lt;/h2&gt;
+
+&lt;p&gt;This was quite straightforward, even if the &lt;a href=&quot;https://docs.netlify.com/domains-https/custom-domains&quot; target=&quot;_blank&quot;&gt;manual&lt;/a&gt; from Netlify was a bit overwhelming.&lt;/p&gt;
+
+&lt;p&gt;Set up custom domain, when you get the new DNS configuration login to your domain registrar and setup the new DNS configuration, and then wait for some time for the website to show up at the new address. It took around 2 hours in my case, and the site is now operational!&lt;/p&gt;
+
+&lt;p&gt;🎉&lt;/p&gt;
+
+&lt;h2 id=&quot;troubleshooting-ssl-certificate&quot;&gt;Troubleshooting SSL Certificate&lt;/h2&gt;
+
+&lt;p&gt;It turns out that while the site was live, something didn’t work with the automatic SSL encryption. I went to domain settings in Netlify, clicked on “renew certificate” and less than a minute later it was working properly.&lt;/p&gt;
+
+&lt;h2 id=&quot;optimising-obsidian--github-flow&quot;&gt;Optimising Obsidian &amp;lt;&amp;gt; Github Flow&lt;/h2&gt;
+
+&lt;p&gt;For now I’ve been using a separate obsidian vault for my website, but actually, why not keep it all together?&lt;/p&gt;
+
+&lt;p&gt;I’ve created a new folder &lt;code&gt;/web&lt;/code&gt; in my main obsidian vault and I moved the folder with website files &lt;code&gt;heymichal.github.io&lt;/code&gt; inside.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-this-useful&quot;&gt;Is this Useful?&lt;/h2&gt;
+
+&lt;p&gt;Well… I hope so. Personally speaking, it did change my entire experience of creating digital content.&lt;/p&gt;
+
+&lt;p&gt;If it seems to be making a difference for you, then I’m really happy. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;You might also enjoy this article - &lt;a href=&quot;https://michalkorzonek.com/personal-website-flow-full&quot; target=&quot;_blank&quot;&gt;Personal Website Flow (Full Version) - How I Use This Website&lt;/a&gt;, where I’ll show you how effortless it is to fly while this setup is operational.&lt;/p&gt;
+
+&lt;p&gt;If you feel like supporting my work, &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon&lt;/a&gt;  is a great opportunity.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Back To Self</title>
+   <link href="http://localhost:4000/back-to-self"/>
+   <updated>2022-10-13T00:00:00+00:00</updated>
+   <id>http://localhost:4000/back-to-self</id>
+   <content type="html">&lt;p&gt;I’ve spent the summer of 2022 immersed in &lt;a href=&quot;https://traditionaldreamfactory.com&quot; target=&quot;_blank&quot;&gt;Traditional Dream Factory&lt;/a&gt; - a regenerative village with super-high-energy social context overflowing with all sorts of in-real-life relating. As my &lt;a href=&quot;https://handbook.traditionaldreamfactory.com/participate/stewardsheep&quot; target=&quot;_blank&quot;&gt;stewardsheep&lt;/a&gt; 🐑 came to an end I returned to Pico island. Suddenly I am spending pretty much all of my time alone.&lt;/p&gt;
+
+&lt;p&gt;It’s a huge shift.&lt;/p&gt;
+
+&lt;p&gt;After being with people pretty much constantly for four months I felt overloaded. TDF is an amazing place to live, and it is indeed one of my Homes, and yet I could not find the balance between social time and self time - for all the right reasons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In a place where the official language is laughter and people genuinely care for each other it’s easy to slip into interacting constantly.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Creating self-time in a community is something to practice, and there are many ways to do it:&lt;/p&gt;
+
+&lt;p&gt;Setting boundaries for self-time. Going away for a few days. Creating spaces for silence. Setting cues for not being disturbed.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Today I&amp;#39;m experimenting with new visual cue helping me to stay focused in a high-energy creative vortex environment: &lt;a href=&quot;https://twitter.com/tdfinyourdreams?ref_src=twsrc%5Etfw&quot;&gt;@tdfinyourdreams&lt;/a&gt; &lt;a href=&quot;https://t.co/RAcYYlzjTz&quot;&gt;pic.twitter.com/RAcYYlzjTz&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michał ✨ (@michalkorzonek) &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1564943385802186752?ref_src=twsrc%5Etfw&quot;&gt;August 31, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Damn, I had so much fun.&lt;/p&gt;
+
+&lt;p&gt;Of course, there was also conflict and interpersonal tensions. This is a given when bringing people together. But that doesn’t discourage me at all. In fact - quite the opposite: I find a strange fascination for conflict in groups.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conflict reveals peoples’ “true colours”, how they behave under pressure, and what are their trauma points. This is invaluable information for any group that wants to create something meaningful together.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Now, all of this is gone, and it’s just the silly old me again.&lt;/p&gt;
+
+&lt;p&gt;Hi.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Toolkit upgrade. Worth every cent. &lt;a href=&quot;https://t.co/59k74z6wYS&quot;&gt;pic.twitter.com/59k74z6wYS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michał ✨ (@michalkorzonek) &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1580598971248308226?ref_src=twsrc%5Etfw&quot;&gt;October 13, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Surprisingly, although that’s perhaps due to my naivety, being in the space with little-to-none IRL deep relating for a couple of days, I find myself inside emotional whirlpool, as intense as when I was at TDF.&lt;/p&gt;
+
+&lt;p&gt;The excitements, frustrations, and all sorts of moments of intensity of various flavours still exist, but now they all happen within me. The entire internal ecosystem of parts came out to play, encouraged by the silence around me.&lt;/p&gt;
+
+&lt;p&gt;Somehow it feels way more challenging to be immersed in that context.&lt;/p&gt;
+
+&lt;p&gt;It also feels necessary.&lt;/p&gt;
+
+&lt;p&gt;It’s my growth edge.&lt;/p&gt;
+
+&lt;p&gt;I’m regaining balance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;This summer, I practiced finding stillness in the moments of absolute chaos. Now it’s time to find stillness inside of me.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fortunately, I am in the most wonderful place to practice - a volcanic rock immersed in Awe Inspiring Nature.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;I invite you to fly through my window together 🐦 &lt;a href=&quot;https://t.co/M881KZBfUX&quot;&gt;pic.twitter.com/M881KZBfUX&lt;/a&gt;&lt;/p&gt;&amp;mdash; Michał ✨ (@michalkorzonek) &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1526484139096133632?ref_src=twsrc%5Etfw&quot;&gt;May 17, 2022&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;As I allow myself to Be, I begin to recalibrate and ground. It becomes clear that just like in TDF I could practice creating self-time, I can practice creating IRL deep relating in Pico. In fact, &lt;a href=&quot;https://pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;I’m doing that already&lt;/a&gt;, only at a slower pace.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It is my very choice to take action to meet my needs.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Just as the &lt;em&gt;&lt;a href=&quot;/akinado&quot; target=&quot;_blank&quot;&gt;Akinado Card&lt;/a&gt;&lt;/em&gt; reminds me:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Metamorphosis. It all starts with a Choice.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;As the external and internal noise dissolves into silence, a feeling of boundless spaciousness emerges.&lt;/p&gt;
+
+&lt;p&gt;Infinite space to create any reality I want to live in.&lt;/p&gt;
+
+&lt;p&gt;It’s the most precious gift.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Akinado Nada Nissa</title>
+   <link href="http://localhost:4000/akinado"/>
+   <updated>2022-10-13T00:00:00+00:00</updated>
+   <id>http://localhost:4000/akinado</id>
+   <content type="html">&lt;p&gt;Akinado Nada Nissa is a Tarot-inspired game / journey - to be enjoyed solo, or in a group.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/akinado.jpg&quot; alt=&quot;Akinado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Akinado&lt;/em&gt; is now in development stage. If you want to hear about it when it’s ready to launch, I invite you to subscribe to my &lt;a href=&quot;https://michalkorzonek.substack.com/&quot; target=&quot;_blank&quot;&gt;Moonly Review&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;-
+Co-created with &lt;a href=&quot;https://www.egyptian-templearts.com/&quot; target=&quot;_blank&quot;&gt;Jasmeen Hana&lt;/a&gt; and &lt;a href=&quot;https://silviamakesdrawings.com/&quot; target=&quot;_blank&quot;&gt;Silvia Bastos&lt;/a&gt; at the &lt;em&gt;Gathering of the Tribes 2022&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gift</title>
+   <link href="http://localhost:4000/gift"/>
+   <updated>2022-09-13T00:00:00+00:00</updated>
+   <id>http://localhost:4000/gift</id>
+   <content type="html">&lt;p&gt;Here are a few gifts I’d be delighted to receive.&lt;/p&gt;
+
+&lt;p&gt;🎁&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An invitation to create IRL &lt;a href=&quot;https://michalkorzonek.com/experiences&quot;&gt;containers for playful co-creation&lt;/a&gt; (gatherings, playgrounds, burn-inspired festivals). I’ll be delighted to be your wizard 🧙‍♂️&lt;/li&gt;
+  &lt;li&gt;A sailboat and/or invitation for sailing voyages (I have &lt;a href=&quot;/sailing&quot; target=&quot;_blank&quot;&gt;skills&lt;/a&gt;)⛵️&lt;/li&gt;
+  &lt;li&gt;A mechanical keyboard (without numpad) with Bluetooth and UK layout&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rei.com/product/168485/rei-co-op-trail-40-pack-mens&quot; target=&quot;_blank&quot;&gt;REI Co-op Trail 40l black backpack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://berkey-waterfilters.fr/products/systeme-de-filtration-deau-travel-berkey-version-reduite-du-big-berkey&quot; target=&quot;_blank&quot;&gt;Travel Berkey Water Filter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;$TDF Carrot Tokens 🥕🥕🥕&lt;/li&gt;
+  &lt;li&gt;two LED pixel whips&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pt.kobobooks.com/products/kobo-libra-2&quot; target=&quot;_blank&quot;&gt;KOBO Libra 2 ebook reader&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;a massage - I have two pain points in my feet that I’d love to release&lt;/li&gt;
+  &lt;li&gt;financial redistribution - either as a one time donation or &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;recurring contribution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Write 📝</title>
+   <link href="http://localhost:4000/write"/>
+   <updated>2022-08-01T00:00:00+00:00</updated>
+   <id>http://localhost:4000/write</id>
+   <content type="html">&lt;p&gt;Sometimes it’s good to have a digital place where I can just jump start the process of writing.&lt;/p&gt;
+
+&lt;p&gt;In my case, it’s an obsidian note called:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Write 📝
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;It comes in handy in times like today, when after a longish break from consistent writing, I want to come back to it being a daily habit.&lt;/p&gt;
+
+&lt;p&gt;Building habits it’s simple but not easy.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, I have very good (and urgent) motivation, manifested as tupperware boxes overflowing with cards full of community-generated ideas which I just compiled into multiple decks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cards-in-boxes.jpg&quot; alt=&quot;Cards in Boxes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I love deckbuilding. It takes me back to the wonderful times browsing through &lt;em&gt;Magic the Gathering&lt;/em&gt; cards and imagining possibilities ad infinitum.&lt;/p&gt;
+
+&lt;p&gt;But now, instead of duelling against another wizard with the objective to take his lives down to zero by causing mischief, I am creating games, resources, and stories with a deep heart’s desire to accelerate the process of planetary regeneration.&lt;/p&gt;
+
+&lt;p&gt;It might be a futile mission, but also - the only one that makes sense for me right now.&lt;/p&gt;
+
+&lt;p&gt;Notwithstanding, I’ve met a wonderful tribe of dreamers who share this path with me, each in their own unique way - and I like creating together with them. They make me laugh, and it feels good to be in a place where laughter is the official language.&lt;/p&gt;
+
+&lt;p&gt;So, with a sudden flare of creativity, I went to the &lt;em&gt;Cabinete de Transformation&lt;/em&gt;, put on a flamboyant outfit, and proclaimed myself an artist.&lt;/p&gt;
+
+&lt;p&gt;After all, it was the &lt;em&gt;Abela Artfaire&lt;/em&gt; - a regenerative faire where everyone is an artist.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/tdf-cabinete-transformation.jpg&quot; alt=&quot;Artists&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The pic is from a different occasion at TDF, but you get the vibes.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The rest, so they say, is history, and a good one for that, but I’ll not tell it here (although, since this is a digital playground, I’ll leave [this space] to provide a link which perhaps will take you to that other story some time. But not today.)&lt;/p&gt;
+
+&lt;p&gt;For now, let’s rewind into the future, which happens to be my current state of present, with a quick recap:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Soooo many carrrrrrrrrrrrrrrrds&lt;/li&gt;
+  &lt;li&gt;Each of them containing concepts that weave together beautifully into decks&lt;/li&gt;
+  &lt;li&gt;Decks are games, articles, books, meta reflections, illustrations, quotes and other spells, ready to be casted&lt;/li&gt;
+  &lt;li&gt;The most important lesson I’ve learned recently (drumroll) is to &lt;em&gt;ask&lt;/em&gt;. Ask for help. Ask precisely for what you need, which 1) helps to clarify what is needed 2) makes it easy for people around me to provide the best help they can, which often tends to be precisely what I need, or something even better.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;POW.&lt;/p&gt;
+
+&lt;p&gt;Co-creation is magic.&lt;/p&gt;
+
+&lt;p&gt;I’m experimenting with two containers for co-creation, focusing on regenerative games and how community-generated non-digital art and self-expression can be a form of healing and deepening interpersonal relationships.&lt;/p&gt;
+
+&lt;p&gt;After all, emotional maturity and wellbeing, are a critical aspect of any co-living arrangement.&lt;/p&gt;
+
+&lt;p&gt;Learning requires practice, and games are a wonderful container for that. Games are fun. Fun is essential. All work and no fun makes Jack a dull boy.&lt;/p&gt;
+
+&lt;p&gt;I don’t want to be dull.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Games are not only about play, though.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;They open possibilities to co-create in a safe container. A container can be designed to roll dice and divide and conquer, or to reimagine and collaborate.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I lean towards that second option.&lt;/p&gt;
+
+&lt;p&gt;And the best part is that when playing with(in) this containers, I feel like the right person in the right place at the right time.&lt;/p&gt;
+
+&lt;p&gt;According to one of my teachers, it’s a solid combo. I feel he has a point.&lt;/p&gt;
+
+&lt;p&gt;The key for me (and that’s another very powerful self-reflective insight) is to &lt;strong&gt;ask precisely for what I need, and create containers - for others and for myself - to create together&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Containers for Regenerative Co-creation&lt;/p&gt;
+
+&lt;p&gt;Let’s coin that one ⤴.&lt;/p&gt;
+
+&lt;p&gt;This note in obsidian is one of these containers.&lt;/p&gt;
+
+&lt;p&gt;I came here because I felt like writing something, but I felt too much resistance to work on anything specific. To be more accurate - the feeling was some kind of a fantastic cocktail based on lack of practice stirred with decision paralysis and performance anxiety, topped up with a hint of counterproductive perfectionism.&lt;/p&gt;
+
+&lt;p&gt;Gulp, gulp. I’m fucked.&lt;/p&gt;
+
+&lt;p&gt;That’s why this note exists.&lt;/p&gt;
+
+&lt;p&gt;It’s a note with simple instructions, typed in bold colourful letters in order to grab my attention and encourage me to jump over the hoop of inaction - immediately and without thinking.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/write-note.png&quot; alt=&quot;Write. Letters, Words, Conversations. If It is text write it here&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I guess what I wrote here is a good testimonial for its’ functioning.&lt;/p&gt;
+
+&lt;p&gt;But the pure magic happens of course, when it’s not just me creating.&lt;/p&gt;
+
+&lt;p&gt;The cards, the games are roots of the moments shared when playing together in a physical space without digital mediation. Being together in a creative space. Creating instead of consuming. Playing.&lt;/p&gt;
+
+&lt;p&gt;These moment feel hearts with joy and reignite the spark that keeps the inextinguishable fire of playful creativity going.&lt;/p&gt;
+
+&lt;p&gt;We are regenerating ourselves and regenerating the world.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Within</title>
+   <link href="http://localhost:4000/within"/>
+   <updated>2022-05-24T00:00:00+00:00</updated>
+   <id>http://localhost:4000/within</id>
+   <content type="html">&lt;p&gt;The phone life&lt;br /&gt;
+is definitely not&lt;br /&gt;
+the life I want to live&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay, so what is&lt;br /&gt;
+the life I do want to live,&lt;br /&gt;
+and, in case it is not&lt;br /&gt;
+precisely the life I am living,&lt;br /&gt;
+then why am I not living&lt;br /&gt;
+the life I want?&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The truth is&lt;br /&gt;
+that I can&lt;br /&gt;
+and the only thing&lt;br /&gt;
+stopping me is myself&lt;br /&gt;
+which is actually a scary thought&lt;br /&gt;
+because why would I&lt;br /&gt;
+sabotage myself&lt;br /&gt;
+and sacrifice my own wellbeing&lt;br /&gt;
+for other stuff,&lt;br /&gt;
+from which at least a chunk&lt;br /&gt;
+is crap.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;It is indeed a mystery&lt;br /&gt;
+and to relieve myself from misery&lt;br /&gt;
+I am pausing myself right now&lt;br /&gt;
+to ask:&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What is the life I want to live?&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And, in case it is not&lt;br /&gt;
+precisely the life I am living then&lt;br /&gt; 
+why is that?&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I can change all on a whim&lt;br /&gt;
+all it takes is to face the storm&lt;br /&gt; 
+within.&lt;/p&gt;
+
+&lt;p&gt;🌀&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Within” came out as I was waiting in a sailors bar, pondering on two important questions: 1) why am I not sailing as a lifestyle, and 2) why sailors who enter the bar are not wearing big flamboyant hats.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Cabin</title>
+   <link href="http://localhost:4000/cabin"/>
+   <updated>2022-05-17T00:00:00+00:00</updated>
+   <id>http://localhost:4000/cabin</id>
+   <content type="html">&lt;p&gt;(I couldn’t help myself… I had to begin with quoting &lt;em&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ua1FAlHt_Ys&quot; target=&quot;_blank&quot;&gt;The Cabin&lt;/a&gt;&lt;/em&gt; by Ylvis).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Let me take you to my favourite place, just a five hours drive from a city.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pico-road.jpeg&quot; alt=&quot;Pico Road&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Just follow the road until it stops, and then walk for another forty minutes.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/footerino-trail.jpeg&quot; alt=&quot;Trail&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;And then, out of nowhere, there it is - my Cabin&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cabin-back.jpeg&quot; alt=&quot;The Cabin from behind&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/michal-cabin.jpeg&quot; alt=&quot;Michal inside the Cabin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I lived in many homes and this one was my favourite - a tiny wooden cabin in the middle of a beautiful forest, with a window into the Ocean.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cabin-view.jpeg&quot; alt=&quot;View from the Cabin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1526484139096133632?s=20&amp;amp;t=d8DQ9lLtbyR4mR3veMCusQ&quot;&gt;(tweet with drone video flying though that view)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I was given an opportunity to live here and customise the insides to fit my lifestyle. Wood is a perfect canvas. Over a few months the Cabin transformed into a powerful creativity boosting power place, and a blueprint for my future Home.&lt;/p&gt;
+
+&lt;p&gt;Before:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cabin-empty.jpeg&quot; alt=&quot;Empty Cabin&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cabin-inside.jpeg&quot; alt=&quot;Inside the Cabin&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-info&quot;&gt;Technical Info&lt;/h2&gt;
+&lt;p&gt;Inside Area: 3x3m2&lt;br /&gt;
+Approx build cost: €3500&lt;br /&gt;
+Electricity from the grid, no water&lt;br /&gt;
+Not insulated&lt;br /&gt;
+Roof: Double tin with foam&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Blueprint design:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cabin-plan.jpeg&quot; alt=&quot;Cabin Blueprint&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;would-you-like-a-tour&quot;&gt;Would you like a tour?&lt;/h2&gt;
+
+&lt;p&gt;Here’s a &lt;a href=&quot;https://youtu.be/vZvlIwDDLfA&quot; target=&quot;_blank&quot;&gt;youtube video&lt;/a&gt; where I’ll show you around.&lt;/p&gt;
+
+&lt;h2 id=&quot;reflections&quot;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;A wise man once said that it takes three houses to build a perfect one. While I haven’t built the cabin myself (I only helped a bit with finishing and did some interior improvements), it gives me a great starting point for creating my first home, whenever the time for it comes.&lt;/p&gt;
+
+&lt;p&gt;A few improvements I’d consider doing with the cabin design:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;&lt;strong&gt;Sand and varnish all the wood inside&lt;/strong&gt; - without it there’s plenty of wood dust, which can’t be too healthy to breathe.&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Invest in good doors&lt;/strong&gt; - the doors to the cabin are not very thick and in very heavy rainfall the water comes through.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Opening windows at the top&lt;/strong&gt; - this would add an easy way to keep the air flowing in times when opening the front doors is not a viable option.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Add a wood burning stove&lt;/strong&gt; - this is a bit tricky, since it’s a tiny wooden house, but there must be a way to have a tiny wooden stove inside to heat the place up in winter without relying on electricity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Consider adding insulation&lt;/strong&gt; - I’m not 100% sure about this because it would take some precious space, but it might be worthwhile especially on cold days. It would be a big improvement to add insulation at the roof only.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Soundproofing the roof&lt;/strong&gt; - when it rains it can get very loud inside. Insulation would do the trick.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Instal a basic water system outside&lt;/strong&gt; - I have a bucket with the water collected from the roof, which works, but adding a tiny bit of sophistication would be great.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Keep the food out&lt;/strong&gt; - it’s not the cabin’s fault per se (I just don’t have a good food storage around), but I’d much rather not keep my eating station inside.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Add a trap door / hidden back door&lt;/strong&gt; - for fun, and to have a second exit.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cat flap&lt;/strong&gt; for Kiki to move freely in and out 🐈.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other reflections:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;add 3m multiplug with 6 sockets, each with it’s own switch&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;deep-work-retreat&quot;&gt;Deep Work Retreat&lt;/h2&gt;
+&lt;p&gt;I’m on a quest to raise funds for a community land in Pico, with a forest, a community space and a few cabins serving as a deep work / creative / personal regeneration retreat centre.&lt;/p&gt;
+
+&lt;p&gt;If you’d like to help to make this dream a reality, have a look at this &lt;a href=&quot;https://docs.google.com/document/d/1Zbz3Ka5x7zVrJwBafn2mdW2oqRrdxNXoIMzwTkZiFIY/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;project brief&lt;/a&gt;. You can also support me directly via &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon&lt;/a&gt;  or michalroots.eth.&lt;/p&gt;
+
+&lt;h2 id=&quot;photos&quot;&gt;Photos&lt;/h2&gt;
+
+&lt;p&gt;First look at the Cabin:
+&lt;img src=&quot;/assets/cabin-first-look.jpeg&quot; alt=&quot;Cabin closed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;View from the forest:
+&lt;img src=&quot;/assets/cabin-tropical.jpeg&quot; alt=&quot;Cabin view&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;View from the top:
+&lt;img src=&quot;/assets/cabin-top.jpeg&quot; alt=&quot;Cabin view from above&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Kitchen corner:
+&lt;img src=&quot;/assets/cabin-kitchen.jpeg&quot; alt=&quot;Cabin kitchen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Desk space at night:
+&lt;img src=&quot;/assets/cabin-night-desk.jpeg&quot; alt=&quot;Cabin Desk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And final iteration of the workspace:
+&lt;img src=&quot;/assets/cabin-workspace.jpeg&quot; alt=&quot;Cabin Workspace&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Whiteboard space:
+&lt;img src=&quot;/assets/cabin-whiteboard.jpeg&quot; alt=&quot;Cabin whiteboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Functional corner:
+&lt;img src=&quot;/assets/cabin-tools.jpeg&quot; alt=&quot;Cabin tools and stuff&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The altar with Kiki:
+&lt;img src=&quot;/assets/cabin-kiki-altar.jpeg&quot; alt=&quot;Cabin Altar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Roof support structure:
+&lt;img src=&quot;/assets/cabin-roof-inside.jpeg&quot; alt=&quot;Cabin Roof&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Desk I built:
+&lt;img src=&quot;/assets/cabin-desk-build.jpeg&quot; alt=&quot;Cabin Desk&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My true form:
+&lt;img src=&quot;/assets/cabin-michal-constructor.jpeg&quot; alt=&quot;Cabin Michal Builds stuff&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1526571912213692417?s=20&amp;amp;t=R8mX0mHjSk87t1B7KKWO_A&quot; target=&quot;_blank&quot;&gt;Twitter Thread 🐦&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>No Words</title>
+   <link href="http://localhost:4000/no-words"/>
+   <updated>2022-05-12T00:00:00+00:00</updated>
+   <id>http://localhost:4000/no-words</id>
+   <content type="html">&lt;p&gt;He sits at the crossroads waiting for her&lt;br /&gt;
+and she appears waving&lt;br /&gt;
+from behind the curve&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;they sit still together feeling what needs to be said&lt;br /&gt;
+and yet &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;no words come out&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;so they wait&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;listening to the sound of birds &lt;br /&gt;
+and wind and time passing by&lt;br /&gt;
+there is clearly something in the air&lt;br /&gt;
+and yet &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;no words are coming out&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;a tear slides down her cheek&lt;br /&gt;
+merging with a soft smile&lt;br /&gt;
+there’s closeness embedded so deep&lt;br /&gt;
+and yet&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;there are no words coming out&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;he closes his eyes for a moment&lt;br /&gt;
+they know each other so well&lt;br /&gt;
+and when he looks up she is gone&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;and no words need to be said.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;👁&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;No Words came out after a powerful meeting without words.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pico Spring 2022 Community Gathering</title>
+   <link href="http://localhost:4000/pico-spring-community-gathering-2022"/>
+   <updated>2022-05-05T00:00:00+00:00</updated>
+   <id>http://localhost:4000/pico-spring-community-gathering-2022</id>
+   <content type="html">&lt;p&gt;Extensive documentation from our third community gathering in Pico Island, hosted in May 2022.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pico.microsolidarity.cc/crews-and-projects/spring-gathering-2022&quot; target=&quot;_blank&quot;&gt;Full documentation here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My role: co-hosting, facilitation, space-holding&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Walking Home</title>
+   <link href="http://localhost:4000/walking-home"/>
+   <updated>2022-05-03T00:00:00+00:00</updated>
+   <id>http://localhost:4000/walking home</id>
+   <content type="html">&lt;p&gt;I’m walking back into myself&lt;br /&gt;
+after taking a moment to look&lt;br /&gt;
+far far far far far away&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;seeing the stars brightening&lt;br /&gt; 
+me with their light&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;noticing parts&lt;br /&gt;
+oh so many parts&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;they are all here with me&lt;br /&gt;
+waiting to have their turn at speaking&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;and frankly, it’s quite awkward&lt;br /&gt;
+to hear all of them at once&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;they seem quite contradictory&lt;br /&gt;
+some of them have a very good sense of humour&lt;br /&gt;
+but others are just fucking angry all the time&lt;br /&gt;
+and you can’t have much of a conversation&lt;br /&gt;
+or at least not an intelligible one&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But here I am sitting with all of them&lt;br /&gt;
+and it’s fine&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;it’s okay&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m alright&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m brightened by light&lt;br /&gt;
+and it feels good to be standing here&lt;br /&gt; 
+watching the ocean fade into the night &lt;br /&gt;
+under the stars&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;they are so bright the stars&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;✨&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Walking Home is inspired by a moment with a friend, when we realised that in spite of what numerous demagogic voices of reason inside each of us claim sometimes: it is actually fine.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wave</title>
+   <link href="http://localhost:4000/wave"/>
+   <updated>2022-05-01T00:00:00+00:00</updated>
+   <id>http://localhost:4000/wave</id>
+   <content type="html">&lt;p&gt;🌀&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The wave passes away,&lt;br /&gt;
+and I stand firmly on the ground,&lt;br /&gt;
+ready to fly.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I smile.&lt;br /&gt;
+Wholeheartedly.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And then, &lt;br /&gt;
+Within a blink of an eye,&lt;br /&gt; 
+I’m gone.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;To another life.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;🐦&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally published in &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-parallel&quot; target=&quot;_blank&quot;&gt;Moonly Review 🌑 Parallel&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Personal Website Flow (Full Version) - How I Use This Website</title>
+   <link href="http://localhost:4000/personal-website-flow-full"/>
+   <updated>2022-05-01T00:00:00+00:00</updated>
+   <id>http://localhost:4000/personal-website-flow-full</id>
+   <content type="html">&lt;p&gt;Context: This article is a full version of the original article, which you can find &lt;a href=&quot;/personal-website-flow&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. This version is updated, the other is the original commit. Choose wisely.&lt;/p&gt;
+
+&lt;p&gt;🧙‍♂️&lt;/p&gt;
+
+&lt;p&gt;My personal website is pretty much targeted for me - so I can publish as much as possible.&lt;/p&gt;
+
+&lt;p&gt;The fact that it’s live online, adds some pressure on the quality of what I publish, but more importantly helps me overcome my perfectionistic tendencies. For context, it took me 3 months to write &lt;a href=&quot;https://medium.com/p/6f71e0954f0d&quot; target=&quot;_blank&quot;&gt;this article&lt;/a&gt;. It was worth it, but I could have done it in 2 weeks. I just kept getting stuck in perfecting, even if deep down I knew that it will never be perfect anyway, and that’s totally fine, too. In the end, the 2.5 months of extra time increased its final quality by 1%.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SAD TROMBONE PLAYS
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Well… Mistakes were made, and it seems that I learned something from them:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WEBSITE ENTERS
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here’s how it works:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I publish unfinished stuff, but I publish it consistently&lt;/strong&gt;. And since &lt;a href=&quot;/obsidian-to-github&quot; target=&quot;_blank&quot;&gt;everything is written and managed directly inside my Obsidian vault&lt;/a&gt;, which is the central point of my digital &lt;a href=&quot;/focus&quot; target=&quot;_blank&quot;&gt;focus&lt;/a&gt;, I can update anything I publish effortlessly, at any time, on my laptop or phone. I press Alt+Tab, write a letter “g” (for GitHub Desktop to appear as the first result) and press enter. Then click “commit to main” and finalise the process by clicking “push origin”. Robots do their work, and the website is updated.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/github-desktop.jpg&quot; alt=&quot;Screenshot Github Desktop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It takes me approximately 2 seconds.&lt;/p&gt;
+
+&lt;p&gt;I keep seeing all my files on the left. Folder structure includes (among other things) three web projects (my personal website, &lt;a href=&quot;https://journalsmarter.com&quot; target=&quot;_blank&quot;&gt;journalsmarter&lt;/a&gt; and &lt;a href=&quot;https://pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;microsolidarity in pico&lt;/a&gt;), each with /assets folder containing images. I can manipulate all files, restructure websites, move files from one project to another, link in between etc, and then in 2 seconds all changes are published.&lt;/p&gt;
+
+&lt;p&gt;This is the first part of my strategy, which is complimented by the fact that not many people read my personal website (or at least I assume so, and I have no data to check, because the site has no tracking of any sort, which is a deliberate decision because I find tracking on the internet quite creepy. But I digress). Not many readers = not much pressure, in fact it’s probably just me and you right now who have ever visited this page.&lt;/p&gt;
+
+&lt;p&gt;No resistance to publish + no pressure to publish is a combo that really does it for me.&lt;/p&gt;
+
+&lt;p&gt;Here’s my current example:&lt;/p&gt;
+
+&lt;p&gt;I was editing a &lt;a href=&quot;/illuminated&quot; target=&quot;_blank&quot;&gt;poem&lt;/a&gt; which I wrote during a sailing trip which begun the transition into the chapter of my life that has just concluded as I write these words right now (okay, not exactly, but the actual day of the new beginning is only a couple of days off, which makes me smile feeling into the magical world of synchronicities).&lt;/p&gt;
+
+&lt;p&gt;As I was editing the poem, an idea bounced into my mind: to start writing a meta article about my writing workflow, because it feels like a useful gift I could offer to someone who’d like to make writing a self-inflicted addiction.&lt;/p&gt;
+
+&lt;p&gt;That’s kinda what happened to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I struggled to build a digital publishing habit, so I turned it into addiction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;( I can feel my certified habit coach part giving me a shoulder pat as I type these words, btw. )&lt;/p&gt;
+
+&lt;p&gt;I clicked Ctrl+N, abandoned the poem for a while (we’ll come back to it later), and begun writing a new note with a raw title How I Use My Personal Website.&lt;/p&gt;
+
+&lt;p&gt;I furiously typed the next 598 words. Breath. 600.&lt;/p&gt;
+
+&lt;p&gt;Then took this screenshot:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/600.jpg&quot; alt=&quot;600 words typed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(There will be a few more in this article - I’ve been taking them occasionally since I want to show how I do it, instead of just telling the story.)&lt;/p&gt;
+
+&lt;p&gt;If I’d like to publish it right now, I’d rename the name of the note by clicking on it - so it can be formatted for publishing. I’d call it:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2022-04-18-personal-website-flow
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Which would make me consider the title of this article. In the past I’d obsess about finding a perfect title, but now I’d just leave it as it is, noticing my recovering perfectionist part closing its eyes with horror!&lt;/p&gt;
+
+&lt;p&gt;🙈&lt;/p&gt;
+
+&lt;p&gt;The part would get absolutely terrified, as it would begin following the note with this article being moved into the folder containing my published website.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/web/heymichal.github.io/_posts
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;At this point I actually went through the steps I just outlined, which brought the third look at the title of this article, which resulted in a decision to call it:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Personal Website Flow - How I Use This Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Not perfect, but good enough for now and safe enough to try.&lt;/p&gt;
+
+&lt;p&gt;I’ve copy-pasted the front matter from another post (I could have inserted it from template to make it faster), which forced me to add a description and relevant tags.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/front-matter.jpg&quot; alt=&quot;Screenshot of front matter&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And just like that this note is ready to publish.&lt;/p&gt;
+
+&lt;p&gt;2&lt;/p&gt;
+
+&lt;p&gt;1&lt;/p&gt;
+
+&lt;p&gt;🚀&lt;/p&gt;
+
+&lt;p&gt;It’s live.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/article-published.jpg&quot; alt=&quot;Screenshot of article showing on my website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Please note that it’s imperfect as fuck.&lt;/p&gt;
+
+&lt;p&gt;I mean there is a paragraph typed below that I wrote before and decided not to include, but felt bad to delete it because it feels like a good paragraph to come back to at some point. Moreover, there are no screenshots included, and the links are all missing.&lt;/p&gt;
+
+&lt;p&gt;Definitely suboptimal.&lt;/p&gt;
+
+&lt;p&gt;But here’s the most important thing:&lt;/p&gt;
+
+&lt;p&gt;I just published a 911 words article in 20 minutes or so. That’s a second thing I published today.&lt;/p&gt;
+
+&lt;p&gt;Hey, I might tweet it, just for the laughs. I feel like it’s something that &lt;a href=&quot;https://twitter.com/ungatedcreative&quot; target=&quot;_blank&quot;&gt;Rob&lt;/a&gt; would appreciate.&lt;/p&gt;
+
+&lt;p&gt;As I get ready to copy the link so I can place it into the tweet, I start reading the published article. Perfect - I’ll catch some basic spelling mistakes and small shit like that. I won’t bother with deep proof reading, images or links.&lt;/p&gt;
+
+&lt;p&gt;⏳&lt;/p&gt;
+
+&lt;p&gt;Proofreading is now complete, which means I can cmd+Tab to GitHub Desktop and commit.&lt;/p&gt;
+
+&lt;p&gt;That is all, folks.&lt;/p&gt;
+
+&lt;p&gt;Funny enough, I decide not to take this final step right now, because I notice that lonely paragraph again, and on an impulse decide to make it an integral part of this article, rather than leaving a few random lines at the end of the article completely out of context. I guess that’s fair to you..&lt;/p&gt;
+
+&lt;p&gt;To give context, we need to return to the poem.&lt;/p&gt;
+
+&lt;p&gt;I was editing it so I can get it ready for a spoken word collaboration with &lt;a href=&quot;https://instil.bandcamp.com/&quot; target=&quot;_blank&quot;&gt;João Moreira&lt;/a&gt; - one of the two Portuguese men whom I connected with deeply many years back in Albania, and on my return to Edinburgh which was my home at the time, I immediately booked my tickets to Portugal to fly there 2 months later. It turned out that I’d find a Person I would spend 8 years together with, and eventually move to Portugal, where I’m living now (although it’s not the continental part of Portugal).&lt;/p&gt;
+
+&lt;p&gt;Okay, tangent finished. It’s still random. Forgive me.&lt;/p&gt;
+
+&lt;p&gt;In any case, the poem is still awaiting editing, which is actually perfect, because I feel like my work here is done for now.&lt;/p&gt;
+
+&lt;p&gt;I just need two clicks to republish this article, send the link to Rob, and then come back to what I was doing, before a sudden breeze of air would bring me here together with you.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;BIRDS SURFING OCEAN WIND VIDEO
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1511800475422711811?s=20&amp;amp;t=6XU3FUkpNfkxCtINWEKRIg&quot; target=&quot;_blank&quot;&gt;video in tweet&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;I used to be a turtle.&lt;/p&gt;
+
+&lt;p&gt;Now I am a bird.&lt;/p&gt;
+
+&lt;p&gt;🐦&lt;/p&gt;
+
+&lt;p&gt;ps. Next time we meet in person, feel free to ask me to greet you with the wonderfully strange bird call from the island located not too far from the Atlantis. I have a feeling you will love it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1516193384037502984?s=20&amp;amp;t=EoUU6kttWTMCyMREqxUf4A&quot; target=&quot;_blank&quot;&gt;tweet proof&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Funny: the &lt;em&gt;obsidian&lt;/em&gt; I tagged in that tweet is the wrong one 😂 )&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Productivity Juggling 🤹‍♀️</title>
+   <link href="http://localhost:4000/productivity-juggling"/>
+   <updated>2022-04-29T00:00:00+00:00</updated>
+   <id>http://localhost:4000/productivity-juggling</id>
+   <content type="html">&lt;p&gt;Earlier today, a friend reached out asking to cancel our learning pod meeting. It seems that calls and other stuff took over her day, and she forgot to keep some free time to eat.&lt;/p&gt;
+
+&lt;p&gt;I replied immediately:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/no-breaks.jpg&quot; alt=&quot;Tranquilo, let&apos;s skip the pod. We could both use a food break.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For context, I’m the guy who loves free space in calendars, async work and time away from digital devices. Considering that my last few weeks are basically &lt;em&gt;non-stop action&lt;/em&gt; from morning to late at night, it seems like now is a good moment to pause and ask myself gently:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;WTF ARE YOU DOING, MICHAŁ?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Checking in to my Enspiral Work Pod was a perfect opportunity to reflect on that question. Here’s what came up:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I know very well that this is not sustainable modus operandi and I know that in the next week I will make an effort to increase the amount of free space in my day. On the other hand, I’ve noticed that &lt;strong&gt;in order to keep up with all the open projects I’m fuelling my energy into at the moment, I needed to step up my personal productivity game, and drop some projects that I just couldn’t keep up with anymore.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In other words, the times of &lt;em&gt;nakurw&lt;/em&gt; {roughly translated as “full fucking thrust”} forced me to cut the crap and develop a super effective way of juggling all my things to do without even noticing.&lt;/p&gt;
+
+&lt;p&gt;After all I am a juggler.&lt;/p&gt;
+
+&lt;p&gt;🤹‍♀️&lt;/p&gt;
+
+&lt;p&gt;Let’s geek out on this for a bit, shall we?&lt;/p&gt;
+
+&lt;h2 id=&quot;1-braindump-into-obsidian&quot;&gt;1. Braindump into Obsidian&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;When in doubt - Braindump ✅
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Obsidian is the central point of my digital focus. I write everything there and continuously &lt;a href=&quot;/personal-website-flow&quot; target=&quot;_blank&quot;&gt;optimise it for effortlessness&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So: I created a note called &lt;code&gt;Braindump ✅&lt;/code&gt; and started dumping all the shit I want to do there.&lt;/p&gt;
+
+&lt;p&gt;It’s kinda like a backlog, but I don’t need another app for it.&lt;/p&gt;
+
+&lt;p&gt;I progressively edit the list every time I look at it, which is kinda all the time, and rearrange the order of items in order of priority. Whenever I notice resistance suggesting that a task is too big to execute, or not clear enough, I replace it with a smaller version of that task, or define it better.&lt;/p&gt;
+
+&lt;p&gt;I also added some basic guidance on top:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/braindump-note.jpg&quot; alt=&quot;braindump note image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In this example “tax return” is way too big, and I replaced with a single step from my accounting checklist.&lt;/p&gt;
+
+&lt;p&gt;Whenever I complete a task, I move it to the &lt;code&gt; done ✅&lt;/code&gt; section below all the tasks and feel the boost of endorfins kicking in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/braindump-done.jpg&quot; alt=&quot;done section screenshot&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;2-timebox-in-proton-calendar&quot;&gt;2. Timebox in Proton Calendar&lt;/h2&gt;
+
+&lt;p&gt;I timebox almost everything into my calendar, including meetings and work slots.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/calendar-full.jpg&quot; alt=&quot;Screenshot of calendar&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For work slots, I write specific tasks I intend on executing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/calendar-details.jpg&quot; alt=&quot;Details of work slot event&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;During the day I just follow the plan and dynamically adjust calendar events as needed. Whenever a task is done, I mark it as ✅.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/calendar-done.jpg&quot; alt=&quot;Screenshot of tasks done&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;3-reply-immediately&quot;&gt;3. Reply Immediately&lt;/h2&gt;
+
+&lt;p&gt;I use the octopus of my digital communication channels (Signal, Telegram, Whatsapp, Email, Slack, Discord…) to dynamically brainstorm, schedule, and move tasks forward.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When working with others, I aim to reply as soon as possible in order to leave the ball at their side.&lt;/strong&gt; This way I don’t need to remember to do something - it eventually comes back to me whenever the other person is ready to bounce it back. Most people take their sweet time to reply, which is perfect because it gives me time for other tasks.&lt;/p&gt;
+
+&lt;p&gt;Of course, this is not a perfect system and I’m not perfect either, duh.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I take much longer to reply, or forget to follow up on something. In any case, it works most of the times, and if a task is mission critical, it is recorded somewhere else, so I won’t forget about it completely. Worst case scenario it will take me longer to get around to it.&lt;/p&gt;
+
+&lt;p&gt;OK Computer, that’s it for the digital stuff.&lt;/p&gt;
+
+&lt;p&gt;💻&lt;/p&gt;
+
+&lt;p&gt;Let’s zoom out for a bit into the good, old &lt;em&gt;organic&lt;/em&gt; world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/workspace-analogue-digital.jpg&quot; alt=&quot;Digital workspace meets analogue workspace photos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1511726656225951749?s=20&amp;amp;t=JFqgepDm9tEie5q5p67bIA&quot; target=&quot;_blank&quot;&gt;twitter thread&lt;/a&gt; about my digital and analogue workspace.)&lt;/p&gt;
+
+&lt;h2 id=&quot;4-journal-it-all&quot;&gt;4. Journal-it-All&lt;/h2&gt;
+
+&lt;p&gt;My journal is my swiss-army-knife and One Ring to Rule Them All.&lt;/p&gt;
+
+&lt;p&gt;I journal everyday with &lt;a href=&quot;https://infinitysquares.xyz&quot; target=&quot;_blank&quot;&gt;Infinity Squares&lt;/a&gt;, as well as record tons of information, brainstorm, process, meditate and so on. Journaling is the key practice in my life, and the longest habit I kept consistently -&amp;gt; I haven’t skipped a day since 2017, or something like that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/journal-shelf.jpg&quot; alt=&quot;Bookshelf with journals&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While I prefer my digital tools for day-to-day tasks and calendar management, &lt;strong&gt;pen and paper is king for brainstorming and continuously re-aligning with my Big Dreams.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s an example of my &lt;a href=&quot;https://journalsmarter.com/new-moon-journaling&quot; target=&quot;_blank&quot;&gt;Moonly Page&lt;/a&gt; with the Squares, intentions, and important notes-to-self, which I want to see every day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/moonly-squares-forest.jpg&quot; alt=&quot;Moonly Spread with Infinity Squares&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And here’s brainstorming / structuring a workshop to boost an Enspiral friend on her new business venture:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/journal-an-boost.jpg&quot; alt=&quot;scan journal brainstorming page&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;5-whiteboard&quot;&gt;5. Whiteboard&lt;/h2&gt;
+
+&lt;p&gt;I have a whiteboard. I love whiteboards. I use it mostly to incubate ideas over a period of a few days. I write/draw stuff whenever I feel like, until incubation process is completed and I can turn an idea into reality.&lt;/p&gt;
+
+&lt;p&gt;Here’s a half-incubated participatory experience called &lt;a href=&quot;/merging&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;Merging&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/whiteboard-merging.jpg&quot; alt=&quot;Whiteboard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s it, folks.&lt;/p&gt;
+
+&lt;p&gt;Simple, fast, efficient.&lt;/p&gt;
+
+&lt;p&gt;The next step is to keep this system running while I dramatically reduce the intensity of my calendar and sink into the magical forest where I’m blessed to live.&lt;/p&gt;
+
+&lt;p&gt;Wish me luck.&lt;/p&gt;
+
+&lt;p&gt;🌳&lt;/p&gt;
+
+&lt;p&gt;Oh, and It would be sweet if you’d consider channeling some cashish into my &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon&lt;/a&gt;, especially if this was helpful / fun to read. In any case, thank you for being here 💜. In fact, thank you for Being!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Illuminated</title>
+   <link href="http://localhost:4000/illuminated"/>
+   <updated>2022-04-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/illuminated</id>
+   <content type="html">&lt;p&gt;Context: I wrote this text while at sea (original scan at the end), a couple of days after departing from Edinburgh, which used to be my Home for seven years, and it still does feel like my hometown somehow.&lt;/p&gt;
+
+&lt;p&gt;Back then, I sailed into a new chapter of my life, which funny enough is now about to end with another &lt;a href=&quot;/sailing&quot; target=&quot;_blank&quot;&gt;sailing&lt;/a&gt; adventure taking me to whatever awaits next.&lt;/p&gt;
+
+&lt;p&gt;I’m in the process of recording this text as a spoken-word-music collaboration with &lt;a href=&quot;https://instil.bandcamp.com/album/wide-spectrum-of-beautiful-chaos&quot; target=&quot;_blank&quot;&gt;João Moreira aka Instil&lt;/a&gt;. For now the pre-premiere version is &lt;a href=&quot;https://www.patreon.com/posts/illuminated-pre-66220721&quot; target=&quot;_blank&quot;&gt;available for my Patrons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;⛵️&lt;/p&gt;
+
+&lt;p&gt;Time is gone&lt;br /&gt;
+and along with the sea&lt;br /&gt;
+my heart is beating&lt;br /&gt;
+setting the tone&lt;br /&gt;
+for discovery&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m floating and believing&lt;br /&gt;
+That what I still can’t see&lt;br /&gt;
+Is right there&lt;br /&gt;
+in front of me&lt;br /&gt;
+waiting patiently&lt;br /&gt;
+until I’m ready &lt;br /&gt;
+to notice.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m gone&lt;br /&gt;
+and I’m here&lt;br /&gt;
+the same,&lt;br /&gt;
+but always different.&lt;br /&gt;
+and it’s hard to put this feeling into words, &lt;br /&gt;
+so I convince myself that&lt;br /&gt;
+perhaps there is no point&lt;br /&gt;
+in doing so.&lt;br /&gt;
+And I float&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;on words words words&lt;br /&gt;
+that matter not&lt;br /&gt;
+sailing my desires&lt;br /&gt;
+towards true north&lt;br /&gt;
+fully aligned &lt;br /&gt;
+with this present moment&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;What a bliss!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And I am grateful for every breath and sound &lt;br /&gt;
+every passing wave we found&lt;br /&gt;
+gently caressing the hull &lt;br /&gt;
+of this sweet abyss.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Sun is about to kiss&lt;br /&gt;
+the horizon, bringing yet another night&lt;br /&gt;
+at sea&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My soul is singing peacefully&lt;br /&gt;
+with sweet melodies&lt;br /&gt;
+of tranquility&lt;br /&gt;
+I now found&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is so much space around! &lt;br /&gt;
+So much to fill with joy&lt;br /&gt;
+and birds are calling us down&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is so much to witness!&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is so much life around! &lt;br /&gt;
+And our little boat is an integral part&lt;br /&gt; 
+of the infinite vastness of truth, &lt;br /&gt;
+moving through the waves that found&lt;br /&gt; 
+us, &lt;br /&gt;
+as we cross gently&lt;br /&gt;
+Towards the open horizon&lt;br /&gt; 
+Towards the setting Sun&lt;br /&gt;
+Towards an undefined place&lt;br /&gt;
+at the right pace&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;A pace that feels right.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re moving slowly &lt;br /&gt;
+Deliberately&lt;br /&gt;
+Taking time to breathe&lt;br /&gt;
+and sing with courage&lt;br /&gt;
+In tune with the world &lt;br /&gt;
+we’re a part of.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As fast as the wind permits.&lt;br /&gt; 
+As fast as our dreams.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We grow &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;We grow and let go and move on&lt;br /&gt;
+To finally feel at ease &lt;br /&gt;
+At home.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And who knows…&lt;br /&gt;
+Maybe one day I’ll find you on a journey towards a distant shore? &lt;br /&gt;
+Being mesmerised&lt;br /&gt;
+for a few moments more&lt;br /&gt;
+together&lt;br /&gt;
+in awe&lt;br /&gt;
+with the everpresent water&lt;br /&gt;
+carrying us away&lt;br /&gt;
+Wherever we would like to go&lt;br /&gt;
+provided that the Ocean will be kind&lt;br /&gt; 
+to our Souls&lt;br /&gt;
+and our fragile bodies&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There is no need to fear this magnificent old being.&lt;br /&gt;
+Fear kills&lt;br /&gt;
+by clouding hearts&lt;br /&gt;
+with dread&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Instead, &lt;br /&gt;
+Let’s Be Courage, Love and Respect,&lt;br /&gt;
+being grateful for every breath&lt;br /&gt;
+and every mile behind us&lt;br /&gt;
+and in front of us&lt;br /&gt;
+And again&lt;br /&gt;
+Let’s sing together with the roaring wind &lt;br /&gt;
+and dance on every passing wave&lt;br /&gt;
+celebrating being alive &lt;br /&gt;
+and awake&lt;br /&gt;
+right now&lt;br /&gt;
+right Here &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;we are present&lt;br /&gt;
+pure and vulnerable,&lt;br /&gt;
+Facing our true essence:&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Being weak, &lt;br /&gt;
+and strong enough to admit it.&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;adrift with purpose&lt;br /&gt;
+and committed&lt;br /&gt;
+to the heartbeat of the Earth&lt;br /&gt;
+dreaming awake&lt;br /&gt;
+tuned and reflected &lt;br /&gt;
+in patterns&lt;br /&gt;
+of the waves&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;illuminated&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;and &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;connected&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Scan of the original text below:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/illuminated.jpg&quot; alt=&quot;Scan of the original text from my journal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;22 May 2017&lt;br /&gt;
+54°12.444 N&lt;br /&gt;
+13°30.290 E&lt;/em&gt;&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Personal Website Flow - How I Use This Website</title>
+   <link href="http://localhost:4000/personal-website-flow"/>
+   <updated>2022-04-18T00:00:00+00:00</updated>
+   <id>http://localhost:4000/personal-website-flow</id>
+   <content type="html">&lt;p&gt;Context: This article is deliberately unfinished to illustrate a point. It will all make sense, I promise. I also created a &lt;a href=&quot;/personal-website-flow-full&quot; target=&quot;_blank&quot;&gt;full version here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;🐦&lt;/p&gt;
+
+&lt;p&gt;My personal website is pretty much targeted for me - so I can publish as much as possible.&lt;/p&gt;
+
+&lt;p&gt;The fact that it’s live online, adds some pressure on the quality of what I publish, but more importantly helps me overcome my perfectionistic tendencies. For context, it took me 3 months to write [this article]. It was worth it, but I could have done it in 2 weeks. I just kept getting stuck in perfecting, even if deep down I knew that it will never be perfect anyway, and that’s totally fine, too. In the end, the 2.5 months of extra time increased it’s final quality by 1%.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;SAD TROMBONE PLAYS
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Well… Mistakes were made, and it seems that I learned something from them:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;WEBSITE ENTERS
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here’s how it works:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I publish unfinished stuff, but I publish it consistently&lt;/strong&gt;. And since [everything is written and managed directly inside my Obsidian vault], which is the central point of my digital [focus], I can update anything I publish effortlessly, at any time, on my laptop or phone. I press Alt+Tab, write a letter “g” (for GitHub Desktop to appear as the first result) and press enter. Then click “commit to main” and finalise the process by clicking “push origin”. Robots do their work, and the website is updated.&lt;/p&gt;
+
+&lt;p&gt;It takes me approximately 2 seconds.&lt;/p&gt;
+
+&lt;p&gt;I keep seeing all my files on the left. Folder structure includes (among other things) three web projects (my personal website, [journalsmarter] and [microsolidarity in pico]), each with /assets folder containing images. I can manipulate all files, restructure websites, move files from one project to another, link in between etc, and then in 2 seconds all changes are published.&lt;/p&gt;
+
+&lt;p&gt;This is the first part of my strategy, which is complimented by the fact that not many people read my personal website (or at least I assume so, and I have no data to check, because the site has no tracking of any sort, which is a deliberate decision because I find tracking on the internet quite creepy. But I digress). Not many readers = not much pressure, in fact it’s probably just me and you right now who have ever visited this page.&lt;/p&gt;
+
+&lt;p&gt;No resistance to publish + no pressure to publish is a combo that really does it for me.&lt;/p&gt;
+
+&lt;p&gt;Here’s my current example:&lt;/p&gt;
+
+&lt;p&gt;I was editing a [poem] which I wrote during a sailing trip which begun the transition into the chapter of my life that has just concluded as I write these words right now (okay, not exactly, but the actual day of the new beginning is only a couple of days off, which makes me smile feeling into the magical world of synchronicities).&lt;/p&gt;
+
+&lt;p&gt;As I was editing the poem, an idea bounced into my mind: to start writing a meta article about my writing workflow, because it feels like a useful gift I could offer to someone who’d like to make writing a self-inflicted addiction.&lt;/p&gt;
+
+&lt;p&gt;That’s kinda what happened to me.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I struggled to build a digital publishing habit, so I turned it into addiction.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;( I can feel my [certified habit coach part] giving me a shoulder pat as I type these words, btw. )&lt;/p&gt;
+
+&lt;p&gt;I clicked Ctrl+N, abandoned the poem for a while (we’ll come back to it later), and begun writing a new note with a raw title How I Use My Personal Website.&lt;/p&gt;
+
+&lt;p&gt;I furiously typed the next 598 words. Breath. 600.&lt;/p&gt;
+
+&lt;p&gt;Then took this screenshot:&lt;/p&gt;
+
+&lt;p&gt;IMG&lt;/p&gt;
+
+&lt;p&gt;(There will be a few more in this article - I’ve been taking them occasionally since I want to show how I do it, instead of just telling the story.)&lt;/p&gt;
+
+&lt;p&gt;If I’d like to publish it right now, I’d rename the name of the note by clicking on it - so it can be formatted for publishing. I’d call it:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;2022-04-18-personal-website-flow
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Which would make me consider the title of this article. In the past I’d obsess about finding a perfect title, but now I’d just leave it as it is, noticing my recovering perfectionist part closing its eyes with horror!&lt;/p&gt;
+
+&lt;p&gt;🙈&lt;/p&gt;
+
+&lt;p&gt;The part would get absolutely terrified, as it would begin following the note with this article being moved into the folder containing my published website.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;/web/heymichal.github.io/_posts
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;At this point I actually went through the steps I just outlined, which brought the third look at the title of this article, which resulted in a decision to call it:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Personal Website Flow - How I Use This Website
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Not perfect, but good enough for now and safe enough to try.&lt;/p&gt;
+
+&lt;p&gt;I’ve copy-pasted the front matter from another post (I could have inserted it from template to make it faster), which forced me to add a description and relevant tags.&lt;/p&gt;
+
+&lt;p&gt;IMG&lt;/p&gt;
+
+&lt;p&gt;And just like that this note is ready to publish.&lt;/p&gt;
+
+&lt;p&gt;2&lt;/p&gt;
+
+&lt;p&gt;1&lt;/p&gt;
+
+&lt;p&gt;🚀&lt;/p&gt;
+
+&lt;p&gt;It’s live.&lt;/p&gt;
+
+&lt;p&gt;IMG&lt;/p&gt;
+
+&lt;p&gt;Please note that it’s imperfect as fuck.&lt;/p&gt;
+
+&lt;p&gt;I mean there is a paragraph typed below that I wrote before and decided not to include, but felt bad to delete it because it feels like a good paragraph to come back to at some point. Moreover, there are no screenshots included, and the links are all missing.&lt;/p&gt;
+
+&lt;p&gt;Definitely suboptimal.&lt;/p&gt;
+
+&lt;p&gt;But here’s the most important thing:&lt;/p&gt;
+
+&lt;p&gt;I just published a 911 words article in 20 minutes or so. That’s a second thing I published today.&lt;/p&gt;
+
+&lt;p&gt;Hey, I might tweet it, just for the laughs. I feel like it’s something that [Rob] would appreciate.&lt;/p&gt;
+
+&lt;p&gt;As I get ready to copy the link so I can place it into the tweet, I start reading the published article. Perfect - I’ll catch some basic spelling mistakes and small shit like that. I won’t bother with deep proof reading, images or links.&lt;/p&gt;
+
+&lt;p&gt;⏳&lt;/p&gt;
+
+&lt;p&gt;Proofreading is now complete, which means I can cmd+Tab to GitHub Desktop and commit.&lt;/p&gt;
+
+&lt;p&gt;That is all, folks.&lt;/p&gt;
+
+&lt;p&gt;Funny enough, I decide not to take this final step right now, because I notice that lonely paragraph again, and on an impulse decide to make it an integral part of this article, rather than leaving a few random lines at the end of the article completely out of context. I guess that’s fair to you..&lt;/p&gt;
+
+&lt;p&gt;To give context, we need to return to the poem.&lt;/p&gt;
+
+&lt;p&gt;I was editing it so I can get it ready for a spoken word collaboration with [João Moreira] - one of the two Portuguese men whom I connected with deeply many years back in Albania, and on my return to Edinburgh which was my home at the time, I immediately booked my tickets to Portugal to fly there 2 months later. It turned out that I’d find a Person I would spend 8 years together with, and eventually move to Portugal, where I’m living now (although it’s not the continental part of Portugal).&lt;/p&gt;
+
+&lt;p&gt;Okay, tangent finished. It’s still random. Forgive me.&lt;/p&gt;
+
+&lt;p&gt;In any case, the poem is still awaiting editing, which is actually perfect, because I feel like my work here is done for now.&lt;/p&gt;
+
+&lt;p&gt;I just need two clicks to republish this article, send the link to Rob, and then come back to what I was doing, before a sudden breeze of air would bring me here together with you.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;BIRDS SURFING OCEAN WIND VIDEO
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;I used to be a turtle.&lt;/p&gt;
+
+&lt;p&gt;Now I am a bird.&lt;/p&gt;
+
+&lt;p&gt;🐦&lt;/p&gt;
+
+&lt;p&gt;ps. Next time we meet in person, feel free to ask me to greet you with the wonderfully strange bird call from the island located not too far from the Atlantis. I have a feeling you will love it.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1516193384037502984?s=20&amp;amp;t=EoUU6kttWTMCyMREqxUf4A&quot;&gt;tweet proof&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blossoming</title>
+   <link href="http://localhost:4000/blossoming"/>
+   <updated>2022-04-18T00:00:00+00:00</updated>
+   <id>http://localhost:4000/blossoming</id>
+   <content type="html">&lt;p&gt;I’m here with you&lt;br /&gt;
+holding space&lt;br /&gt;
+curiously patiently&lt;br /&gt;
+getting to know you&lt;br /&gt;
+and yet &lt;br /&gt;
+I’m loosing myself&lt;br /&gt; 
+in seeking connection&lt;br /&gt;
+and somehow forget &lt;br /&gt;
+to take a breath&lt;br /&gt;
+and ask&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;instead&lt;br /&gt;
+I speak from the heart&lt;br /&gt;
+opening up &lt;br /&gt;
+yet taking space&lt;br /&gt; 
+that I wish to hold&lt;br /&gt;
+letting myself unfold&lt;br /&gt;
+into the night&lt;br /&gt;
+combining your essence&lt;br /&gt;
+with my luminescence&lt;br /&gt;
+so bright&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;eyes close &lt;br /&gt;
+eyes meet &lt;br /&gt;
+we breathe&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;you’re my guide&lt;br /&gt; 
+my teacher&lt;br /&gt;
+my mirror&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;making me aware&lt;br /&gt; 
+of uncomfortable truths&lt;br /&gt;
+for which I’m grateful&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m with you and them &lt;br /&gt;
+and all the questions &lt;br /&gt;
+with no comprehension&lt;br /&gt;
+floating around&lt;br /&gt;
+yet with courage anew&lt;br /&gt;
+drawing closer to you&lt;br /&gt;
+timelessly suspended &lt;br /&gt;
+our fears befriended&lt;br /&gt;
+witnessing a moment&lt;br /&gt;
+of blossoming&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Merging (Participatory Experience)</title>
+   <link href="http://localhost:4000/merging"/>
+   <updated>2022-04-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/merging</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/merging-poster.jpg&quot; alt=&quot;Merging Poster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Context: &lt;em&gt;Merging&lt;/em&gt; is participatory experience exploring the power of physical touch, co-created with &lt;a href=&quot;https://austejaliu.com&quot; target=&quot;_blank&quot;&gt;Austeja Liupševičiūtė&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My Role: concept, space-holding, facilitation&lt;/p&gt;
+
+&lt;p&gt;Magic: combining cacao and guided touch into a simple yet powerful experience.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I’m very moved. There are tears that want to come out right now and it’s quite difficult for me to put words to this experience.”
+– Marilou&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I could feel so much love and tenderness and openness in the room… It was so beautiful. It’s very precious to be a part of it.”
+– Silvia&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“I don’t know if my heart was as big before as I feel it now. I feel really connected to you… You are in me like little bubbles.”
+– Hanna&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;🐦 &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1513271448395292673?s=20&amp;amp;t=naTqrbmA4e9o-3LBlFgdUA&quot; target=&quot;_blank&quot;&gt;Twitter thread&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Touched</title>
+   <link href="http://localhost:4000/touched"/>
+   <updated>2022-04-06T00:00:00+00:00</updated>
+   <id>http://localhost:4000/touched</id>
+   <content type="html">&lt;p&gt;I’m falling asleep tonight &lt;br /&gt;
+having touched you &lt;br /&gt;
+having held you &lt;br /&gt;
+connected. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The doorway opened &lt;br /&gt;
+shaping a path towards your Soul &lt;br /&gt;
+and in a brief moment of courage &lt;br /&gt;
+I took a leap to move closer. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;You met me halfway &lt;br /&gt;
+our eyes met &lt;br /&gt;
+our souls met &lt;br /&gt;
+and so did our bodies &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;I felt shivers that moment &lt;br /&gt;
+the kind that shake me &lt;br /&gt;
+and make me feel &lt;br /&gt;
+alive &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;My body is still humming quietly &lt;br /&gt;
+as I sink into myself at night &lt;br /&gt;
+being present and being a part &lt;br /&gt;
+of you. &lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>New Moon Journaling</title>
+   <link href="http://localhost:4000/new-moon-journaling"/>
+   <updated>2022-03-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/new-moon-journaling</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;An article exploring my moonly journaling practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://journalsmarter.com/new-moon-journaling&quot; target=&quot;_blank&quot;&gt;Read on JournalSmarter&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gratitude Tokens</title>
+   <link href="http://localhost:4000/gratitude-tokens"/>
+   <updated>2022-03-24T00:00:00-01:00</updated>
+   <id>http://localhost:4000/gratitude-tokens</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Gratitude Tokens is a collaborative game designed to catalyse expressing gratitude within a community.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token.jpg&quot; alt=&quot;Gratitude Token&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;☀️ This game was prototyped with &lt;a href=&quot;https://www.linkedin.com/in/bart-hoorweg&quot; target=&quot;_blank&quot;&gt;Bart Hoorweg&lt;/a&gt; at the &lt;a href=&quot;https://traditionaldreamfactory.com&quot; target=&quot;_blank&quot;&gt;Traditional Dream Factory&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;🌱 If you’d like to encourage me to create more games, I invite you to become my &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon&lt;/a&gt; and/or offer a &lt;a href=&quot;/gift&quot; target=&quot;_blank&quot;&gt;gift&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;🐥 &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1507047355291471890?s=21&quot; target=&quot;_blank&quot;&gt;Twitter thread&lt;/a&gt; for the game.&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Gratitude is a state of the highest vibration. Gratitude Tokens play with the cryptocurrency mechanics, by creating a physical token incentivising expressing gratitude within a community in a playful way.&lt;/p&gt;
+
+&lt;h2 id=&quot;prep&quot;&gt;Prep&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Prepare tokens by cutting a thick branch into small coins. Make sure there’s at least one per person, plus a few additional tokens.&lt;/li&gt;
+  &lt;li&gt;Prepare a few markers and a pen.&lt;/li&gt;
+  &lt;li&gt;Grab a notebook (or a few pieces of paper) and create a Gratitude Token Ledger. Draw the Gratitude Token symbol on the cover page, then write tokenomics instructions on the first available page. You can then “mint” the first token and record the first entry in the ledger (see below).&lt;/li&gt;
+  &lt;li&gt;Optional but fun to have: a piece of paper stating: HODL ≠ GWYC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/hodl-gwyc.jpg&quot; alt=&quot;HODL ≠ GWYC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token-mining-station.jpg&quot; alt=&quot;Gratitude Token Minting Station&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;gratitude-token-ledger&quot;&gt;Gratitude Token Ledger&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token-ledger-cover.jpg&quot; alt=&quot;Gratitude Token Ledger Cover&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Below are the instructions (v1) to include in the Ledger. Feel free to modify them to fit your context. You’ll find a few ideas at the end.&lt;/p&gt;
+
+&lt;h3 id=&quot;tokenomics&quot;&gt;Tokenomics&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;A Gratitude Token is a physical object serving as a catalyst to express gratitude.&lt;/li&gt;
+  &lt;li&gt;Give your Gratitude Token(s) to people you feel grateful for.&lt;/li&gt;
+  &lt;li&gt;Do not HODL your tokens! Instead Give Whenever You Can – GWYC (pronounce: QUICK)&lt;/li&gt;
+  &lt;li&gt;If you realise that you are HODLing Gratitude Token(s), take a moment to be grateful for all the gifts in your life and give your token(s) away to someone that deserves it.&lt;/li&gt;
+  &lt;li&gt;If you suspect someone is HODLing Gratitude Tokens, give them a Gratitude Token to model giving behaviour.&lt;/li&gt;
+  &lt;li&gt;Whenever you run out of tokens, you can mint new Gratitude Tokens at any time at your local minting station. To mint, prepare a wooden piece, draw the Gratitude Token Symbol, and add a personal mark. Next, state your Proof of Work by completing an entry in the Gratitude Token Ledger by drawing &lt;em&gt;your personal mark&lt;/em&gt; and answer in writing &lt;em&gt;why are you minting this token.&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token-tokenomics.jpg&quot; alt=&quot;Gratitude Token Tokenomics&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ledger-records&quot;&gt;Ledger Records&lt;/h3&gt;
+&lt;p&gt;Here are the records from our Ledger at TDF.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token-ledger-record1.jpg&quot; alt=&quot;Gratitude Token Ledger Records&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token-ledger-record2.jpg&quot; alt=&quot;Gratitude Token Ledger Records&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;introducing-gratitude-tokens&quot;&gt;Introducing Gratitude Tokens&lt;/h2&gt;
+&lt;p&gt;Here’s a suggested format. Tweak as necessary to fit your context.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Gratitude Modeling Check-in&lt;/em&gt;: Pass a Gratitude Token (eg. the first one you minted during the prep) as a talking stick. When it’s your turn to speak, share with the next person what are you grateful for to them. The aim of this round is to bring everyone to the gratitude vibration, as well as model using the token.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Gratitude Token Info&lt;/em&gt;: Share about the importance of gratitude and explain why you want to introduce this game in your community. If you have played this game before you can also share a personal story.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Tokenomics&lt;/em&gt;: Read out the tokenomics instructions and check for clarity. If you have a “HODL ≠ GWYC” sign, then show it while explaining rule 3 - it helps people get the joke.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Minting&lt;/em&gt;: Invite everyone to mint a token and record an entry into the ledger. Note that recording in the ledger might take a while.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Next Steps&lt;/em&gt;: Invite the group to pass the gratitude tokens. Share the collective challenge of the game: make every token pass through as many hands as possible.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Closing&lt;/em&gt;: Close the session with a check-out of your choice.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;notes&quot;&gt;Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tokens don’t need to stay within a community. Make them travel ⛵️and remember to &lt;em&gt;GWYC&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;If you receive a gratitude token out of nowhere and/or decide to introduce this game in your community, I’d love to connect with you.&lt;/li&gt;
+  &lt;li&gt;Idea to explore: &lt;em&gt;Gratitude Token Burn Ceremony&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Idea to explore: &lt;em&gt;Programmable Tokens&lt;/em&gt; - use the backside of the token to add extra instructions to the token&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gratidao&quot;&gt;GratiDAO&lt;/h2&gt;
+&lt;p&gt;Link to &lt;a href=&quot;https://t.me/+kCHKLHRlh3UyYTg0&quot;&gt;telegram group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;💜&lt;/p&gt;
+
+&lt;h2 id=&quot;tokenomics-proposals&quot;&gt;Tokenomics Proposals&lt;/h2&gt;
+&lt;p&gt;Have a new proposal? Submit it via our telegram group.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;When illegal tender (not registered in the ledger) is found, the present members of the gratitude economy will burn the token in an Abundance Ceremony where we express our gratitude for the land, space, community, and all of the surrounding abundance. &lt;em&gt;{source: TDF}&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;New arrivals are welcomed with a gratitude token and encouraged to mint their own when the first grateful moment arises. &lt;em&gt;{source: TDF}&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;When a token has gone full circle (every community member has had it at some point), it can be offered back to nature in an Abundance Ceremony (burning the token). &lt;em&gt;{source: TDF}&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Whenever you find a TOOP (Token Out Of Place) take a moment to reflect what are you grateful for and claim it as yours. Don’t HODL! &lt;em&gt;{source: Pico}&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/abundance-ceremony-proposal.jpg&quot; alt=&quot;Proposals in the ledger&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Faial Community Day (workshop)</title>
+   <link href="http://localhost:4000/faial-community-day"/>
+   <updated>2022-02-27T00:00:00-01:00</updated>
+   <id>http://localhost:4000/faial-community-day</id>
+   <content type="html">&lt;p&gt;Context: I’ve had a pleasure to facilitate a &lt;strong&gt;community weaving workshop&lt;/strong&gt; in Pico’s closest neighbour - Faial island. This marks a significant step on the &lt;strong&gt;journey towards co-creating Azores Regenerative Network&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Magic: Bringing people together in an island and holding space for them to verbalise their dreams to each other and find people to manifest their dreams together with.&lt;/p&gt;
+
+&lt;p&gt;My Role: workshop design, facilitation&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pico.microsolidarity.cc/articles/faial-community-day&quot; target=&quot;_blank&quot;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Regenerative Documentation Index</title>
+   <link href="http://localhost:4000/regenerative-documentation-index"/>
+   <updated>2022-02-26T00:00:00-01:00</updated>
+   <id>http://localhost:4000/regenerative-documentation-index</id>
+   <content type="html">&lt;p&gt;I’m a big fan of publishing open-source documentation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Documentation helps me reflect on the process and make sense of what is happening&lt;/li&gt;
+  &lt;li&gt;Documentation invites meaningful feedback and connections&lt;/li&gt;
+  &lt;li&gt;Documentation inspires (or has potential to do so) other people to learn by doing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But perhaps the most important thing for me, is that creating &lt;em&gt;documentation&lt;/em&gt; completely removes the writing block and tames my inner perfectionist. I just write about what is happening - raw and unpolished, rather than infinitely perfecting and never actually publishing.&lt;/p&gt;
+
+&lt;p&gt;I’ve been doing this for quite a while now, and it seems that I have become relatively decent at the craft.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/documentation-world-champion.png&quot; alt=&quot;Documentation world champion&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/micro_solid/status/1496148154655330310&quot; target=&quot;_blank&quot;&gt;Link to tweet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;regenerative-documentation-index&quot;&gt;Regenerative Documentation Index&lt;/h2&gt;
+
+&lt;p&gt;Here’s the list of some of my favourite documentation projects.&lt;/p&gt;
+
+&lt;p&gt;It all started as a note in Obsidian which really wanted to be published. Since &lt;a href=&quot;obsidian-to-github&quot; target=&quot;_blank&quot;&gt;my Obsidian vault is linked directly with this website&lt;/a&gt; , it’s actually frictionless to make this note publicly available. I guess I just can’t stop documenting 😂.&lt;/p&gt;
+
+&lt;p&gt;I’ll keep updating this post whenever I feel like. Feel free to &lt;strong&gt;share your fav documentation projects with me&lt;/strong&gt;, either via email or in this &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1497541135425802240&quot; target=&quot;_blank&quot;&gt;twitter thread&lt;/a&gt; .&lt;/p&gt;
+
+&lt;h3 id=&quot;100-rabbits&quot;&gt;100 Rabbits&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“We research and test low-tech solutions and document our findings with the hope of building a more resilient future.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://100r.co/site/home.html&quot; target=&quot;_blank&quot;&gt;100 Rabbits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This documentation absolutely blew my mind and is my all time favourite project.&lt;/p&gt;
+
+&lt;h3 id=&quot;microsolidarity&quot;&gt;Microsolidarity&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;em&gt;Microsolidarity is a community-building practice. We’re weaving the social fabric that underpins shared infrastructure.&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;Microsoldarity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;Microsolidarity in Pico&lt;/a&gt;  (This one is from me)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;seeds&quot;&gt;Seeds&lt;/h3&gt;
+&lt;p&gt;The documentation map compiling guides to SEEEDS ecosystem, as well as practical roadmaps for coordinating and creating new economic systems and on-the-ground regenerative projects.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://explore.joinseeds.earth/read-me-first/&quot; target=&quot;_blank&quot;&gt;Gitbook Knowledgebase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=SqPXIhPcaY0&quot; target=&quot;_blank&quot;&gt;Video overview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://explore.joinseeds.earth/3.-templates-for-regenerative-action/&quot; target=&quot;_blank&quot;&gt;Templates for Regenerative Action&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://explore.joinseeds.earth/4.-organisation-tools-daos-and-dhos/&quot; target=&quot;_blank&quot;&gt;Organisation Tools (DAOs and DHOs)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;enspiral&quot;&gt;Enspiral&lt;/h3&gt;
+&lt;p&gt;A network focused on supporting people to do meaningful work.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The goal (of this handbook) is to give everyone in the network as much clarity and context as possible, while sharing our structures and practices with the outside world as well.”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://handbook.enspiral.com/&quot; target=&quot;_blank&quot;&gt;Enspiral Handbook&lt;/a&gt;  –&amp;gt; it kinda blows my mind that I am now conducting an update to this amazing resource. You can follow the process in this &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1630632568260313098&quot; target=&quot;_blank&quot;&gt;twitter thread&lt;/a&gt; .&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;regenerative-renaissance-wiki&quot;&gt;Regenerative Renaissance Wiki&lt;/h3&gt;
+&lt;p&gt;Okay, this is not really a documentation project, but more of a database of Regenerative Resources. Still, it’s worth to take a look.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.renaissance.university/&quot; target=&quot;_blank&quot;&gt;Regenerative Renaissance Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;the-pink-paper-from-traditional-dream-factory&quot;&gt;The Pink Paper from Traditional Dream Factory&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“The pink paper is an evolving document describing the internal functioning of the Traditional Dream Factory (TDF) - a coliving regenerative village in the process of being built”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/177JkHCy0AhplsaEEYpFHBsiI6d4uLk0TgURSKfBIewE/mobilebasic&quot; target=&quot;_blank&quot;&gt;The Pink Paper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://traditionaldreamfactory.com/&quot; target=&quot;_blank&quot;&gt;Traditional Dream Factory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://oasa.co/&quot; target=&quot;_blank&quot;&gt;OASA Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://handbook.traditionaldreamfactory.com/&quot; target=&quot;_blank&quot;&gt;Handbook&lt;/a&gt;  –&amp;gt; this one is also built by me&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gaianet-os-playbook&quot;&gt;Gaianet OS Playbook&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;em&gt;Gaianet is a collective of &lt;strong&gt;mission-aligned&lt;/strong&gt; &lt;strong&gt;projects and professionals&lt;/strong&gt; who connect and unite to share knowledge and resources, find workforce and solutions for funding.&lt;/em&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alexanderkeehnen.gitbook.io/gaianet-os-playbook/&quot; target=&quot;_blank&quot;&gt;Gaianet OS Playbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;project-kamp&quot;&gt;Project Kamp&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“We bought this land to try something else..”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Absolutely mindblowing documentation about everything related to building a land-based community&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projectkamp.com/&quot; target=&quot;_blank&quot;&gt;Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://community.projectkamp.com/academy/start/intro.html&quot; target=&quot;_blank&quot;&gt;Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;one-army&quot;&gt;One Army&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“We create projects tackling global problems. And anyone can join!”&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One Army includes a couple of projects with absolutely stellar documentation&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onearmy.earth/&quot; target=&quot;_blank&quot;&gt;One Army Website&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onearmy.earth/project/precious-plastic&quot; target=&quot;_blank&quot;&gt;Precious Plastic&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onearmy.earth/project/phonebloks&quot; target=&quot;_blank&quot;&gt;Phonebloks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onearmy.earth/project/project-kamp&quot; target=&quot;_blank&quot;&gt;Project Kamp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onearmy.earth/project/story-hopper&quot; target=&quot;_blank&quot;&gt;Story Hopper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.onearmy.earth/project/fixing-fashion&quot; target=&quot;_blank&quot;&gt;Fixing Fashion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;I’ll keep updating this post whenever I feel like. Feel free to &lt;strong&gt;share your fav documentation projects with me&lt;/strong&gt;, either via email or in this &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1497541135425802240&quot; target=&quot;_blank&quot;&gt;twitter thread&lt;/a&gt; .&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;im-available-to-help&quot;&gt;I’m available to help&lt;/h2&gt;
+&lt;p&gt;If you’d like some help with starting / growing your documentation project, I’m available to help. I’m a natural documentarian fluent in multimedia creation, storytelling, and online education. Let’s talk.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moonly Reviews</title>
+   <link href="http://localhost:4000/moonly-reviews"/>
+   <updated>2022-02-05T00:00:00-01:00</updated>
+   <id>http://localhost:4000/moonly-reviews</id>
+   <content type="html">&lt;p&gt;Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive in me right now.&lt;/p&gt;
+
+&lt;p&gt;I’ve started in December 2020, loved it, and the streak continues until today (with a few misses, of course, because it’s okay). This public review practice written as a letter from the heart became one of my favourite rituals, along with my &lt;a href=&quot;moonly-video&quot; target=&quot;_blank&quot;&gt;Moonly Videos&lt;/a&gt;, and &lt;a href=&quot;/infinity-squares&quot; target=&quot;_blank&quot;&gt;Infinity Squares&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the moment I publish my Moonly Reviews via Substack. If you’d enjoy reading a letter from me every 🌑 and 🌕, I’d like to encourage you to subscribe &lt;a href=&quot;https://michalkorzonek.substack.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Here’s the full list:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;(Scroll to the end for the most recent review)&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;2020&quot;&gt;2020&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;🌑  &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-december-2020&quot; target=&quot;_blank&quot;&gt;December 2020&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕  &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-december-2020-b9f&quot; target=&quot;_blank&quot;&gt;December 2020&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2021&quot;&gt;2021&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-yearly-review&quot; target=&quot;_blank&quot;&gt;January 2021 - Yearly Review&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(I’ve started to give a title to my reviews.)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-shipping&quot; target=&quot;_blank&quot;&gt;January 2021 - &lt;em&gt;Shipping&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-shipping-spree-continues&quot; target=&quot;_blank&quot;&gt;February 2021 - &lt;em&gt;Shipping Spree Continues&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-decisions-overload&quot; target=&quot;_blank&quot;&gt;March 2021 - &lt;em&gt;Decisions Overload&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-alternative-business&quot; target=&quot;_blank&quot;&gt;March 2021 - &lt;em&gt;Alternative Business&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-home-log-community&quot; target=&quot;_blank&quot;&gt;March 2021 - &lt;em&gt;Home, Log, Community&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-new-beginnings&quot; target=&quot;_blank&quot;&gt;April 2021 - &lt;em&gt;New Beginnings&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-after-the-soul-storm&quot; target=&quot;_blank&quot;&gt;May 2021 - &lt;em&gt;After the Soul Storm&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/supermoonly-review-covid-city&quot; target=&quot;_blank&quot;&gt;May 2021 - &lt;em&gt;Covid City&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-pico-vortex&quot; target=&quot;_blank&quot;&gt;June 2021 - &lt;em&gt;Pico Vortex&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-infinite-possibilities&quot; target=&quot;_blank&quot;&gt;July 2021 - &lt;em&gt;Infinite Possibilities&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-connected-state&quot; target=&quot;_blank&quot;&gt;July 2021 - &lt;em&gt;Connected State&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-moving-into-the-forest&quot; target=&quot;_blank&quot;&gt;August 2021 - &lt;em&gt;Moving Into the Forest&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-forest-guardian&quot; target=&quot;_blank&quot;&gt;August 2021 - &lt;em&gt;Forest Guardian&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-mihailuk-of-the-forest&quot; target=&quot;_blank&quot;&gt;September 2021 - &lt;em&gt;Mihailuk of the Forest&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-thank-you-for-coming&quot; target=&quot;_blank&quot;&gt;September 2021 - &lt;em&gt;Thank You for Coming, Thank You for Leaving&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-being-by-walking-walking&quot; target=&quot;_blank&quot;&gt;October 2021 - &lt;em&gt;Being by Walking, Walking by Being&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-waking-back-from-camino&quot; target=&quot;_blank&quot;&gt;October 2021 - &lt;em&gt;Walking Back from Camino&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-being-in-the-rain&quot; target=&quot;_blank&quot;&gt;November 2021 - &lt;em&gt;Being in the Rain&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-invitation-to-shine&quot; target=&quot;_blank&quot;&gt;November 2021 - &lt;em&gt;Invitation to Shine&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-new-cycle-out-of-nowhere&quot; target=&quot;_blank&quot;&gt;December 2021 - &lt;em&gt;New Cycle (Out of Nowhere)&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-its-time&quot; target=&quot;_blank&quot;&gt;December 2021 - &lt;em&gt;It’s Time&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2022&quot;&gt;2022&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.com/yearly-review-2021&quot; target=&quot;_blank&quot;&gt;January 2022 - Yearly Review&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-thirty-three&quot; target=&quot;_blank&quot;&gt;January 2022 - &lt;em&gt;Thirty Three&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-in-and-out-of-darkness&quot; target=&quot;_blank&quot;&gt;February 2022 - &lt;em&gt;In and Out of Darkness&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-gatherings-money-belonging&quot; target=&quot;_blank&quot;&gt;March 2022 - &lt;em&gt;Gatherings, Money, Belonging&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-family-time&quot; target=&quot;_blank&quot;&gt;March 2022 - &lt;em&gt;Family Time&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-hijacked-by-the-dream&quot; target=&quot;_blank&quot;&gt;April 2022 - &lt;em&gt;Hijacked by the Dream&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-dont-be-careful-what&quot; target=&quot;_blank&quot;&gt;April 2022 - &lt;em&gt;Don’t Be Careful What You Wish For&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-parallel&quot; target=&quot;_blank&quot;&gt;April 2022 - &lt;em&gt;Parallel&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌘 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-in-transition?sd=fs&quot; target=&quot;_blank&quot;&gt;May 2022 - &lt;em&gt;In Transition&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-beyond-the-darkness&quot; target=&quot;_blank&quot;&gt;June 2022 - Beyond the Darkness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-dying-nowhere&quot; target=&quot;_blank&quot;&gt;July 2022 - Dying Nowhere&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-artists-of-the-artfaire&quot; target=&quot;_blank&quot;&gt;August 2022 - Artists of the Artfaire&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-co-creating-containers&quot; target=&quot;_blank&quot;&gt;August 2022 - Co-creating Containers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-book-cards-and-creating&quot; target=&quot;_blank&quot;&gt;September 2022 - Book, Cards, and Creating New Culture&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌔 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-embodying-transformation&quot; target=&quot;_blank&quot;&gt;October 2022 - Embodying Transformation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-containers-in-the-sand&quot; target=&quot;_blank&quot;&gt;October 2022 - Containers in the Sand&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-prioritise-priorities&quot; target=&quot;_blank&quot;&gt;October 2022 - Prioritise Priorities&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-tower-time&quot; target=&quot;_blank&quot;&gt;November 2022 - Tower Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌓 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-slowly-slower-slowing&quot; target=&quot;_blank&quot;&gt;November 2022 - Slowly slower slowing slow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌖 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-inner-winter&quot; target=&quot;_blank&quot;&gt;December 2022 - Inner Winter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-closing-loops-opening&quot; target=&quot;_blank&quot;&gt;December 2022 - Closing Loops, Opening Portals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;2023&quot;&gt;2023&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;🌖 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-the-year-of-play&quot; target=&quot;blank&quot;&gt;January 2023 - The Year of Play&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌒 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-on-the-move&quot; target=&quot;blank&quot;&gt;January 2023 - On the Move&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-family-time-b49&quot; target=&quot;blank&quot;&gt;February 2023 - Family Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-preparation&quot; target=&quot;blank&quot;&gt;February 2023 - Preparation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-unbreakable-vow&quot; target=&quot;blank&quot;&gt;March 2023 - Unbreakable Vow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Thirty Three</title>
+   <link href="http://localhost:4000/thirty-three"/>
+   <updated>2022-01-22T00:00:00-01:00</updated>
+   <id>http://localhost:4000/thirty three</id>
+   <content type="html">&lt;p&gt;Out of curiosity I took a look at a numerological meaning behind the number thirty three, and it was certainly an encouraging moment, considering that I’m about to turn that age in a few days.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;strong&gt;The 33 embodies both the intuitive, visionary qualities of the 11 and the 22’s ability to manifest these visions in the material world.&lt;/strong&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Keep going…&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“This blend of a soft heart, inspiring outlook, and the ability to understand and communicate concepts of growth and healing are exactly what makes the number 33 the Master Teacher.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Now, I don’t really care that much if this interpretation applies to my context or not, because I know that I can manifest any reality I choose. And the reality connected with the number thirty three seems definitely like something I’d like to aim to manifest in the coming years.&lt;/p&gt;
+
+&lt;p&gt;A little confession:&lt;/p&gt;
+
+&lt;p&gt;I’ve been having a hard time recently.&lt;/p&gt;
+
+&lt;p&gt;I guess it’s the proximity of another birthday that makes me consider existential questions such as &lt;em&gt;what do I have to show for myself&lt;/em&gt; and &lt;em&gt;what is my contribution to the world&lt;/em&gt;. It makes me think of the Funeral Exercise: &lt;em&gt;what would be the speeches on your funeral like?&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I guess there is an egoistic tendency here to “be special”, “make an impact” and simply “matter”, but I find that it’s also a useful lens to look at ones life, and brutally strip it off from all the mundane bullshit that doesn’t really matter.&lt;/p&gt;
+
+&lt;p&gt;Anyway.&lt;/p&gt;
+
+&lt;p&gt;Truth is, I’ve had quite a difficult time while taking a long hard honest look at myself. I like to think of myself as a “good person”, whatever that means, and I do have a deep underlying sense that everything is unfolding perfectly, including this trying moment of meticulous self-assessment.&lt;/p&gt;
+
+&lt;p&gt;In the same time I notice things that feel hard to admit.&lt;/p&gt;
+
+&lt;p&gt;I feel angry.&lt;/p&gt;
+
+&lt;p&gt;I feel impatient.&lt;/p&gt;
+
+&lt;p&gt;I find it easy to start something, but hard to maintain it.&lt;/p&gt;
+
+&lt;p&gt;I’m also noticing a big tension around the subject of money. Fuck, that’s actually a big one. Somehow, I find an expense of €300 to visit my parents and sister after two and half years a significant hole in my personal budget and I need to carefully juggle my finances to make it happen. WTF.&lt;/p&gt;
+
+&lt;p&gt;I live cheaply. I don’t need much. And yet, somehow I can’t seem to unlock access to the infinite financial abundance that the world has to offer, despite trying for years. It’s frustrating and it adds up to the feeling of anger. Perhaps the worst part is that I know that it’s all within myself and I can indeed shift it at any point. I just never managed to do it.&lt;/p&gt;
+
+&lt;p&gt;Now, I’m not complaining by any means, and I do feel immensely grateful for what I have.&lt;/p&gt;
+
+&lt;p&gt;In fact, I’ve been gifted a beautiful lifestyle in an idyllic place, surrounded by people who I get to call my Island Family. That definitely counts for A LOT and it’s more than many people could ever wish for. It seems worth much more than a few zeros of net worth. And yet, a part of me can’t relax.&lt;/p&gt;
+
+&lt;p&gt;So I lay down on the floor of my 3x3 wooden cabin in a beautiful forest with an ocean view, the most amazing house I’ve ever lived in, and sink down into myself.&lt;/p&gt;
+
+&lt;p&gt;Why am I feeling agitated? What is it inside of me that is not in alignment? Why am I feeling so disconnected in the last few weeks?&lt;/p&gt;
+
+&lt;p&gt;My cat-mate Kiki sleeps on my chest. I can feel her weight as I inhale and exhale. The binaural beats relax me. I let go of the tension and accept myself with all the perceived imperfections. I notice them in a different light, too.&lt;/p&gt;
+
+&lt;p&gt;My vices are inseparably interwoven with my virtues and vice versa.&lt;/p&gt;
+
+&lt;p&gt;The anger is an imbalance of inextinguishable life force, allowing me to not be afraid to make difficult choices and stick with them.&lt;/p&gt;
+
+&lt;p&gt;The impatience derives from wanting to manifest dreams.&lt;/p&gt;
+
+&lt;p&gt;The difficulty to maintain connects with seeing potential in everything, which fuels my tendency to naturally help people with whatever struggle they go through.&lt;/p&gt;
+
+&lt;p&gt;What a convoluted mess of self.&lt;/p&gt;
+
+&lt;p&gt;There’s more, but I won’t elaborate further.&lt;/p&gt;
+
+&lt;p&gt;The bottom line is that as my birthday approaches it’s time to make some tough decisions. I can’t do everything. I don’t want to do everything. I don’t always know what I want, or to be more precise - I intuitively feel what is my path, but sometimes I disconnect from myself by staying way too much in my head.&lt;/p&gt;
+
+&lt;p&gt;I notice that my mind is precisely where the money messes me up.&lt;/p&gt;
+
+&lt;p&gt;The second I consider questions like “&lt;em&gt;how does this idea bring money&lt;/em&gt;” or “&lt;em&gt;how do I support myself financially&lt;/em&gt;”, I close, disconnect and get stuck again. My mind starts spinning, and combined with the tendency to overthink, it happily goes forever, bringing me overwhelm, with enough glimpse of possibility to keep luring me deeper into this trap.&lt;/p&gt;
+
+&lt;p&gt;Argh.&lt;/p&gt;
+
+&lt;p&gt;How to leave it behind?&lt;/p&gt;
+
+&lt;p&gt;I wish I’d know.&lt;/p&gt;
+
+&lt;p&gt;The thing is, &lt;em&gt;I do know&lt;/em&gt;, I just don’t have access to it. Not yet.&lt;/p&gt;
+
+&lt;p&gt;Or…?&lt;/p&gt;
+
+&lt;p&gt;As I dance underneath the starlit sky above the deck of my cabin, I shake off the doubts and bring in new energy.&lt;/p&gt;
+
+&lt;p&gt;A new cycle of my life is afoot.&lt;/p&gt;
+
+&lt;p&gt;It’s up to me to make it whatever I want it to be.&lt;/p&gt;
+
+&lt;p&gt;And I do.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moonly Video - Digital Journaling</title>
+   <link href="http://localhost:4000/moonly-video"/>
+   <updated>2022-01-03T00:00:00-01:00</updated>
+   <id>http://localhost:4000/moonly video</id>
+   <content type="html">&lt;p&gt;Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some images and vibe of my life in that period.&lt;/p&gt;
+
+&lt;p&gt;I’ve started in February 2017 and kept it going until May 2017. I then had a loooong break until reconnecting with this practice in June 2021. I really enjoy seeing how this practice evolves over time.&lt;/p&gt;
+
+&lt;p&gt;Here’s the list of videos in chronological order. My favourite ones in bold. Scroll down for the latest one.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;One Second A Day: February 2017 - &lt;a href=&quot;https://www.youtube.com/watch?v=6lV3xcRPhec&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;One Second A Day: March 2017 - &lt;a href=&quot;https://www.youtube.com/watch?v=lxKG-vb4wuU&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Between Fire and Water (May 2017)&lt;/strong&gt; - &lt;a href=&quot;https://www.youtube.com/watch?v=SVeygd_Skfk&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Rose Moon 2021 - &lt;a href=&quot;https://www.youtube.com/watch?v=vy1p1Kymmk4&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Flying Moon 2021 (10 July - 7 August) - &lt;a href=&quot;https://www.youtube.com/watch?v=cqM9JGh05rQ&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Forest Moon 2021, 8 Aug - 6 Sep&lt;/strong&gt; - &lt;a href=&quot;https://www.youtube.com/watch?v=7zCrKoBAYAs&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Walking Moon 7 Sep - 5 Oct 2021&lt;/strong&gt; - &lt;a href=&quot;https://www.youtube.com/watch?v=ikHgY-kpNwk&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Feather Moon 6 Oct - 3 Nov 2021&lt;/strong&gt; - &lt;a href=&quot;https://www.youtube.com/watch?v=lBOnSfgW2v8&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Planting Moon 4 Nov - 3 Dec 2021&lt;/strong&gt; - &lt;a href=&quot;https://www.youtube.com/watch?v=695g5cMkCt8&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Inner Moon 4 Dec 2021 - 1 Jan 2022 - &lt;a href=&quot;https://www.youtube.com/watch?v=DXJtwKv51ek&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Darkness Moon 2 Jan - 31 Jan 2022 - &lt;a href=&quot;https://youtu.be/MDI4kyMJCL8&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Moon of Belonging 1 February - 1 March 2022 - &lt;a href=&quot;https://youtu.be/NrbnLzOcoF0&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dreamer Moon, 2 March - 1 April 2022 - &lt;a href=&quot;https://www.youtube.com/watch?v=OpL2wJrL9qs&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Opening Moon, 1 April - 29 April - 2022 - &lt;a href=&quot;https://youtu.be/HHMle6YJDhg&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Island Moon, 30 April - 29 May 2022 - &lt;a href=&quot;https://youtu.be/AfnFys37Ab8&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Rebirth Moon, 30 May - 28 June 2022&lt;/strong&gt; - &lt;a href=&quot;https://youtu.be/4Q8EyZzQ4lY&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dragon Moon, 29 June - 26 July 2022 - &lt;a href=&quot;https://youtu.be/fUanmeujnzM&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Co-Moon, 28 July - 26 August 2022 - &lt;a href=&quot;https://youtu.be/E7Szeib1HsQ&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sheeplosion Moon, 27 August - 24 September 2022&lt;/strong&gt; - &lt;a href=&quot;https://youtu.be/H3le69xkD9k&quot; target=&quot;blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Transition Moon, 25 September - 24 October 2022 - &lt;a href=&quot;https://youtu.be/588eK0gbXgQ&quot; target=&quot;blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Editing Moon, 25 October - 22 November 2022 - &lt;a href=&quot;https://youtu.be/AjzlHvPmWxk&quot; target=&quot;blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Moon of Cards, 23 November - 22 December 2022&lt;/strong&gt; - &lt;a href=&quot;https://youtu.be/MNEh7oI1Q8E&quot; target=&quot;blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Departure Moon, 23 December - 20 January 2023 - &lt;a href=&quot;https://youtu.be/i_Vna-PdcjA&quot; target=&quot;blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Everywhere Moon, 21 January - 19 February 2023 - &lt;a href=&quot;https://youtu.be/g8uHtMpeR2M&quot; target=&quot;blank&quot;&gt;youtube link&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;🐦 &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1632126889757114368?s=20&quot; target=&quot;blank&quot;&gt;Twitter thread&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Yearly Review 2021</title>
@@ -25,7 +1838,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/year-2021.jpg&quot; alt=&quot;Poster with year 2021&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I tell you a bit more about it, using a few scans from the pages of my 2021 journals, captured during my yearly review.&lt;/p&gt;
+&lt;p&gt;I’ll share with you a bit more about it, using a few scans from the pages of my 2021 journals, captured during my yearly review.&lt;/p&gt;
 
 &lt;p&gt;Enjoy 💜&lt;/p&gt;
 
@@ -66,11 +1879,15 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/forest-michal.jpeg&quot; alt=&quot;Happy Michal in the forest&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Photo by &lt;a href=&quot;https://austejaliu.com&quot; target=&quot;_blank&quot;&gt;Austeja Liu&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Photo by &lt;a href=&quot;https://austejaliu.com&quot; target=&quot;_blank&quot;&gt;Austėja Liupševičiūtė&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Being in the forest started a deep process of reconnection with myself, tuning into my intuition, which allowed me to rediscover what is important to me and how I want to manifest it. I am forever grateful to Jean-Daniel who allowed me to live on his land, as well as Austeja and Niko, who were my forest neighbours.&lt;/p&gt;
 
-&lt;p&gt;I started to write poetry and letters again, I felt free like I haven’t in a couple of years, and I have learnt a few critical lessons, which I then integrated on a trip to the Mainland Portugal in September, which blew my mind beyond anything I knew before.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/forest-camp.jpg&quot; alt=&quot;My forest house&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;My home in the Magical Forest&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I started to &lt;a href=&quot;https://write.as/fromtheforest/&quot; target=&quot;_blank&quot;&gt;write poetry&lt;/a&gt; and &lt;a href=&quot;/letters&quot; target=&quot;_blank&quot;&gt;letters&lt;/a&gt; again, I felt free like I haven’t in a couple of years, and I have learnt a few critical lessons, which I then integrated on a trip to the Mainland Portugal in September, which blew my mind beyond anything I knew before.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/present-being.jpeg&quot; alt=&quot;The more present I am, the more time I have. I am Being.&quot; /&gt;&lt;/p&gt;
 
@@ -78,9 +1895,9 @@
 
 &lt;p&gt;The seed of walking has been planted during my little camino in Faial island. I felt called to go there and connect with the island, and instead of cycling or driving I wanted to walk. So I walked for three days pretty much non-stop, covering the entire island, climbing up and down volcanoes, and sleeping in a hammock in the forest.&lt;/p&gt;
 
-&lt;p&gt;In September, I spent three weeks walking in Lisbon and Porto, for most of my waking hours. Soon after walking up I’d leave the house and began walking, walking, walking and come back late at night to sleep and then walk again the following day.&lt;/p&gt;
+&lt;p&gt;In September, I spent three weeks walking in Lisbon and Porto, for most of my waking hours. Soon after walking up I’d leave the house and began walking, walking, walking only to come back late at night to sleep and then walk again the following day.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;I have never reached the level of self-awareness before that trip. I’ve experienced unprecedented abundance, flow of synchronicities, moments of beauty, unexpected beautiful connections with people and other beings, and powerful insights.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I have never reached such a deep level of self-awareness until that trip. I’ve experienced unprecedented abundance, flow of synchronicities, moments of beauty, unexpected beautiful connections with people and other beings, and powerful insights.&lt;/strong&gt; It changed me.&lt;/p&gt;
 
 &lt;p&gt;I don’t really have words to describe it just yet.&lt;/p&gt;
 
@@ -107,6 +1924,10 @@
 &lt;p&gt;I still remember the crazy brainstorming session when the game idea came to me:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/community-council-early-prototype.jpeg&quot; alt=&quot;Early prototype of the game&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;My wonderful island family gave life to the prototype and created a map full of exciting projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pico-projects-map.jpg&quot; alt=&quot;Pico Projects Map&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;I’ve also created a &lt;a href=&quot;/ouroboros&quot; target=&quot;_blank&quot;&gt;performance&lt;/a&gt; with Austeja&lt;/strong&gt;, which moved local people and kids in ways that we haven’t expected. We also co-created a more events in Pico, such as &lt;em&gt;&lt;a href=&quot;https://cryptpad.fr/pad/#/2/pad/view/S8q92EhUcHMkTx3IASAbzDYd6w2GDEU+mOJuKsXsxrg/&quot; target=&quot;_blank&quot;&gt;Slam Jam&lt;/a&gt;&lt;/em&gt;, &lt;em&gt;Masking Around&lt;/em&gt;, and more. We also had our bi-weekly &lt;a href=&quot;https://pico.microsolidarity.cc/projects/sharing-circle&quot; target=&quot;_blank&quot;&gt;sharing circle&lt;/a&gt; and a &lt;a href=&quot;https://pico.microsolidarity.cc/projects/drum-crew&quot; target=&quot;_blank&quot;&gt;drum crew&lt;/a&gt;. Loads and Loads of spaces and even more magical moments that emerged from there.&lt;/p&gt;
 
@@ -202,13 +2023,11 @@ I can’t trust you. Brad was a sap, you weren’t. &lt;strong&gt;You’re with 
 
 &lt;h2 id=&quot;the-alternative-culture-is-here-all-we-need-to-do-is-shine-&quot;&gt;The Alternative Culture is here. All we need to do is shine ✨&lt;/h2&gt;
 
-&lt;p&gt;Most of all, the 2021 shown me that the (for a lack of better word) global capitalist culture is not only complete bullshit (this I knew for a long time), but the alternative is already here and so many people already made the shift. It’s possible. It’s happening. No more excuses and keeping the hamster wheel going.&lt;/p&gt;
+&lt;p&gt;Most of all, the 2021 shown me that the (for a lack of better word) global capitalist culture is not only complete bullshit (this I knew for a long time), but &lt;strong&gt;the alternative is already here and so many people already made the shift. It’s possible. It’s happening.&lt;/strong&gt; No more excuses and keeping the hamster wheel going.&lt;/p&gt;
 
-&lt;p&gt;It’s been such a privilege to learn from and with all the wonderful souls I’ve met this year. Here are a few of them:&lt;/p&gt;
+&lt;p&gt;It’s been such a privilege to learn from and with all the wonderful souls I’ve met this year. Here are a few of them along with ideas they shared with me:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/new-culture.jpeg&quot; alt=&quot;A few people I met&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;And there were oh so many.&lt;/p&gt;
 
 &lt;p&gt;It’s not that the change is coming.&lt;/p&gt;
 
@@ -218,15 +2037,15 @@ I can’t trust you. Brad was a sap, you weren’t. &lt;strong&gt;You’re with 
 
 &lt;p&gt;And, of course, NO FEAR.&lt;/p&gt;
 
-&lt;p&gt;Fear is heart killer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fear is the heart killer.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;gratitude-mandala&quot;&gt;Gratitude Mandala&lt;/h2&gt;
 
-&lt;p&gt;Speaking of the people I’ve been lucky to meet…&lt;/p&gt;
+&lt;p&gt;Speaking of the people I’ve been lucky to connect with…&lt;/p&gt;
 
 &lt;p&gt;Every year I draw a &lt;a href=&quot;https://journalsmarter.com/gratitude-mandala&quot; target=&quot;_blank&quot;&gt;Gratitude Mandala&lt;/a&gt;, which includes beings I’m grateful for in the year that has ended. It’s a part of my yearly review since 2019.&lt;/p&gt;
 
-&lt;p&gt;Here’s the mandala for 2021:&lt;/p&gt;
+&lt;p&gt;Here’s my mandala for 2021:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/gratitude-mandala-2021.jpg&quot; alt=&quot;Gratitude Mandala 2021&quot; /&gt;&lt;/p&gt;
 
@@ -248,13 +2067,13 @@ I can’t trust you. Brad was a sap, you weren’t. &lt;strong&gt;You’re with 
 
 &lt;p&gt;&lt;strong&gt;My #1 priority in 2022 is to create and document regenerative communities.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;It seems like it’s a perfect &lt;em&gt;Ikigai&lt;/em&gt; – a direction encompassing something the world needs, something I’m good at, something I love doing and something I can get paid for. I wrote a &lt;a href=&quot;https://betterhumans.pub/how-to-chart-a-new-course-for-your-life-with-3-simple-diagrams-e9cc6b59c49d?sk=9afa2b3f5abcec0c48774bf022b1ef77&quot; target=&quot;_blank&quot;&gt;sweet article&lt;/a&gt; about it a long time ago, and I actually feel like revisiting the exercises I shared there.&lt;/p&gt;
+&lt;p&gt;It seems like it’s a perfect &lt;em&gt;Ikigai&lt;/em&gt; – a direction encompassing something the world needs, something I’m good at, something I love doing and something I can get paid for. I wrote a &lt;a href=&quot;https://betterhumans.pub/how-to-chart-a-new-course-for-your-life-with-3-simple-diagrams-e9cc6b59c49d?sk=9afa2b3f5abcec0c48774bf022b1ef77&quot; target=&quot;_blank&quot;&gt;sweet article&lt;/a&gt; about Ikigai a long time ago, and I actually feel like revisiting the exercises I shared there.&lt;/p&gt;
 
 &lt;p&gt;But for now, here’s a hypothesis:&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;If I make more space for my community catalysing activities and keep documenting what I do and how I do it (whether in &lt;a href=&quot;https://pico.microsolidarity.cc/&quot; target=&quot;_blank&quot;&gt;Pico&lt;/a&gt;, the Azores, or digital) my work will create a serious ripple effect inspiring and encouraging people to create their own communities and regenerative projects. And part of that ripple effect will come back to me in the form of gratitude and financial support allowing me to do more meaningful work in that area.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If I make more space for my community catalysing activities and keep documenting what I do and how I do it (whether in &lt;a href=&quot;https://pico.microsolidarity.cc/&quot; target=&quot;_blank&quot;&gt;Pico&lt;/a&gt;, the Azores, &lt;a href=&quot;https://enspiral.com&quot; target=&quot;_blank&quot;&gt;Enspiral&lt;/a&gt; or in digital spaces) my work will create a serious ripple effect inspiring and encouraging people to create their own communities and regenerative projects. And part of that ripple effect will come back to me in the form of gratitude and financial support allowing me to do more meaningful work in that area.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;In other words, instead of pushing to sell products, I’d rather be supported by people who believe that what I do is important, and who want to help me make it happen. So, I’ve set up a &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon account&lt;/a&gt; and I’m excited to see what happens. It’d mean the world to me if you would consider being a part of that journey.&lt;/p&gt;
+&lt;p&gt;In other words, instead of pushing to sell products, I’d rather be supported by people who believe that what I do is important, and who want to help me make it happen. So, I’ve set up a &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon account&lt;/a&gt; and I’m curious to see if it’s a viable path for me right now. It’d mean the world to me if you would consider being a part of that journey.&lt;/p&gt;
 
 &lt;p&gt;You can see what I’m focusing on &lt;a href=&quot;/focus&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -265,7 +2084,9 @@ I can’t trust you. Brad was a sap, you weren’t. &lt;strong&gt;You’re with 
 &lt;p&gt;Thank you for Being,&lt;br /&gt;
 Michał&lt;/p&gt;
 
-&lt;p&gt;ps. Since this is a New Moon, I’m due my Moonly video. But that will still take a moment. I’ll update it here when ready.&lt;/p&gt;
+&lt;p&gt;ps. Since this is a New Moon, I’d like to share my Moonly video (a practice I reconnected with this summer and kept it going without skipping a beat until now). Here it is (&lt;a href=&quot;https://youtu.be/DXJtwKv51ek&quot; target=&quot;_blank&quot;&gt;youtube link&lt;/a&gt;, since I still haven’t made my mind as to where to upload videos instead of google… TBC). If you want to see more, here’s the &lt;a href=&quot;/one-second-a-day&quot; target=&quot;_blank&quot;&gt;entire collection&lt;/a&gt;. And speaking of that - it’s such a wonderful way of going back through my year. I’m so grateful for this practice!&lt;/p&gt;
+
+&lt;p&gt;pps. As I went through all the one-second-a-day videos from this year I’ve noticed one HUGE thing missing from my yearly review - sailing with &lt;em&gt;Maria Armanda&lt;/em&gt;, a traditional whaling boat. I’m so grateful to Amanda who brought Marcos into my life, who connected me with Felipe, who took me as a crew. I need sailing in my life. It’s essential ⛵️.&lt;/p&gt;
 
 </content>
  </entry>
@@ -277,7 +2098,7 @@ Michał&lt;/p&gt;
    <id>http://localhost:4000/gratitude-mandala-2021</id>
    <content type="html">&lt;p&gt;Every year I draw a &lt;a href=&quot;https://journalsmarter.com/gratitude-mandala&quot; target=&quot;_blank&quot;&gt;Gratitude Mandala&lt;/a&gt;, which includes beings I’m grateful for in the year that has ended. It’s a part of my yearly review since 2019.&lt;/p&gt;
 
-&lt;p&gt;Here’s the mandala from 2021:&lt;/p&gt;
+&lt;p&gt;Here’s the &lt;a href=&quot;/yearly-review-2021&quot; target=&quot;_blank&quot;&gt;review for 2021&lt;/a&gt; and here’s the mandala from 2021:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/gratitude-mandala-2021.jpg&quot; alt=&quot;Gratitude Mandala 2021&quot; /&gt;&lt;/p&gt;
 
@@ -432,7 +2253,7 @@ Michał&lt;/p&gt;
 
 &lt;p&gt;I wish you all that is most beautiful for you in the coming year, although I have limited understanding of what it might be.&lt;/p&gt;
 
-&lt;p&gt;Thank you for Being,
+&lt;p&gt;Thank you for Being,&lt;br /&gt;
 Michał&lt;/p&gt;
 
 &lt;p&gt;ps. I’m also grateful for the name I channeled for you. It really does suit you, you little cheeksto.&lt;/p&gt;
@@ -753,7 +2574,9 @@ Michał&lt;/p&gt;
    <link href="http://localhost:4000/microsolidarity-journey"/>
    <updated>2021-12-01T00:00:00-01:00</updated>
    <id>http://localhost:4000/microsolidarity-journey</id>
-   <content type="html">&lt;p&gt;Let’s begin with a bit of context:&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;Published: 2021-12-01&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Let’s begin with a bit of context:&lt;/p&gt;
 
 &lt;p&gt;I’ve been location independent from 2017 and I absolutely love the freedom of being able to move whenever I feel it’s the right time to do it. There is however a price to pay for that freedom: &lt;strong&gt;the pain of saying goodbye to people dear to your heart, knowing that you might never see them again&lt;/strong&gt;. Life is unpredictable.&lt;/p&gt;
 
@@ -783,13 +2606,13 @@ Michał&lt;/p&gt;
 
 &lt;p&gt;I sat down and made another list.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/who-are-the-people.jpg&quot; alt=&quot;Who Are The People?&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;web/michalroots.github.io/assets/who-are-the-people.jpg&quot; alt=&quot;Who Are The People?&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I let the names sink in for some time, feeling into small groups that would make sense to call into existence. When it felt right, I reached out to some people with an idea of launching “mastermind groups” (which was the vocabulary more familiar to the people I was reaching out to).&lt;/p&gt;
 
 &lt;p&gt;Here’s a part of an email exchange with one of the people I reached out to, introducing the idea of co-creating a group.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/crew-invitation-email.png&quot; alt=&quot;Crew Invitation Email Screenshot&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;web/michalroots.github.io/assets/crew-invitation-email.png&quot; alt=&quot;Crew Invitation Email Screenshot&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Over the next few months I launched a few crews:&lt;/p&gt;
 
@@ -822,10 +2645,6 @@ Michał&lt;/p&gt;
 &lt;h2 id=&quot;enspiral&quot;&gt;Enspiral&lt;/h2&gt;
 
 &lt;p&gt;In September 2021 I joined &lt;a href=&quot;https://www.enspiral.com/&quot; target=&quot;_blank&quot;&gt;Enspiral&lt;/a&gt;, a network of people helping each other do more meaningful work. The network design includes &lt;em&gt;pods&lt;/em&gt; (equivalent to &lt;em&gt;crews&lt;/em&gt; in microslidarity lingo) to support building relationships within the network. While I haven’t joined any pods, mostly due to all the other crews I had going on at the time, I got involved in &lt;em&gt;Enspiral Europe Connection Working Group&lt;/em&gt; hosting bi-weekly Connection Calls for Enspiralites based in Europe.&lt;/p&gt;
-
-&lt;ul class=&quot;task-list&quot;&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Create documentation of the formats tried in EECC to publish in the Enspiral Handbook.&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;h2 id=&quot;growing-a-congregation-in-pico-island&quot;&gt;Growing a congregation in Pico Island&lt;/h2&gt;
 
@@ -865,19 +2684,14 @@ Michał&lt;/p&gt;
 &lt;p&gt;Also, a wholehearted hug goes to everyone with whom I got to practice microsolidarity together. Thank you for co-creating magic ✨.&lt;/p&gt;
 
 &lt;h2 id=&quot;resources&quot;&gt;Resources&lt;/h2&gt;
-&lt;ul class=&quot;task-list&quot;&gt;
+&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://pico.microsolidarity.cc/&quot; target=&quot;_blank&quot;&gt;Microsolidarity in Pico: Documentation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.microsolidarity.cc/crewing&quot; target=&quot;_blank&quot;&gt;Microsolidarity: Crewing Methods&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://handbook.enspiral.com/guides/pods&quot; target=&quot;_blank&quot;&gt;Enspiral Handbook: Pods&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=aDWuHsyznf4&quot; target=&quot;_blank&quot;&gt;Metagame Mastermind Format (youtube video)&lt;/a&gt;&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Sharing Circle for Housemates&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;a href=&quot;https://pico.microsolidarity.cc/projects/sharing-circle&quot; target=&quot;_blank&quot;&gt;Pico Sharing Circle Format&lt;/a&gt;&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;a href=&quot;https://betterhumans.pub/how-to-start-a-sharing-circle-with-your-loved-ones-and-why-you-should-8fa67d5b93aa&quot; target=&quot;_blank&quot;&gt;How To Start a Sharing Circle With Your Loved Ones (and Why You Should)&lt;/a&gt;&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Our Life Stories – Session Format&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Session Notes Template&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Crew Log Template&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Crew Invitation Template&lt;/li&gt;
-  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Initial Meeting Template&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ARx6cKOQOhg&quot;&gt;Conversation with Rich and Nati about crews&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pico.microsolidarity.cc/projects/sharing-circle&quot; target=&quot;_blank&quot;&gt;Pico Sharing Circle Format&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://betterhumans.pub/how-to-start-a-sharing-circle-with-your-loved-ones-and-why-you-should-8fa67d5b93aa&quot; target=&quot;_blank&quot;&gt;How To Start a Sharing Circle With Your Loved Ones (and Why You Should)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -892,6 +2706,10 @@ Michał&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Create and edit a Jekyll website in Obsidian. Publish to Github without friction.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;(Disclaimer: I don’t know how to code)&lt;/p&gt;
+
+&lt;p&gt;Note: This process also allows to publish from &lt;a href=&quot;/obsidian-to-gitbook&quot;&gt;Obsidian to Gitbook&lt;/a&gt;, via &lt;a href=&quot;https://docs.gitbook.com/integrations/git-sync/enabling-github-sync&quot;&gt;Github Sync&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
 
 &lt;h2 id=&quot;installing-jekyll-on-macos-mojave&quot;&gt;Installing Jekyll on MacOS Mojave&lt;/h2&gt;
 &lt;p&gt;It was a pain in the ass, but it worked eventually.&lt;/p&gt;
@@ -978,14 +2796,25 @@ tags: [letters] &lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;For now I’ve been using a separate obsidian vault for my website, but actually, why not keep it all together?&lt;/p&gt;
 
 &lt;p&gt;I’ve created a new folder &lt;code&gt;/web&lt;/code&gt; in my main obsidian vault and I moved the folder with website files &lt;code&gt;heymichal.github.io&lt;/code&gt; inside.&lt;/p&gt;
+
+&lt;h2 id=&quot;is-this-useful&quot;&gt;Is this Useful?&lt;/h2&gt;
+
+&lt;p&gt;Well… I hope so. Personally speaking, it did change my entire experience of creating digital content.&lt;/p&gt;
+
+&lt;p&gt;If it seems to be making a difference for you, then I’m really happy. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;You might also enjoy this article - &lt;a href=&quot;https://michalkorzonek.com/personal-website-flow-full&quot; target=&quot;_blank&quot;&gt;Personal Website Flow (Full Version) - How I Use This Website&lt;/a&gt;, where I’ll show you how effortless it is to fly while this setup is operational.&lt;/p&gt;
+
+&lt;p&gt;If you feel like supporting my work, &lt;a href=&quot;https://patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon&lt;/a&gt;  is a great opportunity.&lt;/p&gt;
+
 </content>
  </entry>
  
  <entry>
    <title>Gift</title>
-   <link href="http://localhost:4000/gift"/>
+   <link href="http://localhost:4000/gift-santa"/>
    <updated>2021-11-27T00:00:00-01:00</updated>
-   <id>http://localhost:4000/gift</id>
+   <id>http://localhost:4000/gift-santa</id>
    <content type="html">&lt;p&gt;27 November 2021 🌗&lt;/p&gt;
 &lt;h2 id=&quot;dear-santa&quot;&gt;Dear Santa,&lt;/h2&gt;
 
@@ -1026,32 +2855,7 @@ tags: [letters] &lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;With Love and Gratitude,&lt;br /&gt;
 Michał.&lt;/p&gt;
 
-&lt;p&gt;ps. The List:&lt;/p&gt;
-
-&lt;h2 id=&quot;education&quot;&gt;Education&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Permaculture Design Course&lt;/strong&gt;, residential in Portugal (or even better, in Azores) or online, because I believe that permaculture is one of the most important fields to study right now, and I have pretty much zero experience with it.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://kernel.community/en/&quot; target=&quot;_blank&quot;&gt; Kernel Online Course&lt;/a&gt;, because web3 and blockchain open amazing possibilities for regenerating the world at scale, and I’d love to start my journey in this area by building something beautiful with other amazing people.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.greaterthan.works/academy/thriving-networks&quot; target=&quot;_blank&quot;&gt;Thriving Networks online course&lt;/a&gt;, because I’m building a &lt;a href=&quot;https://pico.microsolidarity.cc&quot; target=&quot;_blank&quot;&gt;Regenerative Network in the Azores&lt;/a&gt; and I could really use some extra support with the upcoming challenges. Knowing the humans behind this course, I feel that it’s precisely the right place for me to be.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;personal-growth&quot;&gt;Personal Growth&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Contact Improvisation / Ecstatic Dance residential gathering/course in Portugal, because connecting with other humans through dance is one of the most effective ways of addressing one of the biggest fears I’m working though at the moment, and it’s part of the healing that is very important for me to experience.&lt;/li&gt;
-  &lt;li&gt;Sailing opportunities of any shapes and sizes, ideally to/from/within the Azores, because sailing is the core foundation of my soul and I want to bring this gift to the world by hosting regenerative retreats at sea.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;items&quot;&gt;Items&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;A sailboat&lt;/strong&gt;. Yes, it’s a bold ask, but you never know. A sailboat would allow me to ditch flying for good, and move between the islands in the Azores (and beyond) to catalyse the regenerative network, as well as host transformative experiences at sea. I’m also feeling called to Brazil (and I intend to answer that Call). I’m looking to sail there from Europe in Nov/Dec 2022.&lt;/li&gt;
-  &lt;li&gt;A functioning typewriter, to write &lt;a href=&quot;/letters&quot;&gt;letters&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;A compact mechanical keyboard with Bluetooth, EN or PT layout, to write digital letters&lt;/li&gt;
-  &lt;li&gt;A hardcover book about astrology in English with strong focus on charts and visuals. I want to study different types of maps and astrology is a map.&lt;/li&gt;
-  &lt;li&gt;A hardcover edition of &lt;em&gt;Tao Te Ching&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Solar panels to power my tiny cabin and the community space next to it&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://berkey-waterfilters.fr/products/systeme-de-filtration-deau-travel-berkey-version-reduite-du-big-berkey&quot; target=&quot;_blank&quot;&gt;Travel Berkey Water Filter&lt;/a&gt;, because drinking highest quality water is essential&lt;/li&gt;
-&lt;/ul&gt;
-
+&lt;p&gt;ps. The List is &lt;a href=&quot;/gift&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;/p&gt;
 
 &lt;h2&gt;—&lt;/h2&gt;
@@ -1120,6 +2924,15 @@ Michał.&lt;/p&gt;
 
 &lt;p&gt;WIth that in mind, I feel that no matter what happens to me, I have a choice to make. That’s very empowering, because it makes me feel like I’m in a driver’s seat of my life. I do experience darker days, of course, but ultimately, I see them as inevitable challenges, and my overall experience of life so far led me to believe that, no matter the struggle, I can manifest any reality I want, which motivates me to actually make it happen on daily basis.&lt;/p&gt;
 
+&lt;h2 id=&quot;how-do-you-decompressrecharge&quot;&gt;How do you decompress/recharge?&lt;/h2&gt;
+&lt;p&gt;– Irem&lt;/p&gt;
+
+&lt;p&gt;Forest bathing, dancing, hugging, contact improvisation, (very long) walks, being held by people who make me feel loved.&lt;/p&gt;
+
+&lt;h2 id=&quot;if-you-were-a-dog-what-would-be-your-fetch-ball&quot;&gt;If you were a dog, what would be your fetch ball?&lt;/h2&gt;
+&lt;p&gt;– Irem&lt;/p&gt;
+
+&lt;p&gt;Dreams. I’ll chase them for you and bring it back, so we can manifest them together ✨&lt;/p&gt;
 </content>
  </entry>
  
@@ -1160,6 +2973,21 @@ Michał&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Pico Autumn Community Gathering</title>
+   <link href="http://localhost:4000/pico-autumn-community-gathering"/>
+   <updated>2021-10-21T00:00:00+00:00</updated>
+   <id>http://localhost:4000/pico-autumn-community-gathering</id>
+   <content type="html">&lt;p&gt;Following the success of our first &lt;a href=&quot;/pico-community-summer-gathering-2021&quot; target=&quot;_blank&quot;&gt;Summer Gathering&lt;/a&gt; we hosted our second gathering in October 2021.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The intention was to take the next step in the community building process, by tuning into our individual visions of what community in Pico could look like, and discovering how we could support each other in making these dreams come true in the context of our island with all it’s blessings and limitations.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We called it: &lt;strong&gt;&lt;em&gt;Stepping Into Belonging&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pico.microsolidarity.cc/crews-and-projects/autumn-gathering-2021&quot; target=&quot;_blank&quot;&gt;Full documentation here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Last Night In Lisbon</title>
    <link href="http://localhost:4000/last-night-in-lisbon"/>
    <updated>2021-10-18T00:00:00+00:00</updated>
@@ -1181,6 +3009,17 @@ Michał&lt;/p&gt;
 &lt;p&gt;Once accepted, it looses it’s paralyzing power. allowing for a deep wholehearted hug.&lt;/p&gt;
 
 &lt;p&gt;With the heart truly open, no Fear can be.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bruno &amp; Vera Wedding Ceremony</title>
+   <link href="http://localhost:4000/bruno-vera-wedding-ceremony"/>
+   <updated>2021-10-16T00:00:00+00:00</updated>
+   <id>http://localhost:4000/bruno-vera-wedding-ceremony</id>
+   <content type="html">&lt;p&gt;When a couple of beautiful Friends of mine, Bruno and Vera, told me that they could not think of anyone else to perform their wedding ceremony, I felt deeply honoured.&lt;/p&gt;
+
+&lt;p&gt;I’m looking forward to performing more Wedding ceremonies (and other ceremonies of different shapes and sizes). If you’d like me to hold space for you, &lt;a href=&quot;web/enspiral-europe-handbook/about.md#contact&quot; target=&quot;_blank&quot;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -1301,7 +3140,203 @@ In this very moment I am free.&lt;/p&gt;
  </entry>
  
  <entry>
-   <title>Ouroboros</title>
+   <title>The Gift</title>
+   <link href="http://localhost:4000/the-gift"/>
+   <updated>2021-08-21T00:00:00+00:00</updated>
+   <id>http://localhost:4000/the-gift</id>
+   <content type="html">&lt;p&gt;If I die today &lt;br /&gt;
+don’t miss me 
+I’ve had a wonderful life &lt;br /&gt;
+and even if it finished abruptly &lt;br /&gt;
+I’m so happy to have lived it &lt;br /&gt;
+and now depart.&lt;/p&gt;
+
+&lt;p&gt;I had to die one day anyway &lt;br /&gt;
+and today is a good day &lt;br /&gt;
+like any other.&lt;/p&gt;
+
+&lt;p&gt;There were things I wanted to do, &lt;br /&gt;
+and important words to say, &lt;br /&gt;
+but, I guess, &lt;br /&gt;
+I won’t have the opportunity. &lt;br /&gt;
+Not in this life anyway.&lt;/p&gt;
+
+&lt;p&gt;Now I’m gone &lt;br /&gt;
+and what is left is space, &lt;br /&gt;
+empty, &lt;br /&gt;
+that I’m leaving for you.&lt;/p&gt;
+
+&lt;p&gt;This space, that I occupied in your life,&lt;br /&gt;
+wether big or tiny, is my gift to you.&lt;/p&gt;
+
+&lt;p&gt;I wish you to use it well. &lt;br /&gt;
+Let it be the most fertile soil &lt;br /&gt;
+and a breath of new life &lt;br /&gt;
+for what’s the most meaningful&lt;br /&gt;
+for you to emerge.&lt;/p&gt;
+
+&lt;p&gt;I’ll keep sending you rays of eternal love and joy &lt;br /&gt;
+from wherever I’ll be next. &lt;br /&gt;
+There’s no need to miss me. &lt;br /&gt;
+Just enjoy the space.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;August 21, 2021&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Masking Around (Party Installation)</title>
+   <link href="http://localhost:4000/masking-around"/>
+   <updated>2021-08-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/masking-around</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Letters from the Forest (Poetry Collection)</title>
+   <link href="http://localhost:4000/letters-from-the-forest"/>
+   <updated>2021-08-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/letters-from-the-forest</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;Back in Summer 2021 I felt a call to ditch the comforts of living in a house and moved to a Magical Forest on an ocean cliff.&lt;/p&gt;
+
+&lt;p&gt;Sinking into the sounds of trees and waves every night brought up a lot of emotions and internal processes, which I decided to channel into heartfelt poems.&lt;/p&gt;
+
+&lt;p&gt;I’d like to compile it all into a small booklet with illustrations one day, but for now enjoy the raw words, as they came straight from the heart into the pages of my journal.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://write.as/fromtheforest/&quot; target=&quot;_blank&quot;&gt;Letters From the Forest 🌳&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://write.as/fromtheforest/tag:favourites&quot; target=&quot;_blank&quot;&gt;Personal favourites&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;💜&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Slam Jam (Event)</title>
+   <link href="http://localhost:4000/slam-jam"/>
+   <updated>2021-07-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/slam-jam</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;An evening combining a ritual, live music and a poetry slam.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The main intention was to experiment with a different way of spending time together, and open new possibilities for our collective creative energy to emerge, as well as bring more variety to cultural events in Pico.&lt;/p&gt;
+
+&lt;p&gt;Here’s the &lt;a href=&quot;https://docs.google.com/document/d/1pzf7tmJDj-F7r2J8NW9VFKwp4szQTpjd4lu_xpDf2s8/edit?usp=sharing&quot; target=&quot;_blank&quot;&gt;script&lt;/a&gt;, ready to be replicated for your context.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>End of the World</title>
+   <link href="http://localhost:4000/end-of-the-world"/>
+   <updated>2021-07-06T00:00:00+00:00</updated>
+   <id>http://localhost:4000/end-of-the-world</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;End of the World&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/box-6ae963084a5&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;End of the World&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Box</title>
+   <link href="http://localhost:4000/box"/>
+   <updated>2021-06-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/box</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Box&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/box-6ae963084a5&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Box&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Space</title>
+   <link href="http://localhost:4000/space"/>
+   <updated>2021-06-29T00:00:00+00:00</updated>
+   <id>http://localhost:4000/space</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Space&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/space-72a680c14733&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Space&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shift</title>
+   <link href="http://localhost:4000/shift"/>
+   <updated>2021-06-24T00:00:00+00:00</updated>
+   <id>http://localhost:4000/shift</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shift&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/shift-7bbfa40defe2&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Shift&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Waiting</title>
+   <link href="http://localhost:4000/waiting"/>
+   <updated>2021-06-22T00:00:00+00:00</updated>
+   <id>http://localhost:4000/waiting</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Waiting&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/waiting-23d4d14e80e3&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Waiting&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Enspiral Europe Connection Experiment (Online Gathering)</title>
+   <link href="http://localhost:4000/enspiral-europe-connection-experiment"/>
+   <updated>2021-06-17T00:00:00+00:00</updated>
+   <id>http://localhost:4000/enspiral-europe-connection-experiment</id>
+   <content type="html">&lt;p&gt;Invitation:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We live in times of great uncertainty. An Enspiral Europe in-person gathering might happen soon, but nothing is for sure. Let’s take advantage of the uncertainty, and do what is possible right now.&lt;/p&gt;
+
+  &lt;p&gt;You are warmly invited to a 4-day experiment from Thursday 17 June till Sunday 20 June. We’ll connect across Europe, from our homes, or (why not?) during a walk or anything else you’d like to do. Screen-poor, rich in connection.&lt;/p&gt;
+
+  &lt;p&gt;Uncertainty will travel with us, as we’ll explore what it means to surf the waves of change. As our world goes through an unprecedented transition, many of us experience deep transformations in their lives. Let’s explore together where we are and where we want to go. Are you ready to hit the waves?&lt;/p&gt;
+
+  &lt;p&gt;Opening session (on Zoom): Thursday 17 June 12:00-13:00 CEST
+Closing session (on Zoom): Sunday 20 June 12:00-13:00 CEST&lt;/p&gt;
+
+  &lt;p&gt;What happens in between is up to you. We’ll invite you to connect with others in pairs or triads over voice calls (we will share more about how to do this during the opening session) and you’ll be able to be as present as you like and schedule your own calls according to your preference. Together we create moments of connection, sync and async, sharing our voices, pictures and emerging insights. What do you discover about Enspiral Europe, and about yourself?&lt;/p&gt;
+
+  &lt;p&gt;Looking forward to experiment together with you,
+Michal, Silvia, Joriam, Brigit, An
+(Enspiral Europe connection workgroup)&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pico Summer Community Gathering 2021</title>
+   <link href="http://localhost:4000/pico-summer-community-gathering-2021"/>
+   <updated>2021-06-09T00:00:00+00:00</updated>
+   <id>http://localhost:4000/pico-summer-community-gathering-2021</id>
+   <content type="html">&lt;p&gt;In June 2021 I designed and co-hosted our first community gathering in Pico Island.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The intention was to build connection between people committed to being in Pico for the long-term, weaving social fabric and opening up possibilities for future projects to emerge.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The gathering was a direct result of our Sharing Circle and is intended to act as a heartbeat for our congregation. In many ways, it felt like a climax of the first chapter of our microsolidarity work in the island.&lt;/p&gt;
+
+&lt;p&gt;Full documentation of the Gathering &lt;a href=&quot;https://pico.microsolidarity.cc/crews-and-projects/summer-gathering-2021&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ouroboros (Performance)</title>
    <link href="http://localhost:4000/ouroboros"/>
    <updated>2021-06-05T00:00:00+00:00</updated>
    <id>http://localhost:4000/ouroboros</id>
@@ -1320,6 +3355,58 @@ In this very moment I am free.&lt;/p&gt;
 &lt;img src=&quot;/assets/ouroboros-3.jpeg&quot; alt=&quot;Michal and Austeja in front of broken TV&quot; /&gt;&lt;br /&gt;
 &lt;img src=&quot;/assets/ouroboros-4.jpeg&quot; alt=&quot;Michal and Austeja covering the stage with a fishing net&quot; /&gt;&lt;br /&gt;
 &lt;em&gt;Photos by Pedro Rabuja Meneses.&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Shattered</title>
+   <link href="http://localhost:4000/shattered"/>
+   <updated>2021-05-28T00:00:00+00:00</updated>
+   <id>http://localhost:4000/shattered</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shattered&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/shattered-6603648bd6ba&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Shattered&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Anchors in Time</title>
+   <link href="http://localhost:4000/anchors-in-time"/>
+   <updated>2021-05-28T00:00:00+00:00</updated>
+   <id>http://localhost:4000/anchors-in-time</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Anchors in Time&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/anchors-in-time-a5829e7e6e90&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Anchors in Time&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Feather</title>
+   <link href="http://localhost:4000/feather"/>
+   <updated>2021-05-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/feather</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Feather&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/feather-5788a7be4767&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Feather&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Infinity</title>
+   <link href="http://localhost:4000/infinity"/>
+   <updated>2021-05-15T00:00:00+00:00</updated>
+   <id>http://localhost:4000/infinity</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Infinity&lt;/em&gt; is a part of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/infinity-6629e68801b7&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Infinity&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -1346,6 +3433,17 @@ Tools: Blender, Sieve or filtering sock, funnel&lt;br /&gt;&lt;/p&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;Keep in a fridge for up to 5 days.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Habit Sprint (Cohort Based Course)</title>
+   <link href="http://localhost:4000/habit-sprint"/>
+   <updated>2021-03-29T00:00:00+00:00</updated>
+   <id>http://localhost:4000/habit-sprint</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
@@ -1438,6 +3536,10 @@ Tools: oven &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Delicious and rich coconut taste boosted with salty base.&lt;/strong&gt;&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;“Top 3 cake of TDF” - Julianna&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;p&gt;Type: Base + Filling &lt;br /&gt;
 Tools: Oven, stove, pan, mixing bowl &lt;br /&gt;&lt;/p&gt;
 
@@ -1527,6 +3629,17 @@ Tools: Oven, Freezer &lt;br /&gt;&lt;/p&gt;
  </entry>
  
  <entry>
+   <title>Year of Practice (Cohort Based Course)</title>
+   <link href="http://localhost:4000/year-of-practice"/>
+   <updated>2021-01-11T00:00:00-01:00</updated>
+   <id>http://localhost:4000/year-of-practice</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Epic Vegan Cheescake</title>
    <link href="http://localhost:4000/epic-vegan-cheescake"/>
    <updated>2020-12-24T00:00:00-01:00</updated>
@@ -1560,6 +3673,208 @@ Type: Base + Filling + (optional) Topping &lt;br /&gt;
 &lt;p&gt;1 spoon of &lt;strong&gt;peanut butter&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;The original recipe says that you can keep it in the fridge for a few days, but I never got to verify that claim—the cake was gone within 24 hours.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pico Sharing Circle</title>
+   <link href="http://localhost:4000/pico-sharing-circle"/>
+   <updated>2020-07-26T00:00:00+00:00</updated>
+   <id>http://localhost:4000/pico-sharing-circle</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Routine Bootcamp (Habit Building Crew)</title>
+   <link href="http://localhost:4000/routine-bootcamp"/>
+   <updated>2020-07-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/routine-bootcamp</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Team Angie (Care &amp; Support Crew)</title>
+   <link href="http://localhost:4000/team-angie"/>
+   <updated>2020-06-23T00:00:00+00:00</updated>
+   <id>http://localhost:4000/team-angie</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Elementals (Drum Crew)</title>
+   <link href="http://localhost:4000/elementals-drum-crew"/>
+   <updated>2020-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/elementals-drum-crew</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Circle (Sharing Circle)</title>
+   <link href="http://localhost:4000/circle"/>
+   <updated>2020-05-20T00:00:00+00:00</updated>
+   <id>http://localhost:4000/circle</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unicorns (Care &amp; Support Crew)</title>
+   <link href="http://localhost:4000/unicorns"/>
+   <updated>2020-05-01T00:00:00+00:00</updated>
+   <id>http://localhost:4000/unicorns</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Minimalist Journaling System (Cohort Based Course &amp; Workshop)</title>
+   <link href="http://localhost:4000/minimalist-journaling-system"/>
+   <updated>2019-10-28T00:00:00-01:00</updated>
+   <id>http://localhost:4000/minimalist-journaling-system</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>41 Powerful Journaling Exercises for Mind Expansion and Effective Behaviour Change</title>
+   <link href="http://localhost:4000/journaling-exercises"/>
+   <updated>2019-05-18T00:00:00+00:00</updated>
+   <id>http://localhost:4000/journaling-exercises</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;Originally published on JournalSmarter and republished on Better Humans, this article sent me on a journey of adapting powerful ideas into journaling tools, ready to be “deployed” on the pages of your journal.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://betterhumans.pub/41-powerful-journaling-exercises-for-mind-expansion-and-effective-behavior-change-6f71e0954f0d&quot; target=&quot;_blank&quot;&gt;Read on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>How to Chart a New Course For Your Life with 3 Simple Diagrams</title>
+   <link href="http://localhost:4000/chart-new-course"/>
+   <updated>2018-08-08T00:00:00+00:00</updated>
+   <id>http://localhost:4000/chart-new-course</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;An article exploring three powerful graphs applied to personal development.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/better-humans/how-to-chart-a-new-course-for-your-life-with-3-simple-diagrams-e9cc6b59c49d&quot; target=&quot;_blank&quot;&gt;Read on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Minimalist Journaling - A Fun and Effective Tool for Tremendous Habit Change</title>
+   <link href="http://localhost:4000/minimalist-journaling"/>
+   <updated>2018-06-13T00:00:00+00:00</updated>
+   <id>http://localhost:4000/minimalist-journaling</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Minimalist Journaling System&lt;/em&gt; (which I eventually rebranded as &lt;em&gt;Infinity Squares&lt;/em&gt;) is a journaling practice I developed to build consistency with habits that matter.&lt;/p&gt;
+
+&lt;p&gt;Over 1400+ days of consistent use, I discovered that squares are much more than just a tool for habits. Instead they are an &lt;strong&gt;intuitive journaling operating system, a visual representation of how your life unfolds, and a daily ritual of grounding and re-alignment.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Infinity Squares is the core practice in my life, and has impacted hundreds of people who decided to implement this method into their journals.&lt;/p&gt;
+
+&lt;p&gt;📖&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://betterhumans.pub/draft-how-to-hack-your-brain-to-achieve-consistency-that-lasts-7f5fdc520d28&quot; target=&quot;_blank&quot;&gt;Read the original article on Medium&lt;/a&gt; - which was my first experience of creating something that went “semi-viral”, and eventually led to starting a blog &lt;a href=&quot;https://journalsmarter.com/&quot; target=&quot;_blank&quot;&gt;JournalSmarter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://infinitysquares.xyz/&quot; target=&quot;_blank&quot;&gt;Infinity Squares Online Course&lt;/a&gt; - the most recent iteration of the course.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Would You Take Me in Your Car?</title>
+   <link href="http://localhost:4000/would-you-take-me-in-your-car"/>
+   <updated>2018-05-23T00:00:00+00:00</updated>
+   <id>http://localhost:4000/would-you-take-me-in-your-car</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;I’ve hitchhiked way over 15,000 km in my life. Here’s a story about one of these travels that taught me a powerful lesson about trust.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/would-you-take-me-in-your-car-dc3f3ed05f1f&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Would You Take Me in Your Car&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>01:31 AM Yoga</title>
+   <link href="http://localhost:4000/am-yoga"/>
+   <updated>2018-05-05T00:00:00+00:00</updated>
+   <id>http://localhost:4000/am-yoga</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;As a part of my consistency building practice I committed to do 1 hour of yoga every day. Here’s a story of not-skipping the beat while finding myself at the airport at 1am.&lt;/p&gt;
+
+&lt;p&gt;Spoiler alert: it was an amazing feeling.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@michal.korzonek/01-31-am-yoga-ccabb2ab909&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;01:31 AM Yoga&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sailcubator (Sailing Retreat)</title>
+   <link href="http://localhost:4000/sailcubator"/>
+   <updated>2017-06-11T00:00:00+00:00</updated>
+   <id>http://localhost:4000/sailcubator</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Timeless</title>
+   <link href="http://localhost:4000/timeless"/>
+   <updated>2017-05-17T00:00:00+00:00</updated>
+   <id>http://localhost:4000/timeless</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Timeless&lt;/em&gt; is the very first of “&lt;a href=&quot;/moments-of-connection&quot;&gt;Moments of Connection&lt;/a&gt;” - a series of poetic stories inspired by these magical moments and conversations that touched me deeply.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/honeyboom-xyz/timeless-939949944214&quot; target=&quot;_blank&quot;&gt;Read &lt;em&gt;Timeless&lt;/em&gt; on Medium&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Moments of Connection (Collection of Stories)</title>
+   <link href="http://localhost:4000/moments-of-connection"/>
+   <updated>2017-05-17T00:00:00+00:00</updated>
+   <id>http://localhost:4000/moments-of-connection</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;Moments of Connection&lt;/em&gt; in chronological order.&lt;/p&gt;
+
+&lt;p&gt;(Favourites in bold)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/timeless&quot; target=&quot;_blank&quot;&gt;Timeless&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/infinity&quot; target=&quot;_blank&quot;&gt;Infinity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/feather&quot; target=&quot;_blank&quot;&gt;Feather&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/anchors-in-time&quot; target=&quot;_blank&quot;&gt;Anchors in Time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/shattered&quot; target=&quot;_blank&quot;&gt;Shattered&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/waiting&quot; target=&quot;_blank&quot;&gt;Waiting&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/shift&quot; target=&quot;_blank&quot;&gt;Shift&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/space&quot; target=&quot;_blank&quot;&gt;Space&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/box&quot; target=&quot;_blank&quot;&gt;Box&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;/end-of-the-world&quot; target=&quot;_blank&quot;&gt;End of the World&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 </content>
  </entry>
  
@@ -1626,6 +3941,401 @@ Type: Base + Filling + (optional) Topping &lt;br /&gt;
 &lt;p&gt;🌀&lt;/p&gt;
 
 &lt;p&gt;Since this was originally an audio recording, I’ve used parts of this letter to narrate the video diary I created in this powerful time of transition. It is one of these few pieces of myself that I revisit every now and then, and it puts me in a beautifully emotional state. Here’s the &lt;a href=&quot;https://www.youtube.com/watch?v=SVeygd_Skfk&quot; target=&quot;_blank&quot;&gt;video&lt;/a&gt; (youtube link).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Beltane Fire Festival (Performance &amp; Ceremony)</title>
+   <link href="http://localhost:4000/beltane-fire-festival-beasties"/>
+   <updated>2017-04-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/beltane-fire-festival-beasties</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>We Will Have to Wait and See, Right?</title>
+   <link href="http://localhost:4000/we-will-have-to-wait-and-see-right"/>
+   <updated>2017-04-13T00:00:00+00:00</updated>
+   <id>http://localhost:4000/we-will-have-to-wait-and-see-right</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;After three years together, my Lover needed space to explore who she is on her own. We loved each other very much, but while I’ve had the blessing of self-discovery travels for many years, she moved to live with me straight from living with her parents. It was painful to let her go, but I knew the importance of the journey that was calling her soul.&lt;/p&gt;
+
+&lt;p&gt;Here’s a rap song I made for her.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ZYvQpMGdfto&quot; target=&quot;_blank&quot;&gt;youtube video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;💜&lt;/p&gt;
+
+&lt;p&gt;From the very beginning  &lt;br /&gt;
+To the very end of my soul  &lt;br /&gt;
+Here are some words for you: &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hello!  &lt;br /&gt;
+Are you there? &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the other side of this planet,  &lt;br /&gt;
+Living your life, walking the path that is in front of you…  &lt;br /&gt;
+Is there still space in your backpack to fit my heart  &lt;br /&gt;
+Which keeps beating with Energy  &lt;br /&gt;
+Which I used to share with you everyday?&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Are you okay?&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So many questions,  &lt;br /&gt;
+But I guess it is to be expected of me.  &lt;br /&gt;
+After all I used to get the answers immediately  &lt;br /&gt;
+Every time when I felt you next to me Breathing,  &lt;br /&gt;
+Painting the air with sounds of love and joy  &lt;br /&gt;
+And every other thing that we have experienced  &lt;br /&gt;
+Since our souls touched for the very first time.  &lt;br /&gt;
+When we still didn’t know each other.  &lt;br /&gt;
+Before I drew a path into your soul  &lt;br /&gt;
+Wanting so much to get to know you  &lt;br /&gt;
+And explore if you and me  &lt;br /&gt;
+Can share Something  &lt;br /&gt;
+Which will change how we understand Love  &lt;br /&gt;
+Until this very breath.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Can we still connect on the same level  &lt;br /&gt;
+Or beyond? Outgrow what we used to know  &lt;br /&gt;
+With no before and no future  &lt;br /&gt;
+Only the present of Today  &lt;br /&gt;
+When I think of you,  &lt;br /&gt;
+When I miss you  &lt;br /&gt;
+When I am so happy to be apart to realize  &lt;br /&gt;
+That you are such a huge part of my life.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And my soul and my thoughts  &lt;br /&gt;
+And my whole body is happy walking on its own path  &lt;br /&gt;
+Knowing that connection which we have  &lt;br /&gt;
+Is the most significant connection  &lt;br /&gt;
+Which I have experienced in the past until now.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And the future is always open  &lt;br /&gt;
+And I hope that our paths will meet  &lt;br /&gt;
+And our souls will touch and see each other.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;And who knows?  &lt;br /&gt;
+Maybe we will grow?  &lt;br /&gt;
+Maybe we will grow together?  &lt;br /&gt;
+I wish I could know, but that’s a trap  &lt;br /&gt;
+And at this very moment  &lt;br /&gt;
+&lt;strong&gt;I am Here and you are  &lt;br /&gt;
+Somewhere Else understanding  &lt;br /&gt;
+Who we are when we are apart  &lt;br /&gt;
+So if we ever get back  &lt;br /&gt;
+We will only be stronger  &lt;br /&gt;
+And more loving.&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;…&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Who knows?  &lt;br /&gt;
+We will have to live and see.&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Right?&lt;br /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Your Time is Valuable (Workshop)</title>
+   <link href="http://localhost:4000/your-time-is-valuable"/>
+   <updated>2017-03-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/your-time-is-valuable</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Parallel (Performance)</title>
+   <link href="http://localhost:4000/parallel"/>
+   <updated>2016-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/parallel</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://medium.com/honeyboom-xyz/eye-gazing-a-powerful-exercise-for-bonding-and-self-exploration-fe6444a91353&quot; target=&quot;_blank&quot;&gt;Article&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Oasis (Performance)</title>
+   <link href="http://localhost:4000/oasis"/>
+   <updated>2015-10-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/oasis</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Radio Ion (Performance)</title>
+   <link href="http://localhost:4000/radio-ion"/>
+   <updated>2015-08-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/radio-ion</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Words Without Wires (Workshop)</title>
+   <link href="http://localhost:4000/words-without-wires"/>
+   <updated>2014-07-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/words-without-wires</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scottish - Will Travel (Exhibition)</title>
+   <link href="http://localhost:4000/scottish-will-travel"/>
+   <updated>2014-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/scottish-will-travel</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Beltane Fire Festival (Performance &amp; Ceremony)</title>
+   <link href="http://localhost:4000/beltane-fire-festival-bower"/>
+   <updated>2014-04-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/beltane-fire-festival-bower</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ridotto 2014 - Neverland (Exhibition)</title>
+   <link href="http://localhost:4000/ridotto"/>
+   <updated>2014-01-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/ridotto</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>3rd International Forum of the European Youth Parliament Albania</title>
+   <link href="http://localhost:4000/eyp-albania-forum"/>
+   <updated>2013-11-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/eyp-albania-forum</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Samhuinn (Performance &amp; Ceremony)</title>
+   <link href="http://localhost:4000/samhuinn-seasonal-promise"/>
+   <updated>2013-10-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/samhuinn-seasonal-promise</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Beltane Fire Festival (Performance &amp; Ceremony)</title>
+   <link href="http://localhost:4000/beltane-fire-festival-fire"/>
+   <updated>2013-04-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/beltane-fire-festival-fire</id>
+   <content type="html">&lt;p&gt;Context:&lt;/p&gt;
+
+&lt;p&gt;Magic:&lt;/p&gt;
+
+&lt;p&gt;My Role:&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Unfold (6th NSC of the European Youth Parliament Albania)</title>
+   <link href="http://localhost:4000/eyp-unfold"/>
+   <updated>2013-03-20T00:00:00-01:00</updated>
+   <id>http://localhost:4000/eyp-unfold</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>24 Planets (Festival)</title>
+   <link href="http://localhost:4000/24-planets"/>
+   <updated>2013-02-01T00:00:00-01:00</updated>
+   <id>http://localhost:4000/24-planets</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Emporium of Vaudeville Wonders (Installation)</title>
+   <link href="http://localhost:4000/vaudeville-empire"/>
+   <updated>2013-01-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/vaudeville-empire</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>20+4 slash 11.DR1651F1 (Party &amp; Installation)</title>
+   <link href="http://localhost:4000/20-4-11-dr1651f1"/>
+   <updated>2012-11-30T00:00:00-01:00</updated>
+   <id>http://localhost:4000/20+4-11.DR1651F1</id>
+   <content type="html">&lt;p&gt;Context: &lt;em&gt;20+4/11.DR1651F1&lt;/em&gt; was the second interactive party hosted at Casa del Cine in Edinburgh.&lt;/p&gt;
+
+&lt;p&gt;Magic: Transforming a casual party into an interactive playground by introducing gamification and interactive installations.&lt;/p&gt;
+
+&lt;p&gt;My Role: Concept, space design, gamification, sound installation in the bathroom,  video projection,&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/138565331&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add photos&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Do You Like Blue? (Party &amp; Installation)</title>
+   <link href="http://localhost:4000/do-you-like-blue"/>
+   <updated>2012-09-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/do-you-like-blue</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Tallinn Media (70th International Session of the European Youth Parliament)</title>
+   <link href="http://localhost:4000/eyp-tallinn-media"/>
+   <updated>2012-08-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/eyp-tallinn-media</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Canvas Environmental Art (Exhibition)</title>
+   <link href="http://localhost:4000/canvas-environmental"/>
+   <updated>2012-03-10T00:00:00-01:00</updated>
+   <id>http://localhost:4000/canvas-environmental</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Stroboheroes (12th National Conference of the European Youth Parliament Austria)</title>
+   <link href="http://localhost:4000/eyp-stroboheroes"/>
+   <updated>2011-05-29T00:00:00+00:00</updated>
+   <id>http://localhost:4000/eyp-stroboheroes</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Magic Spells (Party &amp; Installation)</title>
+   <link href="http://localhost:4000/magic-spells"/>
+   <updated>2011-05-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/magic-spells</id>
+   <content type="html">&lt;p&gt;Context: &lt;em&gt;Magic Spells&lt;/em&gt; was the first full-on party design I created, bringing local artists to transform a flat being into an interactive playground.&lt;/p&gt;
+
+&lt;p&gt;Magic: Transforming a regular party, with all the usual patterns (drinking / socialising) into a magical exploration by engaging people in interactions with the space.&lt;/p&gt;
+
+&lt;p&gt;My Role: Concept, installation exploring facebook addiction, sound installation in the bathroom, video projection&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/29521165&quot; target=&quot;_blank&quot;&gt;Video&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add photos&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Klovernissagen (Exhibition)</title>
+   <link href="http://localhost:4000/klovernissagen"/>
+   <updated>2009-12-10T00:00:00-01:00</updated>
+   <id>http://localhost:4000/klovernissagen</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mroczna Tajemnica VLO (Theatre Experience)</title>
+   <link href="http://localhost:4000/mroczna-tajemnica-vlo"/>
+   <updated>2008-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/mroczna-tajemnica-vlo</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Anielskie Lydki (Film Experience)</title>
+   <link href="http://localhost:4000/anielskie-lydki"/>
+   <updated>2008-05-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/anielskie-lydki</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bathroom Sounds (Party &amp; Installation)</title>
+   <link href="http://localhost:4000/bathroom-sounds"/>
+   <updated>2007-05-30T00:00:00+00:00</updated>
+   <id>http://localhost:4000/bathroom-sounds</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Car Mikolaj (Theatre Play)</title>
+   <link href="http://localhost:4000/car-mikolaj"/>
+   <updated>2002-09-10T00:00:00+00:00</updated>
+   <id>http://localhost:4000/car-mikolaj</id>
+   <content type="html">&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;add documentation&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  

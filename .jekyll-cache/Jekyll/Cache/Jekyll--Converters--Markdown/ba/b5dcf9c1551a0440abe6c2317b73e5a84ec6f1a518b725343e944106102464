@@ -1,0 +1,37 @@
+I"5<p><strong>This website is my digital garden, journal, archive, portfolio, playground and open documentation of stuff I do.</strong></p>
+
+<p>I had this crazy idea for a while to put it all in one place, and I finally managed to manifest it, which is a huge victory because I’m a recovering perfectionist who doesn’t know how to code. <br /></p>
+
+<p>Pow ✨.</p>
+
+<h2 id="this-website-doesnt-track-you">This website doesn’t track you</h2>
+<p>Enjoy.</p>
+
+<h2 id="content-license">Content License</h2>
+<p><a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>.</p>
+
+<p>Use the content as you wish without permission, as long as you:</p>
+<ul>
+  <li>give appropriate credit</li>
+  <li>don’t use it for commercial purpose</li>
+  <li>keep the same license</li>
+</ul>
+
+<h2 id="tech-stack">Tech Stack</h2>
+<p>I’m designing this website for effortless publishing from Obsidian. Here’s my <a href="/obsidian-to-github">documentation</a> of making this possible.</p>
+
+<ul>
+  <li>Content written in <a href="https://obsidian.md/" target="_blank">Obsidian</a></li>
+  <li>Code written in <a href="https://brackets.io/" target="_blank">Brackets</a></li>
+  <li>Coded (awkwardly) by me in <a href="https://jekyllrb.com/" target="_blank">Jekyll</a></li>
+  <li>Started with <a href="https://github.com/ronv/sidey" target="_blank">Sidey theme</a></li>
+  <li>Hosted on <a href="https://github.com/" target="_blank">Github</a></li>
+  <li>Deployed by <a href="https://www.netlify.com/" target="_blank">Netlify</a></li>
+</ul>
+
+<h2 id="contribute-on-github">Contribute on Github</h2>
+<p>If you found bugs, typos etc, you can view <a href="https://github.com/heymichal/heymichal.github.io" target="_blank">source code</a> on Github and help.</p>
+
+<h2 id="contribute-with-">Contribute with 🍪</h2>
+<p>Perhaps the stuff I do here is useful to you and you’d like to send me some gratitude in a form of financial support? <a href="https://www.patreon.com/michalkorzonek" target="_blank">Patreon</a> is a great place to do so. If not, hugs are another great option 💜.</p>
+:ET
