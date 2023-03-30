@@ -9,7 +9,7 @@ summary:
 
 📷 Profile Photo [here](/assets/michalkorzonek-profile-lq.jpg){:target="_blank"}.
 
-🧙‍♂️ Areas of research:
+🧙‍♂️ Areas of research
 
 - Co-creation through play
 - Community weaving
