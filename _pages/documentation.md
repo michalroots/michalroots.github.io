@@ -68,7 +68,7 @@ Win-Win-Win.
 
 ## Technical Documentation
 
-- [**Publish from Obsidian to Github**](/obisdian-to-github){:target="_blank"} - Create and edit a Jekyll website in Obsidian. Publish to Github without friction. No need for coding experience.
+- [**Publish from Obsidian to Github**](/obsidian-to-github){:target="_blank"} - Create and edit a Jekyll website in Obsidian. Publish to Github without friction. No need for coding experience.
 
 ## (News)letters 💌
 
