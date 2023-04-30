@@ -69,7 +69,7 @@ This requires setting the commitment well.
 
 With full awareness of the stakes at play, I decided to commit to a daily swim.
 
-CARD: One never regrets a swim
+![One Never Regrets a Swim Card](/assets/never-regret-swim.jpg)
 
 I am in an environment where I can go into the water daily, unless the sea state is completely wild, and even if it is, there is a high chance I can find a spot to get into the water. There is a possibility that external circumstances beyond my control (as in: Nature) will make it impossible, in which case I will accept it and have a long cold shower instead. But I will go out of my way to find a spot to swim.
 
