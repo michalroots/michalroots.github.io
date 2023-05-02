@@ -53,9 +53,9 @@ I write about different topics. You can find some of my pieces here, grouped in 
 - [**Experiences**](/tag/experiences/){:target="_blank"} - experiences I hosted / co-created
 - [**Non-negotiable**](/tag/non-negotiable/){:target="_blank"} - exploring commitments, habits, intentional living
 - [**Community**](/tag/community/){:target="_blank"} - weaving communities
-- [**Wizard**](http://localhost:4000/tag/wizard/){:target="_blank"} - magick stuffs
-- [**Self-Reliance**](http://localhost:4000/tag/self-reliance/){:target="_blank"} - learning survival stuff
-- [**Journaling**](http://localhost:4000/tag/journaling/){:target="_blank"} - good, old-fashioned pen and paper
+- [**Wizard**](/tag/wizard/){:target="_blank"} - magick stuffs
+- [**Self-Reliance**](/tag/self-reliance/){:target="_blank"} - learning survival stuff
+- [**Journaling**](/tag/journaling/){:target="_blank"} - good, old-fashioned pen and paper
 
 ## Podcasts
 - [**Enspiral Podcast**](https://www.youtube.com/playlist?list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp){:target="_blank"}
