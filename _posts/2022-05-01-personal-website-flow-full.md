@@ -3,7 +3,7 @@ layout: post
 title: Personal Website Flow (Full Version) - How I Use This Website
 description: Meta article about my writing process using Obsidian as a central point of my digital world.
 image: 
-tags: articles documentation
+tags: low-tech
 ---
 
 Context: This article is a full version of the original article, which you can find [here](/personal-website-flow){:target="_blank"}. This version is updated, the other is the original commit. Choose wisely.

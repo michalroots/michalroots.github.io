@@ -3,7 +3,7 @@ layout: post
 title: Gratitude Mandala
 description: A beautiful prompt for writing heartfelt letters to the people who shaped my year
 image: /assets/gratitude-mandala-2021.jpg
-tags: [games]
+tags: games journaling
 ---
 
 Every year I draw a [Gratitude Mandala](https://journalsmarter.com/gratitude-mandala){:target="_blank"}, which includes beings I'm grateful for in the year that has ended. It's a part of my yearly review since 2019. 

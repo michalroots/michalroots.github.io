@@ -3,8 +3,10 @@ layout: post
 title: Google Free before 23
 description: Freeing myself from Google
 image: 
-tags: [documentation]
+tags: low-tech
 ---
+
+*Note: I failed this experiment. It's 2023 and I'm still using Google. 🙁*
 
 2022 is the time to finally ditch Google from my personal and professional life, as much as possible.
 

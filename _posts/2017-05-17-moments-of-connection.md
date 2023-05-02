@@ -3,7 +3,7 @@ layout: post
 title: Moments of Connection (Collection of Stories)
 description: A collection of poetic stories inspired by magical moments and conversations.
 image:
-tags: [stories]
+tags: art
 ---
 
 *Moments of Connection* in chronological order.

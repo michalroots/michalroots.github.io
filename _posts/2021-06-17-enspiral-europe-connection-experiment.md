@@ -3,7 +3,7 @@ layout: post
 title: Enspiral Europe Connection Experiment (Online Gathering)
 description: Experiment in weaving connection within European Enspiral Crowd
 image:
-tags: [experiences]
+tags: community experiences
 ---
 
 Invitation:

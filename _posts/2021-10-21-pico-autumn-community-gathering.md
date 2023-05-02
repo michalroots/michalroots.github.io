@@ -3,7 +3,7 @@ layout: post
 title: Pico Autumn Community Gathering
 description: Our second community gathering in Pico
 image:
-tags: [experiences]
+tags: community
 ---
 
 Following the success of our first [Summer Gathering](/pico-community-summer-gathering-2021){:target="_blank"} we hosted our second gathering in October 2021.

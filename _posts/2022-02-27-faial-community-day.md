@@ -3,7 +3,7 @@ layout: post
 title: Faial Community Day (workshop)
 description: Bringing microsolidarity to Faial Island
 image:
-tags: [experiences]
+tags: community
 ---
 
 Context: I've had a pleasure to facilitate a **community weaving workshop** in Pico's closest neighbour - Faial island. This marks a significant step on the **journey towards co-creating Azores Regenerative Network**.

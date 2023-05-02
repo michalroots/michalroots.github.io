@@ -3,7 +3,7 @@ layout: post
 title: Thirty Three
 description: Facing the shadow as I approach another birthda
 image: 
-tags:
+tags: journal
 ---
 
 Out of curiosity I took a look at a numerological meaning behind the number thirty three, and it was certainly an encouraging moment, considering that I'm about to turn that age in a few days.

@@ -3,7 +3,7 @@ layout: post
 title: New Moon Journaling
 description: How To Use Journaling to Realign in the Beginning of a New Cycle.
 image:
-tags: [articles]
+tags: journaling
 ---
 
 Context: 

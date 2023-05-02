@@ -3,7 +3,7 @@ layout: post
 title: Pico Spring 2022 Community Gathering
 description: Our third community gathering in Pico
 image:
-tags: [experiences]
+tags: community
 ---
 
 Extensive documentation from our third community gathering in Pico Island, hosted in May 2022.

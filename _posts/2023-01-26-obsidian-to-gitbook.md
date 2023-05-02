@@ -3,7 +3,7 @@ layout: post
 title: Publish from Obsidian to Gitbook
 description: Create a gitbook, edit in obsidian.
 summary: Create a gitbook, edit in obsidian.
-tags: [documentation]
+tags: low-tech
 ---
 
 Objective: 

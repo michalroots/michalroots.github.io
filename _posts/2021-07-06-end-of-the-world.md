@@ -3,7 +3,7 @@ layout: post
 title: End of the World
 description: A moment of freedom at the end of the world.
 image:
-tags: [stories]
+tags: art
 ---
 
 Context: 

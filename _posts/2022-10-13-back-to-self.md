@@ -3,7 +3,7 @@ layout: post
 title: Back To Self
 description: I spent the summer surrounded by people all the time. Now I am alone.
 image: 
-tags: article
+tags: journal
 ---
 
 I've spent the summer of 2022 immersed in [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"} - a regenerative village with super-high-energy social context overflowing with all sorts of in-real-life relating. As my [stewardsheep](https://handbook.traditionaldreamfactory.com/participate/stewardsheep){:target="_blank"} 🐑 came to an end I returned to Pico island. Suddenly I am spending pretty much all of my time alone.

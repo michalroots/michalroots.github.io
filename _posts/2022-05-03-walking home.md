@@ -3,7 +3,7 @@ layout: post
 title: Walking Home
 description: Under the stars
 image: 
-tags: [poems]
+tags: art
 ---
 
 I'm walking back into myself<br>

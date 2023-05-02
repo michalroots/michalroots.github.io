@@ -3,7 +3,7 @@ layout: post
 title: Pico Summer Community Gathering 2021
 description: The first gathering of Pico Island Congregation.
 image: /assets/pico-summer-2021.jpeg
-tags: [experiences]
+tags: experiences community
 ---
 
 In June 2021 I designed and co-hosted our first community gathering in Pico Island.

@@ -3,7 +3,7 @@ layout: post
 title: Blossoming
 description: Poem about getting lost in connection with you
 image: 
-tags: [poems]
+tags: art
 ---
 
 I'm here with you<br>

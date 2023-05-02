@@ -13,5 +13,3 @@ Magic: Transforming a regular party, with all the usual patterns (drinking / soc
 My Role: Concept, installation exploring facebook addiction, sound installation in the bathroom, video projection
 
 [Video](https://vimeo.com/29521165){:target="_blank"} 
-
-- [ ] add photos

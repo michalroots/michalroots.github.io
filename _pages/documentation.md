@@ -33,6 +33,8 @@ Win-Win-Win.
 
 **Here's my [Patreon](https://patreon.com/michalkorzonek)**{:target="_blank"}.
 
+If you'd like to fund a specific piece of documentation, [let me know](/contact){:target="_blank"}.
+
 🌳
 
 
@@ -46,8 +48,14 @@ Win-Win-Win.
 
 ## Articles
 
-- [**My Microsolidarity Journey**](/microsolidarity-journey){:target="_blank"} - documenting my experiments with learning microsolidarity (a community weaving framework) by doing it.
-- [**The Cabin**](/cabin){:target="_blank"} - documenting my favourite Home I ever lived in - a 3x3 wooden cabin in the middle of a magickal forest.
+I write about different topics. You can find some of my pieces here, grouped in some kind of order:
+
+- [**Experiences**](/tag/experiences/){:target="_blank"} - experiences I hosted / co-created
+- [**Non-negotiable**](/tag/non-negotiable/){:target="_blank"} - exploring commitments, habits, intentional living
+- [**Community**](/tag/community/){:target="_blank"} - weaving communities
+- [**Wizard**](http://localhost:4000/tag/wizard/){:target="_blank"} - magick stuffs
+- [**Self-Reliance**](http://localhost:4000/tag/self-reliance/){:target="_blank"} - learning survival stuff
+- [**Journaling**](http://localhost:4000/tag/journaling/){:target="_blank"} - good, old-fashioned pen and paper
 
 ## Podcasts
 - [**Enspiral Podcast**](https://www.youtube.com/playlist?list=PLH4jIJHXyh2Gq6mgD4MwJ8Q4VLhK2DZEp){:target="_blank"}
@@ -75,6 +83,10 @@ Win-Win-Win.
 - [**Moonly Reviews** 🌑🌕 ](https://michalkorzonek.com/moonly-reviews){:target="_blank"} - a **heartfelt electronic letter** aligned with the Moon, sharing my personal story as it unfolds
 - [**Enspiral Newsletter**](https://www.enspiral.com/){:target="_blank"} (Internal & External) - updates from a network of people helping each other do **meaningful work** and notes from the field of the future of work and a **new way of organising**.
 - [**Sunday Insights**](https://docs.google.com/document/d/163FC_CZsNVmpjaw1Mty4PJvIhrGwqIDE9aa6YyU1AXw/edit?usp=sharing){:target="_blank"} (newsletter project in 2020) - weekly email with an insight, a prompt, a picture, and an idea worth spreading.
+
+## Food
+- [Nomz](/tag/nomz/){:target="_blank"} - delicious and nutricious vegan, sugar free desserts.
+
 <br>
 <br>
 > “One of my favourite things about the Sunday Insights is that they give a window into your world. I love it that not only are you deep thinkers committed to the things that matter most in life, but that you are also committed to being guides on the journey. So grateful to be in satsanga.” <br> -- Cathy Hutchison

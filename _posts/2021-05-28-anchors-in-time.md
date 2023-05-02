@@ -3,7 +3,7 @@ layout: post
 title: Anchors in Time
 description: A reflection on the past and present.
 image:
-tags: [stories]
+tags: art
 ---
 
 Context: 

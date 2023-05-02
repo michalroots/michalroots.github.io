@@ -3,7 +3,7 @@ layout: post
 title: Illuminated
 description: 
 image: 
-tags: poems spoken
+tags: art
 ---
 
 Context: I wrote this text while at sea (original scan at the end), a couple of days after departing from Edinburgh, which used to be my Home for seven years, and it still does feel like my hometown somehow. 

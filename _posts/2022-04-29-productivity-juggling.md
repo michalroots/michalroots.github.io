@@ -3,7 +3,7 @@ layout: post
 title: Productivity Juggling 🤹‍♀️
 description: Behold! How running like a headless chicken resulted in a perfect productivity system.
 image: 
-tags: articles documentation
+tags: journal non-negotiable
 ---
 
 Earlier today, a friend reached out asking to cancel our learning pod meeting. It seems that calls and other stuff took over her day, and she forgot to keep some free time to eat. 

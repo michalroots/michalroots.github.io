@@ -3,7 +3,7 @@ layout: post
 title: Minimalist Journaling - A Fun and Effective Tool for Tremendous Habit Change
 description: Collection of heartfelt poems inspired by living in a Magical Forest.
 image:
-tags: [articles]
+tags: journaling
 ---
 
 Context: 

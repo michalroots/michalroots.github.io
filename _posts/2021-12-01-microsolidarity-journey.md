@@ -3,7 +3,7 @@ layout: post
 title: My Microsolidarity Journey
 description: From lonely nomad to community catalyst
 image: 
-tags: documentation articles
+tags: community
 ---
 
 *Published: 2021-12-01*

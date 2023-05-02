@@ -3,7 +3,7 @@ layout: post
 title: Publish from Obsidian to Github
 description: Creating a Jekyll website in Obsidian for frictionless publishing on Github
 summary: Creating a Jekyll website in Obsidian for frictionless publishing on Github
-tags: [documentation]
+tags: low-tech
 ---
 
 Objective: 

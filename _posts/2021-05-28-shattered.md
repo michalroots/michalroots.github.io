@@ -3,7 +3,7 @@ layout: post
 title: Shattered
 description: A conversation with Fear.
 image:
-tags: [stories]
+tags: art
 ---
 
 Context: 

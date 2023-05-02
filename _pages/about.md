@@ -4,7 +4,7 @@ title: About
 excerpt: Michał creates experiences and games that accelerate transition towards a regenerative way of living.
 ---
 
-I'm a **facilitation artist**, catalysing the **regenerative movement** through **serious games**, **co-creation experiences** and **open source documentation**.
+I'm a **facilitation artist**, catalysing the **regenerative movement** through **serious games**, **co-creation experiences** and **open source documentation**. I am also a **wizard**.
 
 I'm building and documenting [Enspiral](https://enspiral.com){:target="_blank"}, [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}, and [Microsolidarity in Pico](https://pico.microsolidarity.cc){:target="_blank"}.
 

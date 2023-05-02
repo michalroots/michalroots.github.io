@@ -3,7 +3,7 @@ layout: post
 title: The Community Council
 description: A Collaborative Game to Catalyse Your Community. 
 image: 
-tags: [games]
+tags: games community
 ---
 
 **A Collaborative Game to Catalyse Your Community**

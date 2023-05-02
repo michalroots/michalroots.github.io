@@ -3,7 +3,7 @@ layout: post
 title: How to Chart a New Course For Your Life with 3 Simple Diagrams
 description: Overcome inertia and move ahead on your goals with these proven tools for visual thinking
 image:
-tags: [articles]
+tags: non-negotiable
 ---
 
 Context: 

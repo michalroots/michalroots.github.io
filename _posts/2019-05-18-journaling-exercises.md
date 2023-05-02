@@ -3,7 +3,7 @@ layout: post
 title: 41 Powerful Journaling Exercises for Mind Expansion and Effective Behaviour Change
 description: Based on the work of some of the greatest world-class experts on productivity, complexity thinking, health and wellbeing, and more
 image:
-tags: [articles]
+tags: journaling
 ---
 
 Context: 
