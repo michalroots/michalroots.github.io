@@ -17,7 +17,7 @@ Beltane marks the transition from Winter to Summer, a middle point between the S
 
 Back then, I participated in three Beltanes, burning away the Winter on Calton Hill, with another 300 painted Beings coming together for one night after a few months of preparation. Part performance, part ceremony, the Beltane Fire Festival is witnessed by a big crowd of spectators. Being there as one of the "performers" is one of the most marking ceremonies in my life.
 
-The third time was particularly powerful, as it marked not only the beginning of Summer, but also the beginning of a new lifecycle for me. I was about to leave Edinburgh, my Home for seven years and my spiritual hometown, 17 days after Beltane.
+The third time was particularly powerful, as it marked not only the beginning of Summer, but also the beginning of a new lifecycle for me. I was about to leave Edinburgh, my Home for seven years and my spiritual hometown, a couple of days after Beltane.
 
 I'll never forget the energy of that night.
 
