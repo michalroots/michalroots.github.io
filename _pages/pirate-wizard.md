@@ -8,7 +8,7 @@ Ahoy there!
 
 So it is so, that **Michał (that'd be me) decided to become a professional pirate** - **and enrolled into the Enkhuizer Zeevaartschool (Netherlands)** - the finest tall ship school in the world.
 
-[Pirate Wizard Picture](/assets/pirate-wizard-lq.jpg)
+![Pirate Wizard Picture](/assets/pirate-wizard-lq.jpg)
 
 ( ☝️ That's the courtyard of the school, and my very, very excited self. )
 
@@ -28,7 +28,7 @@ Ideal match:
 
 **I'm a pirate wizard living in Pico Island (Azores) and building a Forest Sanctuary and a Pirate Base.** I've been here for 3 years+, supporting local projects and creating a gift economy allowing people to thrive with minimal reliance on financial capital (growing food, sharing resources).
 
-[Michał guide pic](/assets/guide-michal-lq.jpg)
+![Michał guide pic](/assets/guide-michal-lq.jpg)
 
 Professionally, **I create relational growth experiences and catalyse groups to unlock their creative potential**. I work with positive impact projects, such as:
 
