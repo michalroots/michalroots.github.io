@@ -47,5 +47,6 @@ Professionally, **I create relational growth experiences and catalyse groups to 
 Wishing you a beautiful day!  
 Michał  
 
-michalroots @ gmail.com
+michalroots @ gmail.com <br>
 [@michalroots](https://t.me/michalroots) on telegram
+
