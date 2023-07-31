@@ -6,7 +6,7 @@ excerpt: Michał is about to study to become a professional pirate. Help!
 
 Ahoy there!
 
-So it is so, that **Michał (that'd be me) decided to become a professional pirate** - **and enrolled into the Enkhuizer Zeevaartschool (Netherlands)** - the finest tall ship school in the world.
+It is so, that **Michał (that'd be me) decided to become a professional pirate** - **and enrolled into the Enkhuizer Zeevaartschool (Netherlands)** - the finest tall ship school in the world.
 
 ![Pirate Wizard Picture](/assets/pirate-wizard-lq.jpg)
 
