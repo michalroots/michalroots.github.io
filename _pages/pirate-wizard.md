@@ -6,23 +6,27 @@ excerpt: Michał is about to study to become a professional pirate. Help!
 
 Ahoy there!
 
-It is so, that **Michał (that'd be me) decided to become a professional pirate** - **and enrolled into the [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"} (Netherlands)** - the finest tall ship school in the world.
+It is so, that **Michał (that'd be me) decided to become a professional pirate** - **and enrolled into the [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"} (Netherlands)** - the world's finest School of the Nautical Arts training tall ship crew.
+
+What's a tall ship, you ask?
 
 ![Pirate Wizard Picture](/assets/pirate-wizard-lq.jpg)
 
 ( ☝️ That's the courtyard of the school, and my very, very excited self. )
 
+🏴‍☠️
+
 ## I'm looking for a Home for my studies (Oct 23 - Apr 24)
 
 Ideal match:
 
-- **a sailboat / houseboat / RV that could use a winter steward** - and keep it in good shape.  
+- **a sailboat / houseboat / RV that could use a winter steward**.  
 - **a house sit**
 - **a good, old-fashioned rental**, although my budget is rather thin for Dutch market prices.
-- (possibly) **a house swap** (with my tiny cabin or 1 bed epic house in Pico Island)
+- **a house swap** with the [Wizard Cabin](/cabin){:target="_blank"} in the woods or 1 bed epic house in Pico Island.
 - open to other options - you name it!
 
-**Location: Amsterdam / Enkhuizen / somewhere around**. I need to be in Enkhuizen one day per week, the rest is study time at home, so I can travel further for ideal match.
+**Location: Amsterdam / Enkhuizen / somewhere around**. The school is located in Enkhuizen and I need to be there only one day per week, the rest is study time at home - so I can travel further for ideal match.
 
 🏡
 
