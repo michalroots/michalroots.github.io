@@ -87,5 +87,8 @@ Here's the full list:
 - 🌑 [April 2023 - Yes Fear](https://michalkorzonek.substack.com/p/moonly-review-yes-fear){:target="blank"}
 - 🌕 skipped ❌
 - 🌑 skipped ❌
+- 🌘 [June 2023 - Movements](https://michalkorzonek.substack.com/p/moonly-review-movements){:target="blank"}
+- skipped ❌
+- 🌑 [September 2023 - Adventure Begins Today](https://open.substack.com/pub/michalkorzonek/p/moonly-review-adventure-begins-today){:target="blank"}
 
 
