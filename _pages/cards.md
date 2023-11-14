@@ -4,6 +4,10 @@ title: Cards
 excerpt: Minimal Programmable Playful Meta Containers
 ---
 
-It's time to play.
+Cards are a **Playful Facilitation Ecosystem**, and also my Love Language.
 
-- [**Prioritise Priorities**](https://payhip.com/b/0E2Kc){:target="_blank"} (Open for Foreplay) - **Mastery requires practice**. This game is a process to design a **flexible routine** that will help you **prioritise your priorities everyday,** and **make artful changes** whenever you need.
+I have just released the source edition of the first deck: **Wild Cards** - designed to create **meaningful interactions, with a dash of playful mischief.**
+
+You can find Cards at [**Wild Wizards**](https://wildwizards.xyz){:target="_blank"}.
+
+🧙‍♂️
