@@ -3,12 +3,17 @@ layout: page
 title: About
 excerpt: Michał creates experiences and games that accelerate transition towards a regenerative way of living.
 ---
+I'm a **facilitation artist** and a **catalyst wizard**, co-creating a world where all Beings can thrive ✨.
 
-I'm a **facilitation artist**, catalysing the **regenerative movement** through **serious games**, **co-creation experiences** and **open source documentation**. I am also a **wizard**.
+My friends call me a **Wizard**. Ask me to show you my **Cards - an ecosystem of playful facilitating tools**. That's my superpower.
 
-I'm building and documenting [Enspiral](https://enspiral.com){:target="_blank"}, [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}, and [Microsolidarity in Pico](https://pico.microsolidarity.cc){:target="_blank"}.
+I am currently **based in Amsterdam** - studying at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/), to obtain my professional license for (laaaarge) sailing vessels. **Sailing is my medicine**.
 
-**Sailing** is my medicine.
+**My home is in Pico Island**. I'm living in a tiny house in the middle of a beautiful forest and weave ([and document](https://pico.microsolidarity.cc){:target="_blank"}) a neighbourhood community.
+
+I'm a member of [**Enspiral**](https://enspiral.com){:target="_blank"} - a global network of people helping each other to do more meaningful work, and [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - a regenerative village in Portugal.
+
+See you around!
 
 🌳✨⛵️
 
@@ -36,4 +41,4 @@ See you around,<br>
 Michał
 
 ---
-[garden](/garden) 🌳 [cabin tour](/cabin) 🏡
+[cabin tour](/cabin) 🏡
