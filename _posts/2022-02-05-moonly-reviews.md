@@ -90,7 +90,10 @@ Here's the full list:
 - 🌘 [June 2023 - Movements](https://michalkorzonek.substack.com/p/moonly-review-movements){:target="blank"}
 - skipped ❌
 - 🌑 [September 2023 - Adventure Begins Today](https://open.substack.com/pub/michalkorzonek/p/moonly-review-adventure-begins-today){:target="blank"}
+
+(switching to New Moon rhythm)
+
 - 🌑 [October 2023 - Boat Life Begins](https://michalkorzonek.substack.com/p/moonly-review-boat-life-begins){:target="blank"}
 - 🌑 [November 2023 - Sailing study, cards, and a beautiful life](https://michalkorzonek.substack.com/p/moonly-review-sailing-study-cards){:target="blank"}
-
+- [🌑 December 2023 - Exams & Wizards](https://open.substack.com/pub/michalkorzonek/p/moonly-review-exams-and-wizards?r=2hst3&utm_campaign=post&utm_medium=web&showWelcome=true){:target="blank"}
 

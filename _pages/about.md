@@ -3,26 +3,30 @@ layout: page
 title: About
 excerpt: Michał creates experiences and games that accelerate transition towards a regenerative way of living.
 ---
-I'm a **facilitation artist** and a **catalyst wizard**, co-creating a world where all Beings can thrive ✨.
+I'm a **facilitation artist** and a **catalyst wizard**, **co-creating a beautiful world where all Beings can thrive**.
 
-My friends call me a **Wizard**. Ask me to show you my **Cards - an ecosystem of playful facilitating tools**. That's my superpower.
+✨
 
-I am currently **based in Amsterdam** - studying at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/), to obtain my professional license for (laaaarge) sailing vessels. **Sailing is my medicine**.
+Superpowers: [cards](/cards), inspiring aliveness, serious fun.
 
-**My home is in Pico Island**. I'm living in a tiny house in the middle of a beautiful forest and weave ([and document](https://pico.microsolidarity.cc){:target="_blank"}) a neighbourhood community.
+I am currently **based in Amsterdam** - studying the nautical arts at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/). **Sailing is my medicine**.
 
-I'm a member of [**Enspiral**](https://enspiral.com){:target="_blank"} - a global network of people helping each other to do more meaningful work, and [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"} - a regenerative village in Portugal.
+⛵️
+
+**My home is in Pico Island**, a forest sanctuary on the Atlantic Circuit, where I [document community processes](https://pico.microsolidarity.cc){:target="_blank"}, and in [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"}, where we're building a model for regenerative co-living while having a lot of fun.
+
+🌳
+
+I'm a member of [**Enspiral**](https://enspiral.com){:target="_blank"} - a global network of people helping each other to do more meaningful work. 
 
 See you around!
-
-🌳✨⛵️
 
 ## Areas of research
 
 - Co-creation through play
 - Community weaving
 - Pattern breaking
-- Non-negotiable commitments
+- Non-negotiable commitments, habits, rhythms
 - Radical self-reliance
 - Facilitation at sea
 

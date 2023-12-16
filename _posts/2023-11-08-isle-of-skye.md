@@ -1,0 +1,49 @@
+---
+layout: post
+title: 
+description: 
+image: 
+tags:
+  - journal
+  - travel
+author:
+---
+*I found this story in my old journal and I felt like transcribing and sharing along the scans. Perhaps the rest will follow one day.*
+
+---
+
+Yet another adventure begins.
+
+Mornings are full of surprises. Naturally, the mere fact of awakening into the new day is enough of a revelation, yet somehow mornings bear an untameable capacity for bringing Something New. Yet another day begins.
+
+I like waking up before Sunrise. Witnessing the smooth transition between night and day always puts me in a blissful mood. The walk towards the rising Sun becomes a thankful prayer and calmly brings me into the New. Awakening the body before the Sun, and the soul along with its enlightening rise calms me. Breath in. Breath out.
+
+Being drawn towards moving, I often wonder about places I have fallen in love with. A magickal time I've experienced, sometimes just a tiny detail, sometimes a person, sometimes a smell, is enough to bring me back. Yet how could I go back, when so much of the world remains unexplored? It's always different, sun but the urge (or whatever it is) to see more tends to make me go somewhere else.
+
+Not this time though.
+
+I'm revisiting now, retracing my steps from over a year ago. But it is different. Different company. Different way of transportation. Different time of my life. The feeling of travelling is familiar, but it always feels different. It will also take some time (or maybe not?) to leave the busy mind of the city and synchronise with Nature.
+
+ROSEBAY WILLOWHERBS
+LEAVE A PURPLE LINE
+AS THE LANDSCAPE
+DISAPPEARS
+
+ON THE WAY BREATHING 
+AGAIN 
+SEEING FEELING BREATHING
+AGAIN
+FIXING ALONG WITH STRANGERS 
+WHOM I'VE KNOWN FOR MANY YEARS 
+WHAT BROKE INTO PIECES
+UNDER PLASTIC 
+RAIN
+
+## Realignment on the island where the compasses point towards the beating heart rather than the magnetic north.
+
+# Isle of Skye.
+
+
+![Journal Scan Page 1](/assets/journal-isle-of-skye-01.jpeg)
+
+![Journal Scan Page 2](/assets/journal-isle-of-skye-02.jpeg)
