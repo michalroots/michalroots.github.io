@@ -6,6 +6,10 @@ image:
 tags: [journal]
 ---
 
+*(currently on pause.)*
+
+---
+
 Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some images and vibe of my life in that period. 
 
 I've started in February 2017 and kept it going until May 2017. I then had a loooong break until reconnecting with this practice in June 2021. I really enjoy seeing how this practice evolves over time.

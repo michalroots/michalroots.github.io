@@ -1,38 +1,42 @@
 ---
 layout: page
 title: About
-excerpt: Michał creates experiences and games that accelerate transition towards a regenerative way of living.
+excerpt: Michał co-creates a beautiful world where all Beings can thrive.
 ---
-I'm a **facilitation artist** and a **catalyst wizard**, **co-creating a beautiful world where all Beings can thrive**.
+**Co-creating a beautiful world where all Beings can thrive.**
 
 ✨
 
-Superpowers: [cards](/cards), inspiring aliveness, serious fun.
+Currently **based in Amsterdam**. Mastering the [**art of Cards**](/cards){:target="_blank"} as culture building blocks. Studying sailing at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/){:target="_blank"}.
 
-I am currently **based in Amsterdam** - studying the nautical arts at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/). **Sailing is my medicine**.
+Vision: 
+
+**Connect land-based positive impact projects with sailing routes and co-create regenerative expeditions at sea**.
 
 ⛵️
 
-**My home is in Pico Island**, a forest sanctuary on the Atlantic Circuit, where I [document community processes](https://pico.microsolidarity.cc){:target="_blank"}, and in [**Traditional Dream Factory**](https://traditionaldreamfactory.com){:target="_blank"}, where we're building a model for regenerative co-living while having a lot of fun.
+**My home is in Pico Island**, where we're building a forest sanctuary immersed within a [thriving community](https://pico.microsolidarity.cc){:target="_blank"} - conveniently located on the major sailing route of the world. **My second home is in the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}**, where we're building a model for regenerative co-living while having a lot of fun.
+
 
 🌳
 
-I'm a member of [**Enspiral**](https://enspiral.com){:target="_blank"} - a global network of people helping each other to do more meaningful work. 
+I'm a member of [**Enspiral**](https://enspiral.com){:target="_blank"} - a global network of people helping each other to do more meaningful work.
 
 See you around!
 
 ## Areas of research
 
-- Co-creation through play
-- Community weaving
+- Co-creation through play, Serious Fun
 - Pattern breaking
-- Non-negotiable commitments, habits, rhythms
+- Community weaving, rhythms
+- Non-negotiable commitments, habits
 - Radical self-reliance
 - Facilitation at sea
 
-## Let's play together!
+## Card Wizard, at Your Service 🧙‍♂️
 
-**You can hire me as a [facilitator](/facilitation){:target="_blank"}, play [cards](/cards){:target="_blank"}, or check out my open source [documentation](/documentation){:target="_blank"}**.
+I'm a facilitation artist creating **playful co-creation experiences for events and organisations**. Shall we [play together](/play-together){:target="_blank"}?
+
 
 🌕🌑
 
