@@ -16,7 +16,7 @@ summary: Sailing Plan and CV
 - **Establish long-term partnerships with positive impact sailing projects and vessels** to crew on. Sail ⛵️ Sail ⛵️ Sail ⛵️
 ## Long Term Goal
 
-My long term goal is to create **regenerative expeditions at sea**, **connect positive impact land based projects**, and **facilitate sustainable slow travel under sail.
+My long term goal is to create **regenerative expeditions at sea**, **connect positive impact land based projects**, and **facilitate sustainable slow travel under sail**.
 
 And, of course, **invite crews on nature immersions in the Azores**, right in the middle of the Atlantic Circuit. Pico is my Home Island.
 ## Am I a fit for your boat?
