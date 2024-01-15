@@ -8,19 +8,20 @@ summary: Sailing Plan and CV
 ![Sailing Headshot](/assets/sailing-michal.jpg)
 
 **Michał Korzonek**<br>
-contact: michalroots@proton.me<br>
-currently based in Pico island, Azores
-
-updatw
+[contact](https://michalkorzonek.com/play-together)
 
 ## Current Goal
-- **Getting ready for studying in [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"} **
-- Looking to crew in Spring / Summer 2023.
-- Prototyping *Melting Man* - a regenerative burn at sea.
-
+- **Complete KZV Training** at **[Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"}** (school year 23/24) to obtain a professional certification for captain of commercial sailing vessels <500 tonnes (limited sailing area); (chief) officer sailing vessels <500 tonnes (unlimited area).
+- **Establish long-term partnerships with positive impact sailing projects and vessels** to crew on.
 ## Long Term Goal
 
-**My long term goal is to sail between regenerative projects and host experiences at sea.** The journey starts with connecting my forest home in Pico (Azores) and *Traditional Dream Factory* in Mainland Portugal. What's next?
+My long term goal is to connect positive impact land based projects and ()
+
+
+sail between regenerative projects and host experiences at sea.** 
+
+
+The journey starts with connecting my forest home in Pico (Azores) and *Traditional Dream Factory* in Mainland Portugal. What's next?
 
 **I am looking to expand my offshore sailing experience**, particularly in passage planning, navigation, difficult weather conditions and yacht maintenance.
 
