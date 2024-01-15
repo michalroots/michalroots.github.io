@@ -27,6 +27,7 @@ And, of course, **invite crews on nature immersions in the Azores**, right in th
 - responds well in challenging situations
 - quick learner
 - good cook (with some mad dessert skills to delight your tastebuds)
+- film, photography & media graduate (+ video / photo editing experience)
 
 ## Sailing Experience & Certificates
 Log: ~2300 NM <br><br>
