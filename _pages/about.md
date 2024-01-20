@@ -7,36 +7,38 @@ excerpt: Michał co-creates a beautiful world where all Beings can thrive.
 
 ✨
 
-Currently **based in Amsterdam**. Mastering the [**art of Cards**](/cards){:target="_blank"} as culture building blocks. Studying sailing at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/){:target="_blank"}.
+Currently **based in Amsterdam**. Studying sailing at the [**Enkhuizer Zeevaartschool**](https://ezsenglish.weebly.com/){:target="_blank"} and creating a playful facilitation ecosystem powered by [Cards](/cards){:target="_blank"}.
 
 Vision: 
 
-**Connect land-based positive impact projects with sailing routes and co-create regenerative expeditions at sea**.
+**Co-create regenerative expeditions at sea connecting positive impact projects.**
 
 ⛵️
 
-**My home is in Pico Island**, where we're building a forest sanctuary immersed within a [thriving community](https://pico.microsolidarity.cc){:target="_blank"} - conveniently located on the major sailing route of the world. **My second home is in the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}**, where we're building a model for regenerative co-living while having a lot of fun.
+**My home is in the Azores**, where we're building a forest sanctuary immersed within a [thriving community](https://pico.microsolidarity.cc){:target="_blank"} - conveniently located on the major sailing route of the world. 
 
+**My second home is in the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}**, where we're building a model for regenerative co-living while having a lot of fun.
 
 🌳
 
 I'm a member of [**Enspiral**](https://enspiral.com){:target="_blank"} - a global network of people helping each other to do more meaningful work.
 
-See you around!
+📖
+
+I co-wrote a book "[How to Build a Regenerative Village](https://treehousedao.earth/)" - the **actionable manual** accelerating the transition towards a **regenerative way of living**, on an **individual and planetary scale**.
 
 ## Areas of research
 
-- Co-creation through play, Serious Fun
+- Sailing and facilitation at sea
+- Experience design, facilitation, adventure guiding
+- Journaling and documentation
+- Play as superpower for creativity
 - Pattern breaking
-- Community weaving, rhythms
-- Non-negotiable commitments, habits
-- Radical self-reliance
-- Facilitation at sea
+- Cards as building blocks of culture
 
 ## Card Wizard, at Your Service 🧙‍♂️
 
 I'm a facilitation artist creating **playful co-creation experiences for events and organisations**. Shall we [play together](/play-together){:target="_blank"}?
-
 
 🌕🌑
 
