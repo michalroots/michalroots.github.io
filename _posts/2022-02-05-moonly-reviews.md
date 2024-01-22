@@ -97,3 +97,5 @@ Here's the full list:
 - 🌑 [November 2023 - Sailing study, cards, and a beautiful life](https://michalkorzonek.substack.com/p/moonly-review-sailing-study-cards){:target="blank"}
 - [🌑 December 2023 - Exams & Wizards](https://open.substack.com/pub/michalkorzonek/p/moonly-review-exams-and-wizards?r=2hst3&utm_campaign=post&utm_medium=web&showWelcome=true){:target="blank"}
 
+## 2024
+- - [🌔 January 2024 - Judgement Day](https://open.substack.com/pub/michalkorzonek/p/moonly-yearly-review-judgement-day?r=2hst3&utm_campaign=post&utm_medium=web&showWelcome=true){:target="blank"}
