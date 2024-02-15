@@ -98,4 +98,5 @@ Here's the full list:
 - [🌑 December 2023 - Exams & Wizards](https://open.substack.com/pub/michalkorzonek/p/moonly-review-exams-and-wizards?r=2hst3&utm_campaign=post&utm_medium=web&showWelcome=true){:target="blank"}
 
 ## 2024
-- - [🌔 January 2024 - Judgement Day](https://open.substack.com/pub/michalkorzonek/p/moonly-yearly-review-judgement-day?r=2hst3&utm_campaign=post&utm_medium=web&showWelcome=true){:target="blank"}
+- [🌔 January 2024 - Judgement Day](https://open.substack.com/pub/michalkorzonek/p/moonly-yearly-review-judgement-day?r=2hst3&utm_campaign=post&utm_medium=web&showWelcome=true){:target="blank"}
+- 🌑 [February 2024 - Coddiwompling Wizard](https://open.substack.com/pub/michalkorzonek/p/moonly-review-coddiwompling-wizard?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
