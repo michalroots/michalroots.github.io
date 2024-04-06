@@ -13,7 +13,7 @@ until it reaches back to the point <br>
 where the dots connect. <br>
 
 
-*Needs Fulfilled* and *Prosperity* are currently displayed in BounceSpace in Amsterdam ([location](https://maps.app.goo.gl/c6QEV363qXfuu78y9){:target="_blank"}*), and are available for sale. Contact to offer your price: michalroots@gmail.com
+*Needs Fulfilled* and *Prosperity* are currently displayed in BounceSpace in Amsterdam ([location](https://maps.app.goo.gl/c6QEV363qXfuu78y9){:target="_blank"}), and are available for sale. Contact to offer your price: michalroots@gmail.com
 
 ## Needs Fulfilled
 
