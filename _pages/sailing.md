@@ -12,8 +12,8 @@ summary: Sailing Plan and CV
 
 ## Current Goal
 
-- **Complete KZV Training** at **[Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}** (school year 23/24)
-- **Crew on sailing vessels** - and establish long term partnerships.
+- Obtain **KZV Certificate of Proficiency** (by sailing 180 days at sea)
+- Establish **long term partnerships with sailing ships**.
 ## Long Term Goal
 
 Create **regenerative expeditions at sea**, **connect positive impact projects**, and **facilitate sustainable slow travel under sail**.
@@ -33,15 +33,19 @@ TLDR: On top of my sailing experience I bring over a decade of facilitation and 
 - very good at documenting things ([see examples](/documentation))
 ## Sailing Experience & Certificates
 Log: ~2300 NM <br><br>
-Currently studying [KZV at Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html).
 
-- Yacht Skipper Certificate (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m, which may be equipped with an auxiliary power drive inland and in all see waters
-- [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC Certificate 
-- STCW’95 Certificate
-- Certificate of Proficiency in Security Awareness
+- KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html)
+- Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m, which may be equipped with an auxiliary power drive inland and in all see waters
+- [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC
+- STCW Basic Safety
+- STCW Medical First Aid
+- STCW Crowd Management 
+- STCW Certificate of Proficiency in Security Awareness
+- STCW Designated Security Duties
 
 **Sailing Experience:**
-- [Atyla Tall Ship](https://atyla.org/) (September 2023)
+- Chateauroux (March 2024, Markermeer, Ijsselmeer)
+- [Atyla Tall Ship](https://atyla.org/) (September 2023, Biscay Bay)
 - Yacht Crew (Atlantic, Baltic Sea, Mediterranean Sea, North Sea 2010-2017) 
 - Regattas Crew on [traditional whaling yachts](https://www.forbes.com/sites/tmullen/2023/10/15/the-unique-world-of-azorean-whale-boat-racing/) (Azores, 2021-2023)
 - Skipper inland (Masurian Lake District, 2007-2017)  
@@ -55,7 +59,7 @@ Currently studying [KZV at Enkhuizer Zeevaartschool](https://ezsenglish.weebly.c
 
 - Languages: Polish (native), English (fluent), Portuguese (intermediate), French (basic)
 - Nationality: Polish (EU passport) 
-- Diet: no animals for me, but I don't mind you eating yours.
+- Diet: vegetarian
 - Non-smoker
 
 *(Need more info? Check out [about](/about){:target="_blank"}.)*
