@@ -2,7 +2,7 @@
 layout: post
 title: Spell Weaving
 description: One Line Drawing Collection of Spells
-image: /assets/cabin-tropical.jpg
+image: /assets/prosperity-4.jpg
 tags:
   - art
   - wizard
