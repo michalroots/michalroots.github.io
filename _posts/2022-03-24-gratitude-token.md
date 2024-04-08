@@ -19,7 +19,7 @@ Note: by now I am not really using the Gratitude Ledger as it felt to complicate
 
 🃏 Gratitude token has now been carrrdified.
 
-![Gratitude Token Cardified](/assets/gratitude-token-cardified.jpg)
+![Gratitude Token Cardified](/assets/gratitude-token-cardified.jpeg)
 
 🌱 If you'd like to encourage me to create more games, I invite you to become my [Patreon](https://patreon.com/michalkorzonek){:target="_blank"} and/or offer a [gift](/gift){:target="_blank"}.
 
