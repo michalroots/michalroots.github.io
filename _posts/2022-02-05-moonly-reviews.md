@@ -102,3 +102,4 @@ Here's the full list:
 - 🌑 [February 2024 - Coddiwompling Wizard](https://open.substack.com/pub/michalkorzonek/p/moonly-review-coddiwompling-wizard?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
 - [🌑 March 2024 - Beyond the Study Hole](https://michalkorzonek.substack.com/p/moonly-review-beyond-the-study-hole){:target="blank"}
 - [🌑 April 2024 - Amsterclosure](https://open.substack.com/pub/michalkorzonek/p/moonly-review-amsterclosure){:target="blank"}
+- [🌑 May 2024 - Atlantic Waves](https://open.substack.com/pub/michalkorzonek/p/moonly-review-atlantic-waves){:target="blank"}
