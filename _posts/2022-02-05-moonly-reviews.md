@@ -103,3 +103,4 @@ Here's the full list:
 - [🌑 March 2024 - Beyond the Study Hole](https://michalkorzonek.substack.com/p/moonly-review-beyond-the-study-hole){:target="blank"}
 - [🌑 April 2024 - Amsterclosure](https://open.substack.com/pub/michalkorzonek/p/moonly-review-amsterclosure){:target="blank"}
 - [🌑 May 2024 - Atlantic Waves](https://open.substack.com/pub/michalkorzonek/p/moonly-review-atlantic-waves){:target="blank"}
+- [🌑 June 2024 - Looking Beyond the Deck](https://michalkorzonek.substack.com/p/moonly-review-looking-beyond-the){:target="blank"}
