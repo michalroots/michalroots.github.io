@@ -12,7 +12,7 @@ summary: Sailing Plan and CV
 
 ## Current Goal
 
-- Obtain **KZV Certificate of Proficiency** (by sailing 180 days at sea)
+- Complete practical part of **commercial license for sailing ships up to 500 GT** (2.5/6 months at sea)
 - Establish **long term partnerships with sailing ships**.
 ## Long Term Goal
 
@@ -32,9 +32,9 @@ TLDR: On top of my sailing experience I bring over a decade of facilitation and 
 - good cook (with some mad dessert skills to delight your tastebuds)
 - very good at documenting things ([see examples](/documentation))
 ## Sailing Experience & Certificates
-Log: ~2300 NM <br><br>
+Log: ~4300 NM <br><br>
 
-- KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html)
+- KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html), practical in progress
 - Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m, which may be equipped with an auxiliary power drive inland and in all see waters
 - [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC
 - STCW Basic Safety
@@ -44,8 +44,9 @@ Log: ~2300 NM <br><br>
 - STCW Designated Security Duties
 
 **Sailing Experience:**
+- [Grayhound](https://grayhoundventures.com){:target="_blank"} (April - June 2024, Atlantic, Bay of Biscay, English Channel, Bristol Channel)
 - Chateauroux (March 2024, Markermeer, Ijsselmeer)
-- [Atyla Tall Ship](https://atyla.org/) (September 2023, Biscay Bay)
+- [Atyla Tall Ship](https://atyla.org/){:target="_blank"} (September 2023, Biscay Bay)
 - Yacht Crew (Atlantic, Baltic Sea, Mediterranean Sea, North Sea 2010-2017) 
 - Regattas Crew on [traditional whaling yachts](https://www.forbes.com/sites/tmullen/2023/10/15/the-unique-world-of-azorean-whale-boat-racing/) (Azores, 2021-2023)
 - Skipper inland (Masurian Lake District, 2007-2017)  
