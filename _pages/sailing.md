@@ -12,13 +12,15 @@ summary: Sailing Plan and CV
 
 ## Current Goal
 
-- Complete practical part of **commercial license for sailing ships up to 500 GT** (2.5/6 months at sea)
+- Host another sailing expedition, in early November in Spain/Portugal. Here's a video from the last one.
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/dPkeRCvKJp8" frameborder="0" allowfullscreen></iframe>
+
+- Complete practical part of **commercial license for sailing ships up to 500 GT** (3/6 months at sea)
 - Establish **long term partnerships with sailing ships**.
 ## Long Term Goal
 
 Create **regenerative expeditions at sea**, **connect positive impact projects**, and **facilitate sustainable slow travel under sail**.
-
-**Invite crews on nature immersions in the Azores**, right in the middle of the Atlantic Circuit. Pico is my Home Island.
 ## Am I a fit for your boat?
 
 TLDR: On top of my sailing experience I bring over a decade of facilitation and media production.
@@ -34,16 +36,15 @@ TLDR: On top of my sailing experience I bring over a decade of facilitation and 
 ## Sailing Experience & Certificates
 Log: ~4300 NM <br><br>
 
-- KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html), practical in progress
+- KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html), practical in progress (3/6 months)
 - Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m, which may be equipped with an auxiliary power drive inland and in all see waters
 - [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC
 - STCW Basic Safety
 - STCW Medical First Aid
-- STCW Crowd Management 
 - STCW Certificate of Proficiency in Security Awareness
-- STCW Designated Security Duties
 
 **Sailing Experience:**
+- Chateauroux (August 2024, Ijsselmeer, Waddenzee)
 - [Grayhound](https://grayhoundventures.com){:target="_blank"} (April - June 2024, Atlantic, Bay of Biscay, English Channel, Bristol Channel)
 - Chateauroux (March 2024, Markermeer, Ijsselmeer)
 - [Atyla Tall Ship](https://atyla.org/){:target="_blank"} (September 2023, Biscay Bay)
