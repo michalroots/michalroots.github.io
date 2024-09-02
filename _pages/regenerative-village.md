@@ -7,7 +7,7 @@ excerpt:
 
 ![Regenerative Village Cover](/assets/regen-village-cover.jpg)
 
-<button type="button" href="https://opencollective.com/treehousedao/projects/regenerative-village" target="_blank">Buy the Book!</button>
+**[📖 Buy the Book](https://opencollective.com/treehousedao/projects/regenerative-village){:target="_blank"}**
 
 The 170 page illustrated book, weaves together **lineages of wisdom and practical experience from a worldwide tribe of regenerative village builders** - serving as an emergent base of knowledge, as well as actionable blueprint.
 
