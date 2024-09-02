@@ -5,7 +5,7 @@ excerpt:
 ---
 **The actionable manual accelerating the transition towards a regenerative way of living, on an individual and planetary scale.**
 
-![Regenerative Village Cover](/assets/regen-village-cover.jpeg)
+![Regenerative Village Cover](/assets/regen-village-cover.jpg)
 
 The 170 page illustrated book, weaves together **lineages of wisdom and practical experience from a worldwide tribe of regenerative village builders** - serving as an emergent base of knowledge, as well as actionable blueprint.
 
