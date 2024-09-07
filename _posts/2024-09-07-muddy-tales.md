@@ -211,7 +211,9 @@ As we concluded the voyage it hit me that another dream came true - I brought pe
 
 The long term vision is to connect land-based projects and host adventures at sea. My role is to bring amazing crew to epic ships to connect, work and play together. The next voyage is already cooking up!
 
-If you'd like to be a part of this journey, I'd love to connect with you. You can [contact me](/contact){:target="_blank"} directly, or read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, follow my adventures on [twitter](https://twitter.com/michalkorzonek){:target="_blank"}, and support my work on [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.
+If you'd like to be a part of this journey, I'd love to connect with you. You can [contact me](/contact){:target="_blank"} directly, or read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, follow my adventures on [twitter](https://twitter.com/michalkorzonek){:target="_blank"} or [telegram](https://t.me/+8Q0aaB1jWAplNzZk){:target="_blank"}, and support my work on [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.
+
+And here's my [sailing page](/sailing){:target="_blank"} ⛵️.
 
 Love and Light,<br>
 Michał Korzonek
