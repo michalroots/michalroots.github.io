@@ -3,7 +3,8 @@ layout: post
 title: Muddy Tales - Retrospective From a Boat Burn Expedition Aboard a 30m Sailing Ship
 description: 
 image: /assets/media-muddy-tales/flying-seabird.jpg
-tags: 
+tags:
+  - sailing
 author: Michał Korzonek
 ---
 – *Hey Michał, do you want to organise a trip on my ship?* – it's the kind of offer I just wouldn't ignore. Gathering epic crew is one of my favourite processes in the world. So I crafted an invitation and sent it out ⛵️
