@@ -105,3 +105,5 @@ Here's the full list:
 - [🌑 May 2024 - Atlantic Waves](https://open.substack.com/pub/michalkorzonek/p/moonly-review-atlantic-waves){:target="blank"}
 - [🌑 June 2024 - Looking Beyond the Deck](https://michalkorzonek.substack.com/p/moonly-review-looking-beyond-the){:target="blank"}
 - [🌔 July 2024 - From the Kingdom of Seagulls into the Dust](https://open.substack.com/pub/michalkorzonek/p/moonly-review-from-the-kingdom-of){:target="blank"}
+- 🌑 skipped ❌
+- [🌑 September 2024 - The Epic Summer](https://michalkorzonek.substack.com/p/moonly-review-the-epic-summer){:target="blank"}
