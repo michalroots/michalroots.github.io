@@ -9,7 +9,7 @@ author: Michał Korzonek
 ---
 – *Hey Michał, do you want to organise a trip on my ship?* – it's the kind of offer I just wouldn't ignore. Gathering epic crew is one of my favourite processes in the world. So I crafted an invitation and sent it out ⛵️
 
-![Muddy Tales Invitation](/assests/media-muddy-tales/muddy-tales.jpg){:width="100%"}
+![Muddy Tales Invitation](/assets/media-muddy-tales/muddy-tales.jpg){:width="100%"}
 
 Despite 3 weeks notice the voyage sold out all spots, and gathered so much energy that I'm already planning the next one (more info at the end).
 
