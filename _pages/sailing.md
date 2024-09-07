@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sailing ⛵️
-description: Sailing Plan and CV
+title: Sailing Wizard ⛵️
+description: Michał is a professional sailor trained in Enkhuizer Zeevaartschool. His friends call him a Wizard.
 summary: Sailing Plan and CV
 ---
 
