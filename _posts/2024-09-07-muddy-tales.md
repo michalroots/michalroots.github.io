@@ -84,8 +84,9 @@ For a community used to building cities in a dessert, giving energy to the ship 
 
 Fun fact: as we were blasting heavy tools on a Sunday working on the deck we got kicked out of the marina for making too much noise (totally fair - we had 3 needle hammers going). The situation attracted a lot of communication on the radio - while the noise was annoying, local skippers were very impressed by the hard work and progress we were making. It was definitely not your usual group! As a bonus we moved to a much better spot.
 
->*"I have not been a part of such an integrated group for years!"*\
-– Darya
+>*"I have not been a part of such an integrated group for years!"*\ 
+>– Darya
+
 
 ### 2. Sail
 
