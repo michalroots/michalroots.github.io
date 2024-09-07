@@ -7,7 +7,7 @@ tags:
   - sailing
 author: Michał Korzonek
 ---
-– *Hey Michał, do you want to organise a trip on my ship?* – it's the kind of offer I just wouldn't ignore. Gathering epic crew is one of my favourite processes in the world. So I crafted an invitation and sent it out ⛵️
+– *Hey Michał, do you want to organise a trip on my ship?* – it's the kind of offer I just wouldn't ignore. Gathering epic crew is one of my favourite processes in the world. So I crafted an invitation and sent it out to some of my favourite humans ⛵️
 
 ![Muddy Tales Invitation](/assets/media-muddy-tales/muddy-tales.jpg){:width="100%"}
 
