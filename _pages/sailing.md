@@ -5,7 +5,7 @@ description: Sailing Plan and CV
 summary: Sailing Plan and CV
 ---
 
-![Sailing Headshot](/assets/michal-red-sailor.jpg){:width="100%"}
+![Sailing Headshot](/assets/michal-red-sailor.jpg){:width="50%"}
 
 **Michał Korzonek**<br>
 [contact](https://michalkorzonek.com/play-together)
