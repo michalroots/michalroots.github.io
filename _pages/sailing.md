@@ -5,7 +5,7 @@ description: Sailing Plan and CV
 summary: Sailing Plan and CV
 ---
 
-![Sailing Headshot](/assets/sailing-michal.jpg)
+![Sailing Headshot](/assets/michal-red-sailor.jpg){:width="100%"}
 
 **Michał Korzonek**<br>
 [contact](https://michalkorzonek.com/play-together)
@@ -17,6 +17,9 @@ summary: Sailing Plan and CV
 ## Long Term Goal
 
 Create **expeditions at sea**, **connect positive impact projects**, and **facilitate sustainable travel under sail**.
+
+![Sailing Headshot](/assets/michal-officer.jpg){:width="100%"}
+
 ## Am I a fit for your boat?
 
 TLDR: **On top of my sailing experience I bring over a decade of facilitation and media production.**
@@ -29,7 +32,13 @@ TLDR: **On top of my sailing experience I bring over a decade of facilitation an
 - quick learner
 - good cook (with some mad dessert skills to delight your tastebuds)
 - very good at documenting things ([see examples](/documentation){:target="_blank"})
+
 ## Sailing Experience & Certificates
+
+![Sailing Headshot](/assets/michal-kaatje.jpg){:width="100%"}
+
+*In front of my sailing school - Enkhuizer Zeevaartschool.*
+
 Log: ~4300 NM <br><br>
 
 - KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}, practical in progress (3/6 months)
@@ -63,3 +72,5 @@ Log: ~4300 NM <br><br>
 *(Need more info? [Here's more](/){:target="_blank"}.)*
 
 ⛵️
+
+![Sailing Headshot](/assets/michal-hoist.jpg){:width="100%"}
