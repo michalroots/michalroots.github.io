@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Muddy Tales - Retrospective From a Boat Burn Expedition Aboard a 30m Sailing Ship
-description: 
+description: Retrospective From a Boat Burn Expedition Aboard a 30m Sailing Ship
 image: /assets/media-muddy-tales/flying-seabird.jpg
 tags:
   - sailing
