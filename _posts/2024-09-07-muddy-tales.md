@@ -2,19 +2,19 @@
 layout: post
 title: Muddy Tales - Retrospective From a Boat Burn Expedition Aboard a 30m Sailing Ship
 description: 
-image: 
+image: /assets/media-muddy-tales/flying-seabird.jpg
 tags: 
 author: Michał Korzonek
 ---
-– *Hey Michał, do you want to organise a trip on my ship?* – it's the kind of offer I just wouldn't ignore. Gathering epic crew is one of my favourite processes in the world. I crafted an invitation and sent it out ⛵️
+– *Hey Michał, do you want to organise a trip on my ship?* – it's the kind of offer I just wouldn't ignore. Gathering epic crew is one of my favourite processes in the world. So I crafted an invitation and sent it out ⛵️
 
-![[/assests/muddy-tales.png]]
+![Muddy Tales Invitation](/assests/media-muddy-tales/muddy-tales.jpg){:width="100%"}
 
 Despite 3 weeks notice the voyage sold out all spots, and gathered so much energy that I'm already planning the next one (more info at the end).
 
 Here's the retrospective from my first Boat Burn, starting with a 48 seconds video:
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dPkeRCvKJp8" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="450" src="http://www.youtube.com/embed/dPkeRCvKJp8" frameborder="0" allowfullscreen></iframe>
 
 (click [this link](https://youtu.be/dPkeRCvKJp8) if the video doesn't load.)
 
@@ -28,7 +28,7 @@ First of all, a sailing vessel is a fantastic space to bring people together, Bu
 
 There's nothing quite like the feeling of adventure, freedom, connection to oneself and the natural world, and the profound empowerment coming from the fact of being out there, in the wild sea, magically cutting across the vastness on a tiny piece of boat which for the time of the journey becomes your entire world.
 
-![[/assets/chateauroux-cuts-waves.png]]
+![Ship sailing through waves](/assets/media-muddy-tales/chateauroux-cuts-waves.jpg){:width="100%"}
 
 However, there's another facet of sailing that has my particular interest - building culture.
 
@@ -40,27 +40,27 @@ On top of the usual complexity of group dynamics and processes, you have to cons
 
 So what happens when we bring a crew of Burners on a sailing ship?
 
-![[/assets/flying-seabird.jpg]]
+![acroyoga on deck](/assets/media-muddy-tales/flying-seabird.jpg){:width="100%"}
 
 Well, Burners are dream builders, coming together for a short period of time to make anything-you-want possible through effective cooperation, hard work, connecting on a deeper level, nourishing each other, not taking life too seriously, and having a lot of fun. That already feels like a great potential for crew.
 
-![[muddy-bart-and-crew.png]]
+![Sailor and pictures of the crew](/assets/media-muddy-tales/muddy-bart-and-crew.jpg){:width="100%"}
 
 At the core of Burns, there are [the principles](https://www.goingnowhere.org/principles/){:target="_blank"}, such as radical participation (rather than expecting service), gifting, leave no trace, self-expression and consent, making it possible for people from different backgrounds to harmonise into a collective flow state of co-creation. 
 
 What burners are usually very good at is defining explicit cultural norms making sure that everyone's needs are met and essential things still get done. As explored in the community building [book I co-written](https://treehousedao.earth/){:target="_blank"}, everything that is explicit can be adjusted.
 
-IMAGE
+![Page from the book](/assets/media-muddy-tales/turn-culture-into-object.jpg){:width="100%"}
 
 In practical terms, it comes down to making agreements around topics important to the crew. How do we want to be together? How do we relate to photos, nudity, sex, substances? How do we decide about music to listen to, and when to have silence?
 
 It's not always an easy process, and yet it works like magic.
 
-![[muddy-crew-cuddles-on-deck.png]]
+![cuddles on deck](/assets/media-muddy-tales/muddy-crew-cuddles-on-deck.jpg){:width="100%"}
 
 As a sailor graduated from the [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/){:target="_blank"} working towards commanding ships up to 500 tonnes, it's not a coincidence that I'm also the co-captain of *[Sheepy Ship](https://sheepyship.carrd.co){:target="_blank"}* - a camp at Nowhere (European Burn), with a mission of connecting burner sailors and gathering crew for future expeditions. I love being in the space where these two amazing worlds overlap.
 
-![[sheepy-ship.jpg]]
+![Nowhere Camp Sheepy Ship](/assets/media-muddy-tales/sheepy-ship.jpg){:width="100%"}
 
 *The Mast of the Sheepy Ship, beaconing sailors at Nowhere 2024. Photo by [Sean Toole](https://www.instagram.com/drhvsb/){:target="_blank"}*
 
@@ -73,28 +73,29 @@ Our voyage followed the three act structure of Burning Man events: Build - Sail 
 Many burners say there is no burn without build.
 
 Guided by the captain and the owner, we spend 3 days on de-rusting and repainting the deck, rails and mast, refitting the windows, as well as uplifting the space inside the boat to make it more functional and cosy.
-![[build-nowhere-muddy.jpg]]
+
+![building stuff](/assets/media-muddy-tales/build-nowhere-muddy.jpg){:width="100%"}
 *Building ships at Nowhere and refitting ships at sea.*
 
 For a community used to building cities in a dessert, giving energy to the ship before setting sail was a pleasure. We created a deeper bond with the vessel, established trust with the captain, brought the crew closer together, and our floating home, Chateauroux, looked better than ever!
 
-![[muddy-build-trio.jpg]]
+![crew working on the ship](/assets/media-muddy-tales/muddy-build-trio.jpg){:width="100%"}
 
 Fun fact: as we were blasting heavy tools on a Sunday working on the deck we got kicked out of the marina for making too much noise (totally fair - we had 3 needle hammers going). The situation attracted a lot of communication on the radio - while the noise was annoying, local skippers were very impressed by the hard work and progress we were making. It was definitely not your usual group! As a bonus we moved to a much better spot.
 
-*"I have not been a part of such an integrated group for years!"*
+>*"I have not been a part of such an integrated group for years!"*
 – Darya
 ### 2. Sail
 
 On the first day of our voyage the captain asked me to collect the sailing dreams of the crew. I collected them into our log and we start making them happen.
 
-![[muddy-journal-dreams.jpg]]
+![page from the log](/assets/media-muddy-tales/muddy-journal-dreams.jpg){:width="100%"}
 
 Through the next 7 days we explored some of the most amazing places in the Netherlands, while learning how to sail together and creating beautiful moments of deep connection, creativity and play.
 
 Manouvering a 30m traditional vessel requires many hands to pull on ropes. Since we were only sailing during the day, we divided the crew into two teams (watches) of 9, switching roles every day.
 
-![[muddy-helmsmen.jpg]]
+![crew steering the ship](/assets/media-muddy-tales/muddy-helmsmen.jpg){:width="100%"}
 
 The sailing watch manoeuvred the ship and engaged in pop up sailing classes. The care watch nourished the crew with food, cleaned the space, and engaged in various acts of fluffing such as strawberries and massages.
 
@@ -105,7 +106,7 @@ As a bonus we also had one joker - a special role with no particular responsibil
 *"I felt extremely loved"*
 – Simone
 
-![[sunset-dance.jpg]]
+![dancing at sunset](/assets/media-muddy-tales/sunset-dance.jpg){:width="100%"}
 
 ### 3. Strike
 
@@ -115,12 +116,12 @@ On the last day of the trip we took down all the decorations and deep-cleaned th
 
 The local custom is that the captain and mate prepare beds for the next voyage, during precious hours of break in between having groups on board. It felt fantastic to take over that responsibility and give them extra rest - a simple yet meaningful act of care.
 
-![[muddy-captain-kiss.png]]
+![care for the captain](/assets/media-muddy-tales/muddy-captain-kiss.jpg){:width="100%"}
 *Captain, perhaps more than anyone, also deserves some love!*
 
 We are aspiring to Leave Positive Trace, rather than no trace at all.
 
-*"It was the first time that I could really be myself."*
+> *"It was the first time that I could really be myself."*
 – Benjamin, the mate of Chateauroux
 
 ### Life On Board
@@ -131,13 +132,13 @@ More crew means more diversity and makes it easier to retreat whenever one crave
 
 As a group of people used to building fantastical cities in a dessert, optimising the space to its full potential came very naturally. We brought lights, a soundsystem, multiple instruments, costumes, circus equipment, art supplies, fabrics, etc, and transformed Chateauroux into a cosy paradise playground, while maintaining its core functionality as a safe sailing vessel.
 
-![[Chateauroux-space.jpg]]
+![space plan](/assets/media-muddy-tales/chateauroux-space.jpg){:width="100%"}
 
 Last, but not least - sailing ships are epic, unique and come with a story that one is proud to be a part of. And don't get me wrong - small yachts offer fantastic opportunities for sailing, but it's just a totally different experience.
 
 And, of course, it's very easy to find your vessel in the marina.
 
-![[which-ship-to-sail.jpg]]
+![epic ship vs yacht](/assets/media-muddy-tales/which-ship-to-sail.jpg){:width="100%"}
 
 *Arriving to Passaia aboard [Grahound](https://grayhoundventures.com/){:target="_blank"} in a fleet of yachts and tall ships was mindblowing.*
 
@@ -145,11 +146,13 @@ Two decades of experience as a facilitator have shown me that the best events ar
 
 With no fixed agenda, the space was constantly open for anyone to initiate an activity, resulting in the perfect alignment with the needs of the group in any given moment.
 
-![[eveninig-cards.png]]
+![card event on deck](/assets//media-muddy-tales/eveninig-cards.jpg){:width="100%"}
+
+*[Wild Cards Journey](https://wildwizards.xyz/#journey){:target="_blank"} on deck of Chateauroux.*
 
 The result was fantastic - a great combination of sailing, quality time in nature, party, deep connection, blissful chill, performances, making music and more.
 
-*"I've experienced such a feeling of freedom, and motion, and openess of the heart. It was a deeply profound expedition."*
+> *"I've experienced such a feeling of freedom, and motion, and openess of the heart. It was a deeply profound expedition."*
 – Joao
 
 ## Feeding the Crew
@@ -158,7 +161,7 @@ Instead of a designated daily meal plan to follow, we provisioned the boat with 
 
 The core idea was to source ingredients for the most common denominator (food that everyone can eat), and build meals as a combination of base + sauce, with more money invested into making knock-out sauces that would work on any meal and be absolutely freaking delicious.
 
-*"It all starts with a sauce."*
+> *"It all starts with a sauce."*
 – Sharon
 
 It worked out perfectly - we had a close-to-fine-dining experience on a daily basis, with very little time spent on meal planning and coordination, with plenty of leftovers, and ~20% of the budget to spare. And the majority of fruits and vegetables came from a local organic farm.
@@ -178,17 +181,15 @@ And we had two guiding questions for daily chefs:
 - What do we have a lot of?
 - What's going bad?
 
-Here's a video debrief LINK with [Sharon](https://linktr.ee/sharon.leigh){:target="_blank"}, who lead the process of creating the shopping list if you're interested in a deeper dive.
-
 ## The Artefact
 
 An artefact is a physical object co-created by all participants during the event. Creating them is my specialty.
 
 Since every ship is legally responsible to carry a log, what could be more suitable than involving everyone in narrating our adventure in a collective journal? We filled it with memories, photos, and forms of artistic expression.
 
-![[muddy-log.jpg]]
+![Log and camera](/assets//media-muddy-tales/muddy-log.jpg){:width="100%"}
 
-*"It was the most intense and one of the best burns. I fucking loved it and I'm waiting for the next one."*
+>*"It was the most intense and one of the best burns. I fucking loved it and I'm waiting for the next one."*
 – Ilai
 
 ## Personal Learnings
@@ -203,18 +204,16 @@ Muddy Tales left me with a profound sense of gratitude. It was my first expediti
 
 As we concluded the voyage it hit me that another dream came true - I brought people together on a sailing ship, and it was absolutely delightful. The smiling faces and glowing eyes at the end were enough of the confirmation that this is just the beginning.
 
-![[happy-deck-vibe.jpg]]
+![good vibes on deck](/assets//media-muddy-tales/happy-deck-vibe.jpg){:width="100%"}
 
 The long term vision is to connect land-based projects and host adventures at sea. My role is to bring amazing crew to epic ships to connect, work and play together.
-
-The next step is to find a ship to partner with for the next expedition - perhaps early November in Portugal or Spain?
 
 If you'd like to be a part of this journey in some way, I'd love to connect with you. You can [contact me](/contact){:target="_blank"} directly, or read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, follow my adventures on [twitter](https://twitter.com/michalkorzonek){:target="_blank"}, and support my work on [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.
 
 Love and Light,
 Michał Korzonek
 
-Amsterdam, 27 August 2024
+Amsterdam, 7 September 2024
 
-![[muddy-michal-love.png]]
+![happy Michał](/assets/media-muddy-tales/muddy-michal-love.jpg){:width="100%"}
 
