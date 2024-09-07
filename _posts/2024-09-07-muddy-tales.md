@@ -84,9 +84,9 @@ For a community used to building cities in a dessert, giving energy to the ship 
 
 Fun fact: as we were blasting heavy tools on a Sunday working on the deck we got kicked out of the marina for making too much noise (totally fair - we had 3 needle hammers going). The situation attracted a lot of communication on the radio - while the noise was annoying, local skippers were very impressed by the hard work and progress we were making. It was definitely not your usual group! As a bonus we moved to a much better spot.
 
->*"I have not been a part of such an integrated group for years!"*\ 
+>*"I have not been a part of such an integrated group for years!"*<br>
 >– Darya
-
+<br>
 
 ### 2. Sail
 
@@ -106,8 +106,8 @@ To embody the culture of participation we practiced dynamic leadership with peop
 
 As a bonus we also had one joker - a special role with no particular responsibility beyond what they wanted to engage in - a treat for the lucky one.
 
-> *"I felt extremely loved"*\
-– Simone
+> *"I felt extremely loved"*\<br>
+>– Simone
 
 ![dancing at sunset](/assets/media-muddy-tales/sunset-dance.jpg){:width="100%"}
 
@@ -124,7 +124,7 @@ The local custom is that the captain and mate prepare beds for the next voyage, 
 
 We are aspiring to Leave Positive Trace, rather than no trace at all.
 
-> *"It was the first time that I could really be myself."*\
+> *"It was the first time that I could really be myself."*<br>
 > – Benjamin, the mate of Chateauroux
 
 ### Life On Board
@@ -155,7 +155,7 @@ With no fixed agenda, the space was constantly open for anyone to initiate an ac
 
 The result was fantastic - a great combination of sailing, quality time in nature, party, deep connection, blissful chill, performances, making music and more.
 
-> *"I've experienced such a feeling of freedom, and motion, and openess of the heart. It was a deeply profound expedition."*\
+> *"I've experienced such a feeling of freedom, and motion, and openess of the heart. It was a deeply profound expedition."*\<br>
 – Joao
 
 ## Feeding the Crew
@@ -164,7 +164,7 @@ Instead of a designated daily meal plan to follow, we provisioned the boat with 
 
 The core idea was to source ingredients for the most common denominator (food that everyone can eat), and build meals as a combination of base + sauce, with more money invested into making knock-out sauces that would work on any meal and be absolutely freaking delicious.
 
-> *"It all starts with a sauce."*\
+> *"It all starts with a sauce."*\<br>
 – Sharon
 
 It worked out perfectly - we had a close-to-fine-dining experience on a daily basis, with very little time spent on meal planning and coordination, with plenty of leftovers, and ~20% of the budget to spare. And the majority of fruits and vegetables came from a local organic farm.
@@ -192,7 +192,7 @@ Since every ship is legally responsible to carry a log, what could be more suita
 
 ![Log and camera](/assets//media-muddy-tales/muddy-log.jpg){:width="100%"}
 
->*"It was the most intense and one of the best burns. I fucking loved it and I'm waiting for the next one."*\
+>*"It was the most intense and one of the best burns. I fucking loved it and I'm waiting for the next one."*\<br>
 – Ilai
 
 ## Personal Learnings
@@ -213,7 +213,7 @@ The long term vision is to connect land-based projects and host adventures at se
 
 If you'd like to be a part of this journey in some way, I'd love to connect with you. You can [contact me](/contact){:target="_blank"} directly, or read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, follow my adventures on [twitter](https://twitter.com/michalkorzonek){:target="_blank"}, and support my work on [Patreon](https://www.patreon.com/michalkorzonek){:target="_blank"}.
 
-Love and Light,\
+Love and Light,\<br>
 Michał Korzonek
 
 Amsterdam, 7 September 2024
