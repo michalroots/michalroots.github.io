@@ -6,7 +6,7 @@ layout: default
   <h1>{{ page.title }}</h1>
   {{ content }}
   <span class="meta"><hr><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d %B %Y" }}</time> &middot; {% for tag in page.tags %}
-      <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %} &middot; <a href="/archive">archive</a></span>
+      <a href="/tag/{{tag}}">{{tag}}</a>{% unless forloop.last %}, {% endunless %}{% endfor %} &middot; <a href="/projects">projects</a></span>
 </section>
 
 
