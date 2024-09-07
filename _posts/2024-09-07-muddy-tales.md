@@ -102,7 +102,7 @@ Manouvering a 30m traditional vessel requires many hands to pull on ropes. Since
 
 The sailing watch manoeuvred the ship and engaged in pop up sailing classes. The care watch nourished the crew with food, cleaned the space, and engaged in various acts of fluffing such as strawberries and massages.
 
-To embody the culture of participation we practiced dynamic leadership with people naturally stepping into roles of responsibility whenever the need occurred.** This significantly reduced the coordinating overheads while relaxing the atmosphere and everything still got done right on time and with better quality that we could ever plan. 
+**To embody the culture of participation we practiced dynamic leadership with people naturally stepping into roles of responsibility whenever the need occurred.** This significantly reduced the coordinating overheads while relaxing the atmosphere and everything still got done right on time and with better quality that we could ever plan. 
 
 As a bonus we also had one joker - a special role with no particular responsibility beyond what they wanted to engage in - a treat for the lucky one.
 
@@ -145,7 +145,7 @@ And, of course, it's very easy to find your vessel in the marina.
 
 *Arriving to Passaia aboard [Grahound](https://grayhoundventures.com/){:target="_blank"} in a fleet of yachts and tall ships was mindblowing.*
 
-Two decades of experience as a facilitator have shown me that {:target="_blank"}. This fits perfectly with the Burn culture where there are no spectators and everyone is equally responsible for co-creating the experience.
+Two decades of experience as a facilitator have shown me that **the best events are over-prepared and under-structured**. This fits perfectly with the Burn culture where there are no spectators and everyone is equally responsible for co-creating the experience.
 
 With no fixed agenda, the space was constantly open for anyone to initiate an activity, resulting in the perfect alignment with the needs of the group in any given moment.
 
