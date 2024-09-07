@@ -106,7 +106,7 @@ To embody the culture of participation we practiced dynamic leadership with peop
 
 As a bonus we also had one joker - a special role with no particular responsibility beyond what they wanted to engage in - a treat for the lucky one.
 
-> *"I felt extremely loved"*<br>
+> *"I felt extremely loved."*<br>
 >– Simone
 
 ![dancing at sunset](/assets/media-muddy-tales/sunset-dance.jpg){:width="100%"}
@@ -156,7 +156,7 @@ With no fixed agenda, the space was constantly open for anyone to initiate an ac
 The result was fantastic - a great combination of sailing, quality time in nature, party, deep connection, blissful chill, performances, making music and more.
 
 > *"I've experienced such a feeling of freedom, and motion, and openess of the heart. It was a deeply profound expedition."*<br>
-– Joao
+– João
 
 ## Feeding the Crew
 
