@@ -12,18 +12,19 @@ summary: Sailing Plan and CV
 
 ## Current Goal
 
-- **Find a sailing ship for November - February** ⛵️ on my journey to complete practical part of a commercial license for sailing ships up to 500 GT from [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}.
-- **Host another sailing expedition**, in early November in Spain/Portugal. Here's documentation from the last one - [Muddy Tales](/muddy-tales).
+- **Sail November - February** ⛵️ and complete practical part of a commercial license for sailing ships up to 500 GT from [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}.
+- **Gather crew for another epic sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales).
 ## Long Term Goal
 
-Create **expeditions at sea**, **connect positive impact projects**, and **facilitate sustainable travel under sail**.
+Bring crews for epic **expeditions at sea**, **connect positive impact projects**, and **facilitate sustainable travel under sail**.
 
 ![Sailing Headshot](/assets/michal-officer.jpg){:width="100%"}
 
 ## Am I a fit for your boat?
 
-TLDR: **On top of my sailing experience I bring over a decade of facilitation and media production.**
+TLDR: **On top of my sailing experience I bring over a decade of network building, facilitation and media production.**
 
+- Host / supernode of numerous networks of people who want to sail on ships
 - **great at working with people** - over a decade of professional experience as facilitator, coach, event host, and community builder in different contexts
 - **film, photography & multimedia** graduate with extensive experience in video / photo production, podcasts, articles, newsletters
 - **positive vibe, relaxed personality**
@@ -42,11 +43,12 @@ TLDR: **On top of my sailing experience I bring over a decade of facilitation an
 Log: ~4300 NM <br><br>
 
 - KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}, practical in progress (3/6 months)
-- Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m, which may be equipped with an auxiliary power drive inland and in all see waters
+- Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m in all waters.
 - [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC
 - STCW Basic Safety
 - STCW Medical First Aid
 - STCW Certificate of Proficiency in Security Awareness
+- in progress: STCW Crowd Management
 
 **Sailing Experience:**
 - [Chateauroux](https://bouncespace.co/locations/chateauroux/){:target="_blank"} (August 2024, Ijsselmeer, Waddenzee)
@@ -64,7 +66,7 @@ Log: ~4300 NM <br><br>
 
 **Extra info:**
 
-- Languages: Polish (native), English (fluent), Portuguese (intermediate), French (basic)
+- Languages: Polish (native), English (fluent), Portuguese (intermediate), French (intermediate)
 - Nationality: Polish (EU passport) 
 - Diet: vegetarian
 - Non-smoker
