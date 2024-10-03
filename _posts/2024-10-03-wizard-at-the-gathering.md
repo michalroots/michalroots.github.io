@@ -38,7 +38,7 @@ Here's the chronological list, along with the outcome of each session.
 - **Cardify Anything** -> a connection game, an app design, a critical card culture building block, and training another cohort of card wizards.
 - **Baptism** -> ceremonial naming of the [Indigo Prophet](https://soundcloud.com/indigoprophet){:target="_blank"}
 - **Spaceholder Mastermind** by [Gaianet](https://www.gaianet.earth/){:target="_blank"} (taking a role) -> cardification & pod hosting
-- Boulder Garden Blind Path -> improved nightvision and pathfinding skills in the wild
+- **Boulder Garden Blind Path** -> improved nightvision and pathfinding skills in the wild
 - **Prompt Human Intelligence** -> funky interactions & playtime
 
 ![Wizard Photo](/assets/media-wizard-of-the-gathering/cardify-garden-library.jpg){:width="100%"}
@@ -51,12 +51,12 @@ In the midst of all that I also had a powerful smash-sesh with my epic [Enspiral
 
 - **[Nomad Farm](https://www.nomadfarm.co/){:target="_blank"}** -> brainstormed nomadic sailing community.
 - **Deep Time Walk** –> put time on Earth into embodied perspective
-- **Sensitive Sensors by [Smarthoods**](https://smarthoods.eco/){:target="_blank"} -> blew my mind and opened new possibilities to add to my [Wild Cards Journey](https://wildwizards.xyz/#journey){:target="_blank"}.
+- **Sensitive Sensors** by [Smarthoods](https://smarthoods.eco/){:target="_blank"} -> blew my mind and opened new possibilities to add to my [Wild Cards Journey](https://wildwizards.xyz/#journey){:target="_blank"}.
 - **[Eternal Forest](https://eternalforest.earth/){:target="_blank"} Academy** –> supported an epic forest art & education project.
 - **Gathering Integration** –> taking it all in and processing (note: I didn't get to speak with the facilitator, and I feel I should have - she was sooo brilliant! If you read this, please reach out 😉)
-- **Contact Massage** –> learning new connection technique
+- **Contact Massage** from [Glo](https://www.linkedin.com/in/glo-moss) –> learning a brilliant connection technique 🤍
 
-I really wanted to participate in a session hosted by my friends from [GreaterThan](https://www.greaterthan.works/){:target="_blank"} camp and I would have most likely joined the session about the future of the Gathering, but I couldn't coordinate it. The Gathering lacked a physical display of the program, keeping it all inside an app, which doesn't really work for me - having a phone during events like this has a significant negative impact on my experience and I'm not willing to compromise on that one.
+I really wanted to participate in a session hosted by my friends from [GreaterThan](https://www.greaterthan.works/){:target="_blank"} camp and I would have most likely joined the session about the future of the Gathering, but I couldn't coordinate it. The Gathering lacked a physical display of the program, keeping it all inside an app, which doesn't really work for me - having a phone during events like this has a significant negative impact on my experience and I'm not willing to compromise on that one. That's my one piece of feedback.
 
 **Not a biggie. After all, a Wizard is never late. Neither does he or she arrive too early. A Wizard arrives precisely at the right time and at the right place.**
 
@@ -76,7 +76,7 @@ Because it's fun. Because it's possible. Because it's the best contribution I co
 
 **There is no time to wait to deploy your gifts. Whatever is the piece of the puzzle that you are called to build - the time is Now.**
 
-Or, in the words of my [Shaman](https://t.me/brianmongo):
+Or, in the words of my [Shaman](https://t.me/brianmongo){:target="_blank"}:
 
 ![Benga!](/assets/media-wizard-of-the-gathering/benga-solstice.jpg){:width="100%"}
 
