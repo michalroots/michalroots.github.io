@@ -107,3 +107,4 @@ Here's the full list:
 - [🌔 July 2024 - From the Kingdom of Seagulls into the Dust](https://open.substack.com/pub/michalkorzonek/p/moonly-review-from-the-kingdom-of){:target="blank"}
 - 🌑 skipped ❌
 - [🌑 September 2024 - The Epic Summer](https://michalkorzonek.substack.com/p/moonly-review-the-epic-summer){:target="blank"}
+- [🌑 October 2024 - The Parting Gifts of Summer](https://open.substack.com/pub/michalkorzonek/p/moonly-review-the-parting-gifts-of){:target="blank"}
