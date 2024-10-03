@@ -91,9 +91,6 @@ What's up for me in this next months?
 If you want to follow my journey I invite you to read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, peak into my [microblog on telegram](https://t.me/sailorwizard){:target="_blank"}, or interact with me on [twitter](https://twitter.com/michalkorzonek){:target="_blank"}. And if you want a catalysing boost, then may it be known that [this Wizard offers support](/){:target="_blank"}.
 
 Wishing you a delightful day and, in the words of [Victor](https://pt.linkedin.com/in/vvorski) of the Gathering of Tribes:
-
-Thank you for everything you do!
-
 ![Thank you](/assets/media-wizard-of-the-gathering/thank-you.jpg){:width="100%"}
 
 Love and Light <br>
