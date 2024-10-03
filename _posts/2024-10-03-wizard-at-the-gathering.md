@@ -2,7 +2,7 @@
 layout: post
 title: Wizard at the Gathering of Tribes
 description: Catalysing Infinite Energy at the Meeting Point of the Regenerative Ecosystem
-image: /assets/media-muddy-tales/flying-seabird.jpg
+image: /assets/media-wizard-at-the-gathering/wizard.jpg
 tags:
   - community
 author: Michał Korzonek
