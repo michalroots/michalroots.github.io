@@ -96,8 +96,9 @@ Thank you for everything you do!
 
 ![Thank you](/assets/media-wizard-of-the-gathering/thank-you.jpg){:width="100%"}
 
-Michał,
-Leysin, Switzerland
+Love and Light <br>
+Michał, <br>
+Leysin, Switzerland <br>
 3 October 2024
 
 
