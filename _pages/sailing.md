@@ -16,7 +16,7 @@ summary: Sailing Plan and CV
 - **Gather crew for another epic sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales).
 ## Long Term Goal
 
-Bring crews for epic **expeditions at sea**, **connect positive impact projects**, and **facilitate sustainable travel under sail**.
+Bring crews for **epic expeditions and **connect positive impact projects by sea**.
 
 ![Sailing Headshot](/assets/michal-officer.jpg){:width="100%"}
 
@@ -34,7 +34,7 @@ TLDR: **On top of my sailing experience I bring over a decade of network buildin
 - good cook (with some mad dessert skills to delight your tastebuds)
 - very good at documenting things ([see examples](/documentation){:target="_blank"})
 
-## Sailing Experience & Certificates
+## Certificates
 
 ![Sailing Headshot](/assets/michal-kaatje.jpg){:width="100%"}
 
@@ -48,9 +48,10 @@ Log: ~4300 NM <br><br>
 - STCW Basic Safety
 - STCW Medical First Aid
 - STCW Certificate of Proficiency in Security Awareness
+- valid Seafarer Medical Certificate
 - in progress: STCW Crowd Management
 
-**Sailing Experience:**
+## **Sailing Experience:**
 - [Chateauroux](https://bouncespace.co/locations/chateauroux/){:target="_blank"} (August 2024, Ijsselmeer, Waddenzee)
 - [Grayhound](https://grayhoundventures.com){:target="_blank"} (April - June 2024, Atlantic, Bay of Biscay, English Channel, Bristol Channel)
 - [Chateauroux](https://bouncespace.co/locations/chateauroux/){:target="_blank"} (March 2024, Markermeer, Ijsselmeer)
