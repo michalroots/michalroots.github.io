@@ -16,7 +16,7 @@ summary: Sailing Plan and CV
 - **Gather crew for another epic sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales).
 ## Long Term Goal
 
-Bring crews for **epic expeditions and **connect positive impact projects by sea**.
+**Bring crews for epic expeditions and connect positive impact projects by sea**.
 
 ![Sailing Headshot](/assets/michal-officer.jpg){:width="100%"}
 
