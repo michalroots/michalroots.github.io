@@ -1,30 +1,32 @@
 ---
 layout: post
-title: Gratitude Tokens
+title: Gratitude Token
 description: Collaborative game catalysing gratitude 💜.
 image: 
-tags: [games]
+tags:
+  - games
 ---
 
-**Gratitude Tokens is a collaborative game designed to catalyse expressing gratitude within a community.**
+**Gratitude Token is a collaborative game designed to catalyse expressing gratitude within a community.**
 
 ![Gratitude Token](/assets/gratitude-token.jpg)
 
 ## Overview
 Gratitude is a state of the highest vibration. Gratitude Tokens play with the cryptocurrency mechanics, by creating a physical token incentivising expressing gratitude within a community in a playful way.
 
-Note: by now I am not really using the Gratitude Ledger as it felt to complicated in practice. It's a beautiful piece of the game though, so I'll keep the instructions in case you want to incorporate it or build upon it.
-
-☀️ This game was prototyped with [Bart Hoorweg](https://www.linkedin.com/in/bart-hoorweg){:target="_blank"} at the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}.
-
 🃏 Gratitude token has now been carrrdified.
 
 ![Gratitude Token Cardified](/assets/gratitude-token-cardified.jpeg)
+
+☀️ This game was prototyped with [Bart Hoorweg](https://www.linkedin.com/in/bart-hoorweg){:target="_blank"} at the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"}.
 
 🌱 If you'd like to encourage me to create more games, I invite you to become my [Patreon](https://patreon.com/michalkorzonek){:target="_blank"} and/or offer a [gift](/gift){:target="_blank"}.
 
 🐥 [Twitter thread](https://twitter.com/michalkorzonek/status/1507047355291471890?s=21){:target="_blank"} for the game.
 
+💜 link to our teleram group - [GratiDAO](https://t.me/+kCHKLHRlh3UyYTg0)
+
+*Note: by now I am not really using the Gratitude Ledger as it felt to complicated in practice. It's a beautiful piece of the game though, so I'll keep the instructions in case you want to incorporate it or build upon it.*
 ## Prep
 - Prepare tokens by cutting a thick branch into small coins. Make sure there's at least one per person, plus a few additional tokens. You can also use carrrds of course.
 - Prepare a few markers and a pen.
@@ -73,10 +75,6 @@ Here's a suggested format. Tweak as necessary to fit your context.
 - Idea to explore: *Gratitude Token Burn Ceremony*
 - Idea to explore: *Programmable Tokens* - use the backside of the token to add extra instructions to the token
 
-## GratiDAO
-Link to [telegram group](https://t.me/+kCHKLHRlh3UyYTg0).
-
-💜
 
 ## Tokenomics Proposals
 Have a new proposal? Submit it via our telegram group.
