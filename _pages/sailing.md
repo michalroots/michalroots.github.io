@@ -22,7 +22,7 @@ summary: Sailing Plan and CV
 
 ## Am I a fit for your boat?
 
-TLDR: **On top of my sailing experience I bring over a decade of network building, facilitation and media production.**
+TLDR: **On top of my sailing experience I bring over a decade of network building, facilitation and media production. I'm also very good at selling spots for epic adventures.** Should we partner up?
 
 - Host / supernode of numerous networks of people who want to sail on ships
 - **great at working with people** - over a decade of professional experience as facilitator, coach, event host, and community builder in different contexts
