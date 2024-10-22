@@ -13,7 +13,7 @@ summary: Sailing Plan and CV
 ## Current Goal
 
 - **Sail November - February** ⛵️ and complete practical part of a commercial license for sailing ships up to 500 GT from [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}.
-- **Gather crew for another epic sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales).
+- **Gather crew for another sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales). Currently recruiting for Quest Antarctica 🧊.
 ## Long Term Goal
 
 **Bring crews for epic expeditions and connect positive impact projects by sea**.
@@ -22,7 +22,7 @@ summary: Sailing Plan and CV
 
 ## Am I a fit for your boat?
 
-TLDR: **On top of my sailing experience I bring over a decade of network building, facilitation and media production. I'm also very good at selling spots for epic adventures.** Should we partner up?
+TLDR: On top of my **sailing experience** (listed below) I bring **over a decade of network building, facilitation and media production**. I'm also **very good at selling spots** for exciting adventures.
 
 - Host / supernode of numerous networks of people who want to sail on ships
 - **great at working with people** - over a decade of professional experience as facilitator, coach, event host, and community builder in different contexts
