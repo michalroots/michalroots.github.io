@@ -334,6 +334,12 @@ Here are a few:
 - 18 new followers on key marketing channels/mailing list
 - Daily record: 51 pages created in 3 hours
 
+![Chilling after smashing the book](/assets/media-semi-nomad/semi-chill-field.jpg){:width="100%"}
+
+*📸 Chilling on a sunny day after the work/play is done.*
+
+<br>
+
 >*"*Gratitude and bliss are my two keywords."*<br>
 >– Bige
 <br>
@@ -346,7 +352,7 @@ There's also metrics that are harder to quantify such as:
 - business opportunities
 - unexpected value creation
 
-Future metrics to track (note to self)
+Future metrics to track (note to self):
 
 - returning authors
 - time to print
@@ -354,9 +360,7 @@ Future metrics to track (note to self)
 - authors meeting in other containers
 - average number of pages per day
 
-![Chilling after smashing the book](/assets/media-semi-nomad/semi-chill-field.jpg){:width="100%"}
 
-*📸 We're on it.*
 
 ## Improvements Braindump
 
@@ -382,7 +386,7 @@ While the process flew extremely well there is definitely space for improvements
 
 ## Next Steps
 
-We're now collecting pre-orders to fund the first print run. We expect to ship in November/December 2024. The next (mega) milestone is to sell ~5000 copies to pay authors back before the next mastermind in April 2025.**
+**We're now collecting pre-orders to fund the first print run. We expect to ship in November/December 2024. The next (mega) milestone is to sell ~5000 copies to pay authors back before the next mastermind in April 2025.**
 
 **You can [order your copy here](https://treehousecollective.earth/how-to-semi-nomad){:target="_blank"} and this would make a tremendous difference for us!** 
 
@@ -401,4 +405,4 @@ If you want to follow my personal journey I invite you to read my [Moonly Review
 And if you want to get my support in designing your own kick-ass container, then [you can book me for a 1:1](/){:target="_blank"}.
 
 Have a wonderful Day,<br>
-Michał.
+Michał
