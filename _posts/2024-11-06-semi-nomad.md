@@ -122,7 +122,7 @@ Something we haven't planned was that many of us came to the mastermind with a p
 
 - We introduced our upgraded collaborative writing OS in Figma (so damn sexy)
 - We digitalised, printed, and displayed pages on the wall, gallery style, and invited the locals to have a look and give us feedback
-- We hosted a digital event including a layer of engagement on [polis](https://pol.is/3uknvwxnxt){:target="_blank"} and [telegram](https://t.me/+OoGbmdqQSkxlZjc0){:target="_blank"}
+- We hosted a digital event including a layer of engagement on [polis](https://pol.is/3uknvwxnxt){:target="_blank"} and [telegram](https://t.me/+S9wYSmjLOhZhMWNk){:target="_blank"}
 - We opened pre-orders to fund the first print round
 - We designed the model for [Tree House Collective](https://treehousecollective.earth){:target="_blank"} - our community driven publishing studio
 - We had a well deserved party
@@ -255,7 +255,7 @@ We explored alternative word choices (such as *homad* and *rooted nomad*), but i
 
 *📸 It was fun to read it out loud during dinner.*
 
-If you have better words to describe the phenomena, you can contribute to the conversation on [polis](https://pol.is/3uknvwxnxt){:target="_blank"} and [telegram](https://t.me/+OoGbmdqQSkxlZjc0){:target="_blank"}.
+If you have better words to describe the phenomena, you can contribute to the conversation on [polis](https://pol.is/3uknvwxnxt){:target="_blank"} and [telegram](https://t.me/+S9wYSmjLOhZhMWNk){:target="_blank"}.
 
 The definition was one of many rabbit holes we embarked upon. **The book is a snapshot of our collective exploration of the subject through multiple lenses, such as self, relationships, practical life-admin stuff (hooray tax and health insurance) and offers a collection of perspectives to consider when choosing to build a semi-nomadic lifestyle.**
 
