@@ -401,4 +401,4 @@ If you want to follow my personal journey I invite you to read my [Moonly Review
 And if you want to get my support in designing your own kick-ass container, then [you can book me for a 1:1](/){:target="_blank"}.
 
 Have a wonderful Day,<br>
-Michał
+Michał.
