@@ -14,9 +14,7 @@ TLDR: The book is now [done](https://treehousecollective.earth/how-to-semi-nomad
 
 Here's the retrospective from the mastermind starting with a 55 seconds video:
 
-<div style="position:relative; width:100%; padding-bottom:56.25%; background:#000;">
-<iframe src="https://www.youtube.com/embed/WUxVkg51B9I?si=XPOjrrDiP91sWwgi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
+<div style="position:relative; width:100%; padding-bottom:56.25%; background:#000;"> <iframe src="https://www.youtube.com/embed/WUxVkg51B9I?si=XPOjrrDiP91sWwgi" title="YouTube video player" frameborder="0" style="position:absolute; top:0; left:0; width:100%; height:100%;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe> </div>
 
 (click [this link](https://youtu.be/WUxVkg51B9I){:target="_blank"} if the video doesn't load.)
 
