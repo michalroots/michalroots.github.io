@@ -265,7 +265,7 @@ Here are a few pages to look at:
 
 ![Page preview](/assets/media-semi-nomad/semi-preview-container.jpg){:width="100%"}
 
-![Page preview](/assets/media-semi-nomad/semi-preview-container.jpg){:width="100%"}
+![Page preview](/assets/media-semi-nomad/semi-preview-home.jpg){:width="100%"}
 
 I mentioned already the feeling of shared identity stemming from creating a tangible deliverable together. I can't wait to see the smile on authors faces when they will hold the physical print in their hands for the first time.
 
