@@ -6,9 +6,9 @@ image: /assets/media-semi-nomad/semi-nomad-cover.jpg
 tags: facilitation community
 author: Michał Korzonek
 ---
-Back in February 2024 I reached out to [Daneel](https://daneelminev.com/) and [Ani](https://www.linkedin.com/in/ani-anca/) with a proposal to test our collaboration. Eight months later we concluded **a month long mastermind bringing together 14 people to write the first book about semi-nomadism, build friendships, and create a community driven publishing studio**.
+Back in February 2024 I reached out to [Daneel](https://daneelminev.com/){:target="_blank"} and [Ani](https://www.linkedin.com/in/ani-anca/){:target="_blank"} with a proposal to test our collaboration. Eight months later we concluded **a month long mastermind bringing together 14 people to write the first book about semi-nomadism, build friendships, and create a community driven publishing studio**.
 
-TLDR: The book is now [done](https://treehousecollective.earth/how-to-semi-nomad/) and the mastermind worked so well that we're having another one in April 2025 (more info at the end).
+TLDR: The book is now [done](https://treehousecollective.earth/how-to-semi-nomad/){:target="_blank"} and the mastermind worked so well that we're having another one in April 2025 (more info at the end).
 
 ![How To Semi-Nomad Book Cover](/assets/media-semi-nomad/semi-nomad-cover.jpg){:width="100%"}
 
@@ -16,7 +16,7 @@ Here's the retrospective from the mastermind starting with a 55 seconds video:
 
 <iframe width="700" height="450" src="https://youtu.be/WUxVkg51B9I" frameborder="0" allowfullscreen></iframe>
 
-(click [this link](https://youtu.be/WUxVkg51B9I) if the video doesn't load.)
+(click [this link](https://youtu.be/WUxVkg51B9I){:target="_blank"} if the video doesn't load.)
 
 ## Why Spend A Month Co-Writing A Book?
 
@@ -60,7 +60,7 @@ In our case we wrote a freaking 190-page book in one month. It is a journey to r
 
 ## Container Design
 
-Our first book-writing prototype hosted at the [Traditional Dream Factory](https://traditionaldreamfactory.com) in 2022 lasted 11 days and gathered 28 people. Together with my co-facilitator Daneel we prototyped everything from scratch in real time. Our energy was relentless. We finished the mastermind with a completed pdf of "[How To Build A Regenerative Village](https://treehousedao.earth/)" and Treehouse DAO - an idea for a publisher. While the process worked well, we didn't have enough space and capacity for tying loose ends, which resulted in two critical flaws:
+Our first book-writing prototype hosted at the [Traditional Dream Factory](https://traditionaldreamfactory.com){:target="_blank"} in 2022 lasted 11 days and gathered 28 people. Together with my co-facilitator Daneel we prototyped everything from scratch in real time. Our energy was relentless. We finished the mastermind with a completed pdf of "[How To Build A Regenerative Village](https://treehousedao.earth/){:target="_blank"}" and Treehouse DAO - an idea for a publisher. While the process worked well, we didn't have enough space and capacity for tying loose ends, which resulted in two critical flaws:
 
 1. We didn't plan for editing and post-production. 
 2. We didn't have clear agreements for decision making and financial flows.
@@ -324,7 +324,7 @@ Here are a few:
 - 1 documentation article (you're reading it now)
 - 4 reflection articles ([here](https://maysou.substack.com/p/a-noste-week-67){:target="_blank"}, [here](https://maysou.substack.com/p/a-noste-week-68){:target="_blank"}, [here](https://maysou.substack.com/p/a-noste-week-69){:target="_blank"}, and [here](https://maysou.substack.com/p/a-noste-week-70){:target="_blank"})
 - 1 mega twitter thread with live documentation ([here](https://x.com/michalkorzonek/status/1840820973081088202){:target="_blank"})
-- 1 community-driven publishing model ([Tree House Collective](https://treehousecollective.earth/))
+- 1 community-driven publishing model ([Tree House Collective](https://treehousecollective.earth/){:target="_blank"})
 - 1 workshop prototype (which got invited to a Swiss University Accelerator)
 - 16 book pre-orders
 - €453 pre-order revenue
