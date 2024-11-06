@@ -3,7 +3,7 @@ layout: post
 title: How To Semi-Nomad
 description: A 190-page illustrated book created by 14 people during a month-long mastermind using cards as a primary medium.
 image: /assets/media-semi-nomad/semi-nomad-cover.jpg
-tags: facilitation
+tags: facilitation community
 author: Michał Korzonek
 ---
 Back in February 2024 I reached out to [Daneel](https://daneelminev.com/) and [Ani](https://www.linkedin.com/in/ani-anca/) with a proposal to test our collaboration. Eight months later we concluded **a month long mastermind bringing together 14 people to write the first book about semi-nomadism, build friendships, and create a community driven publishing studio**.
