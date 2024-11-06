@@ -193,7 +193,7 @@ Evenings depended on open space, and usually the day ended with someone turning 
 
 ![Ticking boxes](/assets/media-semi-nomad/semi-squares.jpg){:width="100%"}
 
-*📸 Here's the boxes representing images to make. Our illustrator Tess is smashing it from the early morning 🎨.*
+*📸 Here's the boxes representing images to make. Our [illustrator Tess](https://tessvandorp.com){:target="_blank"} is smashing it from the early morning 🎨.*
 
 That's it for work days.
 
