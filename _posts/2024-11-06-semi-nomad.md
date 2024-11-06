@@ -24,7 +24,7 @@ Brining people for long enough in-real-life spaces to create something together 
 
 Allow me to dissect:
 
-1. **Long Enough**
+### 1. Long Enough
 
 **Relationships grow at the speed of trust, and a few days is simply too short to go deep enough and ground the emerging connection with a solid foundation for a lasting friendship**. Sure, you can amplify depth and bonding with facilitation tricks and make people feel super connected over a weekend, but **the *real good stuff* takes time**.
 
@@ -38,7 +38,7 @@ Living together for a month feels like being a part of an established ecosystem.
 
 Speaking of continuous integration – you're quite unlikely to hit pause on everything else happening in your life for an entire month, which naturally weaves your inside-the-container experience with everything outside of it. There is no separation.
 
-2. **In Real Life**
+### 2. In Real Life
 
 Ya, ya, enough zoom calls, thank you. IRL is more effective, more fun, more human. And hey, I'd choose being with you in person rather than on screen every time. And if we have an entire month together, then wow, I really can't wait!
 
@@ -46,7 +46,7 @@ Ya, ya, enough zoom calls, thank you. IRL is more effective, more fun, more huma
 
 *📸 Exploring the space during one of the open space workshops.*
   
-3. **Creating Together**
+### 3. Creating Together
 
 **There's nothing quite like getting to know a person through collaborating with them**. Hanging out in an unstructured open space is fantastic, and yet, setting a direction of creating a tangible deliverable within the time time together is a game-changer. The delightful clash of ideas, communication styles, working approaches, personal focus areas, and fluctuating energy levels reveals potential matches for a long-term friendship and/or collaboration, and creates a feeling of a shared group identity anchored in the lived experience *and* in the physical artefact.
 
