@@ -108,3 +108,4 @@ Here's the full list:
 - 🌑 skipped ❌
 - [🌑 September 2024 - The Epic Summer](https://michalkorzonek.substack.com/p/moonly-review-the-epic-summer){:target="blank"}
 - [🌑 October 2024 - The Parting Gifts of Summer](https://open.substack.com/pub/michalkorzonek/p/moonly-review-the-parting-gifts-of){:target="blank"}
+- [🌒 November 2024 - Semi-Nomad and The Sea](https://michalkorzonek.substack.com/p/moonly-review-semi-nomad-and-the){:target="blank"}
