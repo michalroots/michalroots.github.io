@@ -54,7 +54,7 @@ Ya, ya, enough zoom calls, thank you. IRL is more effective, more fun, more huma
 
 In our case we wrote a freaking 190-page book in one month. It is a journey to remember and be proud of.
 
->*"*I found belonging in ways I have not expected."*<br>
+>*"I found belonging in ways I have not expected."*<br>
 >– Serge
 <br>
 
@@ -89,7 +89,7 @@ The result was the following plan:
 
 - We got to know each other
 - We made agreements on how we want to be together
-- We made Vermont Hub our home
+- We made [Vermont Hub](https://vermonthub.ch){:target="_blank"} our home
 - We made agreements around copyrights and money flows
 - We established individual & group routines
 - We introduced cards - our primary co-creation medium
