@@ -111,3 +111,6 @@ Here's the full list:
 - [🌒 November 2024 - Semi-Nomad and The Sea](https://michalkorzonek.substack.com/p/moonly-review-semi-nomad-and-the){:target="blank"}
 - [🌑 December 2024 - Exciting Invitations](https://open.substack.com/pub/michalkorzonek/p/moonly-review-exciting-invitations){:target="blank"}
 - [🌑 Yearly Review 2024 - Into the sea](https://open.substack.com/pub/michalkorzonek/p/yearly-review-2024-into-the-sea){:target="blank"}
+
+## 2025
+- [🌑 January 2025 - Ends of the World](https://michalkorzonek.substack.com/p/moonly-review-ends-of-the-world){:target="blank"}
