@@ -6,7 +6,7 @@ summary:
 ---
 
 
-- [**Wild Cards**](https://wildwizards.xyz){:target="_blank"} - Playful facilitation powered by cards.
+- [**Wild Cards**](https://wildwcards.gg){:target="_blank"} - Playful facilitation powered by cards.
 - [**How To Semi-Nomad**](/semi-nomad) - A 190-page illustrated book created by 14 people during a month-long mastermind using cards as a primary medium.
 - [**Muddy Tales**](/muddy-tales/) - A Boat Burn Expedition on a 30 meter sailing ship.
 - [**How to Build A Regenerative Village**](/regenerative-village) - A 170 page illustrated book, weaving together lineages of wisdom and practical experience from a worldwide tribe of regenerative village builders.
