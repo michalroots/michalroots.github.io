@@ -40,7 +40,7 @@ TLDR: On top of my **sailing experience** (listed below) I bring **over a decade
 
 *In front of my sailing school - Enkhuizer Zeevaartschool.*
 
-Log: ~4300 NM <br><br>
+Log: ~8000 NM <br><br>
 
 - KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}, practical in progress (3/6 months)
 - Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m in all waters.
