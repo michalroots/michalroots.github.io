@@ -13,7 +13,7 @@ summary: Sailing Plan and CV
 ## Current Goal
 
 - **Sail November - February** ⛵️ and complete practical part of a commercial license for sailing ships up to 500 GT from [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}.
-- **Gather crew for another sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales). Currently recruiting for Quest Antarctica 🧊.
+- **Gather crew for another sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales). 
 ## Long Term Goal
 
 **Bring crews for epic expeditions and connect positive impact projects by sea**.
