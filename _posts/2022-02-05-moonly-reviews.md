@@ -12,9 +12,9 @@ I've started in December 2020, loved it, and the streak continues until today (w
 
 At the moment I publish my Moonly Reviews via Substack. If you'd enjoy reading a letter from me every 🌑 and 🌕, I'd like to encourage you to subscribe [here](https://michalkorzonek.substack.com){:target="_blank"}.
 
-Here's the full list:
+Here's the full list in chronological order.
 
-*(Scroll to the end for the most recent review)*
+Scroll to the end for the most recent review.
 
 ### 2020
 - 🌑  [December 2020](https://michalkorzonek.substack.com/p/moonly-review-december-2020){:target="_blank"}
@@ -114,3 +114,5 @@ Here's the full list:
 
 ## 2025
 - [🌑 January 2025 - Ends of the World](https://michalkorzonek.substack.com/p/moonly-review-ends-of-the-world){:target="blank"}
+- [🌑 February 2025 - Beginning of the World](https://michalkorzonek.substack.com/p/moonly-review-beginning-of-the-world){:target="blank"}
+- [🌑 March 2025 - Abundance All Around](https://michalkorzonek.substack.com/p/moonly-review-abundance-all-around){:target="blank"}
