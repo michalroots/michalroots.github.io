@@ -4,13 +4,874 @@
  <title>Michał Korzonek</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-02T12:45:36+00:00</updated>
+ <updated>2025-06-15T15:19:19+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Michal Korzonek</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>How To Semi-Nomad</title>
+   <link href="http://localhost:4000/semi-nomad"/>
+   <updated>2024-11-06T00:00:00-01:00</updated>
+   <id>http://localhost:4000/semi-nomad</id>
+   <content type="html">&lt;p&gt;Back in February 2024 I reached out to &lt;a href=&quot;https://daneelminev.com/&quot; target=&quot;_blank&quot;&gt;Daneel&lt;/a&gt; and &lt;a href=&quot;https://www.linkedin.com/in/ani-anca/&quot; target=&quot;_blank&quot;&gt;Ani&lt;/a&gt; with a proposal to test our collaboration. Eight months later we concluded &lt;strong&gt;a month long mastermind bringing together 14 people to write the first book about semi-nomadism, build friendships, and create a community driven publishing studio&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;TLDR: The book is now &lt;a href=&quot;https://treehousecollective.earth/how-to-semi-nomad/&quot; target=&quot;_blank&quot;&gt;done&lt;/a&gt; and the mastermind worked so well that we’re having another one in April 2025 (more info at the end).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-nomad-cover.jpg&quot; alt=&quot;How To Semi-Nomad Book Cover&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s the retrospective from the mastermind starting with a 55 seconds video:&lt;/p&gt;
+
+&lt;div style=&quot;position:relative; width:100%; padding-bottom:56.25%; background:#000;&quot;&gt; &lt;iframe src=&quot;https://www.youtube.com/embed/WUxVkg51B9I?si=XPOjrrDiP91sWwgi&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; style=&quot;position:absolute; top:0; left:0; width:100%; height:100%;&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt; &lt;/div&gt;
+
+&lt;p&gt;(click &lt;a href=&quot;https://youtu.be/WUxVkg51B9I&quot; target=&quot;_blank&quot;&gt;this link&lt;/a&gt; if the video doesn’t load.)&lt;/p&gt;
+
+&lt;h2 id=&quot;why-spend-a-month-co-writing-a-book&quot;&gt;Why Spend A Month Co-Writing A Book?&lt;/h2&gt;
+
+&lt;p&gt;Brining people for long enough in-real-life spaces to create something together is my ikigai.&lt;/p&gt;
+
+&lt;p&gt;Allow me to dissect:&lt;/p&gt;
+
+&lt;h3 id=&quot;1-long-enough&quot;&gt;1. Long Enough&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Relationships grow at the speed of trust, and a few days is simply too short to go deep enough and ground the emerging connection with a solid foundation for a lasting friendship&lt;/strong&gt;. Sure, you can amplify depth and bonding with facilitation tricks and make people feel super connected over a weekend, but &lt;strong&gt;the &lt;em&gt;real good stuff&lt;/em&gt; takes time&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-nomad-vibe-curve.jpg&quot; alt=&quot;Graph visualising short vs long container&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Living together for a month feels like being a part of an established ecosystem. There are routines, rituals, ongoing conversations, and evolving building blocks of culture shaped together by a group. Most importantly - there’s plenty of time to get to know each other, while resting well, and continuously integrating the experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-hikers.jpg&quot; alt=&quot;Cards with culture puzzles&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 Taking time to explore the absolutely stunning nature, with hundreds of kilometers of hikes starting right at our doorstep.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaking of continuous integration – you’re quite unlikely to hit pause on everything else happening in your life for an entire month, which naturally weaves your inside-the-container experience with everything outside of it. There is no separation.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-in-real-life&quot;&gt;2. In Real Life&lt;/h3&gt;
+
+&lt;p&gt;Ya, ya, enough zoom calls, thank you. IRL is more effective, more fun, more human. And hey, I’d choose being with you in person rather than on screen every time. And if we have an entire month together, then wow, I really can’t wait!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-comfort.jpg&quot; alt=&quot;People cosy together on sofas&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 Exploring the space during one of the open space workshops.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-creating-together&quot;&gt;3. Creating Together&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;There’s nothing quite like getting to know a person through collaborating with them&lt;/strong&gt;. Hanging out in an unstructured open space is fantastic, and yet, setting a direction of creating a tangible deliverable within the time time together is a game-changer. The delightful clash of ideas, communication styles, working approaches, personal focus areas, and fluctuating energy levels reveals potential matches for a long-term friendship and/or collaboration, and creates a feeling of a shared group identity anchored in the lived experience &lt;em&gt;and&lt;/em&gt; in the physical artefact.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-container-artefact.jpg&quot; alt=&quot;Facilitators with the artefact and the process&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In our case we wrote a freaking 190-page book in one month. It is a journey to remember and be proud of.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“I found belonging in ways I have not expected.”&lt;/em&gt;&lt;br /&gt;
+– Serge
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;container-design&quot;&gt;Container Design&lt;/h2&gt;
+
+&lt;p&gt;Our first book-writing prototype hosted at the &lt;a href=&quot;https://traditionaldreamfactory.com&quot; target=&quot;_blank&quot;&gt;Traditional Dream Factory&lt;/a&gt; in 2022 lasted 11 days and gathered 28 people. Together with my co-facilitator Daneel we prototyped everything from scratch in real time. Our energy was relentless. We finished the mastermind with a completed pdf of “&lt;a href=&quot;https://treehousedao.earth/&quot; target=&quot;_blank&quot;&gt;How To Build A Regenerative Village&lt;/a&gt;” and Treehouse DAO - an idea for a publisher. While the process worked well, we didn’t have enough space and capacity for tying loose ends, which resulted in two critical flaws:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;We didn’t plan for editing and post-production.&lt;/li&gt;
+  &lt;li&gt;We didn’t have clear agreements for decision making and financial flows.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Womp womp.&lt;/p&gt;
+
+&lt;p&gt;The result was a two year process to complete the last 5% needed to print the book. Learning from that experience, we reshaped the process completely, arriving at what seems to be a replicable month-long book writing container that kicks ass.&lt;/p&gt;
+
+&lt;p&gt;Here’s how it works.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-we-made-a-book-in-55-hours-&quot;&gt;How We Made A Book In 55 Hours 😎&lt;/h3&gt;
+
+&lt;p&gt;55 hours?&lt;/p&gt;
+
+&lt;p&gt;We spent one month together but the actual book-making sessions lasted 3 hours x 5 days per week x 3 weeks = 45 hours total. Let’s add another 10 hours to account for the extra push on the last days and we’ll get somewhere close to 55 hours for a 190-page book.&lt;/p&gt;
+
+&lt;p&gt;THIS IS INSANE.&lt;/p&gt;
+
+&lt;p&gt;Of course, sprinting for 55 hours straight wouldn’t work. To make it possible we needed to make time for creating group coherence, rest, subconscious processing and all the other good stuff on the community side of things.&lt;/p&gt;
+
+&lt;p&gt;The result was the following plan:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-nomad-container.jpg&quot; alt=&quot;Container design&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Week one focused on community weaving and creative foreplay&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We got to know each other&lt;/li&gt;
+  &lt;li&gt;We made agreements on how we want to be together&lt;/li&gt;
+  &lt;li&gt;We made &lt;a href=&quot;https://vermonthub.ch&quot; target=&quot;_blank&quot;&gt;Vermont Hub&lt;/a&gt; our home&lt;/li&gt;
+  &lt;li&gt;We made agreements around copyrights and money flows&lt;/li&gt;
+  &lt;li&gt;We established individual &amp;amp; group routines&lt;/li&gt;
+  &lt;li&gt;We introduced cards - our primary co-creation medium&lt;/li&gt;
+  &lt;li&gt;We prompted subconscious processing for the table of contents&lt;/li&gt;
+  &lt;li&gt;We hosted an open day inviting locals from Leysin which connected us to the local scene&lt;/li&gt;
+  &lt;li&gt;We had an epic hike&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-culture.jpg&quot; alt=&quot;Cards with culture puzzles&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 A few pieces of our culture puzzle.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Something we haven’t planned was that many of us came to the mastermind with a personal sub-quest of stepping up their exercise routine. As a result most of us got a monthly pass to the local sport centre and started a daily mix of squash, swim, iceskating, archery and gym. Combined with the sauna we had at home, it kept our bodies in a fantastic shape throughout the month and provided a critical off-switch for the brainz 🧠.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-archers.jpg&quot; alt=&quot;Archery class&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 That delightful day when we did an archery class together.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Week two is when we started to make pages&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We introduced the book-writing process&lt;/li&gt;
+  &lt;li&gt;We crafted a short story&lt;/li&gt;
+  &lt;li&gt;We created the table of contents&lt;/li&gt;
+  &lt;li&gt;We created the first draft of the book - all with cards.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-cards-to-pages.jpg&quot; alt=&quot;A scan from our log depicting our daily process&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 Sneak peek into our log containing the historical picture of the very first card played during the mastermind&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;At the end of week three we showcased the book to the public.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We introduced our upgraded collaborative writing OS in Figma (so damn sexy)&lt;/li&gt;
+  &lt;li&gt;We digitalised, printed, and displayed pages on the wall, gallery style, and invited the locals to have a look and give us feedback&lt;/li&gt;
+  &lt;li&gt;We hosted a digital event including a layer of engagement on &lt;a href=&quot;https://pol.is/3uknvwxnxt&quot; target=&quot;_blank&quot;&gt;polis&lt;/a&gt; and &lt;a href=&quot;https://t.me/+S9wYSmjLOhZhMWNk&quot; target=&quot;_blank&quot;&gt;telegram&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;We opened pre-orders to fund the first print round&lt;/li&gt;
+  &lt;li&gt;We designed the model for &lt;a href=&quot;https://treehousecollective.earth&quot; target=&quot;_blank&quot;&gt;Tree House Collective&lt;/a&gt; - our community driven publishing studio&lt;/li&gt;
+  &lt;li&gt;We had a well deserved party&lt;/li&gt;
+  &lt;li&gt;We went for another epic hike!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-printed.jpg&quot; alt=&quot;Printed book on the wall&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 It’s quite a sight to witness all of the pages printed for the first time.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On a community-building note, week three became “the dating week”. The well-established group coherence naturally shifted the attention towards intentional 1:1s and deepening individual bonds. This is where long-term collaborations started to reveal themselves.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-love-three.jpg&quot; alt=&quot;Three people walking together&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 That’s a pic of a trio date, but you get the idea 😉.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Week four is when we finished the book.&lt;/strong&gt; It was intense. The time pressure finally kicked in hard, both on completing the book and deepening the relationships.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We started with taking an extra day of rest (very needed)&lt;/li&gt;
+  &lt;li&gt;We finalised the book in a hyperfocus mode&lt;/li&gt;
+  &lt;li&gt;We had a great farewell party&lt;/li&gt;
+  &lt;li&gt;We close the mastermind with a retrospective&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-nomad-cover-back.jpg&quot; alt=&quot;Book front and back cover&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s it. The book is done and &lt;a href=&quot;https://treehousecollective.earth/how-to-semi-nomad/&quot; target=&quot;_blank&quot;&gt;available to order&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The last step is the final day of rest and departures.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-closing-cuddle.jpg&quot; alt=&quot;A cuddle puddle after closing ceremony&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 One of the best live feedback was the cuddle puddle after the closing ceremony resulting in falling asleep together. It warms my heart to witness such a degree of comfort and proximity.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;zooming-in-on-daily-routine&quot;&gt;Zooming In On Daily Routine&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Our working days started at 09h55 with a &lt;em&gt;round of check-ins&lt;/em&gt; followed by &lt;em&gt;Decentralised Needs Meeting&lt;/em&gt; and &lt;em&gt;Open Space&lt;/em&gt;.&lt;/strong&gt; We deliberately set the start time quite late to give people time to have an unrushed morning routine, breakfast, and for these early risers have some focused time for getting some personal work done.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Decentralised Needs Meeting&lt;/strong&gt; served as a space for anyone to express any need they might have without the pressure on the collective to meet the need. The objective is two-fold: a) practice verbalising needs b) increase chances of getting them met. After all, how can I know you need a massage if you keep it a secret?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Open Space is a collective practice of coordinating activities for the day&lt;/strong&gt;. Anyone could propose any activity to happen in any time outside of the 3 hour book making session.&lt;/p&gt;
+
+&lt;p&gt;Here are a few examples to showcase the variety:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a trip to a local farm&lt;/li&gt;
+  &lt;li&gt;contact improv&lt;/li&gt;
+  &lt;li&gt;watching a film&lt;/li&gt;
+  &lt;li&gt;intro to Ayurveda&lt;/li&gt;
+  &lt;li&gt;intro to Enspiral&lt;/li&gt;
+  &lt;li&gt;a workshop prototype around lessons we can learn from being at sea&lt;/li&gt;
+  &lt;li&gt;and more…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you’re not familiar with Open Space, have a look &lt;a href=&quot;https://openspaceworld.org/wp2/what-is/&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-morning.jpg&quot; alt=&quot;Morning session vibes&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 The delightful vibe of our morning moment together.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;After the moment of creating a daily group coherence and planning the day we jumped into 3 hours of book creation playtime (more on that later).&lt;/p&gt;
+
+&lt;p&gt;Next, we’d float into lunch served by our amazing chef &lt;a href=&quot;https://www.instagram.com/anotherjosefina/&quot; target=&quot;_blank&quot;&gt;Josefina&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-food.jpg&quot; alt=&quot;Food pic. Yes, it looks super tasty&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 A food pic for your delight.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Afternoon varied from day to day depending on open space offerings, but usually included a session of squash or other physical activity, before coming back together again for dinner prepped by daily rotating teams.&lt;/p&gt;
+
+&lt;p&gt;Evenings depended on open space, and usually the day ended with someone turning on the sauna 🔥. And then, half way through the mastermind, we discovered that sauna in the morning is an amazing way to start the day. We also discovered that quite a few of us were waking up very early which kickstarted our 5am/6am/7am club.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-squares.jpg&quot; alt=&quot;Ticking boxes&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 Here’s the boxes representing images to make. Our &lt;a href=&quot;https://tessvandorp.com&quot; target=&quot;_blank&quot;&gt;illustrator Tess&lt;/a&gt; is smashing it from the early morning 🎨.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;That’s it for work days.&lt;/p&gt;
+
+&lt;p&gt;On the first day of the weekend people tended to disappear into their own recharge modes. The house felt super quiet and cozy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-rest.jpg&quot; alt=&quot;Deep rest time&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 A well deserved moment of ultimate chill. Bonus points for the hat!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On the second day the energy was back and we’d go for a hike, or just hang out in nature. This is also when many great creative ideas for the book sparked and we begun our famous balcony sessions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-balcony.jpg&quot; alt=&quot;Balcony vibes&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 The vibe is always excellent on the balcony.&lt;/em&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“&lt;/em&gt;I could do these masterminds all of my life.&lt;em&gt;“&lt;/em&gt;&lt;br /&gt;
+– Ani
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;zooming-in-on-3h-creative-sprints&quot;&gt;Zooming in on 3h Creative Sprints&lt;/h3&gt;
+
+&lt;p&gt;The book was done in dedicated 3 hour sessions. No AI, just the limitless human creativity in flowstate with cards as a primary medium.&lt;/p&gt;
+
+&lt;p&gt;The process goes through stages of free-flow brainstorming and sense-making, constrained by the format of book pages, which keeps the group focused and effective. In the meantime, our illustrator keeps on drawing.&lt;/p&gt;
+
+&lt;p&gt;The speed is incredible. Our daily record was 51 pages!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-cardification.jpg&quot; alt=&quot;Playing with cards&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 The daily process of cardification.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The most important part is, of course, the vibe. We are able to co-create so effectively because we’re in a constant state of play with the group quickly learning how to self-facilitate and adjust the process to match the energy in the room.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The result is a beautiful illustrated book.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“&lt;/em&gt;It was such a creative process. I’m proud to be behind this book!”*&lt;br /&gt;
+– Yoav
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;why-semi-nomadism&quot;&gt;Why Semi-Nomadism?&lt;/h2&gt;
+
+&lt;p&gt;I’ve started this article with the process, because (in my opinion) the process makes 65% of the mastermind experience. On the other hand, the book is the focusing point for the month and the reason why we came together.&lt;/p&gt;
+
+&lt;p&gt;We picked the topic of semi-nomadism because it feels relevant and fascinating to explore.&lt;/p&gt;
+
+&lt;p&gt;The (digital) nomad lifestyle is by now quite well established in the global awareness, with a plenty of people living this way and plenty of resources and services catering to their needs. In the same time I keep noticing a growing need for stability and roots. I feel it myself - traveling is fantastic, but being constantly on the move doesn’t fulfil me anymore. I wish to have a base (or a few bases) to come back to, and see their growth over a longer period of time, while growing myself shaped by it. &lt;strong&gt;This mutual shaping - of a place by the person, and of a person by the place became a somewhat of a guiding definition for what a semi-nomad actually is&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-nomad-preview-definition.jpg&quot; alt=&quot;Page preview&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 Preview of the book pages.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The word semi-nomad itself was fascinating to dissect.&lt;/p&gt;
+
+&lt;p&gt;After all the prefix &lt;em&gt;semi&lt;/em&gt; indicates being “partly something”, so being “not quite nomadic”. While accurate to a degree, we felt that it puts too much emphasis on the nomadic aspect, while the key piece of the puzzle for us was the aspect of having a home, or multiple homes.&lt;/p&gt;
+
+&lt;p&gt;We explored alternative word choices (such as &lt;em&gt;homad&lt;/em&gt; and &lt;em&gt;rooted nomad&lt;/em&gt;), but in the end decided to stay with &lt;em&gt;semi-nomad&lt;/em&gt;, as a good enough and safe enough. Our fired brains produced a wonderful poem though:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-poem.jpg&quot; alt=&quot;Semi Nomad Poem&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 It was fun to read it out loud during dinner.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have better words to describe the phenomena, you can contribute to the conversation on &lt;a href=&quot;https://pol.is/3uknvwxnxt&quot; target=&quot;_blank&quot;&gt;polis&lt;/a&gt; and &lt;a href=&quot;https://t.me/+S9wYSmjLOhZhMWNk&quot; target=&quot;_blank&quot;&gt;telegram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The definition was one of many rabbit holes we embarked upon. &lt;strong&gt;The book is a snapshot of our collective exploration of the subject through multiple lenses, such as self, relationships, practical life-admin stuff (hooray tax and health insurance) and offers a collection of perspectives to consider when choosing to build a semi-nomadic lifestyle.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are a few pages to look at:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-preview-gnome.jpg&quot; alt=&quot;Page preview&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-preview-container.jpg&quot; alt=&quot;Page preview&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-preview-home.jpg&quot; alt=&quot;Page preview&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I mentioned already the feeling of shared identity stemming from creating a tangible deliverable together. I can’t wait to see the smile on authors faces when they will hold the physical print in their hands for the first time.&lt;/p&gt;
+
+&lt;p&gt;There’s also something around the medium of a book itself that is particularly appealing. A book is a book. It is a format well recognised by both the mainstream and alternative pockets of cultural landscape and it carries a degree of seriousness and respectability that can transmit the ideas into the wider ecosystem.&lt;/p&gt;
+
+&lt;p&gt;After all, &lt;strong&gt;we’re writing about topics within the wide ranging spectrum of regeneration, community and culture, with the intention of inspiring others to co-create a world where all beings can thrive&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“&lt;/em&gt;I’m leaving with more than just filled pages. I carry with me a renewed sense of my worth, a strength that comes from a community with shared alignment, and a desire to infuse more magic into every moment..”*&lt;br /&gt;
+– Lucile
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;our-community-driven-publishing-studio&quot;&gt;Our Community Driven Publishing Studio&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/thc-cover.jpg&quot; alt=&quot;Tree House Collective Cover Image&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tree House Collective is a community-driven publishing studio. By humans, for humans.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We specialise in creating tangible deliverables and building friendships during In-Real-Life masterminds harnessing the power of play and creativity. Our books are co-created by communities, offering real insights into regenerative living&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;The profits are redistributed into the community of authors incentivising supporting books created within the ecosystem and enabling scholarships and community innovation.&lt;/p&gt;
+
+&lt;p&gt;In other words:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Join a mastermind&lt;/li&gt;
+  &lt;li&gt;Make a book and make impact&lt;/li&gt;
+  &lt;li&gt;Make friends&lt;/li&gt;
+  &lt;li&gt;Get your money back through book sales&lt;/li&gt;
+  &lt;li&gt;Support the community&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/thc-model.jpg&quot; alt=&quot;Tree House Collective Model Graph&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/thc-model-split.jpg&quot; alt=&quot;Tree House Collective Model Graph&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a community driven publisher we are very excited about experimenting with alternative approaches to marketing - focusing on human-to-human interactions IRL rather than digital ads.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We’ll be hosting another mastermind in April in Switzerland and then in the fall 2025 in Mexico, and you can express your interest by joining this &lt;a href=&quot;https://t.me/+OoGbmdqQSkxlZjc0&quot; target=&quot;_blank&quot;&gt;telegram group&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also hire our services for your organisation. &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;Reach out&lt;/a&gt; to discuss what would you like to create with your team. It’s worth noting that while we’re starting with books, we’re already looking into building games and software using the same methodology.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/daneel-michal-smash.jpg&quot; alt=&quot;Daneel and Michał&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 We’re on it.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;mastermind-kpis&quot;&gt;Mastermind KPIs&lt;/h2&gt;
+
+&lt;p&gt;That was all great, but (at least some of) you probably want stats.&lt;/p&gt;
+
+&lt;p&gt;Here are a few:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;14 authors&lt;/li&gt;
+  &lt;li&gt;867 cards played&lt;/li&gt;
+  &lt;li&gt;1 non-fiction illustrated book pdf&lt;/li&gt;
+  &lt;li&gt;1 short fiction story included in the book&lt;/li&gt;
+  &lt;li&gt;96 illustrations&lt;/li&gt;
+  &lt;li&gt;1 short video (&lt;a href=&quot;https://youtu.be/WUxVkg51B9I&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;1 documentation article (you’re reading it now)&lt;/li&gt;
+  &lt;li&gt;4 reflection articles (&lt;a href=&quot;https://maysou.substack.com/p/a-noste-week-67&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://maysou.substack.com/p/a-noste-week-68&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;https://maysou.substack.com/p/a-noste-week-69&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;, and &lt;a href=&quot;https://maysou.substack.com/p/a-noste-week-70&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;1 mega twitter thread with live documentation (&lt;a href=&quot;https://x.com/michalkorzonek/status/1840820973081088202&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;1 community-driven publishing model (&lt;a href=&quot;https://treehousecollective.earth/&quot; target=&quot;_blank&quot;&gt;Tree House Collective&lt;/a&gt;)&lt;/li&gt;
+  &lt;li&gt;1 workshop prototype (which got invited to a Swiss University Accelerator)&lt;/li&gt;
+  &lt;li&gt;16 book pre-orders&lt;/li&gt;
+  &lt;li&gt;€453 pre-order revenue&lt;/li&gt;
+  &lt;li&gt;~10 visitors during the open day&lt;/li&gt;
+  &lt;li&gt;~25 participants in the digital call&lt;/li&gt;
+  &lt;li&gt;22 participants in pol.is sense-making&lt;/li&gt;
+  &lt;li&gt;18 new followers on key marketing channels/mailing list&lt;/li&gt;
+  &lt;li&gt;Daily record: 51 pages created in 3 hours&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-chill-field.jpg&quot; alt=&quot;Chilling after smashing the book&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 Chilling on a sunny day after the work/play is done.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“&lt;/em&gt;Gratitude and bliss are my two keywords.”*&lt;br /&gt;
+– Bige
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;There’s also metrics that are harder to quantify such as:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1:1 dates&lt;/li&gt;
+  &lt;li&gt;community rituals / habits / practices / culture blocks&lt;/li&gt;
+  &lt;li&gt;cuddle puddles&lt;/li&gt;
+  &lt;li&gt;business opportunities&lt;/li&gt;
+  &lt;li&gt;unexpected value creation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Future metrics to track (note to self):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;returning authors&lt;/li&gt;
+  &lt;li&gt;time to print&lt;/li&gt;
+  &lt;li&gt;time to repay authors&lt;/li&gt;
+  &lt;li&gt;authors meeting in other containers&lt;/li&gt;
+  &lt;li&gt;average number of pages per day&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;improvements-braindump&quot;&gt;Improvements Braindump&lt;/h2&gt;
+
+&lt;p&gt;While the process flew extremely well there is definitely space for improvements. Here are a few ideas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bring in the external proof-reading earlier&lt;/li&gt;
+  &lt;li&gt;Host the open day in a city (more people)&lt;/li&gt;
+  &lt;li&gt;Page auction to fund the first print run&lt;/li&gt;
+  &lt;li&gt;Use the open day digital walkthrough as a base structure for the promo video &amp;amp; improve the quality of sound&lt;/li&gt;
+  &lt;li&gt;Invite previous authors to the open day and build a THC gathering around it&lt;/li&gt;
+  &lt;li&gt;Improve the promotion of the authors with dedicated boost sessions, eg. improve your linkedin, website etc with the collective brainpower - make this a part of the container design!&lt;/li&gt;
+  &lt;li&gt;Consider dropping the group deeper in the first week&lt;/li&gt;
+  &lt;li&gt;Play more with creating and decentralising roles&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;personal-learnings&quot;&gt;Personal Learnings&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;It is the longest container I’ve hosted so far and I absolutely loved it. I’m curious to experiment with even a longer format.&lt;/li&gt;
+  &lt;li&gt;My intuition was confirmed - the month-long mastermind format is DOPE. We’ll surely iterate on it every time but the basic framework is set and it works like a charm. I feel super happy and proud of building this experience.&lt;/li&gt;
+  &lt;li&gt;It is also the perfect container for me to exist within. Hanging out with people I love and creating something meaningful together makes me feel alive like not many other things. This is the lifestyle I want, and luckily I am building it.&lt;/li&gt;
+  &lt;li&gt;I’m ready to scale this up as a service and create impact and value for aligned organisations&lt;/li&gt;
+  &lt;li&gt;The last week of the month was intense with pretty much no mental capacity for anything else. Next time I wish to accommodate better for it.&lt;/li&gt;
+  &lt;li&gt;A month long container is a perfect anchor to build habits, such as an exercise routine.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;We’re now collecting pre-orders to fund the first print run. We expect to ship in November/December 2024. The next (mega) milestone is to sell ~5000 copies to pay authors back before the next mastermind in April 2025.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;You can &lt;a href=&quot;https://treehousecollective.earth/how-to-semi-nomad&quot; target=&quot;_blank&quot;&gt;order your copy here&lt;/a&gt; and this would make a tremendous difference for us!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-semi-nomad/semi-nomad-authors.jpg&quot; alt=&quot;Authors&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;📸 So many smiling faces send good vibes your way!.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the meantime we’re setting up Tree House Collective as a legal entity.&lt;/p&gt;
+
+&lt;p&gt;Finally, we’re inviting people for the next mastermind in our epic venue &lt;a href=&quot;https://www.vermonthub.ch/&quot; target=&quot;_blank&quot;&gt;Vermont Hub&lt;/a&gt;, Swizerland in April 2025 and then in Mexico in the fall 2025. &lt;strong&gt;Join &lt;a href=&quot;https://t.me/+OoGbmdqQSkxlZjc0&quot; target=&quot;_blank&quot;&gt;this telegram group&lt;/a&gt; or &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;reach out to me directly&lt;/a&gt; to create the next book with us.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You can also hire us to deliver a mastermind (or a mini-mastermind) in your organisation. &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;Contact me directly&lt;/a&gt; to discuss your needs.&lt;/p&gt;
+
+&lt;p&gt;If you want to follow my personal journey I invite you to read my &lt;a href=&quot;https://michalkorzonek.substack.com/&quot; target=&quot;_blank&quot;&gt;Moonly Reviews&lt;/a&gt;, peak into my &lt;a href=&quot;https://t.me/sailorwizard&quot; target=&quot;_blank&quot;&gt;microblog on telegram&lt;/a&gt;, or interact with me on &lt;a href=&quot;https://twitter.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And if you want to get my support in designing your own kick-ass container, then &lt;a href=&quot;/&quot; target=&quot;_blank&quot;&gt;you can book me for a 1:1&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Have a wonderful Day,&lt;br /&gt;
+Michał&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wizard at the Gathering of Tribes</title>
+   <link href="http://localhost:4000/wizard-at-the-gathering"/>
+   <updated>2024-10-03T00:00:00+00:00</updated>
+   <id>http://localhost:4000/wizard-at-the-gathering</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/media-wizard-of-the-gathering/wizard.jpg&quot; alt=&quot;Wizard Photo&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://gatheringoftribes.earth/&quot; target=&quot;_blank&quot;&gt;Gathering of Tribes&lt;/a&gt; is the meeting point of the regenerative ecosystem. We meet every two years to strengthen our connections, evaluate progress, and accelerate the transition towards regenerative way of living on a planetary scale. This time hosted at &lt;a href=&quot;https://labs.thegarden.pt/&quot; target=&quot;_blank&quot;&gt;the Garden&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is the place to be.&lt;/p&gt;
+
+&lt;p&gt;To help me clarify my &lt;em&gt;personal why&lt;/em&gt; of going there I made a list. It turned out to be extensive, resulting in a valid concern - Is it reasonable to do it all?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;It is not only reasonable&lt;/em&gt; - my Wizard self replied - &lt;em&gt;It is necessary&lt;/em&gt; 🧙‍♂️.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;Frankly - I am done with waiting, ineffective coordination, and doing things that I don’t find worth doing. &lt;strong&gt;It is time to make good stuff happen and I am more than ready to play my part – being a catalyst of change, bringing people together, reducing barriers to act, unlocking creative potential, and inspiring by example.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re all responsible and it is time to act.&lt;/p&gt;
+
+&lt;p&gt;To show up fully and hone my pro-facilitation skills I embarked on a quest of (co-)facilitating twelve workshops during four days. As soon as the build of TDF camp was over I jumped into action.&lt;/p&gt;
+
+&lt;p&gt;Here’s the chronological list, along with the outcome of each session.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Metacrisis&lt;/strong&gt; (invited by August) -&amp;gt; a cocreated zine donated to the Library (my fav place in the Gathering)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Magickal Card Portrait&lt;/strong&gt; -&amp;gt; multiple Cards gifted to people and some deep moments of connection&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How to Build A Regenerative Village&lt;/strong&gt; -&amp;gt; selling out the first printed edition of the book and strengthening the community around &lt;a href=&quot;https://treehousedao.earth/&quot; target=&quot;_blank&quot;&gt;the book&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Storytelling Playback&lt;/strong&gt; (invited by &lt;a href=&quot;https://yanamori.com/&quot; target=&quot;_blank&quot;&gt;Yana&lt;/a&gt;) -&amp;gt; brainstorm and cardification of a funky interactive theatre&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Hub&lt;/strong&gt; -&amp;gt; making new connections through space design&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://wildwizards.xyz/#journey&quot; target=&quot;_blank&quot;&gt;Wild Cards Journey&lt;/a&gt;&lt;/strong&gt; -&amp;gt; tears, laughter and beautiful cards&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sailors Meetup&lt;/strong&gt; -&amp;gt; digital connection space for &lt;a href=&quot;https://t.me/+HFn4THoqsIE1YTVk&quot; target=&quot;_blank&quot;&gt;regen sailors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cardify Anything&lt;/strong&gt; -&amp;gt; a connection game, an app design, a critical card culture building block, and training another cohort of card wizards.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Baptism&lt;/strong&gt; -&amp;gt; ceremonial naming of the &lt;a href=&quot;https://soundcloud.com/indigoprophet&quot; target=&quot;_blank&quot;&gt;Indigo Prophet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Spaceholder Mastermind&lt;/strong&gt; by &lt;a href=&quot;https://www.gaianet.earth/&quot; target=&quot;_blank&quot;&gt;Gaianet&lt;/a&gt; (taking a role) -&amp;gt; cardification &amp;amp; pod hosting&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Boulder Garden Blind Path&lt;/strong&gt; -&amp;gt; improved nightvision and pathfinding skills in the wild&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Prompt Human Intelligence&lt;/strong&gt; -&amp;gt; funky interactions &amp;amp; playtime&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-wizard-of-the-gathering/cardify-garden-library.jpg&quot; alt=&quot;Wizard Photo&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;First session of Cardify Anything&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On the last day of the Gathering I celebrated the completion of the Twelve with the Thirteenth workshop, combining a few of them into one in a state of the perfect flow.&lt;/p&gt;
+
+&lt;p&gt;In the midst of all that I also had a powerful smash-sesh with my epic &lt;a href=&quot;https://www.enspiral.com/&quot; target=&quot;_blank&quot;&gt;Enspiral&lt;/a&gt; Business Coach &lt;a href=&quot;https://twitter.com/DanAlexiLewis&quot; target=&quot;_blank&quot;&gt;Dan&lt;/a&gt;, and attended six sessions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://www.nomadfarm.co/&quot; target=&quot;_blank&quot;&gt;Nomad Farm&lt;/a&gt;&lt;/strong&gt; -&amp;gt; brainstormed nomadic sailing community.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deep Time Walk&lt;/strong&gt; –&amp;gt; put time on Earth into embodied perspective&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sensitive Sensors&lt;/strong&gt; by &lt;a href=&quot;https://smarthoods.eco/&quot; target=&quot;_blank&quot;&gt;Smarthoods&lt;/a&gt; -&amp;gt; blew my mind and opened new possibilities to add to my &lt;a href=&quot;https://wildwizards.xyz/#journey&quot; target=&quot;_blank&quot;&gt;Wild Cards Journey&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;&lt;a href=&quot;https://eternalforest.earth/&quot; target=&quot;_blank&quot;&gt;Eternal Forest&lt;/a&gt; Academy&lt;/strong&gt; –&amp;gt; supported an epic forest art &amp;amp; education project.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gathering Integration&lt;/strong&gt; –&amp;gt; taking it all in and processing (note: I didn’t get to speak with the facilitator, and I feel I should have - she was sooo brilliant! If you read this, please reach out 😉)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Contact Massage&lt;/strong&gt; from &lt;a href=&quot;https://www.linkedin.com/in/glo-moss&quot;&gt;Glo&lt;/a&gt; –&amp;gt; learning a brilliant connection technique 🤍&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I really wanted to participate in a session hosted by my friends from &lt;a href=&quot;https://www.greaterthan.works/&quot; target=&quot;_blank&quot;&gt;GreaterThan&lt;/a&gt; camp and I would have most likely joined the session about the future of the Gathering, but I couldn’t coordinate it. The Gathering lacked a physical display of the program, keeping it all inside an app, which doesn’t really work for me - having a phone during events like this has a significant negative impact on my experience and I’m not willing to compromise on that one. That’s my one piece of feedback.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Not a biggie. After all, a Wizard is never late. Neither does he or she arrive too early. A Wizard arrives precisely at the right time and at the right place.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-wizard-of-the-gathering/weaving-lake.jpg&quot; alt=&quot;Lake and Dreams&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the pic above, the Wizard arrived at the lake to weave some dreams.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Gathering left me feeling fulfilled, inspired and excited for everything that is to come&lt;/strong&gt;. My notebook filled with amazing connections and new collaborations are sprouting all along.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-wizard-of-the-gathering/audrey-michal-notes.jpg&quot; alt=&quot;Notes from the meeting&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I’ve learnt that my energy is endless, because just like you, I am energy.&lt;/strong&gt; Whenever tired all that is need is a moment of a high quality recharge - whether by having a nap, cuddle, or dancing wild in the middle of a drum circle. The energy rises again and the Flow continues.&lt;/p&gt;
+
+&lt;p&gt;And why host 13 workshops in the first place?&lt;/p&gt;
+
+&lt;p&gt;Because it’s fun. Because it’s possible. Because it’s the best contribution I could have made to the Gathering.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;There is no time to wait to deploy your gifts. Whatever is the piece of the puzzle that you are called to build - the time is Now.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Or, in the words of my &lt;a href=&quot;https://t.me/brianmongo&quot; target=&quot;_blank&quot;&gt;Shaman&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-wizard-of-the-gathering/benga-solstice.jpg&quot; alt=&quot;Benga!&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What’s up for me in this next months?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’m hosting a book writing mastermind in Switzerland about Semi-Nomadic Lifestyle (&lt;a href=&quot;https://x.com/michalkorzonek/status/1840820973081088202&quot; target=&quot;_blank&quot;&gt;live documentation twitter thread&lt;/a&gt;), come visit on the Open Day on the 19th of October&lt;/li&gt;
+  &lt;li&gt;Completing my commercial officer license for sailing ships up to 500 tonnes&lt;/li&gt;
+  &lt;li&gt;Organising a sailing expedition to Antarctica ⛵️🧊&lt;/li&gt;
+  &lt;li&gt;Another book writing in Switzerland in April (topic TBC)&lt;/li&gt;
+  &lt;li&gt;and more - sailing trips, writing 100 books in a month (yup), making a musical, growing &lt;a href=&quot;https://www.enspiral.com/&quot; target=&quot;_blank&quot;&gt;Enspiral&lt;/a&gt; Europe. The possibilities are endless, and &lt;strong&gt;I’m quite done with not doing things that are both exciting and terrifying&lt;/strong&gt;. That’s the perfect signpost towards an epic growth curve.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you want to follow my journey I invite you to read my &lt;a href=&quot;https://michalkorzonek.substack.com/&quot; target=&quot;_blank&quot;&gt;Moonly Reviews&lt;/a&gt;, peak into my &lt;a href=&quot;https://t.me/sailorwizard&quot; target=&quot;_blank&quot;&gt;microblog on telegram&lt;/a&gt;, or interact with me on &lt;a href=&quot;https://twitter.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt;. And if you want a catalysing boost, then may it be known that &lt;a href=&quot;/&quot; target=&quot;_blank&quot;&gt;this Wizard offers support&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Wishing you a delightful day and, in the words of &lt;a href=&quot;https://pt.linkedin.com/in/vvorski&quot;&gt;Victor&lt;/a&gt; of the Gathering of Tribes:
+&lt;img src=&quot;/assets/media-wizard-of-the-gathering/thank-you.jpg&quot; alt=&quot;Thank you&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Love and Light &lt;br /&gt;
+Michał, &lt;br /&gt;
+Leysin, Switzerland &lt;br /&gt;
+3 October 2024&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Muddy Tales</title>
+   <link href="http://localhost:4000/muddy-tales"/>
+   <updated>2024-09-07T00:00:00+00:00</updated>
+   <id>http://localhost:4000/muddy-tales</id>
+   <content type="html">&lt;p&gt;– &lt;em&gt;Hey Michał, do you want to organise a trip on my ship?&lt;/em&gt; – it’s the kind of offer I just wouldn’t ignore. Gathering epic crew is one of my favourite processes in the world. So I crafted an invitation and sent it out to some of my favourite humans ⛵️&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-tales.jpg&quot; alt=&quot;Muddy Tales Invitation&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Despite 3 weeks notice the voyage sold out all spots, and gathered so much energy that I’m already planning the next one (more info at the end).&lt;/p&gt;
+
+&lt;p&gt;Here’s the retrospective from my first Boat Burn, starting with a 48 seconds video:&lt;/p&gt;
+
+&lt;iframe width=&quot;700&quot; height=&quot;450&quot; src=&quot;http://www.youtube.com/embed/dPkeRCvKJp8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;(click &lt;a href=&quot;https://youtu.be/dPkeRCvKJp8&quot;&gt;this link&lt;/a&gt; if the video doesn’t load.)&lt;/p&gt;
+
+&lt;h2 id=&quot;wtf-is-a-boat-burn&quot;&gt;WTF is a Boat Burn?&lt;/h2&gt;
+
+&lt;p&gt;Since my first immersion into the world of Burns - co-created gatherings in unforgiving environments, inspired by &lt;em&gt;Burning Man&lt;/em&gt; - &lt;strong&gt;I had a feeling that ships could use more Burners&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Why?&lt;/p&gt;
+
+&lt;p&gt;First of all, a sailing vessel is a fantastic space to bring people together, Burners or non-burners.&lt;/p&gt;
+
+&lt;p&gt;There’s nothing quite like the feeling of adventure, freedom, connection to oneself and the natural world, and the profound empowerment coming from the fact of being out there, in the wild sea, magically cutting across the vastness on a tiny piece of boat which for the time of the journey becomes your entire world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/chateauroux-cuts-waves.jpg&quot; alt=&quot;Ship sailing through waves&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, &lt;strong&gt;there’s another facet of sailing that has my particular interest - building culture&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Stepping on a ship is like entering a pressure cooker. There is no privacy, there is no escape, and your life kinda depends on each other, so you simply need to work well together. Emotions get amplified and results of your actions (or lack of thereof) are immediate. In such an intense environment conflicts can get nasty and friendships forged at sea are simply next level.&lt;/p&gt;
+
+&lt;p&gt;Ships also come with its unique context and constraints.&lt;/p&gt;
+
+&lt;p&gt;On top of the usual complexity of group dynamics and processes, you have to consider the weather, sea-sickness, voyage plan, local restrictions (eg. no loud sounds on deck after 22h in Dutch harbours), the vessel and its ways of doing things, and of course the captain - who is legally responsible for everything on board.&lt;/p&gt;
+
+&lt;p&gt;So what happens when we bring a crew of Burners on a sailing ship?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/flying-seabird.jpg&quot; alt=&quot;acroyoga on deck&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Well, &lt;strong&gt;Burners are dream builders, coming together for a short period of time to make anything-you-want possible through effective cooperation, hard work, connecting on a deeper level, nourishing each other, not taking life too seriously, and having a lot of fun&lt;/strong&gt;. That already feels like a great potential for crew.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-bart-and-crew.jpg&quot; alt=&quot;Sailor and pictures of the crew&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the core of Burns, there are &lt;a href=&quot;https://www.goingnowhere.org/principles/&quot; target=&quot;_blank&quot;&gt;the principles&lt;/a&gt;, such as radical participation (rather than expecting service), gifting, leave no trace, self-expression and consent, making it possible for people from different backgrounds to harmonise into a collective flow state of co-creation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What burners are usually very good at is defining explicit cultural norms making sure that everyone’s needs are met and essential things still get done&lt;/strong&gt;. As explored in the community building &lt;a href=&quot;https://treehousedao.earth/&quot; target=&quot;_blank&quot;&gt;book I co-written&lt;/a&gt;, everything that is explicit can be adjusted.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/turn-culture-into-object.jpg&quot; alt=&quot;Page from the book&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In practical terms, &lt;strong&gt;it comes down to making agreements around topics important to the crew&lt;/strong&gt;. How do we want to be together? How do we relate to photos, nudity, sex, substances? How do we decide about music to listen to, and when to have silence?&lt;/p&gt;
+
+&lt;p&gt;It’s not always an easy process, and yet it works like magic.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-crew-cuddles-on-deck.jpg&quot; alt=&quot;cuddles on deck&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a sailor graduated from the &lt;a href=&quot;https://ezsenglish.weebly.com/&quot; target=&quot;_blank&quot;&gt;Enkhuizer Zeevaartschool&lt;/a&gt; working towards commanding ships up to 500 tonnes, it’s not a coincidence that I’m also the co-captain of &lt;em&gt;&lt;a href=&quot;https://sheepyship.carrd.co&quot; target=&quot;_blank&quot;&gt;Sheepy Ship&lt;/a&gt;&lt;/em&gt; - a camp at Nowhere (European Burn), with a mission of connecting burner sailors and gathering crew for future expeditions. I love being in the space where these two amazing worlds overlap.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/sheepy-ship.jpg&quot; alt=&quot;Nowhere Camp Sheepy Ship&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;The Mast of the Sheepy Ship, beaconing sailors at Nowhere 2024. Photo by &lt;a href=&quot;https://www.instagram.com/drhvsb/&quot; target=&quot;_blank&quot;&gt;Sean Toole&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;muddy-tales-voyage-design&quot;&gt;Muddy Tales Voyage Design&lt;/h2&gt;
+
+&lt;p&gt;Our voyage followed the three act structure of Burning Man events: Build - Sail - Strike.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-build&quot;&gt;1. Build&lt;/h3&gt;
+
+&lt;p&gt;Many burners say there is no burn without build.&lt;/p&gt;
+
+&lt;p&gt;Guided by the captain and the owner, we spend 3 days on de-rusting and repainting the deck, rails and mast, refitting the windows, as well as uplifting the space inside the boat to make it more functional and cosy.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/build-nowhere-muddy.jpg&quot; alt=&quot;building stuff&quot; width=&quot;100%&quot; /&gt;
+&lt;em&gt;Building ships at Nowhere and refitting ships at sea.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;For a community used to building cities in a dessert, giving energy to the ship before setting sail was a pleasure&lt;/strong&gt;. We created a deeper bond with the vessel, established trust with the captain, brought the crew closer together, and our floating home, &lt;a href=&quot;https://bouncespace.co/locations/chateauroux/&quot; target=&quot;_blank&quot;&gt;Chateauroux&lt;/a&gt;, looked better than ever!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-build-trio.jpg&quot; alt=&quot;crew working on the ship&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fun fact: as we were blasting heavy tools on a Sunday working on the deck we got kicked out of the marina for making too much noise (totally fair - we had 3 needle hammers going). The situation attracted a lot of communication on the radio - while the noise was annoying, local skippers were very impressed by the hard work and progress we were making. It was definitely not your usual group! As a bonus we moved to a much better spot.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“I have not been a part of such an integrated group for years!”&lt;/em&gt;&lt;br /&gt;
+– Darya
+&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;2-sail&quot;&gt;2. Sail&lt;/h3&gt;
+
+&lt;p&gt;On the first day of our voyage the captain asked me to collect the sailing dreams of the crew. I collected them into our log and we start making them happen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-journal-dreams.jpg&quot; alt=&quot;page from the log&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Through the next 7 days we explored some of the most amazing places in the Netherlands, while learning how to sail together and creating beautiful moments of deep connection, creativity and play.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Manouvering a 30m traditional vessel requires many hands to pull on ropes. Since we were only sailing during the day, we divided the crew into two teams (watches) of 9, switching roles every day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-helmsmen.jpg&quot; alt=&quot;crew steering the ship&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The sailing watch manoeuvred the ship and engaged in pop up sailing classes. The care watch nourished the crew with food, cleaned the space, and engaged in various acts of fluffing such as strawberries and massages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;To embody the culture of participation we practiced dynamic leadership with people naturally stepping into roles of responsibility whenever the need occurred.&lt;/strong&gt; This significantly reduced the coordinating overheads while relaxing the atmosphere and everything still got done right on time and with better quality that we could ever plan.&lt;/p&gt;
+
+&lt;p&gt;As a bonus we also had one joker - a special role with no particular responsibility beyond what they wanted to engage in - a treat for the lucky one.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“I felt extremely loved.”&lt;/em&gt;&lt;br /&gt;
+– Simone&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/sunset-dance.jpg&quot; alt=&quot;dancing at sunset&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;3-strike&quot;&gt;3. Strike&lt;/h3&gt;
+
+&lt;p&gt;Leave No Trace is one of the core principles of the Burn culture.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;On the last day of the trip we took down all the decorations and deep-cleaned the ship, leaving &lt;em&gt;Chateauroux&lt;/em&gt; and its’ crew in a much better state that we found them.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The local custom is that the captain and mate prepare beds for the next voyage, during precious hours of break in between having groups on board. It felt fantastic to take over that responsibility and give them extra rest - a simple yet meaningful act of care.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-captain-kiss.jpg&quot; alt=&quot;care for the captain&quot; width=&quot;100%&quot; /&gt;
+&lt;em&gt;Captain, perhaps more than anyone, also deserves some love!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;We are aspiring to Leave Positive Trace, rather than no trace at all.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“It was the first time that I could really be myself.”&lt;/em&gt;&lt;br /&gt;
+– Benjamin, the mate of Chateauroux&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;life-on-board&quot;&gt;Life On Board&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Large sailing vessels offers considerable advantages in comparison to small yachts.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;More crew means more diversity and makes it easier to retreat whenever one craves self-time. The bigger vessel means more space - both for creating different areas, as well as brining more stuff.&lt;/p&gt;
+
+&lt;p&gt;As a group of people used to building fantastical cities in a dessert, &lt;strong&gt;optimising the space to its full potential came very naturally&lt;/strong&gt;. We brought lights, a soundsystem, multiple instruments, costumes, circus equipment, art supplies, fabrics, etc, and &lt;strong&gt;transformed Chateauroux into a cosy paradise playground, while maintaining its core functionality as a safe sailing vessel.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/chateauroux-space.jpg&quot; alt=&quot;space plan&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Last, but not least - sailing ships are epic, unique and come with a story that one is proud to be a part of. And don’t get me wrong - small yachts offer fantastic opportunities for sailing, but it’s just a totally different experience.&lt;/p&gt;
+
+&lt;p&gt;And, of course, it’s very easy to find your vessel in the marina.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/which-ship-to-sail.jpg&quot; alt=&quot;epic ship vs yacht&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Arriving to Passaia aboard &lt;a href=&quot;https://grayhoundventures.com/&quot; target=&quot;_blank&quot;&gt;Grahound&lt;/a&gt; in a fleet of yachts and tall ships was mindblowing.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Two decades of experience as a facilitator have shown me that &lt;strong&gt;the best events are over-prepared and under-structured&lt;/strong&gt;. This fits perfectly with the Burn culture where there are no spectators and everyone is equally responsible for co-creating the experience.&lt;/p&gt;
+
+&lt;p&gt;With no fixed agenda, the space was constantly open for anyone to initiate an activity, resulting in the perfect alignment with the needs of the group in any given moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets//media-muddy-tales/eveninig-cards.jpg&quot; alt=&quot;card event on deck&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;https://wildwizards.xyz/#journey&quot; target=&quot;_blank&quot;&gt;Wild Cards Journey&lt;/a&gt; on deck of Chateauroux.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The result was fantastic - a great combination of sailing, quality time in nature, party, deep connection, blissful chill, performances, making music and more.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“I’ve experienced such a feeling of freedom, and motion, and openess of the heart. It was a deeply profound expedition.”&lt;/em&gt;&lt;br /&gt;
+– João&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;feeding-the-crew&quot;&gt;Feeding the Crew&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Instead of a designated daily meal plan to follow, we provisioned the boat with ingredients that are nutritious, easy to work with, and fun to play with to inspire improvised meals created by whoever stepped into the role of a daily chef.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The core idea was to source ingredients for the most common denominator (food that everyone can eat), and build meals as a combination of base + sauce, with more money invested into making knock-out sauces that would work on any meal and be absolutely freaking delicious.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“It all starts with a sauce.”&lt;/em&gt;&lt;br /&gt;
+– Sharon&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It worked out perfectly - we had a close-to-fine-dining experience on a daily basis, with very little time spent on meal planning and coordination, with plenty of leftovers, and ~20% of the budget to spare. And the majority of fruits and vegetables came from a local organic farm.&lt;/p&gt;
+
+&lt;p&gt;When buying ingredients we went through the following criteria:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Food budget total + buffer 10%&lt;/li&gt;
+  &lt;li&gt;Amount of people, days and meals&lt;/li&gt;
+  &lt;li&gt;Dietary restrictions&lt;/li&gt;
+  &lt;li&gt;Cooking facilities and storage&lt;/li&gt;
+  &lt;li&gt;Weather (hot / cold)&lt;/li&gt;
+  &lt;li&gt;Nutrition / Flexibility / Ease of cooking / Fun&lt;/li&gt;
+  &lt;li&gt;Energy required (eg. build needs more food)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And we had two guiding questions for daily chefs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What do we have a lot of?&lt;/li&gt;
+  &lt;li&gt;What’s going bad?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-artefact&quot;&gt;The Artefact&lt;/h2&gt;
+
+&lt;p&gt;An artefact is a physical object co-created by all participants during the event. Creating them is my specialty.&lt;/p&gt;
+
+&lt;p&gt;Since every ship is legally responsible to carry a log, what could be more suitable than involving everyone in narrating our adventure in a collective journal? We filled it with memories, photos, and forms of artistic expression.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets//media-muddy-tales/muddy-log.jpg&quot; alt=&quot;Log and camera&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“It was the most intense and one of the best burns. I fucking loved it and I’m waiting for the next one.”&lt;/em&gt;&lt;br /&gt;
+– Ilai&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;personal-learnings&quot;&gt;Personal Learnings&lt;/h2&gt;
+
+&lt;p&gt;Muddy Tales left me with a profound sense of gratitude. It was my first expedition organised on a bigger sailing vessel, and I expanded a lot as a facilitator and a quartermaster. Here are a few asorted learnings:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;It was the first time ever I had to ask a person to leave&lt;/strong&gt; (after 3 days of build) due to persistent behaviour that was making the group uncomfortable (I won’t go into detail). The process felt very healthy, and the final decision was taken by me as a representative of the crew (aka the quartermaster) and the captain - a perfect example of Pirate Organising. It felt challenging to exclude a person, and yet it was the perfect decision for the voyage.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I have prioritised personal invitations rather than posting on social channels and I absolutely loved it&lt;/strong&gt;. While it takes more energy to communicate 1:1 rather than 1-to-many, the relationships built through the process feel more in tune with the long term vision of building a community of sailors. Due to very short notice many people simply couldn’t make it, but are very much looking forward to the next opportunity.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I have succeeded in distributing a lot of tasks on board - for example shooting the &lt;a href=&quot;http://www.youtube.com/embed/dPkeRCvKJp8&quot; target=&quot;_blank&quot;&gt;promo video&lt;/a&gt;&lt;/strong&gt;. It felt so much better to ask people to film specific shots and give basic instructions rather than have to film myself or have a designated camera person carrying all the load.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;As we concluded the voyage it hit me that another dream came true - I brought people together on a sailing ship, and it was absolutely delightful. The smiling faces and glowing eyes at the end were enough of the confirmation that this is just the beginning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets//media-muddy-tales/happy-deck-vibe.jpg&quot; alt=&quot;good vibes on deck&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The long term vision is to connect land-based projects and host adventures at sea. My role is to bring amazing crew to epic ships to connect, work and play together. The next voyage is already cooking up!&lt;/p&gt;
+
+&lt;p&gt;If you’d like to be a part of this journey, I’d love to connect with you. You can &lt;a href=&quot;/contact&quot; target=&quot;_blank&quot;&gt;contact me&lt;/a&gt; directly, or read my &lt;a href=&quot;https://michalkorzonek.substack.com/&quot; target=&quot;_blank&quot;&gt;Moonly Reviews&lt;/a&gt;, follow my adventures on &lt;a href=&quot;https://twitter.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;twitter&lt;/a&gt; or &lt;a href=&quot;https://t.me/+8Q0aaB1jWAplNzZk&quot; target=&quot;_blank&quot;&gt;telegram&lt;/a&gt;, and support my work on &lt;a href=&quot;https://www.patreon.com/michalkorzonek&quot; target=&quot;_blank&quot;&gt;Patreon&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And here’s my &lt;a href=&quot;/sailing&quot; target=&quot;_blank&quot;&gt;sailing page&lt;/a&gt; ⛵️.&lt;/p&gt;
+
+&lt;p&gt;Love and Light,&lt;br /&gt;
+Michał Korzonek&lt;/p&gt;
+
+&lt;p&gt;Amsterdam, 7 September 2024&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media-muddy-tales/muddy-michal-love.jpg&quot; alt=&quot;happy Michał&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Spell Weaving</title>
+   <link href="http://localhost:4000/spell-weaving"/>
+   <updated>2024-04-06T00:00:00+00:00</updated>
+   <id>http://localhost:4000/spell-weaving</id>
+   <content type="html">&lt;p&gt;The Wizard weaves his spells, &lt;br /&gt;
+patiently, growing the thread &lt;br /&gt;
+until it reaches back to the point &lt;br /&gt; 
+where the dots connect. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Needs Fulfilled&lt;/em&gt; and &lt;em&gt;Prosperity&lt;/em&gt; are currently displayed in BounceSpace in Amsterdam (&lt;a href=&quot;https://maps.app.goo.gl/c6QEV363qXfuu78y9&quot; target=&quot;_blank&quot;&gt;location&lt;/a&gt;), and are available for sale. Contact to offer your price: michalroots@gmail.com&lt;/p&gt;
+
+&lt;h2 id=&quot;needs-fulfilled&quot;&gt;Needs Fulfilled&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/needs-fulfilled-1.jpeg&quot; alt=&quot;Needs Fulfilled 1&quot; /&gt;
+&lt;img src=&quot;/assets/needs-fulfilled-2.jpeg&quot; alt=&quot;Needs Fulfilled 2&quot; /&gt;
+&lt;img src=&quot;/assets/needs-fulfilled-3.jpeg&quot; alt=&quot;Needs Fulfilled 3&quot; /&gt;
+&lt;img src=&quot;/assets/needs-fulfilled-4.jpeg&quot; alt=&quot;Needs Fulfilled 4&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;prosperity&quot;&gt;Prosperity&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/prosperity-1.jpeg&quot; alt=&quot;Prosperity 1&quot; /&gt;
+&lt;img src=&quot;/assets/prosperity-2.jpeg&quot; alt=&quot;Prosperity 2&quot; /&gt;
+&lt;img src=&quot;/assets/prosperity-3.jpeg&quot; alt=&quot;Prosperity 3&quot; /&gt;
+&lt;img src=&quot;/assets/prosperity-4.jpeg&quot; alt=&quot;Prosperity 4&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;More spell weaving in this &lt;a href=&quot;https://x.com/michalkorzonek/status/1638471274513985536&quot; target=&quot;_blank&quot;&gt;twitter thread&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Isle Of Skye</title>
+   <link href="http://localhost:4000/isle-of-skye"/>
+   <updated>2023-11-08T00:00:00-01:00</updated>
+   <id>http://localhost:4000/isle-of-skye</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;I found this story in my old journal and I felt like transcribing and sharing along the scans. Perhaps the rest will follow one day.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Yet another adventure begins.&lt;/p&gt;
+
+&lt;p&gt;Mornings are full of surprises. Naturally, the mere fact of awakening into the new day is enough of a revelation, yet somehow mornings bear an untameable capacity for bringing Something New. Yet another day begins.&lt;/p&gt;
+
+&lt;p&gt;I like waking up before Sunrise. Witnessing the smooth transition between night and day always puts me in a blissful mood. The walk towards the rising Sun becomes a thankful prayer and calmly brings me into the New. Awakening the body before the Sun, and the soul along with its enlightening rise calms me. Breath in. Breath out.&lt;/p&gt;
+
+&lt;p&gt;Being drawn towards moving, I often wonder about places I have fallen in love with. A magickal time I’ve experienced, sometimes just a tiny detail, sometimes a person, sometimes a smell, is enough to bring me back. Yet how could I go back, when so much of the world remains unexplored? It’s always different, sun but the urge (or whatever it is) to see more tends to make me go somewhere else.&lt;/p&gt;
+
+&lt;p&gt;Not this time though.&lt;/p&gt;
+
+&lt;p&gt;I’m revisiting now, retracing my steps from over a year ago. But it is different. Different company. Different way of transportation. Different time of my life. The feeling of travelling is familiar, but it always feels different. It will also take some time (or maybe not?) to leave the busy mind of the city and synchronise with Nature.&lt;/p&gt;
+
+&lt;p&gt;ROSEBAY WILLOWHERBS
+LEAVE A PURPLE LINE
+AS THE LANDSCAPE
+DISAPPEARS&lt;/p&gt;
+
+&lt;p&gt;ON THE WAY BREATHING 
+AGAIN 
+SEEING FEELING BREATHING
+AGAIN
+FIXING ALONG WITH STRANGERS 
+WHOM I’VE KNOWN FOR MANY YEARS 
+WHAT BROKE INTO PIECES
+UNDER PLASTIC 
+RAIN&lt;/p&gt;
+
+&lt;h2 id=&quot;realignment-on-the-island-where-the-compasses-point-towards-the-beating-heart-rather-than-the-magnetic-north&quot;&gt;Realignment on the island where the compasses point towards the beating heart rather than the magnetic north.&lt;/h2&gt;
+
+&lt;h1 id=&quot;isle-of-skye&quot;&gt;Isle of Skye.&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/journal-isle-of-skye-01.jpeg&quot; alt=&quot;Journal Scan Page 1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/journal-isle-of-skye-02.jpeg&quot; alt=&quot;Journal Scan Page 2&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Beltane Love Burn</title>
@@ -27,7 +888,7 @@
 
 &lt;p&gt;Back then, I participated in three Beltanes, burning away the Winter on Calton Hill, with another 300 painted Beings coming together for one night after a few months of preparation. Part performance, part ceremony, the Beltane Fire Festival is witnessed by a big crowd of spectators. Being there as one of the “performers” is one of the most marking ceremonies in my life.&lt;/p&gt;
 
-&lt;p&gt;The third time was particularly powerful, as it marked not only the beginning of Summer, but also the beginning of a new lifecycle for me. I was about to leave Edinburgh, my Home for seven years and my spiritual hometown, 17 days after Beltane.&lt;/p&gt;
+&lt;p&gt;The third time was particularly powerful, as it marked not only the beginning of Summer, but also the beginning of a new lifecycle for me. I was about to leave Edinburgh, my Home for seven years and my spiritual hometown, a couple of days after Beltane.&lt;/p&gt;
 
 &lt;p&gt;I’ll never forget the energy of that night.&lt;/p&gt;
 
@@ -621,9 +1482,9 @@ within.&lt;/p&gt;
 
 &lt;h2 id=&quot;technical-info&quot;&gt;Technical Info&lt;/h2&gt;
 &lt;p&gt;Inside Area: 3x3m2&lt;br /&gt;
-Approx build cost: €3500&lt;br /&gt;
-Electricity from the grid, no water&lt;br /&gt;
-Not insulated&lt;br /&gt;
+Approx build cost: €3500 (a while ago)&lt;br /&gt;
+Electricity &amp;amp; water from the grid (for now)&lt;br /&gt;
+Not insulated (although I spent 2 winters there and it was fine)&lt;br /&gt;
 Roof: Double tin with foam&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Blueprint design:&lt;/p&gt;
@@ -651,12 +1512,6 @@ Roof: Double tin with foam&lt;br /&gt;&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;Keep the food out&lt;/strong&gt; - it’s not the cabin’s fault per se (I just don’t have a good food storage around), but I’d much rather not keep my eating station inside.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Add a trap door / hidden back door&lt;/strong&gt; - for fun, and to have a second exit.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Cat flap&lt;/strong&gt; for Kiki to move freely in and out 🐈.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other reflections:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;add 3m multiplug with 6 sockets, each with it’s own switch&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;deep-work-retreat&quot;&gt;Deep Work Retreat&lt;/h2&gt;
@@ -703,6 +1558,9 @@ Roof: Double tin with foam&lt;br /&gt;&lt;/p&gt;
 &lt;img src=&quot;/assets/cabin-michal-constructor.jpeg&quot; alt=&quot;Cabin Michal Builds stuff&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/michalkorzonek/status/1526571912213692417?s=20&amp;amp;t=R8mX0mHjSk87t1B7KKWO_A&quot; target=&quot;_blank&quot;&gt;Twitter Thread 🐦&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;It was a fun mini documentation article, wasn’t it? You can find more&lt;/p&gt;
 </content>
  </entry>
  
@@ -1113,7 +1971,7 @@ I’m gone.&lt;br /&gt;&lt;/p&gt;
    <id>http://localhost:4000/illuminated</id>
    <content type="html">&lt;p&gt;Context: I wrote this text while at sea (original scan at the end), a couple of days after departing from Edinburgh, which used to be my Home for seven years, and it still does feel like my hometown somehow.&lt;/p&gt;
 
-&lt;p&gt;Back then, I sailed into a new chapter of my life, which funny enough is now about to end with another &lt;a href=&quot;/sailing&quot; target=&quot;_blank&quot;&gt;sailing&lt;/a&gt; adventure taking me to whatever awaits next.&lt;/p&gt;
+&lt;p&gt;Back then, I sailed into a new chapter of my life, which funny enough is now about to end with another &lt;a href=&quot;Sailing%20Career%20Development.md&quot; target=&quot;_blank&quot;&gt;Sailing Career Development&lt;/a&gt; adventure taking me to whatever awaits next.&lt;/p&gt;
 
 &lt;p&gt;I’m in the process of recording this text as a spoken-word-music collaboration with &lt;a href=&quot;https://instil.bandcamp.com/album/wide-spectrum-of-beautiful-chaos&quot; target=&quot;_blank&quot;&gt;João Moreira aka Instil&lt;/a&gt;. For now the pre-premiere version is &lt;a href=&quot;https://www.patreon.com/posts/illuminated-pre-66220721&quot; target=&quot;_blank&quot;&gt;available for my Patrons&lt;/a&gt;.&lt;/p&gt;
 
@@ -1539,9 +2397,27 @@ of you. &lt;br /&gt;&lt;/p&gt;
    <link href="http://localhost:4000/gratitude-tokens"/>
    <updated>2022-03-24T00:00:00-01:00</updated>
    <id>http://localhost:4000/gratitude-tokens</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Gratitude Tokens is a collaborative game designed to catalyse expressing gratitude within a community.&lt;/strong&gt;&lt;/p&gt;
+   <content type="html">&lt;p&gt;URL redirected to: &lt;a href=&quot;https://michalkorzonek.com/gratitude-token&quot;&gt;/gratitude-token&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;🤍🙏&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Gratitude Token</title>
+   <link href="http://localhost:4000/gratitude-token"/>
+   <updated>2022-03-24T00:00:00-01:00</updated>
+   <id>http://localhost:4000/gratitude-token</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Gratitude Token is a collaborative game designed to catalyse expressing gratitude within a community.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/gratitude-token.jpg&quot; alt=&quot;Gratitude Token&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Gratitude is a state of the highest vibration. Gratitude Tokens play with the cryptocurrency mechanics, by creating a physical token incentivising expressing gratitude within a community in a playful way.&lt;/p&gt;
+
+&lt;p&gt;🃏 Gratitude token has now been carrrdified.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gratitude-token-cardified.jpeg&quot; alt=&quot;Gratitude Token Cardified&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;☀️ This game was prototyped with &lt;a href=&quot;https://www.linkedin.com/in/bart-hoorweg&quot; target=&quot;_blank&quot;&gt;Bart Hoorweg&lt;/a&gt; at the &lt;a href=&quot;https://traditionaldreamfactory.com&quot; target=&quot;_blank&quot;&gt;Traditional Dream Factory&lt;/a&gt;.&lt;/p&gt;
 
@@ -1549,14 +2425,14 @@ of you. &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;🐥 &lt;a href=&quot;https://twitter.com/michalkorzonek/status/1507047355291471890?s=21&quot; target=&quot;_blank&quot;&gt;Twitter thread&lt;/a&gt; for the game.&lt;/p&gt;
 
-&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Gratitude is a state of the highest vibration. Gratitude Tokens play with the cryptocurrency mechanics, by creating a physical token incentivising expressing gratitude within a community in a playful way.&lt;/p&gt;
+&lt;p&gt;💜 link to our teleram group - &lt;a href=&quot;https://t.me/+kCHKLHRlh3UyYTg0&quot;&gt;GratiDAO&lt;/a&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;em&gt;Note: by now I am not really using the Gratitude Ledger as it felt to complicated in practice. It’s a beautiful piece of the game though, so I’ll keep the instructions in case you want to incorporate it or build upon it.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&quot;prep&quot;&gt;Prep&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Prepare tokens by cutting a thick branch into small coins. Make sure there’s at least one per person, plus a few additional tokens.&lt;/li&gt;
+  &lt;li&gt;Prepare tokens by cutting a thick branch into small coins. Make sure there’s at least one per person, plus a few additional tokens. You can also use carrrds of course.&lt;/li&gt;
   &lt;li&gt;Prepare a few markers and a pen.&lt;/li&gt;
-  &lt;li&gt;Grab a notebook (or a few pieces of paper) and create a Gratitude Token Ledger. Draw the Gratitude Token symbol on the cover page, then write tokenomics instructions on the first available page. You can then “mint” the first token and record the first entry in the ledger (see below).&lt;/li&gt;
+  &lt;li&gt;(optional) Grab a notebook (or a few pieces of paper) and create a Gratitude Token Ledger. Draw the Gratitude Token symbol on the cover page, then write tokenomics instructions on the first available page. You can then “mint” the first token and record the first entry in the ledger (see below).&lt;/li&gt;
   &lt;li&gt;Optional but fun to have: a piece of paper stating: HODL ≠ GWYC&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1607,11 +2483,6 @@ of you. &lt;br /&gt;&lt;/p&gt;
   &lt;li&gt;Idea to explore: &lt;em&gt;Gratitude Token Burn Ceremony&lt;/em&gt;&lt;/li&gt;
   &lt;li&gt;Idea to explore: &lt;em&gt;Programmable Tokens&lt;/em&gt; - use the backside of the token to add extra instructions to the token&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;gratidao&quot;&gt;GratiDAO&lt;/h2&gt;
-&lt;p&gt;Link to &lt;a href=&quot;https://t.me/+kCHKLHRlh3UyYTg0&quot;&gt;telegram group&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;💜&lt;/p&gt;
 
 &lt;h2 id=&quot;tokenomics-proposals&quot;&gt;Tokenomics Proposals&lt;/h2&gt;
 &lt;p&gt;Have a new proposal? Submit it via our telegram group.&lt;/p&gt;
@@ -1791,9 +2662,9 @@ of you. &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;At the moment I publish my Moonly Reviews via Substack. If you’d enjoy reading a letter from me every 🌑 and 🌕, I’d like to encourage you to subscribe &lt;a href=&quot;https://michalkorzonek.substack.com&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Here’s the full list:&lt;/p&gt;
+&lt;p&gt;Here’s the full list in chronological order.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;(Scroll to the end for the most recent review)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Scroll to the end for the most recent review.&lt;/p&gt;
 
 &lt;h3 id=&quot;2020&quot;&gt;2020&lt;/h3&gt;
 &lt;ul&gt;
@@ -1873,8 +2744,46 @@ of you. &lt;br /&gt;&lt;/p&gt;
   &lt;li&gt;🌓 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-how-am-i-fooling-myself&quot; target=&quot;blank&quot;&gt;March 2023 - How am I fooling myself?&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;🌖 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-school-time&quot; target=&quot;blank&quot;&gt;April 2023 - School Time&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-yes-fear&quot; target=&quot;blank&quot;&gt;April 2023 - Yes Fear&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌕 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌑 skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌘 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-movements&quot; target=&quot;blank&quot;&gt;June 2023 - Movements&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;skipped ❌&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-adventure-begins-today&quot; target=&quot;blank&quot;&gt;September 2023 - Adventure Begins Today&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;(switching to New Moon rhythm)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-boat-life-begins&quot; target=&quot;blank&quot;&gt;October 2023 - Boat Life Begins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-sailing-study-cards&quot; target=&quot;blank&quot;&gt;November 2023 - Sailing study, cards, and a beautiful life&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-exams-and-wizards?r=2hst3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcome=true&quot; target=&quot;blank&quot;&gt;🌑 December 2023 - Exams &amp;amp; Wizards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2024&quot;&gt;2024&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-yearly-review-judgement-day?r=2hst3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcome=true&quot; target=&quot;blank&quot;&gt;🌔 January 2024 - Judgement Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 &lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-coddiwompling-wizard?r=2hst3&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=true&quot; target=&quot;blank&quot;&gt;February 2024 - Coddiwompling Wizard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-beyond-the-study-hole&quot; target=&quot;blank&quot;&gt;🌑 March 2024 - Beyond the Study Hole&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-amsterclosure&quot; target=&quot;blank&quot;&gt;🌑 April 2024 - Amsterclosure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-atlantic-waves&quot; target=&quot;blank&quot;&gt;🌑 May 2024 - Atlantic Waves&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-looking-beyond-the&quot; target=&quot;blank&quot;&gt;🌑 June 2024 - Looking Beyond the Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-from-the-kingdom-of&quot; target=&quot;blank&quot;&gt;🌔 July 2024 - From the Kingdom of Seagulls into the Dust&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🌑 skipped ❌&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-the-epic-summer&quot; target=&quot;blank&quot;&gt;🌑 September 2024 - The Epic Summer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-the-parting-gifts-of&quot; target=&quot;blank&quot;&gt;🌑 October 2024 - The Parting Gifts of Summer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-semi-nomad-and-the&quot; target=&quot;blank&quot;&gt;🌒 November 2024 - Semi-Nomad and The Sea&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/moonly-review-exciting-invitations&quot; target=&quot;blank&quot;&gt;🌑 December 2024 - Exciting Invitations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.substack.com/pub/michalkorzonek/p/yearly-review-2024-into-the-sea&quot; target=&quot;blank&quot;&gt;🌑 Yearly Review 2024 - Into the sea&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2025&quot;&gt;2025&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-ends-of-the-world&quot; target=&quot;blank&quot;&gt;🌑 January 2025 - Ends of the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-beginning-of-the-world&quot; target=&quot;blank&quot;&gt;🌑 February 2025 - Beginning of the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-abundance-all-around&quot; target=&quot;blank&quot;&gt;🌑 March 2025 - Abundance All Around&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-making-cool-stuffs&quot; target=&quot;blank&quot;&gt;🌓 Making Cool Stuffs With Cards&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://michalkorzonek.substack.com/p/moonly-review-99&quot; target=&quot;blank&quot;&gt;🌒 June 2025 – 99%&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
@@ -1975,7 +2884,11 @@ of you. &lt;br /&gt;&lt;/p&gt;
    <link href="http://localhost:4000/moonly-video"/>
    <updated>2022-01-03T00:00:00-01:00</updated>
    <id>http://localhost:4000/moonly video</id>
-   <content type="html">&lt;p&gt;Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some images and vibe of my life in that period.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;em&gt;(currently on pause.)&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Every day I record at least one second of video. I then compile it into a Moonly video - a digital journal showing some images and vibe of my life in that period.&lt;/p&gt;
 
 &lt;p&gt;I’ve started in February 2017 and kept it going until May 2017. I then had a loooong break until reconnecting with this practice in June 2021. I really enjoy seeing how this practice evolves over time.&lt;/p&gt;
 
@@ -3708,7 +4621,7 @@ Tools: oven &lt;br /&gt;&lt;/p&gt;
   &lt;p&gt;“Top 3 cake of TDF” - Julianna&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Type: Base + Filling &lt;br /&gt;
+&lt;p&gt;Type: Base + Filling &lt;br /&gt;pm
 Tools: Oven, stove, pan, mixing bowl &lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ingredients:&lt;/strong&gt;

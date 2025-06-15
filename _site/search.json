@@ -2,6 +2,61 @@
   
     {
 
+      "title"    : "How To Semi-Nomad",
+      "url"      : "/semi-nomad",
+      "category" : "",
+      "tags"     : "facilitation, community",
+      "date"     : "2024-11-06 00:00:00 -0100",
+      "description" : "A 190-page illustrated book created by 14 people during a month-long mastermind using cards as a primary medium."
+
+    } ,
+  
+    {
+
+      "title"    : "Wizard at the Gathering of Tribes",
+      "url"      : "/wizard-at-the-gathering",
+      "category" : "",
+      "tags"     : "community",
+      "date"     : "2024-10-03 00:00:00 +0000",
+      "description" : "Catalysing Infinite Energy at the Meeting Point of the Regenerative Ecosystem"
+
+    } ,
+  
+    {
+
+      "title"    : "Muddy Tales",
+      "url"      : "/muddy-tales",
+      "category" : "",
+      "tags"     : "sailing",
+      "date"     : "2024-09-07 00:00:00 +0000",
+      "description" : "Retrospective From a Boat Burn Expedition Aboard a 30m Sailing Ship"
+
+    } ,
+  
+    {
+
+      "title"    : "Spell Weaving",
+      "url"      : "/spell-weaving",
+      "category" : "",
+      "tags"     : "art, wizard",
+      "date"     : "2024-04-06 00:00:00 +0000",
+      "description" : "One Line Drawing Collection of Spells"
+
+    } ,
+  
+    {
+
+      "title"    : "Isle Of Skye",
+      "url"      : "/isle-of-skye",
+      "category" : "",
+      "tags"     : "journal, travel",
+      "date"     : "2023-11-08 00:00:00 -0100",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Beltane Love Burn",
       "url"      : "/beltane-love-burn",
       "category" : "",
@@ -224,6 +279,17 @@
 
       "title"    : "Gratitude Tokens",
       "url"      : "/gratitude-tokens",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2022-03-24 00:00:00 -0100",
+      "description" : "Collaborative game catalysing gratitude 💜."
+
+    } ,
+  
+    {
+
+      "title"    : "Gratitude Token",
+      "url"      : "/gratitude-token",
       "category" : "",
       "tags"     : "games",
       "date"     : "2022-03-24 00:00:00 -0100",

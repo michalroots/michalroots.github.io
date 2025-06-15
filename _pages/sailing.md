@@ -1,79 +1,105 @@
 ---
 layout: page
-title: Sailing Wizard ⛵️
+title: What is Your Dream Expedition?
 description: Michał is a professional sailor trained in Enkhuizer Zeevaartschool. His friends call him a Wizard.
 summary: Sailing Plan and CV
 ---
 
-![Sailing Headshot](/assets/michal-red-sailor.jpg){:width="50%"}
+**I organise unforgettable voyages aboard epic sailing ships.**
 
-**Michał Korzonek**<br>
-[contact](https://michalkorzonek.com/play-together)
+![Grayhound sailing ship](/assets/grayhound.jpg){:width="100%"}
 
-## Current Goal
+**Sailing ships are unique venues.** 
 
-- **Sail November - February** ⛵️ and complete practical part of a commercial license for sailing ships up to 500 GT from [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}.
-- **Gather crew for another sailing expedition.** Here's documentation from the last one - [Muddy Tales](/muddy-tales). 
-## Long Term Goal
+Immerse yourself in nature, practice real-world collaboration, and experience why humans have been exploring our planet by sea since the dawn of time.
 
-**Bring crews for epic expeditions and connect positive impact projects by sea**.
+Yes – it's as good as in the movies.
+<br><br>
 
-![Sailing Headshot](/assets/michal-officer.jpg){:width="100%"}
 
-## Am I a fit for your boat?
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/oPWdbLtSTL4" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
 
-TLDR: On top of my **sailing experience** (listed below) I bring **over a decade of network building, facilitation and media production**. I'm also **very good at selling spots** for exciting adventures.
+*That time we sailed to Antarctica and fell in love with the ice (66 seconds trailer). If the video doesn’t load, [click here](https://youtu.be/oPWdbLtSTL4){:target="_blank"}.*
 
-- Host / supernode of numerous networks of people who want to sail on ships
-- **great at working with people** - over a decade of professional experience as facilitator, coach, event host, and community builder in different contexts
-- **film, photography & multimedia** graduate with extensive experience in video / photo production, podcasts, articles, newsletters
-- **positive vibe, relaxed personality**
-- fit and agile
-- responds well in challenging situations
-- quick learner
-- good cook (with some mad dessert skills to delight your tastebuds)
-- very good at documenting things ([see examples](/documentation){:target="_blank"})
+## No passengers, only crew.
 
-## Certificates
+![Michał with 3 happy crew members celebrating successful sailing manouver](/assets/sailing-crew.jpg){:width="100%"}
 
-![Sailing Headshot](/assets/michal-kaatje.jpg){:width="100%"}
+**Who are you sailing with defines your adventure.**
 
-*In front of my sailing school - Enkhuizer Zeevaartschool.*
+I'm an experience designer, facilitator, and a professional sailor. I curate the crew to ensure high sense of harmony, friendship, and fun. We learn how to **sail the ship together, witness awe-inspiring nature, and turn dreams into memories** that will last a lifetime.
 
-Log: ~8000 NM <br><br>
+We're all in this together!
 
-- KZV Certificate of Knowledge via [Enkhuizer Zeevaartschool](https://ezsenglish.weebly.com/kzv-engl.html){:target="_blank"}, practical in progress (3/6 months)
-- Yacht Skipper (*Jachtowy Sternik Morski* via [Polish Yachting Association](http://pya.org.pl/polski-zwiazek-zeglarski){:target="_blank"}) – operating sailing yachts up to 18m in all waters.
-- [RYA](http://www.rya.org.uk/Pages/Home.aspx){:target="_blank"} SRC
-- STCW Basic Safety
-- STCW Medical First Aid
-- STCW Certificate of Proficiency in Security Awareness
-- valid Seafarer Medical Certificate
-- in progress: STCW Crowd Management
+>*"I have not been a part of such an integrated group for years!"*<br>
+>– Darya, crew from Muddy Tales Expedition
+<br>
 
-## **Sailing Experience:**
-- [Chateauroux](https://bouncespace.co/locations/chateauroux/){:target="_blank"} (August 2024, Ijsselmeer, Waddenzee)
-- [Grayhound](https://grayhoundventures.com){:target="_blank"} (April - June 2024, Atlantic, Bay of Biscay, English Channel, Bristol Channel)
-- [Chateauroux](https://bouncespace.co/locations/chateauroux/){:target="_blank"} (March 2024, Markermeer, Ijsselmeer)
-- [Atyla](https://atyla.org/){:target="_blank"} (September 2023, Biscay Bay)
-- Yacht Crew (Atlantic, Baltic Sea, Mediterranean Sea, North Sea 2010-2017) 
-- Regattas Crew on [traditional whaling yachts](https://www.forbes.com/sites/tmullen/2023/10/15/the-unique-world-of-azorean-whale-boat-racing/) (Azores, 2021-2023)
-- Skipper inland (Masurian Lake District, 2007-2017)  
-- Crew inland (Masurian Lake District, 2005-2007)
+## I graduated from the worlds leading nautical college and sailed over 8000 nautical miles.
 
-**Profiles:**
-- [Ocean Nomads profile](https://oceannomads.mn.co/members/5854004){:target="_blank"}
-- [Find a crew profile](https://www.findacrew.net/en/crew/284446){:target="_blank"}
+![Five beautiful sailing ships](/assets/ship-gallery.jpg){:width="100%"}
 
-**Extra info:**
+I am an Enkhuizeer Zeevaartschool graduate, training to become an officer on sailing ships up to 500 tonnes. I have a full set of professional certificates, including STCW Basic Safety, First Aid, and RYA SRC.
 
-- Languages: Polish (native), English (fluent), Portuguese (intermediate), French (intermediate)
-- Nationality: Polish (EU passport) 
-- Diet: vegetarian
-- Non-smoker
+I've sailed with one-of-a-kind ships like Tecla, Twister, Grayhound, Chateauroux and Atyla, as well as Azorean whaling boats, holopuni sailing canoes, and modern yachts.
 
-*(Need more info? [Here's more](/){:target="_blank"}.)*
+Now it's your turn!
 
-⛵️
+<br>
 
-![Sailing Headshot](/assets/michal-hoist.jpg){:width="100%"}
+<div style="background-color: black; color: white; padding: 15px; border-radius: 10px;">
+
+<h2>Upcoming voyages ⛵️</h2>
+
+Winter 2025/2026 – Atlantic Crossing & Antarctica
+
+<br><br>
+
+<b> > <a href="https://airtable.com/appzKWA8eHw3V02t2/pag0n2980VvLbgUTM/form" target="_blank"  style="color: white;">Register Your Interest</a> < </b>
+
+<br><br>
+
+  <blockquote style="color: white; font-style: italic; margin-top: 20px;">
+    “We’ll be telling our grandchildren about this journey.”<br>
+    – Will, crew from Quest Antarctica Expedition
+  </blockquote>
+
+</div>
+
+<br>
+
+## Your vision, ship-ified.
+
+Do you have a concept that wants to live at sea?  
+  
+**I help facilitators, leaders, and creatives shape their vision into seaworthy voyages** – and bring them to life onboard. I will help you translate your idea into the reality of a ship, connect you to the right vessel, and support you as a co-facilitator. **From transformational retreats to teambuilding events**, the sea will make your event unforgettable.
+
+<br>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe 
+    src="http://www.youtube.com/embed/dPkeRCvKJp8" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+That time when a friend invited me to organise a Burning Man inspired event on a ship (48 seconds trailer). If the video doesn't load [click here](https://youtu.be/dPkeRCvKJp8){:target="_blank"}.
+
+## Ready to sail?
+
+**[Contact me](/contact)** for inquiries and details.  
+  
+**[Register your interest](https://airtable.com/appzKWA8eHw3V02t2/pag0n2980VvLbgUTM/form){:target="_blank"}** for upcoming sailing trips.  
+  
+Stay in the loop by subscribing to my **[Moonly Reviews](/moonly-reviews)**.
+
+![Michał on board wooden sailing ship looking through a spyglass](/assets/michal-officer.jpg){:width="80%"}
