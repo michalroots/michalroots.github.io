@@ -58,7 +58,8 @@ Now it's your turn!
 
 <h2>Upcoming voyages ⛵️</h2>
 
-Winter 2025/2026 – Atlantic Crossing & Antarctica
+Winter 2025/2026 – Atlantic Crossing
+2026 – Antarctica
 
 <br><br>
 
