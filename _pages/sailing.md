@@ -1,7 +1,7 @@
 ---
 layout: page
 title: What is Your Dream Expedition?
-description: Michał is a professional sailor trained in Enkhuizer Zeevaartschool. His friends call him a Wizard.
+description: Unforgettable voyages aboard epic sailing ships
 summary: Sailing Plan and CV
 ---
 

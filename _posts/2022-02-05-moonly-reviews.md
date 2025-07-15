@@ -118,3 +118,4 @@ Scroll to the end for the most recent review.
 - [🌑 March 2025 - Abundance All Around](https://michalkorzonek.substack.com/p/moonly-review-abundance-all-around){:target="blank"}
 - [🌓 Making Cool Stuffs With Cards](https://michalkorzonek.substack.com/p/moonly-review-making-cool-stuffs){:target="blank"}
 - [🌒 June 2025 – 99%](https://michalkorzonek.substack.com/p/moonly-review-99){:target="blank"}
+- [🌑 June 2025 - Plup Plup](https://michalkorzonek.substack.com/p/moonly-review-plup-plup){:target="blank"}
