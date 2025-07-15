@@ -2,7 +2,7 @@
 layout: page
 title: What is Your Dream Expedition?
 description: Unforgettable voyages aboard epic sailing ships
-summary: Sailing Plan and CV
+summary: Unforgettable voyages aboard epic sailing ships
 ---
 
 **I organise unforgettable voyages aboard epic sailing ships.**
