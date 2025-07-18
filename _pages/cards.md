@@ -7,7 +7,7 @@ summary: Flowstate Facilitation, Powered by Cards
 
 **Welcome to the playful facilitation deckosystem where every card has a role to play and there are no rules.**
 
-![Wild Cards Sigil](/assets/wildcards-sigil.jpg)
+![Wild Cards Sigil](/assets/wildcards-sigil.jpg){:height="50%"}
 
 ## Make it with cards
 What is your team working on? Let's catalyse your process with play-based facilitation and produce tangible deliverables in record time.
