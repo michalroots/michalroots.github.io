@@ -27,7 +27,7 @@ Proof-of-play:
 
 ## Cardify Anything
 **1. Build Your Card Deck**<br>
-**1. Ship it to the World**
+**2. Ship it to the World**
 
 Proof-of-play:
 
