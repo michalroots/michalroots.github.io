@@ -14,9 +14,14 @@ What is your team working on? Let's catalyse your process with play-based facili
 
 Proof-of-play:
 
-- "*How to Build a Regenerative Village*" – 14 Days | 28 Village Builders | ~500 Cards played
-- "*How to Semi-Nomad*" – 30 Days | 14 Semi-Nomads | 867 Cards played
-- "*Cultivating Neighbourhoods*" – 28 Days | 12 Neighbours | 591 Cards played
+"*How to Build a Regenerative Village*"
+14 Days | 28 Village Builders | ~500 Cards played
+
+"*How to Semi-Nomad*"
+30 Days | 14 Semi-Nomads | 867 Cards played
+
+"*Cultivating Neighbourhoods*"
+28 Days | 12 Neighbours | 591 Cards played
 
 (Books available on [Tree House Collective](https://treehousecollective.earth){:target="_blank"})
 
