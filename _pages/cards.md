@@ -5,38 +5,49 @@ description: Flowstate Facilitation, Powered by Cards
 summary: Flowstate Facilitation, Powered by Cards
 ---
 
-**Welcome to the playful facilitation deckosystem where every card has a role to play and there are no rules.**
+**Welcome to the playful facilitation ecosystem designed to catalyse collaboration and enrich your project with immersive experiences.**
 
 ![Wild Cards Sigil](/assets/wildcards-sigil.jpg){:height="50%"}
 
-## Make it with cards
-What is your team working on? Let's catalyse your process with play-based facilitation and produce tangible deliverables in record time.
-
-Proof-of-play:
-
-"*How to Build a Regenerative Village*"<br>
-14 Days | 28 Village Builders | ~500 Cards played
-
-"*How to Semi-Nomad*"<br>
-30 Days | 14 Semi-Nomads | 867 Cards played
-
-"*Cultivating Neighbourhoods*"<br>
-28 Days | 12 Neighbours | 591 Cards played
-
-(Books available on [Tree House Collective](https://treehousecollective.earth){:target="_blank"})
-
 ## Cardify Anything
+
+Cards are the world's most playful medium, and state of play = state of flow.
+
+Here's how cards can boost engagement with your project:
+
+- **Playful activation and embodied learning of your framework, course, training, or other IP etc**.
+
+Case study: **[Microsolidarity Card Deck](https://microsolidarity.cc/cards){:target="_blank"}** – 47 playable cards guiding you through missions designed to weave social fabric.
+
+- Create high quality artefacts, such as books, handbooks, guides, etc. in record time with your team.
+
+Case study: **[How To Semi-Nomad](/semi-nomad){:target="_blank"}** – a 200-page illustrated book created with cards by a group of 14 people in 55 hours with zero AI use.
+
+- Host immersive experiences creating playful interactions
+
+Case study: **[Wild Cards](https://wildcards.gg/#wildcards){:target="_blank"}** – 44 cards designed to create fun and connection in any context – from a productive business meeting all the way to exciting date night.
+
+ADD LINK URL TO WILDCARDS
+
+## Let's Build Your Deck
+
+I'll take you through the process resulting in your very own printed card deck ready for distribution.
+
+TLDR:
+
 **1. Build Your Card Deck**<br>
 **2. Ship it to the World**
 
-Proof-of-play:
+The journey includes:
 
-- WildCards
-- Microsolidarity Card Deck
+- **Deck framing** – what is your deck about and what makes it special?
+- **Deck mechanics** – how does your deck utilise cards as a medium to deliver engaging experience?
+- **Card creation** – what are the highest impact cards in your deck?
+- **Card design** – how do the cards look like?
+- **Production** – printing cards and putting them into beautiful pouches.
+- **Product launch** – pricing, marketing, launch and distribution support.
 
-Explore the [WildCards Emporium](https://wildcards.gg){:target="_blank"}.
-
-<p></p>
+**[Join the waitlist!](https://airtable.com/appoitfuf8BZ380UR/pagUHCYzWys2SI9KK/form){:target="_blank"}**
 
 <hr>
 
