@@ -7,6 +7,8 @@ summary: Flowstate Facilitation, Powered by Cards
 
 **Welcome to the playful facilitation ecosystem designed to catalyse collaboration and enrich your project with immersive experiences.**
 
+![Wild Cards Sigil](/assets/wildcards-sigil.jpg){:height="50%"}
+
 ## Cardify Anything
 
 Cards are the world's most playful medium, and state of play = state of flow.
