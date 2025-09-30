@@ -7,8 +7,6 @@ summary: Flowstate Facilitation, Powered by Cards
 
 **Welcome to the playful facilitation ecosystem designed to catalyse collaboration and enrich your project with immersive experiences.**
 
-![Wild Cards Sigil](/assets/wildcards-sigil.jpg){:height="50%"}
-
 ## Cardify Anything
 
 Cards are the world's most playful medium, and state of play = state of flow.
@@ -19,15 +17,13 @@ Here's how cards can boost engagement with your project:
 
 Case study: **[Microsolidarity Card Deck](https://microsolidarity.cc/cards){:target="_blank"}** – 47 playable cards guiding you through missions designed to weave social fabric.
 
-- Create high quality artefacts, such as books, handbooks, guides, etc. in record time with your team.
+- **Create high quality artefacts, such as books, handbooks, guides, etc. in record time with your team.**
 
 Case study: **[How To Semi-Nomad](/semi-nomad){:target="_blank"}** – a 200-page illustrated book created with cards by a group of 14 people in 55 hours with zero AI use.
 
-- Host immersive experiences creating playful interactions
+- **Host immersive experiences creating playful interactions**
 
 Case study: **[Wild Cards](https://wildcards.gg/#wildcards){:target="_blank"}** – 44 cards designed to create fun and connection in any context – from a productive business meeting all the way to exciting date night.
-
-ADD LINK URL TO WILDCARDS
 
 ## Let's Build Your Deck
 
@@ -48,6 +44,8 @@ The journey includes:
 - **Product launch** – pricing, marketing, launch and distribution support.
 
 **[Join the waitlist!](https://airtable.com/appoitfuf8BZ380UR/pagUHCYzWys2SI9KK/form){:target="_blank"}**
+
+<p></p>
 
 <hr>
 
