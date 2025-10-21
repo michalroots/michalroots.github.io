@@ -200,3 +200,18 @@ section {
 figcaption {
     font-size: smaller;
 }
+
+.embed-container {
+  position: relative;
+  width: 100%;
+  max-width: 480px; /* optional, matches desktop appearance */
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.embed-container iframe {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
