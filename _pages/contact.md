@@ -3,9 +3,6 @@ layout: page
 title: Contact Michał
 excerpt: 
 ---
-
-Let's connect!
-
 <form
   action="https://formspree.io/f/manozpno"
   method="POST"
