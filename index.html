@@ -41,7 +41,33 @@ Curated voyages aboard epic ships.
 <hr>
 
 <h2>Every New Moon I write a heartfelt electronic letter.</h2>
-Add your email address to receive yours.
+Add your email address to receive yours.<br>
+(<i>Current moon phase:</i> <span id="moon-phase" title="Current Moon Phase">🌑</span>
+
+<script>
+(function() {
+  const now = new Date();
+  const synodicMonth = 29.53058867;
+  const knownNewMoon = new Date('2024-02-09T00:00:00Z');
+  const diffDays = (now - knownNewMoon) / (1000 * 60 * 60 * 24);
+  const phase = (diffDays % synodicMonth) / synodicMonth;
+
+  let emoji = "🌑";
+  if (phase < 0.03 || phase > 0.97) emoji = "🌑";
+  else if (phase < 0.22) emoji = "🌓";
+  else if (phase < 0.28) emoji = "🌔";
+  else if (phase < 0.47) emoji = "🌕";
+  else if (phase < 0.53) emoji = "🌖";
+  else if (phase < 0.72) emoji = "🌗";
+  else emoji = "🌘";
+
+  document.addEventListener("DOMContentLoaded", function() {
+    const el = document.getElementById("moon-phase");
+    if (el) el.textContent = emoji;
+  });
+})();
+</script>
+)
 
 <p>
 
