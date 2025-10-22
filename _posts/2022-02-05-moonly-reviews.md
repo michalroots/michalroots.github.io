@@ -122,3 +122,4 @@ Scroll to the end for the most recent review.
 - [🌑 July 2025 - Island Hopping](https://michalkorzonek.substack.com/p/moonly-review-island-hopping){:target="blank"}
 - [🌑 August 2025 - From the Roots to the Stars](https://michalkorzonek.substack.com/p/moonly-review-from-the-roots-to-the){:target="blank"}
 - [🌒 September 2025 - The Return of the Sheep](https://michalkorzonek.substack.com/p/moonly-review-the-return-of-the-sheep){:target="blank"}
+- [🌑 October 2025 - The Pirates of Ibiza](https://michalkorzonek.substack.com/p/the-pirates-of-ibiza){:target="blank"}
