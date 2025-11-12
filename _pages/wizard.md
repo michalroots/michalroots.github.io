@@ -24,7 +24,7 @@ Choose the price that fits your circumstances:
 To book me for a podcast or speaking [contact me](/contact) directly.
 
 ## Notes of Appreciation
-(Do you have something to add? I’d love to hear from you!)
+(Do you have something to add? [I’d love to hear from you](https://airtable.com/appNEX1RiQIQQqAPw/shr50rHuJXh5iuo5n){:target="_blank"}!)
 
 > *"You are my first choice when it comes to cool **facilitation that can be equally fun and professional.**"*<br>
 > – Ani Anca, Traditional Dream Factory
