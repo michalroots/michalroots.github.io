@@ -42,12 +42,19 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 >– Flora Kóczka, participant of multiple learning programs
 <br><br>
 
+>*"**Your vibe hygiene is impeccable***"<br>
+>– Rich Bartlett, participant of a card deck building mastermind
+
 >*“The structure of the calls is highly effective. **The facilitation brilliantly mixes different ways to participate so that whether you are creative or logical, extroverted or introverted, quick to react or slower to process, there is space for you**. I find these calls so valuable that I have adapted the format to use with the group that I am mentoring.”*<br>
 >– Cathy Hutchison, participant of a year-long learning program
 <br><br>
 
 >*“**The whole course was astonishing (I'd rate it a 10)**. The lessons were so well thought out and Michał and Silvia are amazing coaches who deeply care about the person in front of them.”*<br>
 >— Merle Pohl; Online course participant
+<br><br>
+
+>*"I appreciated your playfulness throughout the whole process :) it made everything feel approachable and fun!"*<br>
+>Jesse Evers, participant of a card deck building mastermind
 <br><br>
 
 >*“When we formed this Writers’ Smart Pod **I did not expect that our first six weeks of Zoom meetings would be so insightful, energy-giving, and productive**. You designed the program with enough flexibility to meet our particular needs and working preferences, and the right amount of structure and guidance for us to form an effective cohort to move our projects forward. More important, as you have pointed out, are the relationships we have formed.*<br>
