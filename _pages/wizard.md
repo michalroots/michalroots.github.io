@@ -44,6 +44,7 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 
 >*"**Your vibe hygiene is impeccable***"<br>
 >– Rich Bartlett, participant of a card deck building mastermind
+<br><br>
 
 >*“The structure of the calls is highly effective. **The facilitation brilliantly mixes different ways to participate so that whether you are creative or logical, extroverted or introverted, quick to react or slower to process, there is space for you**. I find these calls so valuable that I have adapted the format to use with the group that I am mentoring.”*<br>
 >– Cathy Hutchison, participant of a year-long learning program
@@ -53,7 +54,7 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 >— Merle Pohl; Online course participant
 <br><br>
 
->*"I appreciated your playfulness throughout the whole process :) it made everything feel approachable and fun!"*<br>
+>*"**I appreciated your playfulness throughout the whole process :)** it made everything feel approachable and fun!"*<br>
 >Jesse Evers, participant of a card deck building mastermind
 <br><br>
 
