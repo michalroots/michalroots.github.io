@@ -5,7 +5,7 @@ description:
 summary: 
 ---
 
-I hear that you’re looking for a wizard to catalyse your process?  
+I hear that you are looking for a wizard?  
   
 (Michał bows to you.)
 
