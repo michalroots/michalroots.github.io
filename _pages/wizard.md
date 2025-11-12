@@ -34,7 +34,7 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 >– Laura van Wijngaarden, Liminal Village
 <br><br>
 
->*"I have not been a part of such an integrated group for years!"*<br>
+>*"**I have not been a part of such an integrated group for years!**"*<br>
 >– Darya Agapitov, Sailing Expedition Participant
 <br><br>
 
