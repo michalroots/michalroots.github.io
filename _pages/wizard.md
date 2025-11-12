@@ -17,9 +17,9 @@ If you want my advice, coaching or guidance you can book me by the hour.
   
 Choose the price that fits your circumstances:
 
-- [**Standard €100/h**](https://cal.com/michalroots/catalyst-wizard-m)
-- [**Supporter €150/h**](https://cal.com/michalroots/catalyst-wizard-l)
-- [**Low Income €70/h**](https://cal.com/michalroots/catalyst-wizard-s)
+- [**Standard €100/h**](https://cal.com/michalroots/catalyst-wizard-m){:target="_blank"}
+- [**Supporter €150/h**](https://cal.com/michalroots/catalyst-wizard-l){:target="_blank"}
+- [**Low Income €70/h**](https://cal.com/michalroots/catalyst-wizard-s){:target="_blank"}
 
 To book me for a podcast or speaking [contact me](/contact) directly.
 
