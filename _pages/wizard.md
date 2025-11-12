@@ -30,7 +30,7 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 > – Ani Anca, Traditional Dream Factory
 <br><br>
 
->*"**What you accomplished with the mastermind is INCREDIBLE**. We always tell people how gifted you are at facilitating and **keeping the energy flowing**. We don’t know anyone who could’ve done what you did."*<br> 
+>*"**What you accomplished with the mastermind is INCREDIBLE**. We always tell people how gifted you are at facilitating and keeping the energy flowing. **We don’t know anyone who could’ve done what you did.**"*<br> 
 >– Laura van Wijngaarden, Liminal Village
 <br><br>
 
