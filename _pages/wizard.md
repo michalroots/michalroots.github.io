@@ -7,7 +7,7 @@ summary:
 
 I hear that you are looking for a wizard?  
   
-(Michał bows to you.)
+(Michał bows to you and jumps right into action 🪄)
 
 <img src="/assets/bounce-red-wiz.jpg" alt="Michał smiles at you" style="width:80%;">  
 
