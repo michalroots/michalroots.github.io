@@ -124,3 +124,8 @@ Scroll to the end for the most recent review.
 - [🌒 September 2025 - The Return of the Sheep](https://michalkorzonek.substack.com/p/moonly-review-the-return-of-the-sheep){:target="blank"}
 - [🌑 October 2025 - The Pirates of Ibiza](https://michalkorzonek.substack.com/p/the-pirates-of-ibiza){:target="blank"}
 - [🌒 November 2025 – From Land Life to Sea Life](https://michalkorzonek.substack.com/p/moonly-review-from-land-life-to-sea){:target="blank"}
+- 🌑 skipped due to an absurdly long sailing voyage ❌
+
+## 2026
+
+- [Double Moonly 🌑⛵️🌒 Longest Crossing Decompression – January 2026](https://open.substack.com/pub/michalkorzonek/p/double-moonly-longest-crossing-decompression)
