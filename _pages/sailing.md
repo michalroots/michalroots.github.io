@@ -42,7 +42,7 @@ We're all in this together!
 >– Darya, crew from Muddy Tales Expedition
 <br>
 
-## I graduated from the worlds leading nautical college and sailed over 8000 nautical miles.
+## I graduated from the worlds leading nautical college and sailed over 14000 nautical miles.
 
 ![Five beautiful sailing ships](/assets/ship-gallery.jpg){:width="100%"}
 
@@ -58,7 +58,7 @@ Now it's your turn!
 
 <h2>Upcoming voyages ⛵️</h2>
 
-Winter 2025/2026 – Atlantic Crossing
+Summer 2026 – building a Piratas do Amor Fleet of sailing ships in Ibiza.
 
 <br><br>
 

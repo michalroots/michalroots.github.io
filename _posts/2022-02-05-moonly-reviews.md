@@ -129,3 +129,4 @@ Scroll to the end for the most recent review.
 ## 2026
 
 - [Double Moonly 🌑⛵️🌒 Longest Crossing Decompression – January 2026](https://open.substack.com/pub/michalkorzonek/p/double-moonly-longest-crossing-decompression)
+- [March 2026 🌖 Delta Pirates](https://michalkorzonek.substack.com/p/moonly-review-delta-pirates)
