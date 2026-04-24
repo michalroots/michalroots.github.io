@@ -88,7 +88,7 @@ What's up for me in this next months?
 - Another book writing in Switzerland in April (topic TBC)
 - and more - sailing trips, writing 100 books in a month (yup), making a musical, growing [Enspiral](https://www.enspiral.com/){:target="_blank"} Europe. The possibilities are endless, and **I'm quite done with not doing things that are both exciting and terrifying**. That's the perfect signpost towards an epic growth curve. 
 
-If you want to follow my journey I invite you to read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, peak into my [microblog on telegram](https://t.me/sailorwizard){:target="_blank"}, or interact with me on [twitter](https://twitter.com/michalkorzonek){:target="_blank"}. And if you want a catalysing boost, then may it be known that [this Wizard offers support](/){:target="_blank"}.
+If you want to follow my journey I invite you to read my [Moonly Reviews](https://michalkorzonek.substack.com/){:target="_blank"}, peak into my [microblog on telegram](https://t.me/sailorwizard){:target="_blank"}, or interact with me on [twitter](https://twitter.com/michalkorzonek){:target="_blank"}. And if you want a catalysing boost, then may it be known that [this Wizard offers support](/wizard){:target="_blank"}.
 
 Wishing you a delightful day and, in the words of [Victor](https://pt.linkedin.com/in/vvorski) of the Gathering of Tribes:
 ![Thank you](/assets/media-wizard-of-the-gathering/thank-you.jpg){:width="100%"}
