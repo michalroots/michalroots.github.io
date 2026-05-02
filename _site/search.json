@@ -2,11 +2,22 @@
   
     {
 
+      "title"    : "Beltane Atlantis",
+      "url"      : "/beltane-atlantis",
+      "category" : "",
+      "tags"     : "wizard",
+      "date"     : "2026-05-02 00:00:00 +0200",
+      "description" : "Magical celebration of the transition from Winter to Summer."
+
+    } ,
+  
+    {
+
       "title"    : "How To Semi-Nomad",
       "url"      : "/semi-nomad",
       "category" : "",
       "tags"     : "facilitation, community",
-      "date"     : "2024-11-06 00:00:00 -0100",
+      "date"     : "2024-11-06 00:00:00 +0100",
       "description" : "A 190-page illustrated book created by 14 people during a month-long mastermind using cards as a primary medium."
 
     } ,
@@ -17,7 +28,7 @@
       "url"      : "/wizard-at-the-gathering",
       "category" : "",
       "tags"     : "community",
-      "date"     : "2024-10-03 00:00:00 +0000",
+      "date"     : "2024-10-03 00:00:00 +0200",
       "description" : "Catalysing Infinite Energy at the Meeting Point of the Regenerative Ecosystem"
 
     } ,
@@ -28,7 +39,7 @@
       "url"      : "/muddy-tales",
       "category" : "",
       "tags"     : "sailing",
-      "date"     : "2024-09-07 00:00:00 +0000",
+      "date"     : "2024-09-07 00:00:00 +0200",
       "description" : "Retrospective From a Boat Burn Expedition Aboard a 30m Sailing Ship"
 
     } ,
@@ -39,7 +50,7 @@
       "url"      : "/spell-weaving",
       "category" : "",
       "tags"     : "art, wizard",
-      "date"     : "2024-04-06 00:00:00 +0000",
+      "date"     : "2024-04-06 00:00:00 +0200",
       "description" : "One Line Drawing Collection of Spells"
 
     } ,
@@ -50,7 +61,7 @@
       "url"      : "/isle-of-skye",
       "category" : "",
       "tags"     : "journal, travel",
-      "date"     : "2023-11-08 00:00:00 -0100",
+      "date"     : "2023-11-08 00:00:00 +0100",
       "description" : ""
 
     } ,
@@ -61,7 +72,7 @@
       "url"      : "/beltane-love-burn",
       "category" : "",
       "tags"     : "wizard",
-      "date"     : "2023-05-02 00:00:00 +0000",
+      "date"     : "2023-05-02 00:00:00 +0200",
       "description" : "Releasing attachments to my past Loves through an act of psychomagick"
 
     } ,
@@ -72,7 +83,7 @@
       "url"      : "/renegotiating-non-negotiable-commitment",
       "category" : "",
       "tags"     : "non-negotiable",
-      "date"     : "2023-04-28 00:00:00 +0000",
+      "date"     : "2023-04-28 00:00:00 +0200",
       "description" : "It&#39;s time to change the terms of a sacred vow I made to myself."
 
     } ,
@@ -83,7 +94,7 @@
       "url"      : "/obsidian-to-gitbook",
       "category" : "",
       "tags"     : "low-tech",
-      "date"     : "2023-01-26 00:00:00 -0100",
+      "date"     : "2023-01-26 00:00:00 +0100",
       "description" : "Create a gitbook, edit in obsidian."
 
     } ,
@@ -94,7 +105,7 @@
       "url"      : "/back-to-self",
       "category" : "",
       "tags"     : "journal",
-      "date"     : "2022-10-13 00:00:00 +0000",
+      "date"     : "2022-10-13 00:00:00 +0200",
       "description" : "I spent the summer surrounded by people all the time. Now I am alone."
 
     } ,
@@ -105,7 +116,7 @@
       "url"      : "/akinado",
       "category" : "",
       "tags"     : "games",
-      "date"     : "2022-10-13 00:00:00 +0000",
+      "date"     : "2022-10-13 00:00:00 +0200",
       "description" : "The Divine Permission to Play"
 
     } ,
@@ -116,7 +127,7 @@
       "url"      : "/write",
       "category" : "",
       "tags"     : "journal",
-      "date"     : "2022-08-01 00:00:00 +0000",
+      "date"     : "2022-08-01 00:00:00 +0200",
       "description" : ""
 
     } ,
@@ -127,7 +138,7 @@
       "url"      : "/within",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-05-24 00:00:00 +0000",
+      "date"     : "2022-05-24 00:00:00 +0200",
       "description" : "Taking a pause to ask within"
 
     } ,
@@ -138,7 +149,7 @@
       "url"      : "/cabin",
       "category" : "",
       "tags"     : "self-reliance, community",
-      "date"     : "2022-05-17 00:00:00 +0000",
+      "date"     : "2022-05-17 00:00:00 +0200",
       "description" : "Let me show you my favourite home."
 
     } ,
@@ -149,7 +160,7 @@
       "url"      : "/no-words",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-05-12 00:00:00 +0000",
+      "date"     : "2022-05-12 00:00:00 +0200",
       "description" : "When words cannot come out"
 
     } ,
@@ -160,7 +171,7 @@
       "url"      : "/pico-spring-community-gathering-2022",
       "category" : "",
       "tags"     : "community",
-      "date"     : "2022-05-05 00:00:00 +0000",
+      "date"     : "2022-05-05 00:00:00 +0200",
       "description" : "Our third community gathering in Pico"
 
     } ,
@@ -171,7 +182,7 @@
       "url"      : "/walking-home",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-05-03 00:00:00 +0000",
+      "date"     : "2022-05-03 00:00:00 +0200",
       "description" : "Under the stars"
 
     } ,
@@ -182,7 +193,7 @@
       "url"      : "/wave",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-05-01 00:00:00 +0000",
+      "date"     : "2022-05-01 00:00:00 +0200",
       "description" : "in a blink of an eye"
 
     } ,
@@ -193,7 +204,7 @@
       "url"      : "/personal-website-flow-full",
       "category" : "",
       "tags"     : "low-tech",
-      "date"     : "2022-05-01 00:00:00 +0000",
+      "date"     : "2022-05-01 00:00:00 +0200",
       "description" : "Meta article about my writing process using Obsidian as a central point of my digital world."
 
     } ,
@@ -204,7 +215,7 @@
       "url"      : "/productivity-juggling",
       "category" : "",
       "tags"     : "journal, non-negotiable",
-      "date"     : "2022-04-29 00:00:00 +0000",
+      "date"     : "2022-04-29 00:00:00 +0200",
       "description" : "Behold! How running like a headless chicken resulted in a perfect productivity system."
 
     } ,
@@ -215,7 +226,7 @@
       "url"      : "/illuminated",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-04-20 00:00:00 +0000",
+      "date"     : "2022-04-20 00:00:00 +0200",
       "description" : ""
 
     } ,
@@ -226,7 +237,7 @@
       "url"      : "/personal-website-flow",
       "category" : "",
       "tags"     : "low-tech",
-      "date"     : "2022-04-18 00:00:00 +0000",
+      "date"     : "2022-04-18 00:00:00 +0200",
       "description" : "Meta article about my writing process using Obsidian as a central point of my digital world."
 
     } ,
@@ -237,7 +248,7 @@
       "url"      : "/blossoming",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-04-18 00:00:00 +0000",
+      "date"     : "2022-04-18 00:00:00 +0200",
       "description" : "Poem about getting lost in connection with you"
 
     } ,
@@ -248,7 +259,7 @@
       "url"      : "/merging",
       "category" : "",
       "tags"     : "experiences",
-      "date"     : "2022-04-10 00:00:00 +0000",
+      "date"     : "2022-04-10 00:00:00 +0200",
       "description" : ""
 
     } ,
@@ -259,7 +270,7 @@
       "url"      : "/touched",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2022-04-06 00:00:00 +0000",
+      "date"     : "2022-04-06 00:00:00 +0200",
       "description" : "A poem."
 
     } ,
@@ -270,7 +281,7 @@
       "url"      : "/new-moon-journaling",
       "category" : "",
       "tags"     : "journaling",
-      "date"     : "2022-03-30 00:00:00 +0000",
+      "date"     : "2022-03-30 00:00:00 +0200",
       "description" : "How To Use Journaling to Realign in the Beginning of a New Cycle."
 
     } ,
@@ -281,7 +292,7 @@
       "url"      : "/gratitude-tokens",
       "category" : "",
       "tags"     : "",
-      "date"     : "2022-03-24 00:00:00 -0100",
+      "date"     : "2022-03-24 00:00:00 +0100",
       "description" : "Collaborative game catalysing gratitude 💜."
 
     } ,
@@ -292,7 +303,7 @@
       "url"      : "/gratitude-token",
       "category" : "",
       "tags"     : "games",
-      "date"     : "2022-03-24 00:00:00 -0100",
+      "date"     : "2022-03-24 00:00:00 +0100",
       "description" : "Collaborative game catalysing gratitude 💜."
 
     } ,
@@ -303,7 +314,7 @@
       "url"      : "/faial-community-day",
       "category" : "",
       "tags"     : "community",
-      "date"     : "2022-02-27 00:00:00 -0100",
+      "date"     : "2022-02-27 00:00:00 +0100",
       "description" : "Bringing microsolidarity to Faial Island"
 
     } ,
@@ -314,7 +325,7 @@
       "url"      : "/regenerative-documentation-index",
       "category" : "",
       "tags"     : "documentation",
-      "date"     : "2022-02-26 00:00:00 -0100",
+      "date"     : "2022-02-26 00:00:00 +0100",
       "description" : "A growing compilation of notable documentations 📚."
 
     } ,
@@ -325,7 +336,7 @@
       "url"      : "/moonly-reviews",
       "category" : "",
       "tags"     : "journal",
-      "date"     : "2022-02-05 00:00:00 -0100",
+      "date"     : "2022-02-05 00:00:00 +0100",
       "description" : "A heartfelt letter sent every New and Full Moon."
 
     } ,
@@ -336,7 +347,7 @@
       "url"      : "/thirty-three",
       "category" : "",
       "tags"     : "journal",
-      "date"     : "2022-01-22 00:00:00 -0100",
+      "date"     : "2022-01-22 00:00:00 +0100",
       "description" : "Facing the shadow as I approach another birthda"
 
     } ,
@@ -347,7 +358,7 @@
       "url"      : "/moonly-video",
       "category" : "",
       "tags"     : "journal",
-      "date"     : "2022-01-03 00:00:00 -0100",
+      "date"     : "2022-01-03 00:00:00 +0100",
       "description" : "I keep recording at least one second every day and put it together in a video every Moon cycle."
 
     } ,
@@ -358,7 +369,7 @@
       "url"      : "/yearly-review-2021",
       "category" : "",
       "tags"     : "journal",
-      "date"     : "2022-01-02 00:00:00 -0100",
+      "date"     : "2022-01-02 00:00:00 +0100",
       "description" : "My personal yearly review for 2021"
 
     } ,
@@ -369,7 +380,7 @@
       "url"      : "/gratitude-mandala-2021",
       "category" : "",
       "tags"     : "games, journaling",
-      "date"     : "2022-01-02 00:00:00 -0100",
+      "date"     : "2022-01-02 00:00:00 +0100",
       "description" : "A beautiful prompt for writing heartfelt letters to the people who shaped my year"
 
     } ,
@@ -380,7 +391,7 @@
       "url"      : "/google-free",
       "category" : "",
       "tags"     : "low-tech",
-      "date"     : "2021-12-31 00:00:00 -0100",
+      "date"     : "2021-12-31 00:00:00 +0100",
       "description" : "Freeing myself from Google"
 
     } ,
@@ -391,7 +402,7 @@
       "url"      : "/to-kiks",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-12-30 00:00:00 -0100",
+      "date"     : "2021-12-30 00:00:00 +0100",
       "description" : "A gratitude letter to the wonderful cat that lives with me."
 
     } ,
@@ -402,7 +413,7 @@
       "url"      : "/community-council",
       "category" : "",
       "tags"     : "games, community",
-      "date"     : "2021-12-10 00:00:00 -0100",
+      "date"     : "2021-12-10 00:00:00 +0100",
       "description" : "A Collaborative Game to Catalyse Your Community."
 
     } ,
@@ -413,7 +424,7 @@
       "url"      : "/the-dreams",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-12-09 00:00:00 -0100",
+      "date"     : "2021-12-09 00:00:00 +0100",
       "description" : "Dreaming is easy. The challenge is to manifest the dreams."
 
     } ,
@@ -424,7 +435,7 @@
       "url"      : "/unexpected-birthday-letter",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-12-08 00:00:00 -0100",
+      "date"     : "2021-12-08 00:00:00 +0100",
       "description" : "I felt stuck with the direction for JournalSmarter, so I decided to write a letter to it"
 
     } ,
@@ -435,7 +446,7 @@
       "url"      : "/you-are-essential",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-12-04 00:00:00 -0100",
+      "date"     : "2021-12-04 00:00:00 +0100",
       "description" : "A letter about courage and beautiful dreams becoming a reality because of you. You are **essential**."
 
     } ,
@@ -446,7 +457,7 @@
       "url"      : "/microsolidarity-journey",
       "category" : "",
       "tags"     : "community",
-      "date"     : "2021-12-01 00:00:00 -0100",
+      "date"     : "2021-12-01 00:00:00 +0100",
       "description" : "From lonely nomad to community catalyst"
 
     } ,
@@ -457,7 +468,7 @@
       "url"      : "/obsidian-to-github",
       "category" : "",
       "tags"     : "low-tech",
-      "date"     : "2021-11-27 00:00:00 -0100",
+      "date"     : "2021-11-27 00:00:00 +0100",
       "description" : "Creating a Jekyll website in Obsidian for frictionless publishing on Github"
 
     } ,
@@ -468,7 +479,7 @@
       "url"      : "/gift-santa",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-11-27 00:00:00 -0100",
+      "date"     : "2021-11-27 00:00:00 +0100",
       "description" : "Gifts always gravitate towards where they are needed most."
 
     } ,
@@ -479,7 +490,7 @@
       "url"      : "/21-questions",
       "category" : "",
       "tags"     : "games",
-      "date"     : "2021-11-27 00:00:00 -0100",
+      "date"     : "2021-11-27 00:00:00 +0100",
       "description" : "A game. A FAQ page. An opportunity to ask a question."
 
     } ,
@@ -490,7 +501,7 @@
       "url"      : "/waiting-at-peters",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-11-22 00:00:00 -0100",
+      "date"     : "2021-11-22 00:00:00 +0100",
       "description" : "Gifts always gravitate towards where they are needed most."
 
     } ,
@@ -501,7 +512,7 @@
       "url"      : "/pico-autumn-community-gathering",
       "category" : "",
       "tags"     : "community",
-      "date"     : "2021-10-21 00:00:00 +0000",
+      "date"     : "2021-10-21 00:00:00 +0200",
       "description" : "Our second community gathering in Pico"
 
     } ,
@@ -512,7 +523,7 @@
       "url"      : "/last-night-in-lisbon",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-10-18 00:00:00 +0000",
+      "date"     : "2021-10-18 00:00:00 +0200",
       "description" : "Facing the Dark in the city of Light."
 
     } ,
@@ -523,7 +534,7 @@
       "url"      : "/bruno-vera-wedding-ceremony",
       "category" : "",
       "tags"     : "experiences",
-      "date"     : "2021-10-16 00:00:00 +0000",
+      "date"     : "2021-10-16 00:00:00 +0200",
       "description" : "Officiating a Ceremony of Love"
 
     } ,
@@ -534,7 +545,7 @@
       "url"      : "/the-red-caped-girl",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-10-15 00:00:00 +0000",
+      "date"     : "2021-10-15 00:00:00 +0200",
       "description" : "The magic happens when I tune into myself."
 
     } ,
@@ -545,7 +556,7 @@
       "url"      : "/vaclav-havel-and-conflicting-advice",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-10-13 00:00:00 +0000",
+      "date"     : "2021-10-13 00:00:00 +0200",
       "description" : "Waiting for a magical girl to appear out of thin air. She doesn&#39;t."
 
     } ,
@@ -556,7 +567,7 @@
       "url"      : "/empty",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2021-10-12 00:00:00 +0000",
+      "date"     : "2021-10-12 00:00:00 +0200",
       "description" : "Empty space is sacred. Here&#39;s what happens when you make some."
 
     } ,
@@ -567,7 +578,7 @@
       "url"      : "/the-gift",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-08-21 00:00:00 +0000",
+      "date"     : "2021-08-21 00:00:00 +0200",
       "description" : ""
 
     } ,
@@ -578,7 +589,7 @@
       "url"      : "/letters-from-the-forest",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-08-20 00:00:00 +0000",
+      "date"     : "2021-08-20 00:00:00 +0200",
       "description" : "Collection of heartfelt poems inspired by living in a Magical Forest."
 
     } ,
@@ -589,7 +600,7 @@
       "url"      : "/slam-jam",
       "category" : "",
       "tags"     : "experiences, community",
-      "date"     : "2021-07-30 00:00:00 +0000",
+      "date"     : "2021-07-30 00:00:00 +0200",
       "description" : "Merging a ritual, a poetry slam and a jam session"
 
     } ,
@@ -600,7 +611,7 @@
       "url"      : "/end-of-the-world",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-07-06 00:00:00 +0000",
+      "date"     : "2021-07-06 00:00:00 +0200",
       "description" : "A moment of freedom at the end of the world."
 
     } ,
@@ -611,7 +622,7 @@
       "url"      : "/box",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-06-30 00:00:00 +0000",
+      "date"     : "2021-06-30 00:00:00 +0200",
       "description" : "A moment of removing the box"
 
     } ,
@@ -622,7 +633,7 @@
       "url"      : "/space",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-06-29 00:00:00 +0000",
+      "date"     : "2021-06-29 00:00:00 +0200",
       "description" : "A moment of painful reconnection"
 
     } ,
@@ -633,7 +644,7 @@
       "url"      : "/shift",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-06-24 00:00:00 +0000",
+      "date"     : "2021-06-24 00:00:00 +0200",
       "description" : "Opening up again to infinite possibilities"
 
     } ,
@@ -644,7 +655,7 @@
       "url"      : "/waiting",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-06-22 00:00:00 +0000",
+      "date"     : "2021-06-22 00:00:00 +0200",
       "description" : "A moment of stopping to wait."
 
     } ,
@@ -655,7 +666,7 @@
       "url"      : "/enspiral-europe-connection-experiment",
       "category" : "",
       "tags"     : "community, experiences",
-      "date"     : "2021-06-17 00:00:00 +0000",
+      "date"     : "2021-06-17 00:00:00 +0200",
       "description" : "Experiment in weaving connection within European Enspiral Crowd"
 
     } ,
@@ -666,7 +677,7 @@
       "url"      : "/pico-summer-community-gathering-2021",
       "category" : "",
       "tags"     : "experiences, community",
-      "date"     : "2021-06-09 00:00:00 +0000",
+      "date"     : "2021-06-09 00:00:00 +0200",
       "description" : "The first gathering of Pico Island Congregation."
 
     } ,
@@ -677,7 +688,7 @@
       "url"      : "/ouroboros",
       "category" : "",
       "tags"     : "experiences",
-      "date"     : "2021-06-05 00:00:00 +0000",
+      "date"     : "2021-06-05 00:00:00 +0200",
       "description" : "An interactive performance about ocean pollution and consumer lifestyle."
 
     } ,
@@ -688,7 +699,7 @@
       "url"      : "/shattered",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-05-28 00:00:00 +0000",
+      "date"     : "2021-05-28 00:00:00 +0200",
       "description" : "A conversation with Fear."
 
     } ,
@@ -699,7 +710,7 @@
       "url"      : "/anchors-in-time",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-05-28 00:00:00 +0000",
+      "date"     : "2021-05-28 00:00:00 +0200",
       "description" : "A reflection on the past and present."
 
     } ,
@@ -710,7 +721,7 @@
       "url"      : "/feather",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-05-20 00:00:00 +0000",
+      "date"     : "2021-05-20 00:00:00 +0200",
       "description" : "A moment of sharing before taking off to fly"
 
     } ,
@@ -721,7 +732,7 @@
       "url"      : "/infinity",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2021-05-15 00:00:00 +0000",
+      "date"     : "2021-05-15 00:00:00 +0200",
       "description" : "A short story about looking up"
 
     } ,
@@ -732,7 +743,7 @@
       "url"      : "/oat-milk",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-05-06 00:00:00 +0000",
+      "date"     : "2021-05-06 00:00:00 +0200",
       "description" : "Delicious Oat Milk"
 
     } ,
@@ -743,7 +754,7 @@
       "url"      : "/cayenne-brownie",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-02-27 00:00:00 -0100",
+      "date"     : "2021-02-27 00:00:00 +0100",
       "description" : "Delicious chocolate brownie with a spice."
 
     } ,
@@ -754,7 +765,7 @@
       "url"      : "/fruit-ice-cream-cake",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-02-20 00:00:00 -0100",
+      "date"     : "2021-02-20 00:00:00 +0100",
       "description" : "Summery, fruity cake with a salty base."
 
     } ,
@@ -765,7 +776,7 @@
       "url"      : "/mr-randy-cake",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-02-14 00:00:00 -0100",
+      "date"     : "2021-02-14 00:00:00 +0100",
       "description" : "Super easy cake using whatever random goodies you have."
 
     } ,
@@ -776,7 +787,7 @@
       "url"      : "/coconut-cream-pie",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-02-10 00:00:00 -0100",
+      "date"     : "2021-02-10 00:00:00 +0100",
       "description" : "Coconut extravaganza with a salty base. Yum."
 
     } ,
@@ -787,7 +798,7 @@
       "url"      : "/green-and-red-coffee-delight",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-01-23 00:00:00 -0100",
+      "date"     : "2021-01-23 00:00:00 +0100",
       "description" : "Combining kiwi, goji and coffee."
 
     } ,
@@ -798,7 +809,7 @@
       "url"      : "/salty-chocolate-bar",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2021-01-18 00:00:00 -0100",
+      "date"     : "2021-01-18 00:00:00 +0100",
       "description" : "Luscious, rich and salty chocolate bar."
 
     } ,
@@ -809,7 +820,7 @@
       "url"      : "/epic-vegan-cheescake",
       "category" : "",
       "tags"     : "nomz",
-      "date"     : "2020-12-24 00:00:00 -0100",
+      "date"     : "2020-12-24 00:00:00 +0100",
       "description" : "Delicious, vegan, sugar-free, and super easy to make."
 
     } ,
@@ -820,7 +831,7 @@
       "url"      : "/journaling-exercises",
       "category" : "",
       "tags"     : "journaling",
-      "date"     : "2019-05-18 00:00:00 +0000",
+      "date"     : "2019-05-18 00:00:00 +0200",
       "description" : "Based on the work of some of the greatest world-class experts on productivity, complexity thinking, health and wellbeing, and more"
 
     } ,
@@ -831,7 +842,7 @@
       "url"      : "/chart-new-course",
       "category" : "",
       "tags"     : "non-negotiable",
-      "date"     : "2018-08-08 00:00:00 +0000",
+      "date"     : "2018-08-08 00:00:00 +0200",
       "description" : "Overcome inertia and move ahead on your goals with these proven tools for visual thinking"
 
     } ,
@@ -842,7 +853,7 @@
       "url"      : "/minimalist-journaling",
       "category" : "",
       "tags"     : "journaling",
-      "date"     : "2018-06-13 00:00:00 +0000",
+      "date"     : "2018-06-13 00:00:00 +0200",
       "description" : "Collection of heartfelt poems inspired by living in a Magical Forest."
 
     } ,
@@ -853,7 +864,7 @@
       "url"      : "/would-you-take-me-in-your-car",
       "category" : "",
       "tags"     : "journal, self-reliance",
-      "date"     : "2018-05-23 00:00:00 +0000",
+      "date"     : "2018-05-23 00:00:00 +0200",
       "description" : "How I learned about trust while hitchhiking across Europe"
 
     } ,
@@ -864,7 +875,7 @@
       "url"      : "/am-yoga",
       "category" : "",
       "tags"     : "non-negotiable",
-      "date"     : "2018-05-05 00:00:00 +0000",
+      "date"     : "2018-05-05 00:00:00 +0200",
       "description" : "Rebooting my brain at the airport before a 6 hour flight."
 
     } ,
@@ -875,7 +886,7 @@
       "url"      : "/timeless",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2017-05-17 00:00:00 +0000",
+      "date"     : "2017-05-17 00:00:00 +0200",
       "description" : "A story of love in a bubble out of time."
 
     } ,
@@ -886,7 +897,7 @@
       "url"      : "/moments-of-connection",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2017-05-17 00:00:00 +0000",
+      "date"     : "2017-05-17 00:00:00 +0200",
       "description" : "A collection of poetic stories inspired by magical moments and conversations."
 
     } ,
@@ -897,7 +908,7 @@
       "url"      : "/before-knowing-you-i-was-unconscious",
       "category" : "",
       "tags"     : "letters",
-      "date"     : "2017-05-14 00:00:00 +0000",
+      "date"     : "2017-05-14 00:00:00 +0200",
       "description" : "A Love Letter to my home as I am about to leave it behind."
 
     } ,
@@ -908,7 +919,7 @@
       "url"      : "/we-will-have-to-wait-and-see-right",
       "category" : "",
       "tags"     : "art",
-      "date"     : "2017-04-13 00:00:00 +0000",
+      "date"     : "2017-04-13 00:00:00 +0200",
       "description" : "Rap song for a departing Lover"
 
     } ,
@@ -919,7 +930,7 @@
       "url"      : "/parallel",
       "category" : "",
       "tags"     : "experiences",
-      "date"     : "2016-05-30 00:00:00 +0000",
+      "date"     : "2016-05-30 00:00:00 +0200",
       "description" : "Eye gazing connection."
 
     } ,
@@ -930,7 +941,7 @@
       "url"      : "/magic-spells",
       "category" : "",
       "tags"     : "experiences",
-      "date"     : "2011-05-10 00:00:00 +0000",
+      "date"     : "2011-05-10 00:00:00 +0200",
       "description" : "Bringing local artists to transform a flat into a magical playground"
 
     } 
