@@ -2,7 +2,7 @@
 layout: post
 title: Beltane Atlantis
 description: Magical celebration of the transition from Winter to Summer.
-image: 
+image: /assets/media-beltane-atlantis/card-burning.jpg
 tags: wizard
 ---
 
