@@ -48,24 +48,38 @@ Curated voyages aboard epic ships.
 
 <script>
 (function() {
-  const now = new Date();
-  const synodicMonth = 29.53058867;
-  const knownNewMoon = new Date('2024-02-09T00:00:00Z');
-  const diffDays = (now - knownNewMoon) / (1000 * 60 * 60 * 24);
-  const phase = (diffDays % synodicMonth) / synodicMonth;
+  const LUNAR_CYCLE = 29.53058867;
+  const KNOWN_NEW_MOON = new Date('2024-02-09T22:59:00Z');
+  const PHASES = [
+    { icon: "🌑", name: "New Moon" },
+    { icon: "🌒", name: "Waxing Crescent" },
+    { icon: "🌓", name: "First Quarter" },
+    { icon: "🌔", name: "Waxing Gibbous" },
+    { icon: "🌕", name: "Full Moon" },
+    { icon: "🌖", name: "Waning Gibbous" },
+    { icon: "🌗", name: "Last Quarter" },
+    { icon: "🌘", name: "Waning Crescent" }
+  ];
 
-  let emoji = "🌑";
-  if (phase < 0.03 || phase > 0.97) emoji = "🌑";
-  else if (phase < 0.22) emoji = "🌓";
-  else if (phase < 0.28) emoji = "🌔";
-  else if (phase < 0.47) emoji = "🌕";
-  else if (phase < 0.53) emoji = "🌖";
-  else if (phase < 0.72) emoji = "🌗";
-  else emoji = "🌘";
+  function getMoonPhase(date = new Date()) {
+    const diffDays = (date - KNOWN_NEW_MOON) / 86400000;
+    let phase = (diffDays % LUNAR_CYCLE) / LUNAR_CYCLE;
+    if (phase < 0) phase += 1;
+
+    let index = Math.round(phase * 8);
+    if (index >= 8) index = 0;
+
+    return PHASES[index];
+  }
 
   document.addEventListener("DOMContentLoaded", function() {
     const el = document.getElementById("moon-phase");
-    if (el) el.textContent = emoji;
+    if (!el) return;
+
+    const moon = getMoonPhase();
+    el.textContent = moon.icon;
+    el.title = moon.name;
+    el.setAttribute("aria-label", moon.name);
   });
 })();
 </script>

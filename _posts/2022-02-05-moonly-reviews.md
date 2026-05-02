@@ -1,20 +1,33 @@
 ---
 layout: post
 title: Moonly Reviews
-description: A heartfelt letter sent every New and Full Moon.
+description: A heartfelt letter sent every New Moon.
 image: 
 tags: journal
 ---
 
-Every 🌑 and 🌕 I send a heartfelt electronic letter with whatever is alive in me right now. 
+Every 🌑 I send a heartfelt electronic letter. 
 
-I've started in December 2020, loved it, and the streak continues until today (with a few misses, of course, because it's okay). This public review practice written as a letter from the heart became one of my favourite rituals, along with my [Moonly Videos](moonly-video){:target="_blank"}, and [Infinity Squares](/infinity-squares){:target="_blank"}.
+Add your email address to receive yours.
 
-At the moment I publish my Moonly Reviews via Substack. If you'd enjoy reading a letter from me every 🌑 and 🌕, I'd like to encourage you to subscribe [here](https://michalkorzonek.substack.com){:target="_blank"}.
+<div class="embed-container" style="background: #f7f7f7; border:1px solid #EEE;">
+  <iframe
+    src="https://michalkorzonek.substack.com/embed"
+    width="100%"
+    height="150"
+    style="border: none;" 
+    frameborder="0"
+    scrolling="no">
+  </iframe>
+</div>
 
-Here's the full list in chronological order.
+## The Archive
 
-Scroll to the end for the most recent review.
+I've started the practice of public reflection as an electronic letter in December 2020. The streak continues until today, with a few misses, of course, because it's totally okay to miss a few.
+
+I started with the rhythm of writing every 🌑 and 🌕, but that became too much to keep up, so now it's just the 🌑. It is one of my favourite rituals, together with my [Moonly Videos](moonly-video){:target="_blank"} (currently on pause), and [Infinity Squares](https://infinitysquares.xyz){:target="_blank"} (a daily journaling practice I have created and have been consistent with since 2019 – that's a hell lot of squares!).
+
+Here's the full list of my Moonly Reviews in chronological order. Scroll to the end for the most recent.
 
 ### 2020
 - 🌑  [December 2020](https://michalkorzonek.substack.com/p/moonly-review-december-2020){:target="_blank"}
