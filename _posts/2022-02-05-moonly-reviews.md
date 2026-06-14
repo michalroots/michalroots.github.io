@@ -146,3 +146,4 @@ Here's the full list of my Moonly Reviews in chronological order. Scroll to the 
 - [March 2026 🌑 Ride That Horse 🔥 What else?](https://open.substack.com/pub/michalkorzonek/p/moonly-review-ride-that-horse-what?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
 - [April 2026 🌓 Grief and Other Pleasures](https://open.substack.com/pub/michalkorzonek/p/moonly-review-grief-and-other-pleasures?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
 - [May 2026 🌑 Embracing the Inevitable](https://open.substack.com/pub/michalkorzonek/p/moonly-review-embracing-the-inevitable?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
+- [June 2026 🌑 Rising in Love and Making Art](https://open.substack.com/pub/michalkorzonek/p/rising-in-love-and-making-art?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
