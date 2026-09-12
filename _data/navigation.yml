@@ -2,7 +2,8 @@ links:
 - title: ✨ Michał
   url: /
 - title: Cards
-  url: /cards
+  url: https://wildcards.gg
+  new_tab: true
 - title: Sailing
   url: /sailing
 - title: Projects
