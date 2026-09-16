@@ -15,7 +15,7 @@ Despite 3 weeks notice the voyage sold out all spots, and gathered so much energ
 
 Here's the retrospective from my first Boat Burn, starting with a 48 seconds video:
 
-<iframe width="700" height="450" src="http://www.youtube.com/embed/dPkeRCvKJp8" frameborder="0" allowfullscreen></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" width="700" height="450" src="http://www.youtube-nocookie.com/embed/dPkeRCvKJp8" frameborder="0" allowfullscreen></iframe>
 
 (click [this link](https://youtu.be/dPkeRCvKJp8) if the video doesn't load.)
 

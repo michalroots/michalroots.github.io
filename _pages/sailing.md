@@ -58,8 +58,6 @@ Now it's your turn!
 
 <h2>Upcoming voyages ⛵️</h2>
 
-Summer 2026 – building a Piratas do Amor Fleet of sailing ships in Ibiza.
-
 <br><br>
 
 <b> > <a href="https://airtable.com/appzKWA8eHw3V02t2/pag0n2980VvLbgUTM/form" target="_blank"  style="color: white;">Register Your Interest</a> < </b>
@@ -84,8 +82,8 @@ Do you have a concept that wants to live at sea?
 <br>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe 
-    src="http://www.youtube.com/embed/dPkeRCvKJp8" 
+  <iframe referrerpolicy="strict-origin-when-cross-origin"
+    src="http://www.youtube-nocookie.com/embed/dPkeRCvKJp8" 
     frameborder="0" 
     allowfullscreen 
     style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">

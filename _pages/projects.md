@@ -16,3 +16,4 @@ summary:
 - [**The Community Council**](/community-council){:target="_blank"} - a collaborative game to catalyse your community.
 - [**Gratitude Token**](/gratitude-token){:target="_blank"} - a collaborative game designed to catalyse expressing gratitude within a community.
 - [**The Silence Game**](https://payhip.com/b/IUkGi){:target="_blank"} - a mini-course where you'll design your own self-facilitated silent retreat.
+- [**JournalSmarter**](https://journalsmarter.com){:target="_blank"} – journaling tools and games.
