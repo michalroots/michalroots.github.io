@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wizard As A Service
-description: Facilitation and experience design for gatherings, retreats, offsites and online programmes. Effective and delightful.
+description: Facilitation and experience design for gatherings, retreats, offsites and online programmes. Effective, nourishing, delightful.
 summary: Facilitation, experience design, and coaching
 image:
   path: /assets/og-wizard.jpg
@@ -67,9 +67,6 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 
 <img src="/assets/wiz-michal-enspiral.jpg" alt="Michał running a session at an Enspiral gathering." style="width:80%;">  
 
-> *"Michał facilitates group energy with flair and finesse, in a way that feels totally natural and brings each person into a space of presence and lightness. I booked Michał to facilitate the opening and closing ceremonies of a 110-person music festival at Traditional Dream Factory. **I felt that I was in safe hands, and I trust him completely to bring his A-game.** Some people have solidity & reliability, some people have creative off-the-wall spontaneous magic, and Michał has both. **He would absolutely be my FIRST choice for any kind of facilitation, ceremonial direction, and space-holding.**"*<br>
-> – James King, Harmonia Festival
-<br><br>
 
 > *"The Wizard has a unique gift to heal hearts and minds, within minutes. He touched my soul, with a playful attention to my higher purpose, in life and work. **He is perfect for any event organizer seeking to activate and engage an audience.**"*<br>
 > – Lee Sanders, MD, MPH, Professor, Stanford University
@@ -85,6 +82,10 @@ To book me for a podcast or speaking [contact me](/contact) directly.
 
 >*"**What you accomplished with the mastermind is INCREDIBLE**. We always tell people how gifted you are at facilitating and keeping the energy flowing. **We don’t know anyone who could’ve done what you did.**"*<br> 
 >– Laura van Wijngaarden, Liminal Village
+<br><br>
+
+> *"Michał facilitates group energy with flair and finesse, in a way that feels totally natural and brings each person into a space of presence and lightness. I booked Michał to facilitate the opening and closing ceremonies of a 110-person music festival at Traditional Dream Factory. **I felt that I was in safe hands, and I trust him completely to bring his A-game.** Some people have solidity & reliability, some people have creative off-the-wall spontaneous magic, and Michał has both. **He would absolutely be my FIRST choice for any kind of facilitation, ceremonial direction, and space-holding.**"*<br>
+> – James King, Harmonia Festival
 <br><br>
 
 >*“The structure of the calls is highly effective. **The facilitation brilliantly mixes different ways to participate so that whether you are creative or logical, extroverted or introverted, quick to react or slower to process, there is space for you**. I find these calls so valuable that I have adapted the format to use with the group that I am mentoring.”*<br>
