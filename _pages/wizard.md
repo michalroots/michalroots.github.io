@@ -3,6 +3,11 @@ layout: page
 title: Wizard As A Service
 description: Facilitation and experience design for gatherings, retreats, offsites and online programmes. Worked with Enspiral, Traditional Dream Factory, Microsolidarity.
 summary: Facilitation, experience design, and coaching
+image:
+  path: /assets/og-wizard.jpg
+  width: 1200
+  height: 630
+  alt: Michał holding up a card with a group at the UP Game
 ---
 
 I hear that you are looking for a wizard?  
