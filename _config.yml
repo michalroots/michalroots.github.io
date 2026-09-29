@@ -1,17 +1,12 @@
-site: Michal Korzonek
 url: https://michalkorzonek.com
 title: Michał Korzonek
 description: Catalyst Wizard, at Your Service.
 twitter:
   username: michalkorzonek
-  card: summary
-  creator: Michal Korzonek
+  card: summary_large_image
 author:
   twitter: michalkorzonek
   name: Michal Korzonek
-  avatar:
-  email: #youremail
-  url: #yoururl
 permalink: pretty
 
 baseurl: ""
