@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Wizard As A Service
-description: Facilitation and experience design for gatherings, retreats, offsites and online programmes. Effective, nourishing, delightful.
+description: Facilitation and experience design for gatherings, retreats, offsites and online programmes. Engaging, efective, delightful.
 summary: Facilitation, experience design, and coaching
 image:
   path: /assets/og-wizard.jpg

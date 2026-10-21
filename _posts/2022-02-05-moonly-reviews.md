@@ -149,3 +149,4 @@ Here's the full list of my Moonly Reviews in chronological order. Scroll to the 
 - [June 2026 🌑 Rising in Love and Making Art](https://open.substack.com/pub/michalkorzonek/p/rising-in-love-and-making-art?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
 - [July 2026 🌑 Art, Psychomagic, and Following the Path](https://open.substack.com/pub/michalkorzonek/p/art-psychomagic-and-following-the?r=2hst3&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true){:target="blank"}
 - [September 2026 🌑🌑 On puke poetry, validation and building](https://michalkorzonek.substack.com/p/on-puke-poetry-validation-and-building){:target="blank"}
+- [October 2026 🌔 Ops & Hops](https://michalkorzonek.substack.com/p/ops-and-hops){:target="blank"}
